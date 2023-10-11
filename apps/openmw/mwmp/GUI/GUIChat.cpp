@@ -72,8 +72,8 @@ namespace mwmp
 
     void GUIChat::acceptCommand(MyGUI::EditBox *_sender)
     {
-        const std::string &cm =  MyGUI::TextIterator::toTagsString(mCommandLine->getCaption());
-        
+        const std::string &cm = mCommandLine->getOnlyText();
+
         // If they enter nothing, then it should be canceled.
         // Otherwise, there's no way of closing without having text.
         if (cm.empty())
@@ -97,7 +97,7 @@ namespace mwmp
         // during the actual command execution
         mCommandLine->setCaption("");
         setEditState(false);
-        send (cm);
+        send(cm);
     }
 
     void GUIChat::onResChange(int width, int height)
