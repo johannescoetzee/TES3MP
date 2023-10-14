@@ -11,7 +11,7 @@
 #include "../ScriptFunction.hpp"
 #include "../Language.hpp"
 
-struct LuaFuctionData
+struct LuaFunctionData
 {
     const char* name;
     lua_CFunction func;
