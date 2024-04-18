@@ -626,8 +626,12 @@ ADDITIONAL TERMS APPLICABLE TO THE TES3MP GPL Source Code.
 
   The following additional terms ("Additional Terms") supplement and modify
 the GNU General Public License, Version 3 ("GPL") applicable to the TES3MP
-GPL Source Code ("TES3MP Source Code").  In addition to the terms and conditions
-of the GPL, the TES3MP Source Code is subject to the further restrictions below.
+GPL Source Code contributions of the TES3MP team members David Cernat and
+Stanislav Zhukov. ("TES3MP Source Code") These terms are not applicable to
+the OpenMW GPL Source Code that is incorporated in the TES3MP Source Code.
+
+In addition to the terms and conditions of the GPL, the TES3MP Source Code
+is subject to the further restrictions below.
 
 1. Replacement of Section 15.  Section 15 of the GPL shall be deleted in its
 entirety and replaced with the following:
