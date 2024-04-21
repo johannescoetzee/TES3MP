@@ -42,7 +42,7 @@
         nativeBuildInputs = [ pkgs.cmake ];
       };
 
-      GL = "GLVND"; # or "LEGACY";
+      GL = "LEGACY"; # or "LEGACY";
 
       osg' = (pkgs.openscenegraph.override {
         colladaSupport = true;
@@ -75,6 +75,10 @@
 
     in {
       devShell.${system} = pkgs.mkShell {
+        packages = with pkgs; [
+          gdb 
+        ];
+
         buildInputs = with pkgs; [
           cmake
           pkg-config
@@ -102,12 +106,19 @@
           libGL.dev
           mesa
           qt5Full
+
+          doxygen
+          gtest
         ];
 
         shellHook =
           let cpath = pkgs.lib.makeIncludePath [ pkgs.libGL.dev raknet ];
           in ''
+            export CMAKE_FLAGS_VERBOSE=-DRakNet_LIBRARY_DEBUG=${raknet}/lib/libRakNetLibStatic.a -DCMAKE_VERBOSE_MAKEFILE=ON
+            export CMAKE_FLAGS=-DRakNet_LIBRARY_DEBUG=${raknet}/lib/libRakNetLibStatic.a
             export CPATH="${cpath}";
+            export CFLAGS=-fpermissive
+            export CXXFLAGS=-fpermissive
           '';
       };
     };

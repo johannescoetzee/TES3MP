@@ -2,6 +2,7 @@
 #define OPENMW_COMPONENTS_MYGUIPLATFORM_MYGUIDATAMANAGER_H
 
 #include <MyGUI_DataManager.h>
+#include <memory>
 
 #include "myguicompat.h"
 
