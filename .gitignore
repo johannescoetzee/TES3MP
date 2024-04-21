@@ -85,3 +85,6 @@ moc_*.cxx
 *.[ao]
 *.so
 venv/
+
+# ignore direnv
+.direnv
