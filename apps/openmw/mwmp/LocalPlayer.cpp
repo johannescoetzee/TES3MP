@@ -799,7 +799,7 @@ void LocalPlayer::addTopicInfo()
         std::string infoId = topicInfo.infoId;
         std::string actorName = topicInfo.actorName;
 
-        LOG_APPEND(TimedLog::LOG_INFO, "Adding topic info %s %s %s", &topicId, &infoId, &actorName);
+        LOG_APPEND(TimedLog::LOG_INFO, "Adding topic info %s %s %s", topicId.c_str(), infoId.c_str(), actorName.c_str());
 
         env.getJournal()->addTopicFromName(topicId, infoId, actorName);
     }
