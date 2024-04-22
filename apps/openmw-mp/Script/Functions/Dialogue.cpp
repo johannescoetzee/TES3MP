@@ -1,6 +1,7 @@
 #include "Dialogue.hpp"
 
 #include <components/openmw-mp/NetworkMessages.hpp>
+#include <components/openmw-mp/TimedLog.hpp>
 
 #include <apps/openmw-mp/Script/ScriptFunctions.hpp>
 #include <apps/openmw-mp/Networking.hpp>
@@ -125,6 +126,14 @@ const char *DialogueFunctions::GetTopicInfoActorName(unsigned short pid, unsigne
         return "invalid";
 
     return player->topicInfoChanges.at(index).actorName.c_str();
+}
+
+void DialogueFunctions::ClearTopicInfoChanges(unsigned short pid) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, );
+
+    player->topicInfoChanges.clear();
 }
 
 void DialogueFunctions::PlayAnimation(unsigned short pid, const char* groupname, int mode, int count, bool persist) noexcept

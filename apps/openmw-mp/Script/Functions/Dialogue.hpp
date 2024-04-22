@@ -12,15 +12,19 @@
     \
     {"GetTopicId",              DialogueFunctions::GetTopicId},\
     \
-    {"GetTopicInfoTopicId",              DialogueFunctions::GetTopicInfoTopicId},\
+    {"GetTopicInfoTopicId",     DialogueFunctions::GetTopicInfoTopicId},\
     \
-    {"GetTopicInfoInfoId",              DialogueFunctions::GetTopicInfoInfoId},\
+    {"GetTopicInfoInfoId",      DialogueFunctions::GetTopicInfoInfoId},\
     \
-    {"GetTopicInfoActorName",              DialogueFunctions::GetTopicInfoActorName},\
+    {"GetTopicInfoActorName",   DialogueFunctions::GetTopicInfoActorName},\
+    \
+    {"AddTopicInfo",            DialogueFunctions::AddTopicInfo},\
+    \
+    {"ClearTopicInfoChanges",   DialogueFunctions::ClearTopicInfoChanges},\
     \
     {"SendTopicChanges",        DialogueFunctions::SendTopicChanges},\
     \
-    {"SendTopicInfoChanges",        DialogueFunctions::SendTopicInfoChanges},\
+    {"SendTopicInfoChanges",    DialogueFunctions::SendTopicInfoChanges},\
     \
     {"PlayAnimation",           DialogueFunctions::PlayAnimation},\
     {"PlaySpeech",              DialogueFunctions::PlaySpeech},\
@@ -61,11 +65,12 @@ public:
     /**
     * TODO Comment
     */
-    static void DialogueFunctions::AddTopicInfo(unsigned short pid, const char* topicId, const char* infoId, const char* actorName) noexcept;
-    static unsigned int DialogueFunctions::GetTopicInfoChangesSize(unsigned short pid) noexcept;
-    static const char *DialogueFunctions::GetTopicInfoTopicId(unsigned short pid, unsigned int index) noexcept;
-    static const char *DialogueFunctions::GetTopicInfoInfoId(unsigned short pid, unsigned int index) noexcept;
-    static const char *DialogueFunctions::GetTopicInfoActorName(unsigned short pid, unsigned int index) noexcept;
+    static void AddTopicInfo(unsigned short pid, const char* topicId, const char* infoId, const char* actorName) noexcept;
+    static unsigned int GetTopicInfoChangesSize(unsigned short pid) noexcept;
+    static const char *GetTopicInfoTopicId(unsigned short pid, unsigned int index) noexcept;
+    static const char *GetTopicInfoInfoId(unsigned short pid, unsigned int index) noexcept;
+    static const char *GetTopicInfoActorName(unsigned short pid, unsigned int index) noexcept;
+    static void ClearTopicInfoChanges(unsigned short pid) noexcept;
 
     /**
     * \brief Get the topicId at a certain index in a player's latest topic changes.

@@ -15,6 +15,8 @@ namespace mwmp
 
         virtual void Do(PlayerPacket &packet, BasePlayer *player)
         {
+            LOG_MESSAGE_SIMPLE(TimedLog::LOG_INFO, "Received ID_PLAYER_TOPIC_INFO from server");
+
             if (isRequest())
             {
                 // Entire list of topics cannot currently be requested from players
