@@ -6,11 +6,21 @@
     \
     {"GetTopicChangesSize",     DialogueFunctions::GetTopicChangesSize},\
     \
+    {"GetTopicInfoChangesSize", DialogueFunctions::GetTopicInfoChangesSize},\
+    \
     {"AddTopic",                DialogueFunctions::AddTopic},\
     \
     {"GetTopicId",              DialogueFunctions::GetTopicId},\
     \
+    {"GetTopicInfoTopicId",              DialogueFunctions::GetTopicInfoTopicId},\
+    \
+    {"GetTopicInfoInfoId",              DialogueFunctions::GetTopicInfoInfoId},\
+    \
+    {"GetTopicInfoActorName",              DialogueFunctions::GetTopicInfoActorName},\
+    \
     {"SendTopicChanges",        DialogueFunctions::SendTopicChanges},\
+    \
+    {"SendTopicInfoChanges",        DialogueFunctions::SendTopicInfoChanges},\
     \
     {"PlayAnimation",           DialogueFunctions::PlayAnimation},\
     {"PlaySpeech",              DialogueFunctions::PlaySpeech},\
@@ -49,6 +59,15 @@ public:
     static void AddTopic(unsigned short pid, const char* topicId) noexcept;
 
     /**
+    * TODO Comment
+    */
+    static void DialogueFunctions::AddTopicInfo(unsigned short pid, const char* topicId, const char* infoId, const char* actorName) noexcept;
+    static unsigned int DialogueFunctions::GetTopicInfoChangesSize(unsigned short pid) noexcept;
+    static const char *DialogueFunctions::GetTopicInfoTopicId(unsigned short pid, unsigned int index) noexcept;
+    static const char *DialogueFunctions::GetTopicInfoInfoId(unsigned short pid, unsigned int index) noexcept;
+    static const char *DialogueFunctions::GetTopicInfoActorName(unsigned short pid, unsigned int index) noexcept;
+
+    /**
     * \brief Get the topicId at a certain index in a player's latest topic changes.
     *
     * \param pid The player ID whose topic changes should be used.
@@ -68,6 +87,11 @@ public:
     * \return void
     */
     static void SendTopicChanges(unsigned short pid, bool sendToOtherPlayers, bool skipAttachedPlayer) noexcept;
+
+    /**
+    * TODO comment
+    */
+    static void SendTopicInfoChanges(unsigned short pid, bool sendToOtherPlayers, bool skipAttachedPlayer) noexcept;
 
     /**
     * \brief Play a certain animation on a player's character by sending a PlayerAnimation

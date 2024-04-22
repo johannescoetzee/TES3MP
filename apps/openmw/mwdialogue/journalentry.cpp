@@ -47,6 +47,16 @@ namespace MWDialogue
 
     Entry::Entry (const ESM::JournalEntry& record) : mInfoId (record.mInfo), mText (record.mText), mActorName(record.mActorName) {}
 
+    Entry Entry::makeFromActorName (const std::string& topic, const std::string& infoId, const std::string& actorName)
+    {
+        const MWWorld::Ptr actor = MWBase::Environment::get().getWorld()->searchPtr(actorName, false);
+        if (actor.isEmpty()) {
+            throw std::runtime_error ("unknown actor name for entry " + actorName);
+        }
+
+        return Entry(topic, infoId, actor);
+    }
+
     std::string Entry::getText() const
     {
         return mText;
@@ -69,6 +79,16 @@ namespace MWDialogue
     JournalEntry::JournalEntry (const ESM::JournalEntry& record)
         : Entry (record), mTopic (record.mTopic)
     {}
+
+    JournalEntry JournalEntry::makeFromActorName (const std::string& topic, const std::string& infoId, const std::string& actorName)
+    {
+        const MWWorld::Ptr actor = MWBase::Environment::get().getWorld()->searchPtr(actorName, false);
+        if (actor.isEmpty()) {
+            throw std::runtime_error ("unknown actor name for journal entry " + actorName);
+        }
+
+        return JournalEntry(topic, infoId, actor);
+    }
 
     void JournalEntry::write (ESM::JournalEntry& entry) const
     {

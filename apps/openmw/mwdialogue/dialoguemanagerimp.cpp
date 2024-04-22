@@ -103,6 +103,7 @@ namespace MWDialogue
     void DialogueManager::parseText (const std::string& text)
     {
         updateActorKnownTopics();
+        Log(Debug::Error) << std::string ("Processing token: ") + text;
         std::vector<HyperTextParser::Token> hypertext = HyperTextParser::parseHyperText(text);
 
         for (std::vector<HyperTextParser::Token>::iterator tok = hypertext.begin(); tok != hypertext.end(); ++tok)

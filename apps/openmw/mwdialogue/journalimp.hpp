@@ -44,6 +44,9 @@ namespace MWDialogue
                 Make it possible to override current time when adding journal entries, by adding
                 optional timestamp override arguments
             */
+
+            void Journal::addEntry( const std::string& topicId, const std::string& infoId, const std::string& actorName);
+
             void addEntry (const std::string& id, int index, const MWWorld::Ptr& actor, int daysPassed = -1, int month = -1, int day = -1) override;
             ///< Add a journal entry.
             /// @param actor Used as context for replacing of escape sequences (%name, etc).
@@ -59,6 +62,8 @@ namespace MWDialogue
 
             void addTopic (const std::string& topicId, const std::string& infoId, const MWWorld::Ptr& actor) override;
             /// \note topicId must be lowercase
+
+            void addTopicFromName (const std::string& topicId, const std::string& infoId, const std::string& actorName) override;
 
             void removeLastAddedTopicResponse (const std::string& topicId, const std::string& actorName) override;
             ///< Removes the last topic response added for the given topicId and actor name.

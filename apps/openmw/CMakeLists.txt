@@ -128,7 +128,7 @@ add_openmw_dir (mwmp/processors/player ProcessorChatMessage ProcessorGUIMessageB
     ProcessorPlayerJournal ProcessorPlayerLevel ProcessorPlayerMiscellaneous ProcessorPlayerMomentum ProcessorPlayerPosition 
     ProcessorPlayerQuickKeys ProcessorPlayerReputation ProcessorPlayerResurrect ProcessorPlayerShapeshift
     ProcessorPlayerSkill ProcessorPlayerSpeech ProcessorPlayerSpellbook ProcessorPlayerSpellsActive
-    ProcessorPlayerStatsDynamic ProcessorPlayerTopic
+    ProcessorPlayerStatsDynamic ProcessorPlayerTopic ProcessorPlayerTopicInfo
     )
 
 add_openmw_dir (mwmp/processors/object BaseObjectProcessor

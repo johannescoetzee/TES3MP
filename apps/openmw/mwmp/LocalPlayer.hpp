@@ -50,6 +50,7 @@ namespace mwmp
         void addSpellsActive();
         void addJournalItems();
         void addTopics();
+        void addTopicInfo();
 
         void removeItems();
         void removeSpells();
@@ -104,6 +105,7 @@ namespace mwmp
         void sendFactionExpulsionState(const std::string& factionId, bool isExpelled);
         void sendFactionReputation(const std::string& factionId, int reputation);
         void sendTopic(const std::string& topic);
+        void sendTopicInfo(const std::string& topicId, const std::string& infoId, const std::string& actorName);
         void sendBook(const std::string& bookId);
         void sendWerewolfState(bool isWerewolf);
         void sendMarkLocation(const ESM::Cell& newMarkCell, const ESM::Position& newMarkPosition);

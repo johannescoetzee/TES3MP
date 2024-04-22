@@ -790,6 +790,19 @@ void LocalPlayer::addTopics()
     }
 }
 
+void LocalPlayer::addTopicInfo()
+{
+    auto &env = MWBase::Environment::get();
+    for (const auto &topicInfo : topicInfoChanges)
+    {
+        std::string topicId = topicInfo.topicId;
+        std::string infoId = topicInfo.infoId;
+        std::string actorName = topicInfo.actorName;
+
+        env.getJournal()->addTopicFromName(topicId, infoId, actorName);
+    }
+}
+
 void LocalPlayer::removeItems()
 {
     MWWorld::Ptr ptrPlayer = getPlayerPtr();
@@ -1813,6 +1826,29 @@ void LocalPlayer::sendTopic(const std::string& topicId)
 
     getNetworking()->getPlayerPacket(ID_PLAYER_TOPIC)->setPlayer(this);
     getNetworking()->getPlayerPacket(ID_PLAYER_TOPIC)->Send();
+}
+
+void LocalPlayer::sendTopicInfo(const std::string& topicId, const std::string& infoId, const std::string& actorName)
+{
+    topicInfoChanges.clear();
+
+    mwmp::TopicInfo topicInfo;
+    topicInfo.topicId = topicId;
+    topicInfo.infoId = infoId;
+    topicInfo.actorName = actorName;
+
+    LOG_MESSAGE_SIMPLE(
+        TimedLog::LOG_INFO, 
+        "Sending ID_PLAYER_TOPIC_INFO with topic %s info %s actor %s", 
+        topicInfo.topicId.c_str(),
+        topicInfo.infoId.c_str(),
+        topicInfo.actorName.c_str()
+    );
+
+    topicInfoChanges.push_back(topicInfo);
+
+    getNetworking()->getPlayerPacket(ID_PLAYER_TOPIC_INFO)->setPlayer(this);
+    getNetworking()->getPlayerPacket(ID_PLAYER_TOPIC_INFO)->Send();
 }
 
 void LocalPlayer::sendBook(const std::string& bookId)

@@ -82,6 +82,8 @@ namespace MWBase
             virtual void addTopic (const std::string& topicId, const std::string& infoId, const MWWorld::Ptr& actor) = 0;
             /// \note topicId must be lowercase
 
+            virtual void addTopicFromName (const std::string& topicId, const std::string& infoId, const std::string& actorName) = 0;
+
             virtual void removeLastAddedTopicResponse (const std::string& topicId, const std::string& actorName) = 0;
             ///< Removes the last topic response added for the given topicId and actor name.
             /// \note topicId must be lowercase

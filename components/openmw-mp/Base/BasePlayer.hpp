@@ -54,6 +54,13 @@ namespace mwmp
         std::string topicId;
     };
 
+    struct TopicInfo
+    {
+        std::string topicId;
+        std::string infoId;
+        std::string actorName;
+    };
+
     struct Book
     {
         std::string bookId;
@@ -214,6 +221,7 @@ namespace mwmp
         std::vector<JournalItem> journalChanges;
         FactionChanges factionChanges;
         std::vector<Topic> topicChanges;
+        std::vector<TopicInfo> topicInfoChanges;
         std::vector<Book> bookChanges;
         std::vector<CellState> cellStateChanges;
 

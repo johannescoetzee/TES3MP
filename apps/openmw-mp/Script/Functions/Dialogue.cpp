@@ -34,6 +34,19 @@ void DialogueFunctions::AddTopic(unsigned short pid, const char* topicId) noexce
     player->topicChanges.push_back(topic);
 }
 
+void DialogueFunctions::AddTopicInfo(unsigned short pid, const char* topicId, const char* infoId, const char* actorName) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, );
+
+    mwmp::TopicInfo topicInfo;
+    topicInfo.topicId = topicId;
+    topicInfo.infoId = infoId;
+    topicInfo.actorName = actorName;
+
+    player->topicInfoChanges.push_back(topicInfo);
+}
+
 const char *DialogueFunctions::GetTopicId(unsigned short pid, unsigned int index) noexcept
 {
     Player *player;
@@ -57,6 +70,61 @@ void DialogueFunctions::SendTopicChanges(unsigned short pid, bool sendToOtherPla
         packet->Send(false);
     if (sendToOtherPlayers)
         packet->Send(true);
+}
+
+void DialogueFunctions::SendTopicInfoChanges(unsigned short pid, bool sendToOtherPlayers, bool skipAttachedPlayer) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, );
+
+    mwmp::PlayerPacket *packet = mwmp::Networking::get().getPlayerPacketController()->GetPacket(ID_PLAYER_TOPIC_INFO);
+    packet->setPlayer(player);
+
+    if (!skipAttachedPlayer)
+        packet->Send(false);
+    if (sendToOtherPlayers)
+        packet->Send(true);
+}
+
+unsigned int DialogueFunctions::GetTopicInfoChangesSize(unsigned short pid) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, 0);
+
+    return player->topicInfoChanges.size();
+}
+
+const char *DialogueFunctions::GetTopicInfoTopicId(unsigned short pid, unsigned int index) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, "");
+
+    if (index >= player->topicInfoChanges.size())
+        return "invalid";
+
+    return player->topicInfoChanges.at(index).topicId.c_str();
+}
+
+const char *DialogueFunctions::GetTopicInfoInfoId(unsigned short pid, unsigned int index) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, "");
+
+    if (index >= player->topicInfoChanges.size())
+        return "invalid";
+
+    return player->topicInfoChanges.at(index).infoId.c_str();
+}
+
+const char *DialogueFunctions::GetTopicInfoActorName(unsigned short pid, unsigned int index) noexcept
+{
+    Player *player;
+    GET_PLAYER(pid, player, "");
+
+    if (index >= player->topicInfoChanges.size())
+        return "invalid";
+
+    return player->topicInfoChanges.at(index).actorName.c_str();
 }
 
 void DialogueFunctions::PlayAnimation(unsigned short pid, const char* groupname, int mode, int count, bool persist) noexcept

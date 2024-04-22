@@ -29,6 +29,8 @@ namespace MWDialogue
 
         Entry (const ESM::JournalEntry& record);
 
+        static Entry makeFromActorName(const std::string& topic, const std::string& infoId, const std::string& actorName);
+
         std::string getText() const;
 
         void write (ESM::JournalEntry& entry) const;
@@ -50,6 +52,8 @@ namespace MWDialogue
         void write (ESM::JournalEntry& entry) const;
 
         static JournalEntry makeFromQuest (const std::string& topic, int index);
+
+        static JournalEntry JournalEntry::makeFromActorName (const std::string& topic, const std::string& infoId, const std::string& actorName);
 
         static std::string idFromIndex (const std::string& topic, int index);
     };

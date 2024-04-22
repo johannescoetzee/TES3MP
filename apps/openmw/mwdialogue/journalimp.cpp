@@ -2,10 +2,14 @@
 
 #include <iterator>
 
+#include <components/debug/debuglog.hpp>
 #include <components/esm/esmwriter.hpp>
 #include <components/esm/esmreader.hpp>
 #include <components/esm/queststate.hpp>
 #include <components/esm/journalentry.hpp>
+
+#include "../mwmp/Main.hpp"
+#include "../mwmp/LocalPlayer.hpp"
 
 #include "../mwworld/esmstore.hpp"
 #include "../mwworld/class.hpp"
@@ -152,12 +156,29 @@ namespace MWDialogue
         quest.setIndex (index);
     }
 
+    void Journal::addTopicFromName (const std::string& topicId, const std::string& infoId, const std::string& actorName)
+    {
+        const MWWorld::Ptr& actor = MWBase::Environment::get().getWorld()->searchPtr(actorName, false);
+
+        if (actor.isEmpty())
+        {
+            Log(Debug::Error) << std::string("Could not find actor ") + actorName;
+            return;
+        }
+
+ 
+        addTopic(topicId, infoId, actor);
+    }
+
     void Journal::addTopic (const std::string& topicId, const std::string& infoId, const MWWorld::Ptr& actor)
     {
         Topic& topic = getTopic (topicId);
 
+        Log(Debug::Error) << std::string ("Processing topic: topicId=") + topicId + std::string ("; infoId=") + infoId;
+
         JournalEntry entry(topicId, infoId, actor);
         entry.mActorName = actor.getClass().getName(actor);
+        mwmp::Main::get().getLocalPlayer()->sendTopicInfo(topicId, infoId, entry.mActorName);
         topic.addEntry (entry);
     }
 

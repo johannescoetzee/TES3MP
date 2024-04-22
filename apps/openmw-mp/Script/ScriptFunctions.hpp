@@ -177,6 +177,7 @@ public:
             {"OnPlayerCooldowns",        Callback<unsigned short>()},
             {"OnPlayerQuickKeys",        Callback<unsigned short>()},
             {"OnPlayerTopic",            Callback<unsigned short>()},
+            {"OnPlayerTopicInfo",        Callback<unsigned short>()},
             {"OnPlayerDisposition",      Callback<unsigned short>()},
             {"OnPlayerBook",             Callback<unsigned short>()},
             {"OnPlayerItemUse",          Callback<unsigned short>()},
