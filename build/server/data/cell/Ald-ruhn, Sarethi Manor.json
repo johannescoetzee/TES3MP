@@ -1,0 +1,52 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["281645-0","281646-0","108969-0","108970-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "description":"Ald-ruhn, Sarethi Manor",
+    "creationTime":1713904668
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "108969-0":{
+      "refId":"redoran guard sarethi1",
+      "state":false
+    },
+    "108970-0":{
+      "refId":"redoran guard sarethi2",
+      "state":false
+    },
+    "281645-0":{
+      "refId":"arsyn salas",
+      "state":false
+    },
+    "281646-0":{
+      "refId":"gragus lleran",
+      "state":false
+    }
+  },
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["297841-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "description":"-4, 12",
+    "creationTime":1713904668
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "297841-0":{
+      "refId":"dreamer_talker08",
+      "state":false
+    }
+  },
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

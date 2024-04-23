@@ -1,0 +1,40 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["76990-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "description":"-11, 15",
+    "creationTime":1713904668
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "76990-0":{
+      "refId":"slaughterfish_hr_sfavd",
+      "state":false
+    }
+  },
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

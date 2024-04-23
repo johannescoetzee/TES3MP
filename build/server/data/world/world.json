@@ -1,0 +1,90 @@
+{
+  "time":{
+    "year":427,
+    "month":7,
+    "day":17,
+    "hour":1.0079333333333,
+    "daysPassed":2,
+    "nightTimeScale":40,
+    "dayTimeScale":30
+  },
+  "topics":["specific place","background","morrowind","uriel septim","duties","caius cosades","south wall","someone in particular","services","my trade","little secret","latest rumors","little advice","balmora","solstheim","imperial","the empire","silt strider","popular potions","popular scrolls","practice your skills","recover some gold","fargoth's hiding place","pelagiad","caldera","ebonheart","vivec","vvardenfell","vvardenfell district","inner sea","padomaic ocean","sea of ghosts","imperial cult"],
+  "kills":{
+    "kwama forager":1
+  },
+  "journal":[{
+      "type":0,
+      "index":1,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"chargen captain",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    },{
+      "type":0,
+      "index":10,
+      "quest":"bm_rumors",
+      "actorRefId":"chargen captain",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    },{
+      "type":0,
+      "index":50,
+      "quest":"bm_rumors",
+      "actorRefId":"chargen captain",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    },{
+      "type":0,
+      "index":10,
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    },{
+      "type":0,
+      "index":30,
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    },{
+      "type":0,
+      "index":2,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"elone",
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      }
+    }],
+  "customVariables":[],
+  "fame":{
+    "reputation":0,
+    "bounty":0
+  },
+  "topicInfo":[["background","1089120605269088053","chargen captain"],["morrowind","3253423749290424070","chargen captain"],["duties","1729913769476329813","chargen captain"],["latest rumors","6923112947019593","chargen captain"],["little advice","259942865635092117","chargen captain"],["little secret","197689157159159184","chargen captain"],["my trade","177149370184959643","chargen captain"],["solstheim","1169922125955110917","chargen captain"],["uriel septim","2769862822480624623","chargen captain"],["the empire","2124530673720831903","chargen captain"],["solstheim","2278720479126556737","chargen captain"],["little secret","73905396517031350","chargen captain"],["latest rumors","1469412633283572447","chargen captain"],["imperial","35532057162868574","chargen captain"],["duties","28358841968027303","chargen captain"],["caius cosades","23291351271929511","chargen captain"],["balmora","38488615252471229","chargen captain"],["silt strider","1086792951001923252","chargen captain"],["little advice","1248319992938512979","arrille"],["practice your skills","156561723920015386","arrille"],["latest rumors","411922311605125893","arrille"],["popular potions","1576720351886129646","arrille"],["popular scrolls","16746157653118729443","arrille"],["recover some gold","160419339116357473","hrisskar flat-foot"],["fargoth's hiding place","2971935711263120030","hrisskar flat-foot"],["fargoth's hiding place","281291800472392465","hrisskar flat-foot"],["solstheim","2278720479126556737","hrisskar flat-foot"],["balmora","170572976442710089","elone"],["balmora","2067855472544022067","elone"],["pelagiad","185841235121794463","elone"],["vivec","13484212942199514461","elone"],["vvardenfell","24056302241227929304","elone"],["vvardenfell","1464514820141361376","elone"],["little advice","124735414790028426","eldafire"],["services","23586308352637424733","kunthar"],["imperial cult","277993601409727340","kunthar"],["latest rumors","241431210126613909","kunthar"]],
+  "clientVariables":{
+    "globals":[]
+  },
+  "factionRanks":[],
+  "factionReputation":[],
+  "factionExpulsion":[],
+  "mapExplored":[],
+  "destinationOverrides":[]
+}

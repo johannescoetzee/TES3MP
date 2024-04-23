@@ -1,0 +1,60 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["251174-0","251178-0","251175-0","251177-0","251176-0","251173-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "description":"Cavern of the Incarnate",
+    "creationTime":1713904668
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "251174-0":{
+      "refId":"ghost_npc_ane teria",
+      "state":false
+    },
+    "251173-0":{
+      "refId":"ghost_npc_peakstar",
+      "state":false
+    },
+    "251177-0":{
+      "refId":"ghost_npc_hort_ledd",
+      "state":false
+    },
+    "251178-0":{
+      "refId":"ghost_npc_conoon chodal",
+      "state":false
+    },
+    "251175-0":{
+      "refId":"ghost_npc_erur-dan",
+      "state":false
+    },
+    "251176-0":{
+      "refId":"ghost_npc_idrenie nerot",
+      "state":false
+    }
+  },
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}
