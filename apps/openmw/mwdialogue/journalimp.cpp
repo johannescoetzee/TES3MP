@@ -166,20 +166,25 @@ namespace MWDialogue
             return;
         }
 
- 
-        addTopic(topicId, infoId, actor);
+        Topic& topic = getTopic (topicId);
+
+        JournalEntry entry(topicId, infoId, actor);
+        entry.mActorName = actor.getClass().getName(actor);
+        std::string actorId = actor.getCellRef().getRefId();
+
+        topic.addEntry (entry);
     }
 
     void Journal::addTopic (const std::string& topicId, const std::string& infoId, const MWWorld::Ptr& actor)
     {
         Topic& topic = getTopic (topicId);
 
-        Log(Debug::Error) << std::string ("Processing topic: topicId=") + topicId + std::string ("; infoId=") + infoId + std::string ("; actorId=") + actor.getCellRef().getRefId();
-
         JournalEntry entry(topicId, infoId, actor);
         entry.mActorName = actor.getClass().getName(actor);
         std::string actorId = actor.getCellRef().getRefId();
+
         mwmp::Main::get().getLocalPlayer()->sendTopicInfo(topicId, infoId, actorId);
+
         topic.addEntry (entry);
     }
 

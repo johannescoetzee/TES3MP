@@ -18,14 +18,12 @@ void PacketPlayerTopicInfo::Packet(RakNet::BitStream *newBitstream, bool send)
     if (send)
     {
         count = static_cast<uint32_t>(player->topicInfoChanges.size());
-        Log(Debug::Error) << "Sending count " << count;
     }
 
     RW(count, send);
 
     if (!send)
     {
-        Log(Debug::Error) << "Received count " << count;
         player->topicInfoChanges.clear();
         player->topicInfoChanges.resize(count);
     }
