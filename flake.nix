@@ -84,7 +84,7 @@
           pkg-config
 
           SDL2
-          boost
+          boost183
           bullet'
           ffmpeg
           xorg.libXt
