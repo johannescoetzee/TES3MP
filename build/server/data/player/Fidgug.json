@@ -5,21 +5,21 @@
     "passwordSalt":"FMq0swpChePyqnQzrh65XHGVESdQlKLMyFYOEV3ramJNDfDWEdpd8UIIi6bo288I"
   },
   "timestamps":{
+    "lastDisconnect":1714771291,
+    "lastSessionDuration":7036,
     "creation":1713904744,
-    "lastSessionDuration":29,
-    "lastLogin":1713906093,
     "lastFixMe":0,
-    "lastDisconnect":1713906122
+    "lastLogin":1714764255
   },
   "settings":{
     "difficulty":"default",
     "enforcedLogLevel":"default",
     "physicsFramerate":"default",
-    "consoleAllowed":"default",
+    "consoleAllowed":true,
     "bedRestAllowed":"default",
     "wildernessRestAllowed":"default",
     "waitAllowed":"default",
-    "staffRank":0
+    "staffRank":2
   },
   "character":{
     "gender":1,
@@ -32,233 +32,271 @@
   },
   "customClass":{
     "name":"WAAAAGGGGGGHHHHH!!!",
-    "specialization":0,
     "majorAttributes":"Strength, Endurance",
+    "specialization":0,
     "majorSkills":"Heavyarmor, Axe, Longblade, Bluntweapon, Armorer",
     "minorSkills":"Block, Mediumarmor, Spear, Athletics, Acrobatics",
     "description":""
   },
   "location":{
-    "cell":"0, -7",
-    "posX":2865.1469726563,
-    "posY":-56764.046875,
-    "posZ":1534.5305175781,
-    "rotX":0.21484375,
-    "rotZ":-2.4902164936066,
-    "regionName":"ascadian isles region"
+    "cell":"Balmora, Guild of Fighters",
+    "posX":350.04431152344,
+    "posY":39.775791168213,
+    "posZ":133.99974060059,
+    "rotX":0.6484375,
+    "rotZ":1.9579989910126,
+    "regionName":""
   },
   "stats":{
-    "healthBase":57,
-    "healthCurrent":55.648193359375,
+    "healthBase":63,
+    "healthCurrent":62,
     "magickaBase":30,
     "magickaCurrent":30,
-    "fatigueBase":200,
-    "fatigueCurrent":198.58633422852,
-    "level":1,
-    "levelProgress":0
+    "fatigueBase":206,
+    "fatigueCurrent":203.66075134277,
+    "level":2,
+    "levelProgress":9
   },
   "fame":{
-    "reputation":0,
-    "bounty":0
+    "bounty":0,
+    "reputation":0
   },
   "shapeshift":{
-    "displayCreatureName":false,
     "scale":1,
-    "isWerewolf":false,
-    "creatureRefId":""
+    "displayCreatureName":false,
+    "creatureRefId":"",
+    "isWerewolf":false
   },
   "attributes":{
-    "Strength":{
+    "Speed":{
+      "base":32,
       "damage":0,
-      "skillIncrease":0,
-      "base":55
+      "skillIncrease":2
+    },
+    "Strength":{
+      "base":60,
+      "damage":0,
+      "skillIncrease":6
     },
     "Intelligence":{
+      "base":30,
       "damage":0,
-      "skillIncrease":0,
-      "base":30
+      "skillIncrease":0
     },
     "Willpower":{
+      "base":50,
       "damage":0,
-      "skillIncrease":0,
-      "base":50
+      "skillIncrease":0
     },
     "Agility":{
+      "base":36,
       "damage":0,
-      "skillIncrease":0,
-      "base":35
+      "skillIncrease":0
     },
     "Endurance":{
+      "base":60,
       "damage":0,
-      "skillIncrease":0,
-      "base":60
+      "skillIncrease":2
     },
     "Personality":{
+      "base":30,
       "damage":0,
-      "skillIncrease":0,
-      "base":30
+      "skillIncrease":0
     },
     "Luck":{
+      "base":40,
       "damage":0,
-      "skillIncrease":0,
-      "base":40
-    },
-    "Speed":{
-      "damage":0,
-      "skillIncrease":0,
-      "base":30
+      "skillIncrease":0
     }
   },
   "skills":{
-    "Unarmored":{
+    "Alchemy":{
+      "base":5,
       "damage":0,
-      "progress":1,
-      "base":5
+      "progress":0
+    },
+    "Unarmored":{
+      "base":9,
+      "damage":0,
+      "progress":0
     },
     "Security":{
+      "base":4,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Sneak":{
+      "base":5,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Lightarmor":{
+      "base":4,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Shortblade":{
+      "base":5,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Marksman":{
+      "base":4,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Mercantile":{
+      "base":5,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Speechcraft":{
+      "base":5,
       "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Handtohand":{
+      "base":5,
       "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Alchemy":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Block":{
-      "damage":0,
-      "progress":0,
-      "base":30
-    },
-    "Armorer":{
-      "damage":0,
-      "progress":0,
-      "base":45
-    },
-    "Mediumarmor":{
-      "damage":0,
-      "progress":0,
-      "base":30
-    },
-    "Heavyarmor":{
-      "damage":0,
-      "progress":0,
-      "base":45
-    },
-    "Bluntweapon":{
-      "damage":0,
-      "progress":0,
-      "base":35
-    },
-    "Longblade":{
-      "damage":0,
-      "progress":0,
-      "base":35
-    },
-    "Axe":{
-      "damage":0,
-      "progress":14.399998664856,
-      "base":40
-    },
-    "Spear":{
-      "damage":0,
-      "progress":0,
-      "base":20
-    },
-    "Athletics":{
-      "damage":0,
-      "progress":0,
-      "base":20
-    },
-    "Enchant":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Destruction":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Alteration":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Illusion":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Conjuration":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Mysticism":{
-      "damage":0,
-      "progress":0,
-      "base":5
-    },
-    "Restoration":{
-      "damage":0,
-      "progress":0,
-      "base":5
+      "progress":0
     },
     "Acrobatics":{
+      "base":16,
       "damage":0,
-      "progress":1.799999833107,
-      "base":15
+      "progress":12.29999256134
+    },
+    "Block":{
+      "base":30,
+      "damage":0,
+      "progress":0
+    },
+    "Armorer":{
+      "base":45,
+      "damage":0,
+      "progress":0
+    },
+    "Mediumarmor":{
+      "base":31,
+      "damage":0,
+      "progress":1
+    },
+    "Heavyarmor":{
+      "base":46,
+      "damage":0,
+      "progress":12
+    },
+    "Bluntweapon":{
+      "base":34,
+      "damage":0,
+      "progress":0
+    },
+    "Longblade":{
+      "base":35,
+      "damage":0,
+      "progress":0
+    },
+    "Axe":{
+      "base":55,
+      "damage":0,
+      "progress":11.999999046326
+    },
+    "Spear":{
+      "base":20,
+      "damage":0,
+      "progress":0
+    },
+    "Athletics":{
+      "base":21,
+      "damage":0,
+      "progress":0
+    },
+    "Enchant":{
+      "base":4,
+      "damage":0,
+      "progress":0
+    },
+    "Destruction":{
+      "base":3,
+      "damage":0,
+      "progress":0
+    },
+    "Alteration":{
+      "base":5,
+      "damage":0,
+      "progress":0
+    },
+    "Illusion":{
+      "base":5,
+      "damage":0,
+      "progress":0
+    },
+    "Conjuration":{
+      "base":3,
+      "damage":0,
+      "progress":0
+    },
+    "Mysticism":{
+      "base":4,
+      "damage":0,
+      "progress":0
+    },
+    "Restoration":{
+      "base":5,
+      "damage":0,
+      "progress":0
     }
   },
-  "recordLinks":[],
+  "recordLinks":{
+    "potion":["$custom_potion_2"]
+  },
   "equipment":{
-    "7":{
-      "refId":"common_shoes_01",
+    "0":{
+      "refId":"trollbone_helm",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":171
+    },
+    "1":{
+      "refId":"steel_cuirass",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":426
+    },
+    "2":{
+      "refId":"imperial_greaves",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":162
+    },
+    "3":{
+      "refId":"steel_pauldron_left",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":149
+    },
+    "4":{
+      "refId":"iron_pauldron_right",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":75
+    },
+    "5":{
+      "refId":"steel_gauntlet_left",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":69
+    },
+    "6":{
+      "refId":"steel_gauntlet_right",
       "enchantmentCharge":-1,
       "count":1,
       "charge":-1
     },
-    "16":{
-      "refId":"iron battle axe",
+    "7":{
+      "refId":"steel_boots",
       "enchantmentCharge":-1,
       "count":1,
-      "charge":1181
+      "charge":124
     },
     "8":{
       "refId":"common_shirt_01",
@@ -271,6 +309,18 @@
       "enchantmentCharge":-1,
       "count":1,
       "charge":-1
+    },
+    "14":{
+      "refId":"amulet of mighty blows",
+      "enchantmentCharge":83.104316711426,
+      "count":1,
+      "charge":1
+    },
+    "16":{
+      "refId":"iron battle axe",
+      "enchantmentCharge":-1,
+      "count":1,
+      "charge":1089
     }
   },
   "inventory":[{
@@ -279,88 +329,16 @@
       "refId":"bk_a1_1_directionscaiuscosades",
       "count":1,
       "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"bk_a1_1_caiuspackage",
-      "count":1,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"gold_001",
-      "count":28,
-      "charge":-1
-    },{
+    },null,{
       "enchantmentCharge":-1,
       "soul":"",
       "refId":"iron battle axe",
       "count":1,
-      "charge":1181
+      "charge":1089
     },{
       "enchantmentCharge":-1,
       "soul":"",
       "refId":"bk_a1_1_elone_to_balmora",
-      "count":1,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_russula_01",
-      "count":4,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_coprinus_01",
-      "count":8,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_bc_spore_pod",
-      "count":3,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_bc_bungler's_bane",
-      "count":3,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_black_anther_01",
-      "count":8,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_willow_anther_01",
-      "count":2,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_comberry_01",
-      "count":1,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_gold_kanet_01",
-      "count":1,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"ingred_stoneflower_petals_01",
-      "count":1,
-      "charge":-1
-    },{
-      "enchantmentCharge":-1,
-      "soul":"",
-      "refId":"common_shoes_01",
       "count":1,
       "charge":-1
     },{
@@ -375,24 +353,294 @@
       "refId":"common_pants_01",
       "count":1,
       "charge":-1
+    },null,null,null,{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_kresh_fiber_01",
+      "count":3,
+      "charge":-1
+    },null,{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"trollbone_helm",
+      "count":1,
+      "charge":171
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"repair_journeyman_01",
+      "count":10,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_health_s",
+      "count":5,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_fatigue_s",
+      "count":12,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_health_c",
+      "count":14,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"key_drarayne_thelas",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_rat_meat_01",
+      "count":5,
+      "charge":-1
+    },null,null,null,null,null,null,null,null,{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"silver dagger",
+      "count":1,
+      "charge":373
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_kwama_cuttle_01",
+      "count":2,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"food_kwama_egg_01",
+      "count":10,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_heather_01",
+      "count":12,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_russula_01",
+      "count":2,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_coprinus_01",
+      "count":7,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_bc_hypha_facia",
+      "count":4,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_bc_coda_flower",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_bc_ampoule_pod",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_hound_meat_01",
+      "count":3,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_fatigue_q",
+      "count":4,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"dremora",
+      "refId":"misc_soulgem_greater",
+      "count":1,
+      "charge":0
+    },null,null,null,null,null,{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"misc_soulgem_lesser",
+      "count":1,
+      "charge":0
+    },null,null,null,{
+      "enchantmentCharge":-1,
+      "soul":"winged twilight",
+      "refId":"misc_soulgem_grand",
+      "count":1,
+      "charge":0
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"imperial_greaves",
+      "count":1,
+      "charge":162
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"iron_pauldron_right",
+      "count":1,
+      "charge":75
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_gauntlet_left",
+      "count":1,
+      "charge":69
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_pauldron_left",
+      "count":1,
+      "charge":149
+    },{
+      "enchantmentCharge":83.104316711426,
+      "soul":"",
+      "refId":"amulet of mighty blows",
+      "count":1,
+      "charge":1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"gold_001",
+      "count":1205,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_boots",
+      "count":1,
+      "charge":124
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_cuirass",
+      "count":1,
+      "charge":426
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_gauntlet_right",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_2",
+      "count":5,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"dragonscale_towershield",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"light_com_lantern_01_128",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_drain_magicka_q",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_fortify_health_c",
+      "count":2,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_fortify_speed_s",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"sparkstar",
+      "count":20,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"misc_soulgem_grand",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"misc_soulgem_petty",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"misc_com_pitcher_metal_01",
+      "count":1,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_scales_01",
+      "count":4,
+      "charge":-1
+    },{
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"expensive_skirt_02",
+      "count":1,
+      "charge":-1
     }],
   "spellbook":[],
   "books":[],
   "factionRanks":[],
   "factionReputation":[],
   "factionExpulsion":[],
-  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7"],
+  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7","-1, -6","-2, -6","-2, -5","-1, -5","-1, -4","-1, -3","-2, -3","-3, -3","-3, -2","-2, -2","-4, -2","-4, -3","-4, -4","-4, -5","-5, -5","-6, -5","-5, -4","-6, -4","-1, -2","-1, -1","-2, -1","-2, 0","-2, 1","-2, 2","-3, 2","-3, 1","-3, -1"],
   "ipAddresses":["127.0.0.1"],
   "customVariables":[],
-  "destinationOverrides":[],
-  "clientVariables":{
-    "globals":[]
-  },
-  "cooldowns":[],
+  "alliedPlayers":[],
+  "cooldowns":[{
+      "spellId":"orc_beserk",
+      "startDay":2,
+      "startHour":12.697022438049
+    },{
+      "startDay":4,
+      "spellId":"orc_beserk",
+      "startHour":23.504425048828
+    },{
+      "startDay":6,
+      "spellId":"orc_beserk",
+      "startHour":21.009965896606
+    }],
   "spellsActive":[],
-  "quickKeys":[],
+  "quickKeys":[{
+      "keyType":0,
+      "itemId":"$custom_potion_2"
+    }],
+  "topics":[],
   "miscellaneous":{
-    "selectedSpell":"",
     "markLocation":{
       "cell":"",
       "posX":0,
@@ -400,9 +648,12 @@
       "posZ":0,
       "rotX":0,
       "rotZ":0
-    }
+    },
+    "selectedSpell":"orc_beserk"
   },
-  "topics":[],
-  "alliedPlayers":[],
-  "journal":[]
+  "journal":[],
+  "clientVariables":{
+    "globals":[]
+  },
+  "destinationOverrides":[]
 }

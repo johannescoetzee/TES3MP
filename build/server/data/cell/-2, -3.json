@@ -1,40 +1,139 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["297839-0","0-72"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["323908-0","476164-0","476165-0","476166-0","476167-0","476168-0","476169-0","476170-0","476171-0","476173-0","476174-0","476175-0","297839-0","0-72"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-72"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-72"],
     "state":["297839-0"],
-    "statsDynamic":[],
+    "statsDynamic":["0-72"],
     "trap":[],
-    "spellsActive":[],
     "miscellaneous":[],
+    "spellsActive":[],
     "clientScriptLocal":[]
   },
   "entry":{
-    "description":"-2, -3",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"-2, -3"
   },
-  "lastVisit":[],
+  "lastVisit":{
+    "Fidgug":1714771200,
+    "Benoit":1714771198
+  },
   "recordLinks":[],
   "objectData":{
+    "476171-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476173-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476174-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "476175-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
     "297839-0":{
       "refId":"dreamer_talker01",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
       "state":false
+    },
+    "0-72":{
+      "refId":"kwama forager",
+      "location":{
+        "rotY":0,
+        "posX":-14200.060546875,
+        "posY":-24123.435546875,
+        "posZ":2664.6616210938,
+        "rotX":-0.26206603646278,
+        "rotZ":-1.7873599529266
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323908-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "476164-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476165-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476166-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476167-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476168-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476169-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476170-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

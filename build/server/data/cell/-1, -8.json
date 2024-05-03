@@ -17,31 +17,31 @@
     "state":[],
     "statsDynamic":["3821-0"],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-1, -8",
-    "creationTime":1713904313
+    "creationTime":1713904313,
+    "description":"-1, -8"
   },
   "lastVisit":{
-    "Fidgug":1713906122,
-    "Benoit":1713906126,
-    "asdf":1713904733,
-    "qwer":1713904731
+    "Benoit":1714758407,
+    "Fidgug":1714758405,
+    "qwer":1713904731,
+    "asdf":1713904733
   },
   "recordLinks":[],
   "objectData":{
     "3821-0":{
       "refId":"guar",
       "location":{
-        "posX":-3123.537109375,
-        "posY":-61281.9765625,
-        "posZ":504.50390625,
-        "rotX":0.18685552477837,
-        "rotZ":2.0247356891632,
-        "rotY":0
+        "rotY":0,
+        "posX":-3161.7199707031,
+        "posY":-61313.80859375,
+        "posZ":494.74328613281,
+        "rotX":0.74233818054199,
+        "rotZ":-2.1437485218048
       },
       "stats":{
         "healthBase":38,
@@ -50,9 +50,9 @@
         "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
         "healthModified":38,
-        "magickaModified":5
+        "magickaModified":5,
+        "fatigueModified":400
       },
       "inventory":[{
           "refId":"ingred_guar_hide_01",
@@ -64,23 +64,11 @@
     },
     "3744-0":{
       "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "3749-0":{
       "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "3818-0":{
       "refId":"flora_comberry_01",
@@ -94,23 +82,11 @@
     },
     "67247-0":{
       "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "67248-0":{
       "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "146723-0":{
       "refId":"flora_gold_kanet_01",

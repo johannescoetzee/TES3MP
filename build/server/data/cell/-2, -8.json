@@ -17,31 +17,31 @@
     "state":["297840-0"],
     "statsDynamic":["297840-0"],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-2, -8",
-    "creationTime":1713904313
+    "creationTime":1713904313,
+    "description":"-2, -8"
   },
   "lastVisit":{
-    "Fidgug":1713905824,
+    "Benoit":1714758407,
+    "Fidgug":1714758405,
     "qwer":1713904730,
-    "asdf":1713904733,
-    "Benoit":1713905826
+    "asdf":1713904733
   },
   "recordLinks":[],
   "objectData":{
     "297840-0":{
       "refId":"dreamer_talker05",
       "location":{
+        "rotY":0,
         "posX":-13882.584960938,
         "posY":-65035.1796875,
         "posZ":376.29525756836,
         "rotX":0,
-        "rotZ":2.0831861495972,
-        "rotY":0
+        "rotZ":2.0831861495972
       },
       "stats":{
         "healthBase":40,
@@ -50,9 +50,9 @@
         "magickaCurrent":80,
         "fatigueBase":160,
         "fatigueCurrent":160,
+        "healthModified":40,
         "magickaModified":80,
-        "fatigueModified":160,
-        "healthModified":40
+        "fatigueModified":160
       },
       "equipment":{
         "9":{

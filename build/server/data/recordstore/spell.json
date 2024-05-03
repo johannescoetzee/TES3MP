@@ -1,9 +1,30 @@
 {
   "general":{
-    "currentGeneratedNum":0
+    "currentGeneratedNum":1
   },
   "permanentRecords":[],
-  "generatedRecords":[],
-  "recordLinks":[],
+  "generatedRecords":{
+    "$custom_spell_1":{
+      "name":"Lesser Rejuvination",
+      "subtype":0,
+      "cost":7,
+      "flags":0,
+      "effects":[{
+          "id":75,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":1,
+          "area":0,
+          "duration":5,
+          "magnitudeMax":5,
+          "magnitudeMin":5
+        }]
+    }
+  },
+  "recordLinks":{
+    "$custom_spell_1":{
+      "players":["Benoit"]
+    }
+  },
   "unlinkedRecordsToCheck":[]
 }

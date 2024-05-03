@@ -17,20 +17,24 @@
     "state":[],
     "statsDynamic":["0-36","0-37","0-38"],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"1, -8",
-    "creationTime":1713905608
+    "creationTime":1713905608,
+    "description":"1, -8"
   },
   "lastVisit":{
-    "Fidgug":1713906122,
-    "Benoit":1713906126
+    "Fidgug":1714758299,
+    "Benoit":1714758298
   },
   "recordLinks":[],
   "objectData":{
+    "461636-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
     "461643-0":{
       "refId":"kollop_03_pearl",
       "inventory":[]
@@ -48,12 +52,12 @@
     "0-37":{
       "refId":"mudcrab",
       "location":{
-        "posX":12945.3984375,
-        "posY":-58871.19140625,
-        "posZ":287.59420776367,
-        "rotX":0.44997650384903,
-        "rotZ":2.9434797763824,
-        "rotY":0
+        "rotY":0,
+        "posX":13403.061523438,
+        "posY":-58480.48046875,
+        "posZ":363.59024047852,
+        "rotX":0.088438630104065,
+        "rotZ":0.85224676132202
       },
       "stats":{
         "healthBase":15,
@@ -62,9 +66,9 @@
         "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
         "healthModified":15,
-        "magickaModified":5
+        "magickaModified":5,
+        "fatigueModified":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -77,12 +81,12 @@
     "0-38":{
       "refId":"slaughterfish_small",
       "location":{
+        "rotY":0,
         "posX":16186.51171875,
         "posY":-61510.421875,
         "posZ":-251.5998840332,
         "rotX":0,
-        "rotZ":1.1560966968536,
-        "rotY":0
+        "rotZ":1.1560966968536
       },
       "stats":{
         "healthBase":15,
@@ -91,9 +95,9 @@
         "magickaCurrent":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueModified":300,
         "healthModified":15,
-        "magickaModified":10
+        "magickaModified":10,
+        "fatigueModified":300
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -106,12 +110,12 @@
     "0-36":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":10941.0390625,
-        "posY":-62453.0625,
-        "posZ":-224.5933380127,
+        "rotY":0,
+        "posX":11486.2578125,
+        "posY":-62471.3125,
+        "posZ":-224.59332275391,
         "rotX":0,
-        "rotZ":-2.6060764789581,
-        "rotY":0
+        "rotZ":2.1043531894684
       },
       "stats":{
         "healthBase":15,
@@ -119,10 +123,10 @@
         "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
+        "fatigueCurrent":299.9821472168,
         "healthModified":15,
-        "magickaModified":10
+        "magickaModified":10,
+        "fatigueModified":300
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -195,10 +199,6 @@
       "inventory":[]
     },
     "461610-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "461636-0":{
       "refId":"kollop_03_pearl",
       "inventory":[]
     }

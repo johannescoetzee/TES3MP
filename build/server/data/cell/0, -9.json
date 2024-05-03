@@ -17,20 +17,82 @@
     "state":["297837-0"],
     "statsDynamic":["204678-0","0-27"],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"0, -9",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"0, -9"
   },
   "lastVisit":{
-    "Fidgug":1713905824,
-    "Benoit":1713905826
+    "Benoit":1714758317,
+    "Fidgug":1713905824
   },
   "recordLinks":[],
   "objectData":{
+    "478507-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478508-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478479-0":{
+      "refId":"flora_black_anther_01",
+      "inventory":[{
+          "refId":"ingred_black_anther_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478478-0":{
+      "refId":"flora_black_anther_02",
+      "inventory":[]
+    },
+    "0-27":{
+      "refId":"kwama forager",
+      "location":{
+        "rotY":0,
+        "posX":905.61315917969,
+        "posY":-67732.203125,
+        "posZ":956.77117919922,
+        "rotX":-0.66175007820129,
+        "rotZ":-2.2745606899261
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300
+      },
+      "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Benoit"
+      }
+    },
     "297837-0":{
       "refId":"dreamer_talker04",
       "inventory":[{
@@ -54,43 +116,15 @@
         }],
       "state":false
     },
-    "0-27":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":905.61315917969,
-        "posY":-67732.203125,
-        "posZ":956.77117919922,
-        "rotX":-0.66175007820129,
-        "rotZ":-2.2745606899261,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":15
-      },
-      "inventory":[],
-      "spellsActive":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "deathState":38
-    },
     "204678-0":{
       "refId":"nels llendo",
       "location":{
+        "rotY":0,
         "posX":7133.4765625,
         "posY":-69265.65625,
         "posZ":587.36315917969,
-        "rotX":-0.11784429103136,
-        "rotZ":2.8215291500092,
-        "rotY":0
+        "rotX":0,
+        "rotZ":3.9269907474518
       },
       "stats":{
         "healthBase":66,
@@ -99,9 +133,9 @@
         "magickaCurrent":96,
         "fatigueBase":190,
         "fatigueCurrent":190,
-        "fatigueModified":190,
         "healthModified":66,
-        "magickaModified":96
+        "magickaModified":96,
+        "fatigueModified":190
       },
       "equipment":{
         "1":{
@@ -231,20 +265,6 @@
       "refId":"flora_black_anther_01",
       "inventory":[]
     },
-    "478478-0":{
-      "refId":"flora_black_anther_02",
-      "inventory":[]
-    },
-    "478479-0":{
-      "refId":"flora_black_anther_01",
-      "inventory":[{
-          "refId":"ingred_black_anther_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "478480-0":{
       "refId":"flora_willow_flower_01",
       "inventory":[]
@@ -306,26 +326,6 @@
       "inventory":[{
           "refId":"ingred_heather_01",
           "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478507-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478508-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

@@ -1,0 +1,43 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["76400-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
+  },
+  "entry":{
+    "creationTime":1714759024,
+    "description":"-1, -4"
+  },
+  "lastVisit":{
+    "Benoit":1714767832,
+    "Fidgug":1714767828
+  },
+  "recordLinks":[],
+  "objectData":{
+    "76400-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    }
+  },
+  "loadState":{
+    "hasFullActorList":true,
+    "hasFullContainerData":true
+  }
+}

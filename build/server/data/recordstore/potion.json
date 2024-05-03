@@ -1,9 +1,47 @@
 {
   "general":{
-    "currentGeneratedNum":0
+    "currentGeneratedNum":2
   },
   "permanentRecords":[],
-  "generatedRecords":[],
-  "recordLinks":[],
+  "generatedRecords":{
+    "$custom_potion_1":{
+      "name":"",
+      "value":-1104335882,
+      "weight":-0.84,
+      "autoCalc":-1086068520,
+      "icon":"",
+      "model":"",
+      "script":"",
+      "effects":[]
+    },
+    "$custom_potion_2":{
+      "name":"Restore Health",
+      "value":49,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
+      "script":"",
+      "effects":[{
+          "id":75,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":10,
+          "magnitudeMax":3,
+          "magnitudeMin":3
+        }]
+    }
+  },
+  "recordLinks":{
+    "$custom_potion_1":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_2":{
+      "players":["Fidgug"],
+      "cells":[]
+    }
+  },
   "unlinkedRecordsToCheck":[]
 }
