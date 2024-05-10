@@ -17,20 +17,71 @@
     "state":[],
     "statsDynamic":["132059-0"],
     "trap":[],
+    "miscellaneous":["132059-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["132059-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714767180,
     "description":"Balmora, Ra'Virr: Trader"
   },
   "lastVisit":{
-    "Fidgug":1714767278,
-    "Benoit":1714767277
+    "Benoit":1715364051,
+    "Fidgug":1714767278
   },
-  "recordLinks":[],
+  "recordLinks":{
+    "potion":{
+      "$custom_potion_8":["132059-0"],
+      "$custom_potion_13":["132059-0"],
+      "$custom_potion_15":["132059-0"],
+      "$custom_potion_14":["132059-0"],
+      "$custom_potion_7":["132059-0"],
+      "$custom_potion_5":["132059-0"]
+    }
+  },
   "objectData":{
+    "132045-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132046-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132047-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "132048-0":{
       "refId":"com_sack_01_saltrice_10",
       "inventory":[{
@@ -123,26 +174,146 @@
           "soul":""
         }]
     },
+    "332062-0":{
+      "refId":"com_chest_02_v_weapon02",
+      "inventory":[{
+          "refId":"chitin arrow",
+          "count":200,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin short bow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin shortsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "311258-0":{
+      "refId":"urn_05_ingred",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "332061-0":{
+      "refId":"com_chest_02_v_armor02",
+      "inventory":[{
+          "refId":"netch_leather_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boiled_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "132059-0":{
       "refId":"ra'virr",
       "location":{
-        "rotY":0,
-        "posX":-305.44583129883,
+        "posX":-301.39105224609,
         "posY":-353.18572998047,
-        "posZ":5.9996185302734,
+        "posZ":5.999626159668,
         "rotX":0,
-        "rotZ":0
+        "rotZ":0.22126746177673,
+        "rotY":0
       },
       "stats":{
-        "healthBase":64,
-        "healthCurrent":64,
-        "magickaBase":92,
         "magickaCurrent":92,
         "fatigueBase":182,
         "fatigueCurrent":182,
+        "fatigueModified":182,
         "healthModified":64,
         "magickaModified":92,
-        "fatigueModified":182
+        "healthBase":64,
+        "healthCurrent":64,
+        "magickaBase":92
       },
       "equipment":{
         "16":{
@@ -224,178 +395,118 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"p_fortify_luck_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_14",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_15",
+          "count":7,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_13",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_8",
+          "count":8,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_5",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_7",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_soulgem_lesser",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch",
+          "count":1,
+          "charge":1125122048,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"long bow",
+          "count":1,
+          "charge":520,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron bolt",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel spear",
+          "count":1,
+          "charge":964,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver sparkblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_health_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_willpower_s",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":5,
-      "goldPool":602,
-      "lastGoldRestockHour":19.667640686035
-    },
-    "332062-0":{
-      "refId":"com_chest_02_v_weapon02",
-      "inventory":[{
-          "refId":"chitin arrow",
-          "count":200,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin short bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin shortsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron wakizashi",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "lastGoldRestockHour":15.932538032532,
+      "goldPool":442,
+      "lastGoldRestockDay":11
     },
     "132044-0":{
       "refId":"barrel_01_cheapfood5",
       "inventory":[{
           "refId":"ingred_hackle-lo_leaf_01",
           "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "311258-0":{
-      "refId":"urn_05_ingred",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132045-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "332061-0":{
-      "refId":"com_chest_02_v_armor02",
-      "inventory":[{
-          "refId":"netch_leather_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_gauntlet_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boiled_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132046-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132047-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

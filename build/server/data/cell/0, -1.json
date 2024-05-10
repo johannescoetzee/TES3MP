@@ -1,128 +1,169 @@
 {
   "packets":{
-    "actorList":["0-162","0-163","0-160","0-161"],
+    "actorList":["0-162","0-163","0-160","0-169","0-161"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["164202-0","164206-0","164207-0","164229-0","0-162","0-163","0-160","0-161"],
-    "death":[],
+    "container":["164202-0","164206-0","164207-0","164229-0","0-162","0-163","0-160","0-169","0-161"],
+    "death":["0-160","0-163"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-160","0-162","0-163","0-161"],
+    "position":["0-160","0-162","0-163","0-169","0-161"],
     "scale":[],
-    "spawn":["0-162","0-163","0-160","0-161"],
+    "spawn":["0-162","0-163","0-160","0-169","0-161"],
     "state":[],
-    "statsDynamic":["0-160","0-162","0-163","0-161"],
+    "statsDynamic":["0-160","0-162","0-163","0-169","0-161"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714767859,
     "description":"0, -1"
   },
   "lastVisit":{
-    "Benoit":1714767951,
-    "Fidgug":1714767950
+    "Fidgug":1715360006,
+    "Benoit":1715360036
   },
   "recordLinks":[],
   "objectData":{
-    "0-161":{
-      "refId":"cliff racer",
-      "location":{
-        "rotY":0,
-        "posX":5142.0712890625,
-        "posY":-569.74383544922,
-        "posZ":4608.8999023438,
-        "rotX":-3.0177645385265e-05,
-        "rotZ":0.59999966621399
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
+    "164206-0":{
+      "refId":"tramaroot_02",
+      "inventory":[]
+    },
+    "164207-0":{
+      "refId":"tramaroot_03",
       "inventory":[]
     },
     "164229-0":{
       "refId":"contain_trama_shrub_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-163":{
-      "refId":"cliff racer",
-      "location":{
-        "rotY":0,
-        "posX":5154.01953125,
-        "posY":-4449.2158203125,
-        "posZ":4443.6684570313,
-        "rotX":0.004353940486908,
-        "rotZ":-2.3334782123566
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164207-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "0-162":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":4349.8955078125,
-        "posY":-2716.5830078125,
-        "posZ":4464.650390625,
-        "rotX":-0.0027484558522701,
-        "rotZ":0.028824090957642
+        "posX":2701.6801757813,
+        "posY":-3703.0544433594,
+        "posZ":4464.3076171875,
+        "rotX":-0.0041974307969213,
+        "rotZ":3.1384079456329,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
+      },
+      "inventory":[]
+    },
+    "0-163":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":6414.015625,
+        "posY":-6882.453125,
+        "posZ":921.38116455078,
+        "rotX":1.537076830864,
+        "rotZ":-2.2207305431366,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "deathState":38,
+      "spellsActive":[]
+    },
+    "0-160":{
+      "refId":"rat",
+      "location":{
+        "posX":6472.6689453125,
+        "posY":-7445.2919921875,
+        "posZ":966.72766113281,
+        "rotX":-0.3022646009922,
+        "rotZ":2.6583449840546,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":298.94903564453,
+        "fatigueModified":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-169":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":7992.8310546875,
+        "posY":-1667.7685546875,
+        "posZ":2899.2316894531,
+        "rotX":0.002381494268775,
+        "rotZ":2.3356573581696,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
+      },
+      "inventory":[]
+    },
+    "0-161":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":4124.6459960938,
+        "posY":-985.28674316406,
+        "posZ":4610.4936523438,
+        "rotX":0.020378310233355,
+        "rotZ":-1.3087894916534,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[]
     },
@@ -130,39 +171,6 @@
       "refId":"tramaroot_05",
       "inventory":[{
           "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164206-0":{
-      "refId":"tramaroot_02",
-      "inventory":[]
-    },
-    "0-160":{
-      "refId":"rat",
-      "location":{
-        "rotY":0,
-        "posX":6540.431640625,
-        "posY":-7061.302734375,
-        "posZ":880.64886474609,
-        "rotX":0,
-        "rotZ":-0.89999890327454
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

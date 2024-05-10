@@ -1,43 +1,68 @@
 {
   "packets":{
-    "actorList":["297839-0","0-72"],
+    "actorList":["297839-0","0-321","377937-0","0-72"],
     "ai":[],
-    "cellChangeFrom":[],
+    "cellChangeFrom":["377937-0"],
     "cellChangeTo":[],
-    "container":["323908-0","476164-0","476165-0","476166-0","476167-0","476168-0","476169-0","476170-0","476171-0","476173-0","476174-0","476175-0","297839-0","0-72"],
-    "death":[],
+    "container":["323908-0","476164-0","476165-0","476166-0","476167-0","476168-0","476169-0","476170-0","476171-0","476173-0","476174-0","476175-0","297839-0","0-321","377937-0","0-72"],
+    "death":["377937-0","0-321"],
     "delete":[],
     "doorState":[],
-    "equipment":[],
+    "equipment":["377937-0"],
     "lock":[],
     "place":[],
-    "position":["0-72"],
+    "position":["377937-0","0-72","0-321"],
     "scale":[],
-    "spawn":["0-72"],
-    "state":["297839-0"],
-    "statsDynamic":["0-72"],
+    "spawn":["0-321","0-72"],
+    "state":["297839-0","377937-0"],
+    "statsDynamic":["377937-0","0-72","0-321"],
     "trap":[],
-    "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":["377937-0"],
+    "clientScriptLocal":[],
+    "spellsActive":["377937-0"]
   },
   "entry":{
     "creationTime":1713904668,
     "description":"-2, -3"
   },
   "lastVisit":{
-    "Fidgug":1714771200,
-    "Benoit":1714771198
+    "Fidgug":1715364182,
+    "Benoit":1715364186
   },
   "recordLinks":[],
   "objectData":{
-    "476171-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476173-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
+    "0-321":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-10935.690429688,
+        "posY":-18641.525390625,
+        "posZ":611.51031494141,
+        "rotX":-0.19631138443947,
+        "rotZ":2.7574770450592,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
     "476174-0":{
       "refId":"flora_roobrush_02",
@@ -45,6 +70,93 @@
     },
     "476175-0":{
       "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "377937-0":{
+      "refId":"itermerel",
+      "location":{
+        "posX":-10746.5859375,
+        "posY":-18873.55078125,
+        "posZ":600.54046630859,
+        "rotX":-0.16864435374737,
+        "rotZ":0.9681122303009,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":132.5714263916,
+        "fatigueBase":241,
+        "fatigueCurrent":209.58851623535,
+        "fatigueModified":241,
+        "healthModified":84,
+        "magickaModified":164,
+        "healthBase":84,
+        "healthCurrent":0,
+        "magickaBase":164
+      },
+      "cellChangeFrom":"Balmora, Eight Plates",
+      "equipment":{
+        "11":{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "goldPool":0,
+      "lastGoldRestockDay":11,
+      "deathState":39,
+      "lastGoldRestockHour":6.3862047195435,
+      "state":false,
+      "spellsActive":{
+        "$custom_spell_5":[{
+            "effects":[{
+                "magnitude":7.5,
+                "duration":15,
+                "id":14,
+                "arg":-1,
+                "timeLeft":15
+              }],
+            "displayName":"Ignite",
+            "stackingState":false,
+            "startTime":1715362964,
+            "caster":{
+              "playerName":"Benoit"
+            }
+          }]
+      }
+    },
+    "476170-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476169-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476168-0":{
+      "refId":"flora_chokeweed_02",
       "inventory":[]
     },
     "297839-0":{
@@ -70,26 +182,34 @@
         }],
       "state":false
     },
+    "476173-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476166-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
     "0-72":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
-        "posX":-14200.060546875,
-        "posY":-24123.435546875,
-        "posZ":2664.6616210938,
-        "rotX":-0.26206603646278,
-        "rotZ":-1.7873599529266
+        "posX":-13232.111328125,
+        "posY":-23999.791015625,
+        "posZ":2190.431640625,
+        "rotX":0.27544713020325,
+        "rotZ":-0.23208832740784,
+        "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
+        "fatigueModified":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -98,6 +218,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "476167-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
     },
     "323908-0":{
       "refId":"flora_roobrush_02",
@@ -111,24 +235,8 @@
       "refId":"flora_chokeweed_02",
       "inventory":[]
     },
-    "476166-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476167-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476168-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476169-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476170-0":{
-      "refId":"flora_chokeweed_02",
+    "476171-0":{
+      "refId":"flora_kreshweed_03",
       "inventory":[]
     }
   },

@@ -18,39 +18,79 @@
     "statsDynamic":["41642-0"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714761404,
     "description":"-3, -1"
   },
   "lastVisit":{
-    "Fidgug":1714771200,
-    "Benoit":1714771198
+    "Benoit":1715364165,
+    "Fidgug":1715364162
   },
   "recordLinks":[],
   "objectData":{
+    "476306-0":{
+      "refId":"flora_bittergreen_03",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476307-0":{
+      "refId":"flora_bittergreen_04",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476308-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476309-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "41642-0":{
       "refId":"hul",
       "location":{
-        "rotY":0,
-        "posX":-21395.6875,
-        "posY":-8132.9877929688,
-        "posZ":777,
-        "rotX":-0.00043256208300591,
-        "rotZ":1.4848816394806
+        "posX":-22063.986328125,
+        "posY":-7878.646484375,
+        "posZ":775.82800292969,
+        "rotX":0,
+        "rotZ":2.0000021457672,
+        "rotY":0
       },
       "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":102,
         "magickaCurrent":102,
         "fatigueBase":166,
         "fatigueCurrent":166,
+        "fatigueModified":166,
         "healthModified":40,
         "magickaModified":102,
-        "fatigueModified":166
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":102
       },
       "cellChangeFrom":"-3, -3",
       "equipment":{
@@ -153,46 +193,6 @@
       "refId":"flora_bittergreen_02",
       "inventory":[{
           "refId":"ingred_bittergreen_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476306-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476307-0":{
-      "refId":"flora_bittergreen_04",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476308-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476309-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

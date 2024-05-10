@@ -1,128 +1,114 @@
 {
   "packets":{
-    "actorList":["67611-0","67612-0","67613-0","67614-0","67610-0"],
+    "actorList":["67611-0","67612-0","67613-0","67614-0","67610-0","0-223"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["56732-0","56736-0","56761-0","56762-0","56763-0","56764-0","56765-0","56766-0","56767-0","56778-0","56779-0","56802-0","56805-0","56806-0","310755-0","310756-0","310757-0","310758-0","310759-0","310760-0","310761-0","310762-0","332229-0","332230-0","460129-0","67610-0","67611-0","67612-0","67613-0","67614-0"],
-    "death":[],
-    "delete":[],
-    "doorState":[],
-    "equipment":["67611-0","67612-0","67613-0","67614-0","67610-0"],
+    "container":["56732-0","56736-0","56761-0","56762-0","56763-0","56764-0","56765-0","56766-0","56767-0","56778-0","56779-0","56802-0","56805-0","56806-0","310755-0","310756-0","310757-0","310758-0","310759-0","310760-0","310761-0","310762-0","332229-0","332230-0","460129-0","67610-0","67611-0","67612-0","67613-0","67614-0","0-223"],
+    "death":["0-223"],
+    "delete":["56742-0"],
+    "doorState":["56780-0","56722-0"],
+    "equipment":["67611-0","67612-0","67613-0","67614-0","67610-0","0-223"],
     "lock":[],
     "place":[],
-    "position":["67610-0","67611-0","67612-0","67613-0","67614-0"],
+    "position":["67610-0","67611-0","67612-0","67613-0","67614-0","0-223"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-223"],
     "state":[],
-    "statsDynamic":["67610-0","67611-0","67612-0","67613-0","67614-0"],
+    "statsDynamic":["67610-0","67611-0","67612-0","67613-0","67614-0","0-223"],
     "trap":[],
-    "miscellaneous":["67612-0","67610-0"],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":["67612-0","67610-0","67611-0","67614-0","67613-0"],
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714762862,
     "description":"Balmora, Guild of Fighters"
   },
   "lastVisit":{
-    "Fidgug":1714771291,
-    "Benoit":1714771293
+    "Fidgug":1715363990,
+    "Benoit":1715363989
   },
   "recordLinks":[],
   "objectData":{
-    "332230-0":{
-      "refId":"com_chest_02_v_armor01",
-      "inventory":[{
-          "refId":"netch_leather_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boiled_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_bearskin_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "460129-0":{
-      "refId":"com_chest_02_fg_supply",
-      "inventory":[{
-          "refId":"fur_colovian_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "67611-0":{
       "refId":"wayn",
       "location":{
-        "rotY":0,
-        "posX":874.25158691406,
-        "posY":-12.450679779053,
+        "posX":849.47534179688,
+        "posY":66.912658691406,
         "posZ":-122.00009155273,
         "rotX":0,
-        "rotZ":-1.4381659030914
+        "rotZ":-1.1278474330902,
+        "rotY":0
       },
       "stats":{
-        "healthBase":143,
-        "healthCurrent":143,
-        "magickaBase":74,
         "magickaCurrent":74,
         "fatigueBase":254,
         "fatigueCurrent":254,
+        "fatigueModified":254,
         "healthModified":143,
         "magickaModified":74,
-        "fatigueModified":254
+        "healthBase":143,
+        "healthCurrent":143,
+        "magickaBase":74
       },
       "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":299,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":297,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":242,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":98,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":199,
+          "enchantmentCharge":-1
+        },
         "8":{
           "refId":"common_shirt_04",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "7":{
-          "refId":"common_shoes_02",
+        "9":{
+          "refId":"common_pants_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -135,12 +121,6 @@
         },
         "17":{
           "refId":"steel_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -248,28 +228,109 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"dragonscale_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":199,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":297,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":242,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":299,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":98,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel flamesword",
+          "count":1,
+          "charge":300,
+          "enchantmentCharge":10,
+          "soul":""
+        },{
+          "refId":"iron shardsword",
+          "count":1,
+          "charge":773,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin shortsword",
+          "count":1,
+          "charge":520,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":31,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":12.354015350342,
+      "goldPool":1971,
+      "lastGoldRestockDay":11
     },
     "67612-0":{
       "refId":"fasile charascel",
       "location":{
-        "rotY":0,
-        "posX":681.34973144531,
-        "posY":212.04740905762,
+        "posX":693.84887695313,
+        "posY":189.04290771484,
         "posZ":-122.00009155273,
         "rotX":0,
-        "rotZ":2.5927174091339
+        "rotZ":-1.2379024028778,
+        "rotY":0
       },
       "stats":{
-        "healthBase":72,
-        "healthCurrent":72,
-        "magickaBase":142,
         "magickaCurrent":142,
         "fatigueBase":194,
         "fatigueCurrent":194,
+        "fatigueModified":194,
         "healthModified":72,
         "magickaModified":142,
-        "fatigueModified":194
+        "healthBase":72,
+        "healthCurrent":72,
+        "magickaBase":142
       },
       "equipment":{
         "1":{
@@ -346,30 +407,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":4,
+      "lastGoldRestockHour":18.6711769104,
       "goldPool":0,
-      "lastGoldRestockHour":5.1391334533691
+      "lastGoldRestockDay":7
     },
     "67613-0":{
       "refId":"flaenia amiulusus",
       "location":{
-        "rotY":0,
-        "posX":430.38012695313,
-        "posY":315.56185913086,
-        "posZ":-364.341796875,
-        "rotX":-0.013834901154041,
-        "rotZ":-1.8085691928864
+        "posX":577.3486328125,
+        "posY":488.34353637695,
+        "posZ":-377.99996948242,
+        "rotX":-0.1001535281539,
+        "rotZ":1.0598919391632,
+        "rotY":0
       },
       "stats":{
-        "healthBase":77,
-        "healthCurrent":77,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":196,
         "fatigueCurrent":196,
+        "fatigueModified":196,
         "healthModified":77,
         "magickaModified":110,
-        "fatigueModified":196
+        "healthBase":77,
+        "healthCurrent":77,
+        "magickaBase":110
       },
       "equipment":{
         "5":{
@@ -457,28 +518,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":13.691791534424,
+      "goldPool":0,
+      "lastGoldRestockDay":11
     },
     "67614-0":{
       "refId":"hasphat antabolis",
       "location":{
-        "rotY":0,
-        "posX":672.36657714844,
-        "posY":502.41653442383,
+        "posX":404.173828125,
+        "posY":562.70678710938,
         "posZ":-378,
-        "rotX":-0.12029045820236,
-        "rotZ":-2.1565477848053
+        "rotX":-0.058291226625443,
+        "rotZ":0.27439165115356,
+        "rotY":0
       },
       "stats":{
-        "healthBase":91,
-        "healthCurrent":91,
-        "magickaBase":112,
         "magickaCurrent":112,
         "fatigueBase":198,
         "fatigueCurrent":198,
+        "fatigueModified":198,
         "healthModified":91,
         "magickaModified":112,
-        "fatigueModified":198
+        "healthBase":91,
+        "healthCurrent":91,
+        "magickaBase":112
       },
       "equipment":{
         "7":{
@@ -554,28 +618,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":13.757278442383,
+      "goldPool":0,
+      "lastGoldRestockDay":11
     },
     "67610-0":{
       "refId":"eydis fire-eye",
       "location":{
-        "rotY":0,
-        "posX":267.27056884766,
-        "posY":27.929895401001,
-        "posZ":133.99967956543,
+        "posX":301.22503662109,
+        "posY":41.117450714111,
+        "posZ":133.99971008301,
         "rotX":0,
-        "rotZ":2.5729992389679
+        "rotZ":1.6187307834625,
+        "rotY":0
       },
       "stats":{
-        "healthBase":247,
-        "healthCurrent":247,
-        "magickaBase":88,
         "magickaCurrent":88,
         "fatigueBase":305,
         "fatigueCurrent":305,
+        "fatigueModified":305,
         "healthModified":247,
         "magickaModified":88,
-        "fatigueModified":305
+        "healthBase":247,
+        "healthCurrent":247,
+        "magickaBase":88
       },
       "equipment":[{
           "refId":"bonemold_cuirass",
@@ -683,10 +750,45 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"bk_sottildescodebook",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":7,
+      "lastGoldRestockHour":12.015823364258,
       "goldPool":0,
-      "lastGoldRestockHour":10.158361434937
+      "lastGoldRestockDay":11
+    },
+    "0-223":{
+      "refId":"db_assassin1b",
+      "location":{
+        "posX":560.04626464844,
+        "posY":61.776191711426,
+        "posZ":-378.00003051758,
+        "rotX":-0.018182426691055,
+        "rotZ":2.8517701625824,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":150,
+        "fatigueCurrent":150,
+        "healthBase":40,
+        "healthModified":40,
+        "magickaModified":100,
+        "fatigueModified":150,
+        "healthCurrent":0,
+        "magickaBase":100
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":41,
+      "spellsActive":[]
     },
     "56732-0":{
       "refId":"de_p_chest_02_hasphat 1",
@@ -743,6 +845,12 @@
       "inventory":[{
           "refId":"food_kwama_egg_01",
           "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_colovian_helm",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -1079,6 +1187,73 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "332230-0":{
+      "refId":"com_chest_02_v_armor01",
+      "inventory":[{
+          "refId":"netch_leather_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boiled_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_bearskin_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "460129-0":{
+      "refId":"com_chest_02_fg_supply",
+      "inventory":[]
+    },
+    "56780-0":{
+      "refId":"in_hlaalu_door",
+      "doorState":2
+    },
+    "56722-0":{
+      "refId":"in_hlaalu_door",
+      "doorState":1
+    },
+    "56742-0":{
+      "refId":"silver staff"
     }
   },
   "loadState":{

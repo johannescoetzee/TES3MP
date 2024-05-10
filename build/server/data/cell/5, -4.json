@@ -1,0 +1,38 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[],
+    "spellsActive":[]
+  },
+  "entry":{
+    "description":"5, -4",
+    "creationTime":1715358243
+  },
+  "lastVisit":{
+    "Fidgug":1715366116,
+    "Benoit":1715366117
+  },
+  "recordLinks":[],
+  "objectData":[],
+  "loadState":{
+    "hasFullActorList":true,
+    "hasFullContainerData":true
+  }
+}

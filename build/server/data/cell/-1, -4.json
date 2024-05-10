@@ -17,17 +17,17 @@
     "state":[],
     "statsDynamic":[],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714759024,
     "description":"-1, -4"
   },
   "lastVisit":{
-    "Benoit":1714767832,
-    "Fidgug":1714767828
+    "Fidgug":1715363134,
+    "Benoit":1715363140
   },
   "recordLinks":[],
   "objectData":{

@@ -1,223 +1,92 @@
 {
   "packets":{
-    "actorList":["0-75","0-73","83144-0","0-74"],
+    "actorList":["0-73"],
     "ai":[],
     "cellChangeFrom":[],
-    "cellChangeTo":[],
-    "container":["83134-0","83135-0","83137-0","83142-0","83144-0","0-75","0-73","0-74"],
-    "death":[],
+    "cellChangeTo":["83144-0"],
+    "container":["83134-0","83135-0","83137-0","83142-0","0-73"],
+    "death":["0-73"],
     "delete":[],
     "doorState":[],
-    "equipment":["83144-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["83144-0","0-73","0-75","0-74"],
+    "position":["0-73"],
     "scale":[],
-    "spawn":["0-75","0-73","0-74"],
+    "spawn":["0-73"],
     "state":[],
-    "statsDynamic":["83144-0","0-73","0-75","0-74"],
+    "statsDynamic":["0-73"],
     "trap":[],
-    "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "clientScriptLocal":["210972-0"],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714759398,
     "description":"0, -2"
   },
   "lastVisit":{
-    "Fidgug":1714767950,
-    "Benoit":1714767951
+    "Fidgug":1715360006,
+    "Benoit":1715362947
   },
   "recordLinks":[],
   "objectData":{
-    "83137-0":{
-      "refId":"crate_01",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":9,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "210972-0":{
+      "refId":"in_dwrv_crank_arkn",
+      "variables":{
+        "0":{
+          "0":0
+        },
+        "2":{
+          "0":0
+        }
+      }
     },
-    "83142-0":{
-      "refId":"dwrv_barrel00",
-      "inventory":[{
-          "refId":"ingred_scrap_metal_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-75":{
-      "refId":"cliff racer",
-      "location":{
-        "rotY":0,
-        "posX":3111.6166992188,
-        "posY":-11353.908203125,
-        "posZ":3353.2353515625,
-        "rotX":0.00031766202300787,
-        "rotZ":-0.20390105247498
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[]
+    "83144-0":{
+      "cellChangeTo":"-1, -2"
     },
     "0-73":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
-        "posX":4487.7880859375,
-        "posY":-14128.3828125,
-        "posZ":3714.185546875,
-        "rotX":-0.16987389326096,
-        "rotZ":2.4899017810822
+        "posX":4163.2963867188,
+        "posY":-13466.088867188,
+        "posZ":3505.5891113281,
+        "rotX":-0.34569722414017,
+        "rotZ":-1.9861733913422,
+        "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
-        "fatigueCurrent":300,
+        "fatigueCurrent":298.12823486328,
+        "fatigueModified":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "83144-0":{
-      "refId":"snowy granius",
-      "location":{
-        "rotY":0,
-        "posX":644.28247070313,
-        "posY":-13347.693359375,
-        "posZ":2496.9985351563,
-        "rotX":0.0098393671214581,
-        "rotZ":-0.37866425514221
-      },
-      "stats":{
-        "healthBase":54,
-        "healthCurrent":54,
-        "magickaBase":108,
-        "magickaCurrent":108,
-        "fatigueBase":164,
-        "fatigueCurrent":164,
-        "healthModified":54,
-        "magickaModified":108,
-        "fatigueModified":164
-      },
-      "equipment":{
-        "1":{
-          "refId":"iron_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"fur_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_04_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"fur_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_04_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-74":{
-      "refId":"kwama forager",
-      "location":{
-        "rotY":0,
-        "posX":258.24731445313,
-        "posY":-10228.359375,
-        "posZ":683.8525390625,
-        "rotX":-0.13972683250904,
-        "rotZ":-2.8061153888702
-      },
-      "stats":{
         "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
+        "healthCurrent":0,
+        "magickaBase":15
       },
-      "inventory":[]
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
     "83134-0":{
       "refId":"crate_01",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":11,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "83135-0":{
       "refId":"crate_01",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":8,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
+    },
+    "83137-0":{
+      "refId":"crate_01",
+      "inventory":[]
+    },
+    "83142-0":{
+      "refId":"dwrv_barrel00",
+      "inventory":[]
     }
   },
   "loadState":{

@@ -18,19 +18,87 @@
     "statsDynamic":["41643-0","428721-0","0-100"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714761404,
     "description":"-4, -2"
   },
   "lastVisit":{
-    "Benoit":1714771198,
-    "Fidgug":1714771200
+    "Fidgug":1715364182,
+    "Benoit":1715364186
   },
   "recordLinks":[],
   "objectData":{
+    "252141-0":{
+      "refId":"flora_bc_shelffungus_04",
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252146-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[]
+    },
+    "252147-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252148-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252150-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[]
+    },
+    "252164-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252165-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252166-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "34115-0":{
       "refId":"urn_04_food",
       "inventory":[{
@@ -44,23 +112,23 @@
     "41643-0":{
       "refId":"stargel",
       "location":{
-        "rotY":0,
-        "posX":-24865.302734375,
-        "posY":-11717.478515625,
+        "posX":-24818.98828125,
+        "posY":-10306.416015625,
         "posZ":961,
-        "rotX":0.0014342200011015,
-        "rotZ":2.2404510974884
+        "rotX":0.0049133971333504,
+        "rotZ":0.063109397888184,
+        "rotY":0
       },
       "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":64,
         "magickaCurrent":64,
         "fatigueBase":189,
         "fatigueCurrent":189,
+        "fatigueModified":189,
         "healthModified":67,
         "magickaModified":64,
-        "fatigueModified":189
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":64
       },
       "equipment":{
         "5":{
@@ -141,23 +209,23 @@
     "428721-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotY":0,
-        "posX":-25616.50390625,
+        "posX":-25616.51953125,
         "posY":-12219.6875,
         "posZ":961,
-        "rotX":-0.0012636668980122,
-        "rotZ":2.0108659267426
+        "rotX":-0.0025180960074067,
+        "rotZ":2.2431328296661,
+        "rotY":0
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
+        "fatigueModified":307,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueModified":307
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -304,23 +372,23 @@
     "0-100":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-32574.517578125,
-        "posY":-16245.859375,
-        "posZ":751.65142822266,
-        "rotX":-0.0076668737456203,
-        "rotZ":-1.2418458461761
+        "posX":-32568.220703125,
+        "posY":-15260.57421875,
+        "posZ":751.37890625,
+        "rotX":0.00099758617579937,
+        "rotZ":-3.116676568985,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[]
     },
@@ -328,74 +396,6 @@
       "refId":"flora_bc_shelffungus_03",
       "inventory":[{
           "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252141-0":{
-      "refId":"flora_bc_shelffungus_04",
-      "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252146-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[]
-    },
-    "252147-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252148-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252150-0":{
-      "refId":"flora_bc_shelffungus_02",
-      "inventory":[]
-    },
-    "252164-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252165-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252166-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

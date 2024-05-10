@@ -6,7 +6,7 @@
     "cellChangeTo":[],
     "container":["390613-0","56848-0","56849-0","56850-0","56852-0","56853-0","56854-0","56859-0","56861-0","56862-0","56866-0","56867-0","56868-0","56869-0","56968-0","332054-0","332053-0","86807-0","460130-0","477571-0","67615-0","67616-0","67617-0","67618-0","67619-0","67620-0","67621-0"],
     "death":[],
-    "delete":["466179-0","466177-0","466178-0","466175-0","466173-0","466182-0","466183-0","466181-0","466174-0","466176-0","466180-0","390615-0","390616-0"],
+    "delete":["466179-0","466177-0","466178-0","466175-0","466173-0","466182-0","466183-0","466181-0","466174-0","466176-0","466180-0","390615-0","390616-0","56969-0","56971-0","56972-0"],
     "doorState":[],
     "equipment":["67617-0","67618-0","67621-0","67615-0","67620-0","67616-0","67619-0"],
     "lock":[],
@@ -14,81 +14,48 @@
     "position":["67615-0","67616-0","67617-0","67618-0","67619-0","67620-0","67621-0"],
     "scale":[],
     "spawn":[],
-    "state":[],
+    "state":["390615-0","390616-0"],
     "statsDynamic":["67615-0","67616-0","67617-0","67618-0","67619-0","67620-0","67621-0"],
     "trap":[],
-    "miscellaneous":["67620-0","67618-0","67621-0","67617-0","67616-0","67619-0"],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":["67620-0","67618-0","67621-0","67617-0","67616-0","67619-0","67615-0"],
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714762299,
     "description":"Balmora, Guild of Mages"
   },
   "lastVisit":{
-    "Fidgug":1714767667,
-    "Benoit":1714767669
+    "Benoit":1715363517,
+    "Fidgug":1715363520
   },
-  "recordLinks":[],
+  "recordLinks":{
+    "potion":{
+      "$custom_potion_19":["67618-0"],
+      "$custom_potion_18":["67618-0"]
+    }
+  },
   "objectData":{
-    "56854-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "56859-0":{
-      "refId":"chest_small_01_ingredie",
-      "inventory":[{
-          "refId":"ingred_red_lichen_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "466182-0":{
-      "refId":"misc_soulgem_lesser"
-    },
-    "466183-0":{
-      "refId":"misc_soulgem_lesser"
-    },
-    "466181-0":{
-      "refId":"misc_soulgem_lesser"
-    },
-    "466174-0":{
-      "refId":"misc_soulgem_petty"
-    },
-    "466176-0":{
-      "refId":"misc_soulgem_petty"
-    },
-    "466180-0":{
-      "refId":"misc_soulgem_grand"
-    },
     "67617-0":{
       "refId":"sharn gra-muzgob",
       "location":{
-        "rotY":0,
-        "posX":503.93304443359,
-        "posY":-1645.1734619141,
+        "posX":494.46795654297,
+        "posY":-1601.1618652344,
         "posZ":-762,
         "rotX":0,
-        "rotZ":-0.0096971988677979
+        "rotZ":-0.1190869808197,
+        "rotY":0
       },
       "stats":{
-        "healthBase":85,
-        "healthCurrent":85,
-        "magickaBase":94,
         "magickaCurrent":94,
         "fatigueBase":223,
         "fatigueCurrent":223,
+        "fatigueModified":223,
         "healthModified":85,
         "magickaModified":94,
-        "fatigueModified":223
+        "healthBase":85,
+        "healthCurrent":85,
+        "magickaBase":94
       },
       "equipment":{
         "7":{
@@ -117,30 +84,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":4,
+      "lastGoldRestockHour":11.209570884705,
       "goldPool":200,
-      "lastGoldRestockHour":2.7046205997467
+      "lastGoldRestockDay":11
     },
     "67618-0":{
       "refId":"ajira",
       "location":{
-        "rotY":0,
-        "posX":-523.61004638672,
-        "posY":-745.9150390625,
+        "posX":-519.61157226563,
+        "posY":-745.18994140625,
         "posZ":-762,
         "rotX":0,
-        "rotZ":-2.7333333492279
+        "rotZ":3.0831859111786,
+        "rotY":0
       },
       "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":138,
         "magickaCurrent":138,
         "fatigueBase":183,
         "fatigueCurrent":183,
+        "fatigueModified":183,
         "healthModified":67,
         "magickaModified":138,
-        "fatigueModified":183
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":138
       },
       "equipment":{
         "11":{
@@ -234,31 +201,61 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"$custom_potion_19",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_18",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_lightning shield_e",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fire_shield_e",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_spell_absorption_e",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":5,
-      "goldPool":800,
-      "lastGoldRestockHour":17.372249603271
+      "lastGoldRestockHour":8.5954580307007,
+      "goldPool":427,
+      "lastGoldRestockDay":10
     },
     "67621-0":{
       "refId":"galbedir",
       "location":{
-        "rotY":0,
-        "posX":-521.27380371094,
-        "posY":-99.924873352051,
-        "posZ":5.9999084472656,
-        "rotX":-0.093686416745186,
-        "rotZ":2.7563211917877
+        "posX":-492.34948730469,
+        "posY":-77.722412109375,
+        "posZ":5.9997177124023,
+        "rotX":-0.048571217805147,
+        "rotZ":2.8530566692352,
+        "rotY":0
       },
       "stats":{
-        "healthBase":57,
-        "healthCurrent":57,
-        "magickaBase":132,
         "magickaCurrent":132,
         "fatigueBase":185,
         "fatigueCurrent":185,
+        "fatigueModified":185,
         "healthModified":57,
         "magickaModified":132,
-        "fatigueModified":185
+        "healthBase":57,
+        "healthCurrent":57,
+        "magickaBase":132
       },
       "equipment":{
         "7":{
@@ -437,30 +434,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":4,
-      "goldPool":900,
-      "lastGoldRestockHour":2.0235424041748
+      "lastGoldRestockHour":8.1259365081787,
+      "goldPool":1554,
+      "lastGoldRestockDay":10
     },
     "67615-0":{
       "refId":"masalinie merian",
       "location":{
-        "rotY":0,
-        "posX":-609.23364257813,
-        "posY":-1049.8896484375,
+        "posX":-618.03759765625,
+        "posY":-1037.1069335938,
         "posZ":-762,
         "rotX":0,
-        "rotZ":0.66526627540588
+        "rotZ":1.0123264789581,
+        "rotY":0
       },
       "stats":{
-        "healthBase":79,
-        "healthCurrent":79,
-        "magickaBase":197,
         "magickaCurrent":197,
         "fatigueBase":212,
         "fatigueCurrent":212,
+        "fatigueModified":212,
         "healthModified":79,
         "magickaModified":197,
-        "fatigueModified":212
+        "healthBase":79,
+        "healthCurrent":79,
+        "magickaBase":197
       },
       "equipment":{
         "7":{
@@ -500,28 +497,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":11.278573036194,
+      "goldPool":0,
+      "lastGoldRestockDay":11
     },
     "67620-0":{
       "refId":"ranis athrys",
       "location":{
-        "rotY":0,
-        "posX":-533.68225097656,
-        "posY":-53.641597747803,
+        "posX":-510.66754150391,
+        "posY":-59.317794799805,
         "posZ":-250.00030517578,
         "rotX":0,
-        "rotZ":-3.0449764728546
+        "rotZ":2.9324429035187,
+        "rotY":0
       },
       "stats":{
-        "healthBase":73,
-        "healthCurrent":73,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":208,
         "fatigueCurrent":208,
+        "fatigueModified":208,
         "healthModified":73,
         "magickaModified":100,
-        "fatigueModified":208
+        "healthBase":73,
+        "healthCurrent":73,
+        "magickaBase":100
       },
       "equipment":{
         "7":{
@@ -573,31 +573,37 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"bk_itermerelsnotes",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":5,
+      "lastGoldRestockHour":10.114046096802,
       "goldPool":150,
-      "lastGoldRestockHour":16.957324981689
+      "lastGoldRestockDay":11
     },
     "67616-0":{
       "refId":"marayn dren",
       "location":{
-        "rotY":0,
-        "posX":-27.923484802246,
-        "posY":-655.94128417969,
+        "posX":-33.078018188477,
+        "posY":-650.94720458984,
         "posZ":-762,
         "rotX":0,
-        "rotZ":-2.3561947345734
+        "rotZ":-2.7893931865692,
+        "rotY":0
       },
       "stats":{
-        "healthBase":75,
-        "healthCurrent":75,
-        "magickaBase":124,
         "magickaCurrent":124,
         "fatigueBase":205,
         "fatigueCurrent":205,
+        "fatigueModified":205,
         "healthModified":75,
         "magickaModified":124,
-        "fatigueModified":205
+        "healthBase":75,
+        "healthCurrent":75,
+        "magickaBase":124
       },
       "equipment":{
         "7":{
@@ -644,30 +650,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":4,
-      "goldPool":0,
-      "lastGoldRestockHour":2.9548218250275
+      "lastGoldRestockHour":8.3748502731323,
+      "goldPool":118,
+      "lastGoldRestockDay":10
     },
     "67619-0":{
       "refId":"estirdalin",
       "location":{
-        "rotY":0,
-        "posX":-34.75231552124,
-        "posY":-1073.0583496094,
+        "posX":-200.75993347168,
+        "posY":-1053.3913574219,
         "posZ":-761.99987792969,
-        "rotX":0.010002698749304,
-        "rotZ":-0.59716200828552
+        "rotX":0.01499724201858,
+        "rotZ":-1.0770795345306,
+        "rotY":0
       },
       "stats":{
-        "healthBase":55,
-        "healthCurrent":55,
-        "magickaBase":245,
         "magickaCurrent":245,
         "fatigueBase":189,
         "fatigueCurrent":189,
+        "fatigueModified":189,
         "healthModified":55,
         "magickaModified":245,
-        "fatigueModified":189
+        "healthBase":55,
+        "healthCurrent":55,
+        "magickaBase":245
       },
       "equipment":{
         "7":{
@@ -720,9 +726,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":4,
-      "goldPool":48,
-      "lastGoldRestockHour":3.1639442443848
+      "lastGoldRestockHour":8.1426963806152,
+      "goldPool":376,
+      "lastGoldRestockDay":10
     },
     "390613-0":{
       "refId":"de_p_desk_01_galbedir",
@@ -778,11 +784,233 @@
           "soul":""
         }]
     },
-    "466178-0":{
-      "refId":"misc_soulgem_common"
+    "56850-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_ash_yam_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "466175-0":{
-      "refId":"misc_soulgem_petty"
+    "56852-0":{
+      "refId":"com_basket_01_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56853-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56854-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56859-0":{
+      "refId":"chest_small_01_ingredie",
+      "inventory":[{
+          "refId":"ingred_red_lichen_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56861-0":{
+      "refId":"de_p_desk_01_masalinie ",
+      "inventory":[]
+    },
+    "56862-0":{
+      "refId":"de_p_desk_01_ajira",
+      "inventory":[]
+    },
+    "56866-0":{
+      "refId":"com_sack_02_ingred",
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_resin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_guar_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56867-0":{
+      "refId":"com_sack_02_ingred",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_kagouti_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_green_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_alit_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56868-0":{
+      "refId":"com_sack_01_ingred",
+      "inventory":[{
+          "refId":"ingred_gravedust_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_bloat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_heather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56869-0":{
+      "refId":"com_sack_01_ingred",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56968-0":{
+      "refId":"de_p_closet_02_mguild",
+      "inventory":[{
+          "refId":"common_robe_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "332054-0":{
       "refId":"chest_01_v_potion_h_03",
@@ -943,160 +1171,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "466173-0":{
-      "refId":"misc_lw_platter"
-    },
-    "56861-0":{
-      "refId":"de_p_desk_01_masalinie ",
-      "inventory":[]
-    },
-    "56862-0":{
-      "refId":"de_p_desk_01_ajira",
-      "inventory":[]
-    },
-    "56866-0":{
-      "refId":"com_sack_02_ingred",
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_resin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_guar_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "56867-0":{
-      "refId":"com_sack_02_ingred",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_kagouti_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_green_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_alit_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "56868-0":{
-      "refId":"com_sack_01_ingred",
-      "inventory":[{
-          "refId":"ingred_gravedust_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bloat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "56869-0":{
-      "refId":"com_sack_01_ingred",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "56968-0":{
-      "refId":"de_p_closet_02_mguild",
-      "inventory":[{
-          "refId":"common_robe_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "390615-0":{
-      "refId":"bk_ajira1"
     },
     "332053-0":{
       "refId":"chest_01_v_potion_al_02",
@@ -1276,16 +1350,6 @@
           "soul":""
         }]
     },
-    "56852-0":{
-      "refId":"com_basket_01_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "86807-0":{
       "refId":"de_r_chest_01_sharn",
       "inventory":[{
@@ -1314,46 +1378,6 @@
           "soul":""
         }]
     },
-    "56850-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_ash_yam_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "460130-0":{
       "refId":"com_chest_02_mg_supply",
       "inventory":[]
@@ -1374,24 +1398,55 @@
           "soul":""
         }]
     },
-    "390616-0":{
-      "refId":"bk_ajira2"
-    },
     "466179-0":{
       "refId":"misc_soulgem_greater"
     },
     "466177-0":{
       "refId":"misc_soulgem_common"
     },
-    "56853-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "466178-0":{
+      "refId":"misc_soulgem_common"
+    },
+    "466175-0":{
+      "refId":"misc_soulgem_petty"
+    },
+    "466173-0":{
+      "refId":"misc_lw_platter"
+    },
+    "466182-0":{
+      "refId":"misc_soulgem_lesser"
+    },
+    "466183-0":{
+      "refId":"misc_soulgem_lesser"
+    },
+    "466181-0":{
+      "refId":"misc_soulgem_lesser"
+    },
+    "466174-0":{
+      "refId":"misc_soulgem_petty"
+    },
+    "466176-0":{
+      "refId":"misc_soulgem_petty"
+    },
+    "466180-0":{
+      "refId":"misc_soulgem_grand"
+    },
+    "56969-0":{
+      "refId":"apparatus_a_calcinator_01"
+    },
+    "56971-0":{
+      "refId":"apparatus_j_retort_01"
+    },
+    "56972-0":{
+      "refId":"apparatus_j_alembic_01"
+    },
+    "390615-0":{
+      "refId":"bk_ajira1",
+      "state":true
+    },
+    "390616-0":{
+      "refId":"bk_ajira2",
+      "state":true
     }
   },
   "loadState":{

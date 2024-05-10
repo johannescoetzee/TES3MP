@@ -1,36 +1,46 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-71"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["164419-0","164420-0","164421-0","164422-0","164423-0","164424-0","164425-0","164426-0","164427-0","164428-0","164429-0","164430-0","164431-0","164432-0","164433-0","164434-0","164435-0","164436-0","164437-0","164438-0"],
+    "container":["164419-0","164420-0","164421-0","164422-0","164423-0","164424-0","164425-0","164426-0","164427-0","164428-0","164429-0","164430-0","164431-0","164432-0","164433-0","164434-0","164435-0","164436-0","164437-0","164438-0","0-71"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-71"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-71"],
     "state":[],
-    "statsDynamic":[],
+    "statsDynamic":["0-71"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714759186,
     "description":"0, -3"
   },
   "lastVisit":{
-    "Benoit":1714767918,
-    "Fidgug":1714767916
+    "Fidgug":1715366990,
+    "Benoit":1715366992
   },
   "recordLinks":[],
   "objectData":{
+    "164421-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "164422-0":{
       "refId":"tramaroot_02",
       "inventory":[]
@@ -73,13 +83,7 @@
     },
     "164429-0":{
       "refId":"tramaroot_04",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "164430-0":{
       "refId":"tramaroot_04",
@@ -145,9 +149,32 @@
     },
     "164438-0":{
       "refId":"tramaroot_01",
+      "inventory":[]
+    },
+    "0-71":{
+      "refId":"rat",
+      "location":{
+        "posX":2.1360368728638,
+        "posY":-21761.015625,
+        "posZ":2485.0268554688,
+        "rotX":-0.40508779883385,
+        "rotZ":2.0846831798553,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
+      },
       "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
+          "refId":"ingred_rat_meat_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -155,25 +182,9 @@
     },
     "164419-0":{
       "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "164420-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164421-0":{
       "refId":"tramaroot_01",
       "inventory":[{
           "refId":"ingred_trama_root_01",

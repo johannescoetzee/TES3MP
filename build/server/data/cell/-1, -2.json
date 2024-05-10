@@ -1,77 +1,197 @@
 {
   "packets":{
-    "actorList":["0-77"],
+    "actorList":["0-77","83144-0","0-75","0-74"],
     "ai":[],
-    "cellChangeFrom":[],
+    "cellChangeFrom":["83144-0"],
     "cellChangeTo":[],
-    "container":["475973-0","475974-0","475975-0","476010-0","476011-0","476012-0","0-77"],
-    "death":["0-77"],
+    "container":["475973-0","475974-0","475975-0","476010-0","476011-0","476012-0","0-77","83144-0","0-75","0-74"],
+    "death":["0-77","83144-0","0-75"],
     "delete":[],
     "doorState":[],
-    "equipment":[],
+    "equipment":["83144-0"],
     "lock":[],
     "place":[],
-    "position":["0-77"],
+    "position":["0-77","83144-0","0-75","0-74"],
     "scale":[],
-    "spawn":["0-77"],
+    "spawn":["0-77","0-75","0-74"],
     "state":[],
-    "statsDynamic":["0-77"],
+    "statsDynamic":["0-77","83144-0","0-75","0-74"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714759398,
     "description":"-1, -2"
   },
   "lastVisit":{
-    "Fidgug":1714771078,
-    "Benoit":1714771080
+    "Benoit":1715363140,
+    "Fidgug":1715363134
   },
   "recordLinks":[],
   "objectData":{
-    "476011-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "476012-0":{
       "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "0-74":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-33.90909576416,
+        "posY":-9983.921875,
+        "posZ":698.78656005859,
+        "rotX":-0.18154740333557,
+        "rotZ":-0.81506037712097,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15
+      },
       "inventory":[]
     },
     "0-77":{
       "refId":"rat",
       "location":{
-        "rotY":0,
         "posX":-7839.5126953125,
         "posY":-8317.349609375,
-        "posZ":678.93511962891,
+        "posZ":678.93017578125,
         "rotX":-0.083587825298309,
-        "rotZ":-2.3087432384491
+        "rotZ":-2.3087432384491,
+        "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
         "fatigueCurrent":299.43206787109,
+        "healthBase":23,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":300
+        "fatigueModified":300,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[],
-      "spellsActive":[],
       "killer":{
         "playerName":"Fidgug"
       },
-      "deathState":38
+      "deathState":38,
+      "spellsActive":[]
+    },
+    "83144-0":{
+      "refId":"snowy granius",
+      "location":{
+        "posX":-1234.4572753906,
+        "posY":-13657.96484375,
+        "posZ":2496.9985351563,
+        "rotX":0.1247194558382,
+        "rotZ":-0.0016176700592041,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":73,
+        "fatigueBase":164,
+        "fatigueCurrent":164,
+        "fatigueModified":164,
+        "healthModified":54,
+        "magickaModified":108,
+        "healthBase":54,
+        "healthCurrent":0,
+        "magickaBase":108
+      },
+      "cellChangeFrom":"0, -2",
+      "equipment":{
+        "1":{
+          "refId":"iron_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"fur_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_04_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"fur_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_04_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "deathState":39,
+      "spellsActive":[]
+    },
+    "0-75":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-183.3968963623,
+        "posY":-13331.96875,
+        "posZ":2496.9982910156,
+        "rotX":0.89317011833191,
+        "rotZ":-2.6191198825836,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "deathState":38,
+      "spellsActive":[]
     },
     "475973-0":{
       "refId":"flora_stoneflower_01",
@@ -106,6 +226,16 @@
     "476010-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[]
+    },
+    "476011-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

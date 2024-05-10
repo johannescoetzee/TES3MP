@@ -1,48 +1,36 @@
 {
   "packets":{
-    "actorList":["0-60"],
+    "actorList":["0-60","0-61"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["76496-0","462847-0","462851-0","462853-0","477250-0","477251-0","477252-0","477253-0","477254-0","477255-0","477256-0","477257-0","477259-0","477260-0","477261-0","477265-0","477266-0","477268-0","477269-0","0-60"],
+    "container":["76496-0","462847-0","462851-0","462853-0","477250-0","477251-0","477252-0","477253-0","477254-0","477255-0","477256-0","477257-0","477259-0","477260-0","477261-0","477265-0","477266-0","477268-0","477269-0","0-60","0-61"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-60"],
+    "position":["0-60","0-61"],
     "scale":[],
-    "spawn":["0-60"],
+    "spawn":["0-60","0-61"],
     "state":[],
-    "statsDynamic":["0-60"],
+    "statsDynamic":["0-60","0-61"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714758405,
     "description":"-1, -5"
   },
   "lastVisit":{
-    "Fidgug":1714759398,
-    "Benoit":1714759399
+    "Benoit":1715355233,
+    "Fidgug":1715355227
   },
   "recordLinks":[],
   "objectData":{
-    "462847-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "462851-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "462853-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
     "477250-0":{
       "refId":"flora_black_anther_02",
       "inventory":[{
@@ -175,26 +163,55 @@
       "refId":"flora_gold_kanet_01",
       "inventory":[]
     },
+    "0-61":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-581.9208984375,
+        "posY":-34593.53125,
+        "posZ":-343.99279785156,
+        "rotX":1.6800127923489e-05,
+        "rotZ":0.14189648628235,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.99954223633,
+        "fatigueModified":300,
+        "healthModified":15,
+        "magickaModified":10,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-60":{
       "refId":"mudcrab",
       "location":{
-        "rotY":0,
-        "posX":-5069.00390625,
-        "posY":-39323.28125,
-        "posZ":582.57635498047,
-        "rotX":0.36327493190765,
-        "rotZ":2.8310444355011
+        "posX":-4457.2255859375,
+        "posY":-38934.171875,
+        "posZ":261.44244384766,
+        "rotX":0.10978209972382,
+        "rotZ":2.0880024433136,
+        "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
         "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -213,6 +230,18 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "462847-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "462851-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "462853-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
     }
   },
   "loadState":{

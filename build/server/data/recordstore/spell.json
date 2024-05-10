@@ -1,6 +1,6 @@
 {
   "general":{
-    "currentGeneratedNum":1
+    "currentGeneratedNum":6
   },
   "permanentRecords":[],
   "generatedRecords":{
@@ -19,10 +19,48 @@
           "magnitudeMax":5,
           "magnitudeMin":5
         }]
+    },
+    "$custom_spell_6":{
+      "name":"Flare",
+      "subtype":0,
+      "cost":18,
+      "flags":0,
+      "effects":[{
+          "id":14,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":2,
+          "area":0,
+          "duration":1,
+          "magnitudeMax":30,
+          "magnitudeMin":20
+        }]
+    },
+    "$custom_spell_5":{
+      "name":"Ignite",
+      "subtype":0,
+      "cost":30,
+      "flags":0,
+      "effects":[{
+          "id":14,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":2,
+          "area":0,
+          "duration":15,
+          "magnitudeMax":5,
+          "magnitudeMin":5
+        }]
     }
   },
   "recordLinks":{
     "$custom_spell_1":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_6":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_5":{
       "players":["Benoit"]
     }
   },

@@ -17,9 +17,9 @@
     "state":[],
     "statsDynamic":["389001-0","41720-0"],
     "trap":[],
+    "miscellaneous":["41720-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["41720-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714762121,
@@ -27,154 +27,10 @@
   },
   "lastVisit":{
     "Fidgug":1714762251,
-    "Benoit":1714762250
+    "Benoit":1715353939
   },
   "recordLinks":[],
   "objectData":{
-    "41679-0":{
-      "refId":"de_p_chest_02_meldor",
-      "inventory":[{
-          "refId":"potion_local_brew_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "41692-0":{
-      "refId":"crate_01_armorbonemold_",
-      "inventory":[{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "41706-0":{
-      "refId":"crate_01_armorchitin_me",
-      "inventory":[{
-          "refId":"chitin_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin guantlet - right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin guantlet - left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin pauldron - right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin pauldron - left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin_mask_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "41707-0":{
       "refId":"crate_01_armornetch_mel",
       "inventory":[{
@@ -397,103 +253,32 @@
       "refId":"com_sack_02_pos",
       "inventory":[]
     },
-    "41720-0":{
-      "refId":"meldor",
-      "location":{
-        "rotY":0,
-        "posX":229.25088500977,
-        "posY":160.97506713867,
-        "posZ":5.9999389648438,
-        "rotX":0,
-        "rotZ":-1.9853537082672
-      },
-      "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":86,
-        "magickaCurrent":86,
-        "fatigueBase":189,
-        "fatigueCurrent":189,
-        "healthModified":67,
-        "magickaModified":86,
-        "fatigueModified":189
-      },
-      "equipment":[{
-          "refId":"trollbone_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,null,null,null,{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"trollbone_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"repair_journeyman_01",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":3,
-      "goldPool":1591,
-      "lastGoldRestockHour":20.873460769653
+    "41700-0":{
+      "refId":"trollbone_helm"
+    },
+    "332051-0":{
+      "refId":"iron boots"
     },
     "389001-0":{
       "refId":"hlaalu guard",
       "location":{
-        "rotY":0,
         "posX":-41.946617126465,
         "posY":395.68850708008,
         "posZ":6,
         "rotX":0,
-        "rotZ":1.0333335399628
+        "rotZ":1.5999995470047,
+        "rotY":0
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
+        "fatigueModified":307,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueModified":307
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -637,6 +422,83 @@
           "soul":""
         }]
     },
+    "41720-0":{
+      "refId":"meldor",
+      "location":{
+        "posX":227.71813964844,
+        "posY":163.22883605957,
+        "posZ":5.9999389648438,
+        "rotX":0,
+        "rotZ":-1.7181074619293,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":86,
+        "fatigueBase":189,
+        "fatigueCurrent":189,
+        "fatigueModified":189,
+        "healthModified":67,
+        "magickaModified":86,
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":86
+      },
+      "equipment":[{
+          "refId":"trollbone_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"trollbone_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"repair_journeyman_01",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":17.353170394897,
+      "goldPool":1500,
+      "lastGoldRestockDay":7
+    },
     "41668-0":{
       "refId":"de_drawers_02_mclothes4",
       "inventory":[{
@@ -665,9 +527,6 @@
           "soul":""
         }]
     },
-    "332051-0":{
-      "refId":"iron boots"
-    },
     "41671-0":{
       "refId":"chest_small_02_gold_25",
       "inventory":[{
@@ -678,8 +537,149 @@
           "soul":""
         }]
     },
-    "41700-0":{
-      "refId":"trollbone_helm"
+    "41679-0":{
+      "refId":"de_p_chest_02_meldor",
+      "inventory":[{
+          "refId":"potion_local_brew_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41692-0":{
+      "refId":"crate_01_armorbonemold_",
+      "inventory":[{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41706-0":{
+      "refId":"crate_01_armorchitin_me",
+      "inventory":[{
+          "refId":"chitin_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin guantlet - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin guantlet - left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin pauldron - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin pauldron - left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin_mask_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

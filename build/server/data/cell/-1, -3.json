@@ -1,85 +1,56 @@
 {
   "packets":{
-    "actorList":["0-71","175654-0","175655-0","175656-0","175651-0","175652-0","175653-0"],
+    "actorList":["175654-0","175655-0","175656-0","175651-0","175652-0","175653-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["323828-0","323829-0","323831-0","323832-0","323833-0","323834-0","323835-0","323836-0","323837-0","323838-0","323839-0","323840-0","323841-0","323842-0","323843-0","323830-0","175651-0","175652-0","175653-0","175654-0","175655-0","175656-0","0-71"],
+    "container":["323828-0","323829-0","323831-0","323832-0","323833-0","323834-0","323835-0","323836-0","323837-0","323838-0","323839-0","323840-0","323841-0","323842-0","323843-0","323830-0","175651-0","175652-0","175653-0","175654-0","175655-0","175656-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["175654-0","175655-0","175656-0","175651-0","175652-0","175653-0"],
     "lock":[],
     "place":[],
-    "position":["175651-0","175652-0","175653-0","175654-0","175655-0","175656-0","0-71"],
+    "position":["175651-0","175652-0","175653-0","175654-0","175655-0","175656-0"],
     "scale":[],
-    "spawn":["0-71"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["175651-0","175652-0","175653-0","175654-0","175655-0","175656-0","0-71"],
+    "statsDynamic":["175651-0","175652-0","175653-0","175654-0","175655-0","175656-0"],
     "trap":[],
+    "miscellaneous":["175651-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["175651-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714759186,
     "description":"-1, -3"
   },
   "lastVisit":{
-    "Benoit":1714767918,
-    "Fidgug":1714767916
+    "Benoit":1715363140,
+    "Fidgug":1715363134
   },
   "recordLinks":[],
   "objectData":{
-    "0-71":{
-      "refId":"rat",
-      "location":{
-        "rotY":0,
-        "posX":-525.64874267578,
-        "posY":-21587.048828125,
-        "posZ":2046.9361572266,
-        "rotX":-0.12765268981457,
-        "rotZ":2.3643944263458
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "175654-0":{
       "refId":"imperial archer",
       "location":{
-        "rotY":0,
-        "posX":-3167.4267578125,
-        "posY":-17730.16796875,
-        "posZ":1876.9357910156,
-        "rotX":0.010120743885636,
-        "rotZ":3.0152838230133
+        "posX":-3548.55859375,
+        "posY":-17412.884765625,
+        "posZ":1875.3312988281,
+        "rotX":-0.0079535115510225,
+        "rotZ":1.6555087566376,
+        "rotY":0
       },
       "stats":{
-        "healthBase":168,
-        "healthCurrent":168,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":298,
         "fatigueCurrent":298,
+        "fatigueModified":298,
         "healthModified":168,
         "magickaModified":110,
-        "fatigueModified":298
+        "healthBase":168,
+        "healthCurrent":168,
+        "magickaBase":110
       },
       "equipment":{
         "0":{
@@ -208,23 +179,23 @@
     "175655-0":{
       "refId":"imperial archer",
       "location":{
-        "rotY":0,
-        "posX":-5765.4423828125,
-        "posY":-19446.619140625,
-        "posZ":1619.4543457031,
-        "rotX":-0.01711754873395,
-        "rotZ":-0.032073974609375
+        "posX":-5773.7592773438,
+        "posY":-19095.97265625,
+        "posZ":1620.3576660156,
+        "rotX":-0.096688255667686,
+        "rotZ":-0.07029128074646,
+        "rotY":0
       },
       "stats":{
-        "healthBase":168,
-        "healthCurrent":168,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":298,
         "fatigueCurrent":298,
+        "fatigueModified":298,
         "healthModified":168,
         "magickaModified":110,
-        "fatigueModified":298
+        "healthBase":168,
+        "healthCurrent":168,
+        "magickaBase":110
       },
       "equipment":{
         "0":{
@@ -353,23 +324,23 @@
     "175656-0":{
       "refId":"imperial archer",
       "location":{
-        "rotY":0,
-        "posX":-6294.3608398438,
-        "posY":-17587.337890625,
-        "posZ":1619.4543457031,
-        "rotX":-0.01358515303582,
-        "rotZ":3.0045120716095
+        "posX":-6267.7749023438,
+        "posY":-18242.373046875,
+        "posZ":1620.1654052734,
+        "rotX":-0.00072557292878628,
+        "rotZ":-3.1354105472565,
+        "rotY":0
       },
       "stats":{
-        "healthBase":168,
-        "healthCurrent":168,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":298,
         "fatigueCurrent":298,
+        "fatigueModified":298,
         "healthModified":168,
         "magickaModified":110,
-        "fatigueModified":298
+        "healthBase":168,
+        "healthCurrent":168,
+        "magickaBase":110
       },
       "equipment":{
         "0":{
@@ -498,23 +469,23 @@
     "175651-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":-5018.7182617188,
-        "posY":-18574.359375,
-        "posZ":945.18328857422,
-        "rotX":0.064198225736618,
-        "rotZ":-1.8292052745819
+        "posX":-6089.447265625,
+        "posY":-18750.345703125,
+        "posZ":1049.1846923828,
+        "rotX":0.022905826568604,
+        "rotZ":0.1587188243866,
+        "rotY":0
       },
       "stats":{
-        "healthBase":285,
-        "healthCurrent":285,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":309,
         "fatigueCurrent":309,
+        "fatigueModified":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "healthBase":285,
+        "healthCurrent":285,
+        "magickaBase":110
       },
       "equipment":[{
           "refId":"imperial cuirass_armor",
@@ -567,7 +538,7 @@
           "charge":-1,
           "enchantmentCharge":-1
         },{
-          "refId":"torch_infinite_time",
+          "refId":"imperial shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -645,30 +616,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":2,
+      "lastGoldRestockHour":19.839448928833,
       "goldPool":0,
-      "lastGoldRestockHour":19.839448928833
+      "lastGoldRestockDay":2
     },
     "175652-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":-5079.09765625,
-        "posY":-18704.6875,
-        "posZ":963.02520751953,
-        "rotX":-0.076406307518482,
-        "rotZ":-1.6727426052094
+        "posX":-6030.8759765625,
+        "posY":-18775.12890625,
+        "posZ":1044.9608154297,
+        "rotX":-0.13467389345169,
+        "rotZ":-2.2284500598907,
+        "rotY":0
       },
       "stats":{
-        "healthBase":285,
-        "healthCurrent":285,
-        "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":309,
         "fatigueCurrent":309,
+        "fatigueModified":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "healthBase":285,
+        "healthCurrent":285,
+        "magickaBase":110
       },
       "equipment":{
         "0":{
@@ -738,7 +709,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"torch_infinite_time",
+          "refId":"imperial shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -827,23 +798,23 @@
     "175653-0":{
       "refId":"imperial guard captain",
       "location":{
-        "rotY":0,
-        "posX":-5818.8916015625,
-        "posY":-18414.0390625,
-        "posZ":1007.3258056641,
-        "rotX":-0.34774869680405,
-        "rotZ":-2.4034073352814
+        "posX":-5754.5952148438,
+        "posY":-18376.884765625,
+        "posZ":1001.201965332,
+        "rotX":-0.037752721458673,
+        "rotZ":1.725967168808,
+        "rotY":0
       },
       "stats":{
-        "healthBase":238,
-        "healthCurrent":238,
-        "magickaBase":130,
         "magickaCurrent":130,
         "fatigueBase":315,
         "fatigueCurrent":315,
+        "fatigueModified":315,
         "healthModified":238,
         "magickaModified":130,
-        "fatigueModified":315
+        "healthBase":238,
+        "healthCurrent":238,
+        "magickaBase":130
       },
       "equipment":{
         "0":{

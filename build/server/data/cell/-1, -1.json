@@ -18,39 +18,39 @@
     "statsDynamic":["0-101"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714761425,
     "description":"-1, -1"
   },
   "lastVisit":{
-    "Fidgug":1714771078,
-    "Benoit":1714771080
+    "Fidgug":1715362998,
+    "Benoit":1715360046
   },
   "recordLinks":[],
   "objectData":{
     "0-101":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-538.34619140625,
-        "posY":-6624.61328125,
-        "posZ":3157.4838867188,
-        "rotX":-2.729706466198e-05,
-        "rotZ":1.649614572525
+        "posX":-197.19087219238,
+        "posY":-6066.3779296875,
+        "posZ":3152.8444824219,
+        "rotX":-0.0048150569200516,
+        "rotZ":0.55996537208557,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[]
     },

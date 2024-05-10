@@ -1,108 +1,79 @@
 {
   "packets":{
-    "actorList":["0-165","0-166","0-167","0-168","0-169"],
+    "actorList":["0-165","0-166","0-167","0-168"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-165","0-166","0-167","0-168","0-169"],
+    "container":["0-165","0-166","0-167","0-168"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-165","0-166","0-167","0-168","0-169"],
+    "position":["0-165","0-166","0-167","0-168"],
     "scale":[],
-    "spawn":["0-165","0-166","0-167","0-168","0-169"],
+    "spawn":["0-165","0-166","0-167","0-168"],
     "state":[],
-    "statsDynamic":["0-165","0-166","0-167","0-168","0-169"],
+    "statsDynamic":["0-165","0-166","0-167","0-168"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714767907,
     "description":"0, 0"
   },
   "lastVisit":{
-    "Benoit":1714767951,
-    "Fidgug":1714767950
+    "Fidgug":1715360006,
+    "Benoit":1715359728
   },
   "recordLinks":[],
   "objectData":{
-    "0-165":{
-      "refId":"scamp",
-      "location":{
-        "rotY":0,
-        "posX":1401.2923583984,
-        "posY":5145.80859375,
-        "posZ":667.79217529297,
-        "rotX":-0.029604364186525,
-        "rotZ":-1.331848859787
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_scamp_skin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-166":{
       "refId":"scamp",
       "location":{
-        "rotY":0,
-        "posX":3063.2314453125,
-        "posY":3857.1027832031,
-        "posZ":445.34167480469,
-        "rotX":0.0037784241139889,
-        "rotZ":-0.58262896537781
+        "posX":2760.9787597656,
+        "posY":4195.5048828125,
+        "posZ":382.49572753906,
+        "rotX":0.26439556479454,
+        "rotZ":-0.85285019874573,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":100,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
       },
       "inventory":[]
     },
     "0-167":{
       "refId":"scamp",
       "location":{
-        "rotY":0,
-        "posX":4007.009765625,
-        "posY":4781.71484375,
-        "posZ":881.40161132813,
-        "rotX":-0.62062180042267,
-        "rotZ":0.57963585853577
+        "posX":3876.8229980469,
+        "posY":4421.6284179688,
+        "posZ":787.43298339844,
+        "rotX":0.00295465067029,
+        "rotZ":-2.9038364887238,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":100,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
       },
       "inventory":[{
           "refId":"ingred_scamp_skin_01",
@@ -115,48 +86,54 @@
     "0-168":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":3505.3989257813,
-        "posY":6618.1967773438,
-        "posZ":1002.4879150391,
-        "rotX":-0.034003179520369,
-        "rotZ":1.6406571865082
+        "posX":3228.9506835938,
+        "posY":6115.0717773438,
+        "posZ":1027.7239990234,
+        "rotX":-0.0017640590667725,
+        "rotZ":0.32056784629822,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[]
     },
-    "0-169":{
-      "refId":"cliff racer",
+    "0-165":{
+      "refId":"scamp",
       "location":{
-        "rotY":0,
-        "posX":7313.380859375,
-        "posY":601.92413330078,
-        "posZ":2898.046875,
-        "rotX":0.51904082298279,
-        "rotZ":0.77037191390991
+        "posX":1986.3521728516,
+        "posY":5319.5732421875,
+        "posZ":578.25506591797,
+        "rotX":0.15829901397228,
+        "rotZ":2.8847920894623,
+        "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
+        "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "fatigueModified":400,
         "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
+        "magickaModified":100,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
       },
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_scamp_skin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

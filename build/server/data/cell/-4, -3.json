@@ -18,39 +18,109 @@
     "statsDynamic":["480590-0","0-119","0-109"],
     "trap":[],
     "miscellaneous":["0-119"],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714761404,
     "description":"-4, -3"
   },
   "lastVisit":{
-    "Benoit":1714771198,
-    "Fidgug":1714771200
+    "Fidgug":1715364182,
+    "Benoit":1715364186
   },
   "recordLinks":[],
   "objectData":{
+    "252223-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252224-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252225-0":{
+      "refId":"flora_bc_shelffungus_03",
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "34121-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "476456-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "476461-0":{
+      "refId":"flora_comberry_01",
+      "inventory":[]
+    },
+    "476463-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "476468-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "476473-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "476474-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "476475-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[]
+    },
+    "476476-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[]
+    },
+    "476477-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[]
+    },
     "480590-0":{
       "refId":"scrib",
       "location":{
-        "rotY":0,
         "posX":-28197.939453125,
         "posY":-23446.65625,
         "posZ":705.77502441406,
         "rotX":0,
-        "rotZ":0
+        "rotZ":0,
+        "rotY":0
       },
       "stats":{
-        "healthBase":8,
-        "healthCurrent":0,
-        "magickaBase":12,
         "magickaCurrent":0,
         "fatigueBase":300,
         "fatigueCurrent":298.66925048828,
+        "fatigueModified":300,
         "healthModified":8,
         "magickaModified":12,
-        "fatigueModified":300
+        "healthBase":8,
+        "healthCurrent":0,
+        "magickaBase":12
       },
       "inventory":[],
       "killer":{
@@ -61,54 +131,54 @@
     "0-119":{
       "refId":"db_assassin1b",
       "location":{
-        "rotY":0,
         "posX":-27576.697265625,
         "posY":-21889.451171875,
         "posZ":841.29949951172,
         "rotX":0.15643285214901,
-        "rotZ":-0.53520560264587
+        "rotZ":-0.53520560264587,
+        "rotY":0
       },
       "stats":{
-        "healthBase":40,
-        "healthCurrent":0,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":150,
         "fatigueCurrent":149.69734191895,
+        "fatigueModified":150,
         "healthModified":40,
         "magickaModified":100,
-        "fatigueModified":150
+        "healthBase":40,
+        "healthCurrent":0,
+        "magickaBase":100
       },
       "equipment":[],
       "inventory":[],
-      "deathState":42,
       "killer":{
         "playerName":"Fidgug"
       },
       "goldPool":0,
+      "lastGoldRestockDay":4,
       "lastGoldRestockHour":17.381175994873,
-      "lastGoldRestockDay":4
+      "deathState":42
     },
     "0-109":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
-        "posX":-31901.873046875,
-        "posY":-20730.53125,
-        "posZ":609.97454833984,
-        "rotX":-0.089973300695419,
-        "rotZ":-1.554459810257
+        "posX":-32203.4765625,
+        "posY":-20101.9609375,
+        "posZ":461.224609375,
+        "rotX":-0.31568253040314,
+        "rotZ":3.072719335556,
+        "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
+        "fatigueModified":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -219,76 +289,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "252223-0":{
-      "refId":"flora_bc_shelffungus_02",
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252224-0":{
-      "refId":"flora_bc_shelffungus_02",
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252225-0":{
-      "refId":"flora_bc_shelffungus_03",
-      "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "34121-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "476456-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "476461-0":{
-      "refId":"flora_comberry_01",
-      "inventory":[]
-    },
-    "476463-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "476468-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "476473-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "476474-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "476475-0":{
-      "refId":"flora_gold_kanet_02",
-      "inventory":[]
-    },
-    "476476-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[]
-    },
-    "476477-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[]
     }
   },
   "loadState":{
