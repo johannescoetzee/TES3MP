@@ -6,7 +6,7 @@
     "cellChangeTo":[],
     "container":["390613-0","56848-0","56849-0","56850-0","56852-0","56853-0","56854-0","56859-0","56861-0","56862-0","56866-0","56867-0","56868-0","56869-0","56968-0","332054-0","332053-0","86807-0","460130-0","477571-0","67615-0","67616-0","67617-0","67618-0","67619-0","67620-0","67621-0"],
     "death":[],
-    "delete":["466179-0","466177-0","466178-0","466175-0","466173-0","466182-0","466183-0","466181-0","466174-0","466176-0","466180-0","390615-0","390616-0","56969-0","56971-0","56972-0"],
+    "delete":["466179-0","466177-0","466178-0","466175-0","466173-0","466182-0","466183-0","466181-0","466174-0","466176-0","466180-0","390615-0","390616-0","56969-0","56971-0","56972-0","56970-0"],
     "doorState":[],
     "equipment":["67617-0","67618-0","67621-0","67615-0","67620-0","67616-0","67619-0"],
     "lock":[],
@@ -26,7 +26,7 @@
     "description":"Balmora, Guild of Mages"
   },
   "lastVisit":{
-    "Benoit":1715363517,
+    "Benoit":1715974194,
     "Fidgug":1715363520
   },
   "recordLinks":{
@@ -36,78 +36,26 @@
     }
   },
   "objectData":{
-    "67617-0":{
-      "refId":"sharn gra-muzgob",
-      "location":{
-        "posX":494.46795654297,
-        "posY":-1601.1618652344,
-        "posZ":-762,
-        "rotX":0,
-        "rotZ":-0.1190869808197,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":223,
-        "fatigueCurrent":223,
-        "fatigueModified":223,
-        "healthModified":85,
-        "magickaModified":94,
-        "healthBase":85,
-        "healthCurrent":85,
-        "magickaBase":94
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_05_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_robe_05_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":11.209570884705,
-      "goldPool":200,
-      "lastGoldRestockDay":11
-    },
     "67618-0":{
       "refId":"ajira",
       "location":{
-        "posX":-519.61157226563,
-        "posY":-745.18994140625,
+        "posX":-519.41461181641,
+        "posY":-745.06799316406,
         "posZ":-762,
         "rotX":0,
-        "rotZ":3.0831859111786,
+        "rotZ":-2.6342008113861,
         "rotY":0
       },
       "stats":{
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":138,
         "magickaCurrent":138,
         "fatigueBase":183,
         "fatigueCurrent":183,
-        "fatigueModified":183,
         "healthModified":67,
         "magickaModified":138,
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":138
+        "fatigueModified":183
       },
       "equipment":{
         "11":{
@@ -231,31 +179,37 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"apparatus_j_mortar_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockHour":8.5954580307007,
-      "goldPool":427,
-      "lastGoldRestockDay":10
+      "lastGoldRestockHour":1.071093082428,
+      "goldPool":2423,
+      "lastGoldRestockDay":14
     },
     "67621-0":{
       "refId":"galbedir",
       "location":{
-        "posX":-492.34948730469,
-        "posY":-77.722412109375,
-        "posZ":5.9997177124023,
-        "rotX":-0.048571217805147,
-        "rotZ":2.8530566692352,
+        "posX":-491.49920654297,
+        "posY":-86.123458862305,
+        "posZ":5.9997253417969,
+        "rotX":0,
+        "rotZ":2.6945178508759,
         "rotY":0
       },
       "stats":{
+        "healthBase":57,
+        "healthCurrent":57,
+        "magickaBase":132,
         "magickaCurrent":132,
         "fatigueBase":185,
         "fatigueCurrent":185,
-        "fatigueModified":185,
         "healthModified":57,
         "magickaModified":132,
-        "healthBase":57,
-        "healthCurrent":57,
-        "magickaBase":132
+        "fatigueModified":185
       },
       "equipment":{
         "7":{
@@ -434,30 +388,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":8.1259365081787,
-      "goldPool":1554,
-      "lastGoldRestockDay":10
+      "lastGoldRestockHour":23.649780273438,
+      "goldPool":900,
+      "lastGoldRestockDay":13
     },
     "67615-0":{
       "refId":"masalinie merian",
       "location":{
-        "posX":-618.03759765625,
-        "posY":-1037.1069335938,
+        "posX":-618.02087402344,
+        "posY":-1037.0939941406,
         "posZ":-762,
         "rotX":0,
-        "rotZ":1.0123264789581,
+        "rotZ":0.14292407035828,
         "rotY":0
       },
       "stats":{
+        "healthBase":79,
+        "healthCurrent":79,
+        "magickaBase":197,
         "magickaCurrent":197,
         "fatigueBase":212,
         "fatigueCurrent":212,
-        "fatigueModified":212,
         "healthModified":79,
         "magickaModified":197,
-        "healthBase":79,
-        "healthCurrent":79,
-        "magickaBase":197
+        "fatigueModified":212
       },
       "equipment":{
         "7":{
@@ -505,23 +459,23 @@
     "67620-0":{
       "refId":"ranis athrys",
       "location":{
-        "posX":-510.66754150391,
-        "posY":-59.317794799805,
+        "posX":-507.51953125,
+        "posY":-73.172470092773,
         "posZ":-250.00030517578,
         "rotX":0,
-        "rotZ":2.9324429035187,
+        "rotZ":2.7671835422516,
         "rotY":0
       },
       "stats":{
+        "healthBase":73,
+        "healthCurrent":73,
+        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":208,
         "fatigueCurrent":208,
-        "fatigueModified":208,
         "healthModified":73,
         "magickaModified":100,
-        "healthBase":73,
-        "healthCurrent":73,
-        "magickaBase":100
+        "fatigueModified":208
       },
       "equipment":{
         "7":{
@@ -580,30 +534,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":10.114046096802,
+      "lastGoldRestockHour":23.449123382568,
       "goldPool":150,
-      "lastGoldRestockDay":11
+      "lastGoldRestockDay":13
     },
     "67616-0":{
       "refId":"marayn dren",
       "location":{
-        "posX":-33.078018188477,
-        "posY":-650.94720458984,
+        "posX":-32.344821929932,
+        "posY":-649.29321289063,
         "posZ":-762,
         "rotX":0,
-        "rotZ":-2.7893931865692,
+        "rotZ":-3.1395990848541,
         "rotY":0
       },
       "stats":{
+        "healthBase":75,
+        "healthCurrent":75,
+        "magickaBase":124,
         "magickaCurrent":124,
         "fatigueBase":205,
         "fatigueCurrent":205,
-        "fatigueModified":205,
         "healthModified":75,
         "magickaModified":124,
-        "healthBase":75,
-        "healthCurrent":75,
-        "magickaBase":124
+        "fatigueModified":205
       },
       "equipment":{
         "7":{
@@ -650,30 +604,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":8.3748502731323,
-      "goldPool":118,
-      "lastGoldRestockDay":10
+      "lastGoldRestockHour":0.91126477718353,
+      "goldPool":0,
+      "lastGoldRestockDay":14
     },
     "67619-0":{
       "refId":"estirdalin",
       "location":{
-        "posX":-200.75993347168,
-        "posY":-1053.3913574219,
+        "posX":-232.27130126953,
+        "posY":-1109.8444824219,
         "posZ":-761.99987792969,
-        "rotX":0.01499724201858,
-        "rotZ":-1.0770795345306,
+        "rotX":0.01088420022279,
+        "rotZ":3.0436737537384,
         "rotY":0
       },
       "stats":{
+        "healthBase":55,
+        "healthCurrent":55,
+        "magickaBase":245,
         "magickaCurrent":245,
         "fatigueBase":189,
         "fatigueCurrent":189,
-        "fatigueModified":189,
         "healthModified":55,
         "magickaModified":245,
-        "healthBase":55,
-        "healthCurrent":55,
-        "magickaBase":245
+        "fatigueModified":189
       },
       "equipment":{
         "7":{
@@ -726,9 +680,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":8.1426963806152,
-      "goldPool":376,
-      "lastGoldRestockDay":10
+      "lastGoldRestockHour":0.71467715501785,
+      "goldPool":0,
+      "lastGoldRestockDay":14
     },
     "390613-0":{
       "refId":"de_p_desk_01_galbedir",
@@ -1425,8 +1379,57 @@
     "466174-0":{
       "refId":"misc_soulgem_petty"
     },
-    "466176-0":{
-      "refId":"misc_soulgem_petty"
+    "67617-0":{
+      "refId":"sharn gra-muzgob",
+      "location":{
+        "posX":497.646484375,
+        "posY":-1602.2332763672,
+        "posZ":-762,
+        "rotX":0,
+        "rotZ":0.009645938873291,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":85,
+        "healthCurrent":85,
+        "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueBase":223,
+        "fatigueCurrent":223,
+        "healthModified":85,
+        "magickaModified":94,
+        "fatigueModified":223
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_05_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_robe_05_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":0.47069451212883,
+      "goldPool":200,
+      "lastGoldRestockDay":14
     },
     "466180-0":{
       "refId":"misc_soulgem_grand"
@@ -1437,9 +1440,6 @@
     "56971-0":{
       "refId":"apparatus_j_retort_01"
     },
-    "56972-0":{
-      "refId":"apparatus_j_alembic_01"
-    },
     "390615-0":{
       "refId":"bk_ajira1",
       "state":true
@@ -1447,10 +1447,19 @@
     "390616-0":{
       "refId":"bk_ajira2",
       "state":true
+    },
+    "56970-0":{
+      "refId":"apparatus_m_mortar_01"
+    },
+    "56972-0":{
+      "refId":"apparatus_j_alembic_01"
+    },
+    "466176-0":{
+      "refId":"misc_soulgem_petty"
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

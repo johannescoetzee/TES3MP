@@ -17,17 +17,17 @@
     "state":[],
     "statsDynamic":["0-210"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714769599,
     "description":"-4, 2"
   },
   "lastVisit":{
-    "Benoit":1714770791,
-    "Fidgug":1714770788
+    "Benoit":1715976815,
+    "Fidgug":1715976833
   },
   "recordLinks":[],
   "objectData":{
@@ -77,6 +77,69 @@
     },
     "476434-0":{
       "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "0-210":{
+      "refId":"rat",
+      "location":{
+        "posX":-32171.21875,
+        "posY":23051.97265625,
+        "posZ":1849.7998046875,
+        "rotX":0.045590050518513,
+        "rotZ":3.1341621875763,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43545-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43546-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43547-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43548-0":{
+      "refId":"flora_chokeweed_02",
       "inventory":[]
     },
     "43549-0":{
@@ -141,69 +204,6 @@
           "soul":""
         }]
     },
-    "43548-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "43547-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43545-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-210":{
-      "refId":"rat",
-      "location":{
-        "rotY":0,
-        "posX":-32550.701171875,
-        "posY":24244.767578125,
-        "posZ":1826.3830566406,
-        "rotX":0,
-        "rotZ":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43546-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "476412-0":{
       "refId":"flora_kreshweed_03",
       "inventory":[]
@@ -220,7 +220,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -26,31 +26,31 @@
     "description":"-3, -3"
   },
   "lastVisit":{
-    "Fidgug":1715364182,
-    "Benoit":1715364186
+    "Fidgug":1715975227,
+    "Benoit":1715975224
   },
   "recordLinks":[],
   "objectData":{
     "67596-0":{
       "refId":"tedryn brenur",
       "location":{
-        "posX":-21180.435546875,
-        "posY":-16460.0390625,
+        "posX":-21198.96484375,
+        "posY":-16457.291015625,
         "posZ":833.39172363281,
         "rotX":0,
-        "rotZ":-2.0000011920929,
+        "rotZ":4.2831840515137,
         "rotY":0
       },
       "stats":{
+        "healthBase":119,
+        "healthCurrent":119,
+        "magickaBase":92,
         "magickaCurrent":92,
         "fatigueBase":230,
         "fatigueCurrent":230,
-        "fatigueModified":230,
         "healthModified":119,
         "magickaModified":92,
-        "healthBase":119,
-        "healthCurrent":119,
-        "magickaBase":92
+        "fatigueModified":230
       },
       "equipment":{
         "1":{
@@ -143,23 +143,23 @@
     "270749-0":{
       "refId":"selvil sareloth",
       "location":{
-        "posX":-21204.837890625,
-        "posY":-18247.0390625,
+        "posX":-21193.720703125,
+        "posY":-18231.19921875,
         "posZ":1085.9833984375,
         "rotX":0,
-        "rotZ":-0.80153942108154,
+        "rotZ":0,
         "rotY":0
       },
       "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":160,
         "fatigueCurrent":160,
-        "fatigueModified":160,
         "healthModified":45,
         "magickaModified":100,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100
+        "fatigueModified":160
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_01",
@@ -197,29 +197,29 @@
           "soul":""
         }],
       "lastGoldRestockHour":17.292835235596,
-      "goldPool":45,
-      "lastGoldRestockDay":11
+      "lastGoldRestockDay":11,
+      "goldPool":45
     },
     "67597-0":{
       "refId":"dranas dradas",
       "location":{
-        "posX":-21239.384765625,
-        "posY":-16593.05078125,
+        "posX":-21236.896484375,
+        "posY":-16586.5234375,
         "posZ":833.39172363281,
         "rotX":0,
-        "rotZ":-0.18318581581116,
+        "rotZ":6.0999999046326,
         "rotY":0
       },
       "stats":{
+        "healthBase":94,
+        "healthCurrent":94,
+        "magickaBase":112,
         "magickaCurrent":112,
         "fatigueBase":208,
         "fatigueCurrent":208,
-        "fatigueModified":208,
         "healthModified":94,
         "magickaModified":112,
-        "healthBase":94,
-        "healthCurrent":94,
-        "magickaBase":112
+        "fatigueModified":208
       },
       "equipment":{
         "16":{
@@ -495,8 +495,21 @@
       "refId":"com_basket_01_empty",
       "inventory":[]
     },
-    "41642-0":{
-      "cellChangeTo":"-3, -1"
+    "34091-0":{
+      "refId":"urn_02_ingred",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_kagouti_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "34093-0":{
       "refId":"urn_03_ingred",
@@ -514,25 +527,12 @@
           "soul":""
         }]
     },
-    "34091-0":{
-      "refId":"urn_02_ingred",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_kagouti_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "41642-0":{
+      "cellChangeTo":"-3, -1"
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

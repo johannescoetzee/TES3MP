@@ -17,9 +17,9 @@
     "state":[],
     "statsDynamic":["172887-0","172888-0","172889-0"],
     "trap":[],
+    "miscellaneous":["172887-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["172887-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768161,
@@ -27,37 +27,79 @@
   },
   "lastVisit":{
     "Benoit":1714768255,
-    "Fidgug":1714768253
+    "Fidgug":1715976004
   },
   "recordLinks":[],
   "objectData":{
-    "164670-0":{
-      "refId":"chest_small_02_gold_25",
+    "324656-0":{
+      "refId":"com_sack_02_chpfood3",
       "inventory":[{
-          "refId":"gold_001",
-          "count":25,
+          "refId":"ingred_scuttle_01",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "164677-0":{
-      "refId":"com_cupboard_01_gavin",
+    "324657-0":{
+      "refId":"com_sack_01_chpfood5",
       "inventory":[{
-          "refId":"misc_com_bottle_03",
-          "count":3,
+          "refId":"ingred_saltrice_01",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"misc_com_bottle_06",
+        }]
+    },
+    "324658-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "324659-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164655-0":{
+      "refId":"crate_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"misc_com_bottle_13",
-          "count":2,
+          "refId":"misc_com_bottle_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_07",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_12",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_15",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -66,12 +108,12 @@
     "172887-0":{
       "refId":"shenk",
       "location":{
-        "rotY":0,
-        "posX":255.72413635254,
-        "posY":20.938289642334,
+        "posX":250.78945922852,
+        "posY":20.373237609863,
         "posZ":129,
         "rotX":0,
-        "rotZ":-2.599999666214
+        "rotZ":3.1165196895599,
+        "rotY":0
       },
       "stats":{
         "healthBase":97,
@@ -177,23 +219,394 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":6,
-      "goldPool":400,
-      "lastGoldRestockHour":6.31378698349
+      "lastGoldRestockHour":19.628835678101,
+      "lastGoldRestockDay":14,
+      "goldPool":400
+    },
+    "172889-0":{
+      "refId":"ri'shajirr",
+      "location":{
+        "posX":-29.919027328491,
+        "posY":-221.79968261719,
+        "posZ":385,
+        "rotX":-0.090050764381886,
+        "rotZ":-0.34376573562622,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":87,
+        "healthCurrent":87,
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueBase":222,
+        "fatigueCurrent":222,
+        "healthModified":87,
+        "magickaModified":92,
+        "fatigueModified":222
+      },
+      "equipment":{
+        "14":{
+          "refId":"amulet of balyna's soothing bal",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "18":{
+          "refId":"iron arrow",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"long bow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"amulet of balyna's soothing bal",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":26,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"long bow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel halberd",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164654-0":{
+      "refId":"crate_01_food_misc01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":7,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_rat_meat_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_saltrice_01",
+          "count":8,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164656-0":{
+      "refId":"com_cupboard_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_03",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_06",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_13",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164666-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164667-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164668-0":{
+      "refId":"com_basket_01_chpfood",
+      "inventory":[{
+          "refId":"ingred_scrib_jerky_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"food_kwama_egg_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164669-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164670-0":{
+      "refId":"chest_small_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164677-0":{
+      "refId":"com_cupboard_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_03",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_06",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_13",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "164731-0":{
       "refId":"crate_01_empty",
       "inventory":[]
     },
+    "164737-0":{
+      "refId":"com_sack_02_gold_05",
+      "inventory":[{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164738-0":{
+      "refId":"com_sack_03_chpfood5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164739-0":{
+      "refId":"crate_01_eggs",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164755-0":{
+      "refId":"com_cupboard_01_tankard",
+      "inventory":[{
+          "refId":"misc_com_tankard_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164774-0":{
+      "refId":"com_cupboard_01_tankard",
+      "inventory":[{
+          "refId":"misc_com_tankard_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164777-0":{
+      "refId":"com_closet_01_g1",
+      "inventory":[{
+          "refId":"common_amulet_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_amulet_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_ring_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_02_rr",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_belt_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164816-0":{
+      "refId":"com_hutch_01_plates",
+      "inventory":[{
+          "refId":"misc_com_metal_plate_03",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164723-0":{
+      "refId":"com_chest_01_shenk",
+      "inventory":[]
+    },
     "172888-0":{
       "refId":"iratian albarnian",
       "location":{
-        "rotY":0,
-        "posX":34.892822265625,
-        "posY":308.08212280273,
+        "posX":50.36457824707,
+        "posY":296.73742675781,
         "posZ":129,
-        "rotX":-0.029957860708237,
-        "rotZ":-2.4206955432892
+        "rotX":0,
+        "rotZ":0.67764830589294,
+        "rotY":0
       },
       "stats":{
         "healthBase":128,
@@ -288,313 +701,6 @@
           "soul":""
         }]
     },
-    "164737-0":{
-      "refId":"com_sack_02_gold_05",
-      "inventory":[{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "172889-0":{
-      "refId":"ri'shajirr",
-      "location":{
-        "rotY":0,
-        "posX":1.3239822387695,
-        "posY":-110.69834899902,
-        "posZ":385.00006103516,
-        "rotX":-0.11059901118279,
-        "rotZ":-2.2461006641388
-      },
-      "stats":{
-        "healthBase":87,
-        "healthCurrent":87,
-        "magickaBase":92,
-        "magickaCurrent":92,
-        "fatigueBase":222,
-        "fatigueCurrent":222,
-        "healthModified":87,
-        "magickaModified":92,
-        "fatigueModified":222
-      },
-      "equipment":{
-        "14":{
-          "refId":"amulet of balyna's soothing bal",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "18":{
-          "refId":"iron arrow",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"long bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"amulet of balyna's soothing bal",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":26,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron arrow",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"long bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel halberd",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164738-0":{
-      "refId":"com_sack_03_chpfood5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164739-0":{
-      "refId":"crate_01_eggs",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164655-0":{
-      "refId":"crate_01_gavin",
-      "inventory":[{
-          "refId":"misc_com_bottle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_07",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_12",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_15",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164755-0":{
-      "refId":"com_cupboard_01_tankard",
-      "inventory":[{
-          "refId":"misc_com_tankard_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164774-0":{
-      "refId":"com_cupboard_01_tankard",
-      "inventory":[{
-          "refId":"misc_com_tankard_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324659-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164777-0":{
-      "refId":"com_closet_01_g1",
-      "inventory":[{
-          "refId":"common_amulet_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_amulet_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_ring_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_skirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_02_rr",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_belt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01_a",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01_a",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324654-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164816-0":{
-      "refId":"com_hutch_01_plates",
-      "inventory":[{
-          "refId":"misc_com_metal_plate_03",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324657-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164723-0":{
-      "refId":"com_chest_01_shenk",
-      "inventory":[]
-    },
     "324642-0":{
       "refId":"crate_01_eggs",
       "inventory":[{
@@ -605,33 +711,11 @@
           "soul":""
         }]
     },
-    "324655-0":{
-      "refId":"com_sack_02_chpfood3",
+    "324643-0":{
+      "refId":"com_basket_01_food",
       "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164654-0":{
-      "refId":"crate_01_food_misc01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":7,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_rat_meat_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_saltrice_01",
-          "count":8,
+          "refId":"food_kwama_egg_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -659,28 +743,6 @@
           "soul":""
         }]
     },
-    "164656-0":{
-      "refId":"com_cupboard_01_gavin",
-      "inventory":[{
-          "refId":"misc_com_bottle_03",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_06",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_13",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "324653-0":{
       "refId":"com_basket_01_chpfood5",
       "inventory":[{
@@ -691,8 +753,8 @@
           "soul":""
         }]
     },
-    "164666-0":{
-      "refId":"com_sack_01_chpfood5",
+    "324654-0":{
+      "refId":"com_basket_01_chpfood5",
       "inventory":[{
           "refId":"ingred_saltrice_01",
           "count":5,
@@ -701,73 +763,11 @@
           "soul":""
         }]
     },
-    "164667-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324656-0":{
+    "324655-0":{
       "refId":"com_sack_02_chpfood3",
       "inventory":[{
-          "refId":"ingred_scuttle_01",
+          "refId":"ingred_hound_meat_01",
           "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164668-0":{
-      "refId":"com_basket_01_chpfood",
-      "inventory":[{
-          "refId":"ingred_scrib_jerky_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"food_kwama_egg_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324658-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164669-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324643-0":{
-      "refId":"com_basket_01_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -775,7 +775,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

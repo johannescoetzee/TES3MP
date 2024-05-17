@@ -17,9 +17,9 @@
     "state":["84465-0"],
     "statsDynamic":[],
     "trap":[],
-    "spellsActive":[],
     "miscellaneous":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"0, 22",
@@ -30,11 +30,11 @@
   "objectData":{
     "84465-0":{
       "refId":"ulyne henim",
-      "state":false
+      "state":true
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

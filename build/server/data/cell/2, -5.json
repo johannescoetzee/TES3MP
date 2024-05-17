@@ -26,79 +26,11 @@
     "creationTime":1715366116
   },
   "lastVisit":{
-    "Fidgug":1715366990,
-    "Benoit":1715366992
+    "Fidgug":1715970791,
+    "Benoit":1715970800
   },
   "recordLinks":[],
   "objectData":{
-    "184064-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[]
-    },
-    "184066-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "184068-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "184071-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[]
-    },
-    "184074-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "184075-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "184076-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "184079-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "184081-0":{
       "refId":"flora_saltrice_02",
       "inventory":[{
@@ -250,23 +182,23 @@
     "0-368":{
       "refId":"slaughterfish",
       "location":{
-        "posX":19484.68359375,
-        "posY":-38022.8359375,
+        "posX":19938.87109375,
+        "posY":-37425.625,
         "posZ":-358.22668457031,
         "rotX":0,
-        "rotZ":1.3791382312775,
+        "rotZ":-1.6719825267792,
         "rotY":0
       },
       "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
         "healthModified":23,
         "magickaModified":10,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
+        "fatigueModified":400
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -279,23 +211,23 @@
     "0-366":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":23366.71484375,
-        "posY":-34934.484375,
-        "posZ":602.55895996094,
-        "rotX":-0.14728417992592,
-        "rotZ":0.47422456741333,
+        "posX":23519.646484375,
+        "posY":-33245.9765625,
+        "posZ":786.00360107422,
+        "rotX":-0.05070323869586,
+        "rotZ":2.9318096637726,
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":35,
-        "fatigueCurrent":35,
-        "fatigueModified":35,
-        "healthModified":15,
-        "magickaModified":5,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaBase":5
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":26,
+        "fatigueCurrent":26,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":26
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -308,23 +240,23 @@
     "0-367":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":23350.310546875,
-        "posY":-39046.27734375,
-        "posZ":78.913726806641,
-        "rotX":0.33569538593292,
-        "rotZ":0.34057784080505,
+        "posX":22976.6875,
+        "posY":-38850.1953125,
+        "posZ":53.810569763184,
+        "rotX":0.06136504560709,
+        "rotZ":-0.26412034034729,
         "rotY":0
       },
       "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
         "magickaCurrent":5,
         "fatigueBase":26,
         "fatigueCurrent":26,
-        "fatigueModified":26,
         "healthModified":15,
         "magickaModified":5,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5
+        "fatigueModified":26
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -357,10 +289,78 @@
     "184061-0":{
       "refId":"flora_saltrice_02",
       "inventory":[]
+    },
+    "184064-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[]
+    },
+    "184066-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "184068-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "184071-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[]
+    },
+    "184074-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "184075-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "184076-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "184079-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

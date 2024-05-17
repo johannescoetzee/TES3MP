@@ -17,150 +17,20 @@
     "state":[],
     "statsDynamic":["482533-0"],
     "trap":[],
+    "miscellaneous":["482533-0"],
     "clientScriptLocal":[],
-    "spellsActive":["482533-0"],
-    "miscellaneous":["482533-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768072,
     "description":"-3, 2"
   },
   "lastVisit":{
-    "Benoit":1714770934,
-    "Fidgug":1714770933
+    "Benoit":1715976787,
+    "Fidgug":1715976787
   },
   "recordLinks":[],
   "objectData":{
-    "43350-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "43351-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "43352-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "43353-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43354-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43355-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43356-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "43357-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476262-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476263-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
-    "476264-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476265-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
-    "476266-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476267-0":{
-      "refId":"flora_bittergreen_pod_01",
-      "inventory":[]
-    },
-    "476268-0":{
-      "refId":"flora_bittergreen_01",
-      "inventory":[]
-    },
-    "476269-0":{
-      "refId":"flora_bittergreen_02",
-      "inventory":[]
-    },
-    "476270-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[]
-    },
-    "476271-0":{
-      "refId":"flora_bittergreen_04",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476272-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
     "476276-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[{
@@ -296,12 +166,12 @@
     "482533-0":{
       "refId":"alveleg",
       "location":{
-        "rotY":0,
         "posX":-21657.65625,
         "posY":16839.841796875,
         "posZ":2166.5766601563,
-        "rotX":0.42140012979507,
-        "rotZ":2.0148456096649
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
       },
       "stats":{
         "healthBase":46,
@@ -365,47 +235,15 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockHour":18.829858779907,
+      "lastGoldRestockDay":6,
+      "goldPool":0,
+      "spellsActive":{
+      },
       "deathState":40,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "goldPool":0,
-      "lastGoldRestockHour":18.829858779907,
-      "spellsActive":{
-        "p_restore_health_b":[{
-            "displayName":"Bargain Restore Health",
-            "stackingState":true,
-            "startTime":1714769688,
-            "effects":[{
-                "timeLeft":5,
-                "magnitude":1,
-                "id":75,
-                "duration":5,
-                "arg":-1
-              }],
-            "caster":{
-              "refId":"alveleg",
-              "uniqueIndex":"482533-0"
-            }
-          }],
-        "p_fire_shield_s":[{
-            "effects":[{
-                "timeLeft":30,
-                "magnitude":10,
-                "id":4,
-                "duration":30,
-                "arg":-1
-              }],
-            "stackingState":true,
-            "caster":{
-              "refId":"alveleg",
-              "uniqueIndex":"482533-0"
-            },
-            "displayName":"Standard Potion of Fire Shield",
-            "startTime":1714769679
-          }]
-      },
-      "lastGoldRestockDay":6
+      }
     },
     "43348-0":{
       "refId":"flora_chokeweed_02",
@@ -420,10 +258,140 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "43350-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "43351-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "43352-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "43353-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43354-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43355-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43356-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "43357-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476262-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476263-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
+    },
+    "476264-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476265-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
+    },
+    "476266-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476267-0":{
+      "refId":"flora_bittergreen_pod_01",
+      "inventory":[]
+    },
+    "476268-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[]
+    },
+    "476269-0":{
+      "refId":"flora_bittergreen_02",
+      "inventory":[]
+    },
+    "476270-0":{
+      "refId":"flora_bittergreen_03",
+      "inventory":[]
+    },
+    "476271-0":{
+      "refId":"flora_bittergreen_04",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476272-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

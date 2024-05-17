@@ -18,167 +18,19 @@
     "statsDynamic":["172892-0"],
     "trap":[],
     "miscellaneous":["172892-0"],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768762,
     "description":"Caldera, Hodlismod: Armorer"
   },
   "lastVisit":{
-    "Benoit":1714769011,
-    "Fidgug":1714769009
+    "Benoit":1715975913,
+    "Fidgug":1715975856
   },
   "recordLinks":[],
   "objectData":{
-    "164857-0":{
-      "refId":"crate_01_iron_weapons",
-      "inventory":[{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164875-0":{
-      "refId":"com_closet_01_mclothes",
-      "inventory":[{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164876-0":{
-      "refId":"crate_01_empty",
-      "inventory":[]
-    },
-    "164883-0":{
-      "refId":"crate_02_steel_weapons",
-      "inventory":[{
-          "refId":"steel claymore",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164884-0":{
-      "refId":"crate_02_steel_weapons",
-      "inventory":[{
-          "refId":"steel mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164891-0":{
-      "refId":"crate_02_empty",
-      "inventory":[]
-    },
-    "164900-0":{
-      "refId":"com_cupboard_01_gavin",
-      "inventory":[{
-          "refId":"misc_com_bottle_03",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_06",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_13",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164901-0":{
-      "refId":"com_cupboard_01_gavin",
-      "inventory":[{
-          "refId":"misc_com_bottle_03",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_06",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_13",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164913-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164914-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164915-0":{
-      "refId":"com_sack_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324683-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "324684-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "324685-0":{
       "refId":"com_sack_02_pos",
       "inventory":[]
@@ -276,12 +128,12 @@
     "172892-0":{
       "refId":"hodlismod",
       "location":{
-        "rotY":0,
-        "posX":202.45803833008,
-        "posY":41.693183898926,
+        "posX":194.36347961426,
+        "posY":41.543930053711,
         "posZ":129,
         "rotX":0,
-        "rotZ":-2.6666653156281
+        "rotZ":-2.7333319187164,
+        "rotY":0
       },
       "stats":{
         "healthBase":158,
@@ -435,13 +287,161 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":6,
-      "goldPool":1309,
-      "lastGoldRestockHour":11.281366348267
+      "lastGoldRestockHour":21.824756622314,
+      "goldPool":1300,
+      "lastGoldRestockDay":14
+    },
+    "164857-0":{
+      "refId":"crate_01_iron_weapons",
+      "inventory":[{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164875-0":{
+      "refId":"com_closet_01_mclothes",
+      "inventory":[{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164876-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
+    "164883-0":{
+      "refId":"crate_02_steel_weapons",
+      "inventory":[{
+          "refId":"steel claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164884-0":{
+      "refId":"crate_02_steel_weapons",
+      "inventory":[{
+          "refId":"steel mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164891-0":{
+      "refId":"crate_02_empty",
+      "inventory":[]
+    },
+    "164900-0":{
+      "refId":"com_cupboard_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_03",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_06",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_13",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164901-0":{
+      "refId":"com_cupboard_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_03",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_06",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_13",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164913-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164914-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164915-0":{
+      "refId":"com_sack_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "324683-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "324684-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

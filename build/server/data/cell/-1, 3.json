@@ -1,45 +1,146 @@
 {
   "packets":{
-    "actorList":["0-183","0-181","0-182"],
+    "actorList":["0-183","0-181","0-182","0-180"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["48925-0","48926-0","48927-0","48928-0","48929-0","48930-0","48931-0","48932-0","48933-0","48934-0","279572-0","475809-0","475810-0","475811-0","475812-0","475813-0","475815-0","475816-0","475817-0","475818-0","475819-0","475820-0","475821-0","475822-0","475823-0","475824-0","475825-0","475826-0","0-183","0-181","0-182"],
+    "container":["48925-0","48926-0","48927-0","48928-0","48929-0","48930-0","48931-0","48932-0","48933-0","48934-0","279572-0","475809-0","475810-0","475811-0","475812-0","475813-0","475815-0","475816-0","475817-0","475818-0","475819-0","475820-0","475821-0","475822-0","475823-0","475824-0","475825-0","475826-0","0-183","0-181","0-182","0-180"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-181","0-183","0-182"],
+    "position":["0-181","0-183","0-182","0-180"],
     "scale":[],
-    "spawn":["0-183","0-181","0-182"],
+    "spawn":["0-183","0-181","0-182","0-180"],
     "state":[],
-    "statsDynamic":["0-181","0-183","0-182"],
+    "statsDynamic":["0-181","0-183","0-182","0-180"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768146,
     "description":"-1, 3"
   },
   "lastVisit":{
-    "Fidgug":1714770867,
-    "Benoit":1714770869
+    "Fidgug":1715976494,
+    "Benoit":1715976495
   },
   "recordLinks":[],
   "objectData":{
+    "475825-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475826-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "0-180":{
+      "refId":"kagouti_diseased",
+      "location":{
+        "posX":-8047.6328125,
+        "posY":27402.466796875,
+        "posZ":2462.7546386719,
+        "rotX":0.98687762022018,
+        "rotZ":0.62897849082947,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":272,
+        "fatigueCurrent":272,
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":272
+      },
+      "inventory":[{
+          "refId":"ingred_kagouti_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-183":{
+      "refId":"scrib",
+      "location":{
+        "posX":-5382.7993164063,
+        "posY":28695.927734375,
+        "posZ":3183.6760253906,
+        "rotX":0.54443275928497,
+        "rotZ":1.0419456958771,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-181":{
+      "refId":"scrib",
+      "location":{
+        "posX":-2782.51171875,
+        "posY":28267.265625,
+        "posZ":3092.2512207031,
+        "rotX":-0.02422390319407,
+        "rotZ":-2.0087873935699,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-182":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-193.70204162598,
-        "posY":26324.078125,
+        "posX":-180.31201171875,
+        "posY":26316.041015625,
         "posZ":3671.3896484375,
         "rotX":0.00035959295928478,
-        "rotZ":-0.54794335365295
+        "rotZ":-0.54794335365295,
+        "rotY":0
       },
       "stats":{
         "healthBase":45,
@@ -283,82 +384,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "475825-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475826-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "0-183":{
-      "refId":"scrib",
-      "location":{
-        "rotY":0,
-        "posX":-5756.9833984375,
-        "posY":29318.990234375,
-        "posZ":3143.7878417969,
-        "rotX":0.59053748846054,
-        "rotZ":1.8203032016754
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-181":{
-      "refId":"scrib",
-      "location":{
-        "rotY":0,
-        "posX":-3282.6357421875,
-        "posY":28150.3125,
-        "posZ":3200.599609375,
-        "rotX":-0.15825770795345,
-        "rotZ":2.1692335605621
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -1,93 +1,36 @@
 {
   "packets":{
-    "actorList":["0-173","0-175"],
+    "actorList":["0-173","0-175","0-176"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["49030-0","49031-0","49032-0","49033-0","49034-0","49035-0","49036-0","49037-0","49038-0","49039-0","476093-0","476094-0","476095-0","476096-0","476097-0","476098-0","476099-0","476100-0","476106-0","476107-0","476108-0","476109-0","476110-0","476111-0","0-173","0-175"],
-    "death":["0-175"],
+    "container":["49030-0","49031-0","49032-0","49033-0","49034-0","49035-0","49036-0","49037-0","49038-0","49039-0","476093-0","476094-0","476095-0","476096-0","476097-0","476098-0","476099-0","476100-0","476106-0","476107-0","476108-0","476109-0","476110-0","476111-0","0-173","0-175","0-176"],
+    "death":["0-175","0-176"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-173","0-175"],
+    "position":["0-173","0-175","0-176"],
     "scale":[],
-    "spawn":["0-173","0-175"],
+    "spawn":["0-173","0-175","0-176"],
     "state":[],
-    "statsDynamic":["0-173","0-175"],
+    "statsDynamic":["0-173","0-175","0-176"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768007,
     "description":"-2, 1"
   },
   "lastVisit":{
-    "Benoit":1714771000,
-    "Fidgug":1714770998
+    "Benoit":1715976495,
+    "Fidgug":1715976494
   },
   "recordLinks":[],
   "objectData":{
-    "0-173":{
-      "refId":"scrib",
-      "location":{
-        "rotY":0,
-        "posX":-11809.735351563,
-        "posY":13658.580078125,
-        "posZ":1986.01171875,
-        "rotX":-0.047463066875935,
-        "rotZ":0.25680613517761
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-175":{
-      "refId":"alit",
-      "location":{
-        "rotY":0,
-        "posX":-9295.4755859375,
-        "posY":13339.028320313,
-        "posZ":1220.2237548828,
-        "rotX":0.05877685546875,
-        "rotZ":-2.838723897934
-      },
-      "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "fatigueBase":400,
-        "fatigueCurrent":398.62951660156,
-        "healthModified":30,
-        "magickaModified":75,
-        "fatigueModified":400
-      },
-      "inventory":[],
-      "spellsActive":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "deathState":38
-    },
     "49030-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
@@ -238,13 +181,7 @@
     },
     "476099-0":{
       "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "476100-0":{
       "refId":"flora_chokeweed_02",
@@ -315,10 +252,94 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-173":{
+      "refId":"scrib",
+      "location":{
+        "posX":-11809.736328125,
+        "posY":13658.580078125,
+        "posZ":1986.0118408203,
+        "rotX":-0.047463066875935,
+        "rotZ":0.25680613517761,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-175":{
+      "refId":"alit",
+      "location":{
+        "posX":-9295.4755859375,
+        "posY":13339.028320313,
+        "posZ":1220.2239990234,
+        "rotX":0.05877685546875,
+        "rotZ":-2.838723897934,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75,
+        "magickaCurrent":75,
+        "fatigueBase":400,
+        "fatigueCurrent":398.62951660156,
+        "healthModified":30,
+        "magickaModified":75,
+        "fatigueModified":400
+      },
+      "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Benoit"
+      }
+    },
+    "0-176":{
+      "refId":"alit",
+      "location":{
+        "posX":-8232.685546875,
+        "posY":11847.977539063,
+        "posZ":1651.1878662109,
+        "rotX":-0.075897872447968,
+        "rotZ":-3.0348875522614,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75,
+        "magickaCurrent":75,
+        "fatigueBase":400,
+        "fatigueCurrent":395.04306030273,
+        "healthModified":30,
+        "magickaModified":75,
+        "fatigueModified":400
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -26,62 +26,11 @@
     "description":"-1, -1"
   },
   "lastVisit":{
-    "Fidgug":1715362998,
-    "Benoit":1715360046
+    "Fidgug":1715975457,
+    "Benoit":1715975455
   },
   "recordLinks":[],
   "objectData":{
-    "0-101":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-197.19087219238,
-        "posY":-6066.3779296875,
-        "posZ":3152.8444824219,
-        "rotX":-0.0048150569200516,
-        "rotZ":0.55996537208557,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20
-      },
-      "inventory":[]
-    },
-    "475938-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "475939-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475940-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475941-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
     "475942-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
@@ -347,10 +296,61 @@
     "475971-0":{
       "refId":"flora_kreshweed_03",
       "inventory":[]
+    },
+    "0-101":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-86.643081665039,
+        "posY":-7713.486328125,
+        "posZ":3152.4501953125,
+        "rotX":-0.0047982931137085,
+        "rotZ":3.0204994678497,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400
+      },
+      "inventory":[]
+    },
+    "475938-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "475939-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475940-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475941-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

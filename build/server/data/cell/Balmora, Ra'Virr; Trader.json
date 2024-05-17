@@ -27,19 +27,81 @@
   },
   "lastVisit":{
     "Benoit":1715364051,
-    "Fidgug":1714767278
+    "Fidgug":1715973932
   },
   "recordLinks":{
     "potion":{
       "$custom_potion_8":["132059-0"],
-      "$custom_potion_13":["132059-0"],
       "$custom_potion_15":["132059-0"],
+      "$custom_potion_13":["132059-0"],
+      "$custom_potion_5":["132059-0"],
       "$custom_potion_14":["132059-0"],
-      "$custom_potion_7":["132059-0"],
-      "$custom_potion_5":["132059-0"]
+      "$custom_potion_7":["132059-0"]
     }
   },
   "objectData":{
+    "332061-0":{
+      "refId":"com_chest_02_v_armor02",
+      "inventory":[{
+          "refId":"netch_leather_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boiled_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132044-0":{
+      "refId":"barrel_01_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "132045-0":{
       "refId":"com_basket_01_ingredien",
       "inventory":[{
@@ -174,6 +236,16 @@
           "soul":""
         }]
     },
+    "311258-0":{
+      "refId":"urn_05_ingred",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "332062-0":{
       "refId":"com_chest_02_v_weapon02",
       "inventory":[{
@@ -232,92 +304,42 @@
           "soul":""
         }]
     },
-    "311258-0":{
-      "refId":"urn_05_ingred",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "332061-0":{
-      "refId":"com_chest_02_v_armor02",
-      "inventory":[{
-          "refId":"netch_leather_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_gauntlet_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boiled_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "132059-0":{
       "refId":"ra'virr",
       "location":{
-        "posX":-301.39105224609,
-        "posY":-353.18572998047,
+        "posX":-300.43203735352,
+        "posY":-353.01309204102,
         "posZ":5.999626159668,
         "rotX":0,
-        "rotZ":0.22126746177673,
+        "rotZ":0.098297357559204,
         "rotY":0
       },
       "stats":{
+        "healthBase":64,
+        "healthCurrent":64,
+        "magickaBase":92,
         "magickaCurrent":92,
         "fatigueBase":182,
         "fatigueCurrent":182,
-        "fatigueModified":182,
         "healthModified":64,
         "magickaModified":92,
-        "healthBase":64,
-        "healthCurrent":64,
-        "magickaBase":92
+        "fatigueModified":182
       },
       "equipment":{
-        "16":{
-          "refId":"steel warhammer",
+        "2":{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":247,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -328,14 +350,20 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
         "15":{
           "refId":"common_belt_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"common_pants_03_c",
+        "16":{
+          "refId":"steel warhammer",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -462,12 +490,6 @@
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"iron bolt",
-          "count":100,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
           "refId":"steel spear",
           "count":1,
           "charge":964,
@@ -497,24 +519,62 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }],
-      "lastGoldRestockHour":15.932538032532,
-      "goldPool":442,
-      "lastGoldRestockDay":11
-    },
-    "132044-0":{
-      "refId":"barrel_01_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":1,
+          "charge":294,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":86,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood boots",
+          "count":1,
+          "charge":189,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":247,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":227,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_pitcher_metal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":10.432854652405,
+      "goldPool":274,
+      "lastGoldRestockDay":13
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

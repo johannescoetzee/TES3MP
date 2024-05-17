@@ -18,79 +18,19 @@
     "statsDynamic":["295109-0"],
     "trap":[],
     "miscellaneous":[],
-    "spellsActive":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768072,
     "description":"-1, 2"
   },
   "lastVisit":{
-    "Fidgug":1714770933,
-    "Benoit":1714770934
+    "Fidgug":1715976494,
+    "Benoit":1715976495
   },
   "recordLinks":[],
   "objectData":{
-    "475864-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475865-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475866-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475867-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475868-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "475869-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "475870-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
@@ -218,12 +158,12 @@
     "295109-0":{
       "refId":"aeta wave-breaker",
       "location":{
-        "rotY":0,
-        "posX":-6685.2768554688,
-        "posY":19061.779296875,
-        "posZ":1339.2712402344,
-        "rotX":0.16377663612366,
-        "rotZ":-2.4801704883575
+        "posX":-7228.8388671875,
+        "posY":18993.017578125,
+        "posZ":1249.8916015625,
+        "rotX":0.011038268916309,
+        "rotZ":-2.331643819809,
+        "rotY":0
       },
       "stats":{
         "healthBase":68,
@@ -535,10 +475,70 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "475864-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475865-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475866-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475867-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475868-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475869-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

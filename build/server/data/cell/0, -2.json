@@ -26,52 +26,11 @@
     "description":"0, -2"
   },
   "lastVisit":{
-    "Fidgug":1715360006,
-    "Benoit":1715362947
+    "Fidgug":1715971089,
+    "Benoit":1715971086
   },
   "recordLinks":[],
   "objectData":{
-    "210972-0":{
-      "refId":"in_dwrv_crank_arkn",
-      "variables":{
-        "0":{
-          "0":0
-        },
-        "2":{
-          "0":0
-        }
-      }
-    },
-    "83144-0":{
-      "cellChangeTo":"-1, -2"
-    },
-    "0-73":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":4163.2963867188,
-        "posY":-13466.088867188,
-        "posZ":3505.5891113281,
-        "rotX":-0.34569722414017,
-        "rotZ":-1.9861733913422,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":298.12823486328,
-        "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
     "83134-0":{
       "refId":"crate_01",
       "inventory":[]
@@ -84,13 +43,54 @@
       "refId":"crate_01",
       "inventory":[]
     },
+    "83144-0":{
+      "cellChangeTo":"-1, -2"
+    },
+    "210972-0":{
+      "refId":"in_dwrv_crank_arkn",
+      "variables":{
+        "0":{
+          "0":0
+        },
+        "2":{
+          "0":0
+        }
+      }
+    },
     "83142-0":{
       "refId":"dwrv_barrel00",
       "inventory":[]
+    },
+    "0-73":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":4163.2963867188,
+        "posY":-13466.088867188,
+        "posZ":3505.5891113281,
+        "rotX":-0.34569722414017,
+        "rotZ":-1.9861733913422,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":298.12823486328,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

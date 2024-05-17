@@ -26,11 +26,135 @@
     "description":"-2, -1"
   },
   "lastVisit":{
-    "Benoit":1715364165,
-    "Fidgug":1715364162
+    "Benoit":1715975455,
+    "Fidgug":1715975457
   },
   "recordLinks":[],
   "objectData":{
+    "0-99":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-10320.54296875,
+        "posY":-2311.7075195313,
+        "posZ":818.70977783203,
+        "rotX":0.20115715265274,
+        "rotZ":1.7502911090851,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":399.83822631836,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400
+      },
+      "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Benoit"
+      }
+    },
+    "261829-0":{
+      "refId":"ernil omoran",
+      "location":{
+        "posX":-8542.5400390625,
+        "posY":-2343.779296875,
+        "posZ":1135.0556640625,
+        "rotX":0,
+        "rotZ":2.783186674118,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":0,
+        "healthCurrent":0,
+        "magickaBase":88,
+        "magickaCurrent":88,
+        "fatigueBase":188,
+        "fatigueCurrent":188,
+        "healthModified":0,
+        "magickaModified":88,
+        "fatigueModified":188
+      },
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_02_h",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"common_shirt_02_h",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-98":{
+      "refId":"rat",
+      "location":{
+        "posX":-12539.375,
+        "posY":-5532.4721679688,
+        "posZ":28.090894699097,
+        "rotX":-0.24253396689892,
+        "rotZ":-0.62071990966797,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49389-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "49390-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -91,43 +215,19 @@
     },
     "476137-0":{
       "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "476138-0":{
       "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "476139-0":{
       "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "476140-0":{
       "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "476141-0":{
       "refId":"flora_kreshweed_02",
@@ -150,146 +250,10 @@
     "476146-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
-    },
-    "0-99":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-10320.54296875,
-        "posY":-2311.7075195313,
-        "posZ":818.70977783203,
-        "rotX":0.20115715265274,
-        "rotZ":1.7502911090851,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.83822631836,
-        "healthBase":23,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthCurrent":0,
-        "magickaBase":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "deathState":38,
-      "spellsActive":[]
-    },
-    "261829-0":{
-      "refId":"ernil omoran",
-      "location":{
-        "posX":-8542.5400390625,
-        "posY":-2343.779296875,
-        "posZ":1135.0556640625,
-        "rotX":0,
-        "rotZ":2.783186674118,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":88,
-        "fatigueBase":188,
-        "fatigueCurrent":188,
-        "fatigueModified":188,
-        "healthModified":0,
-        "magickaModified":88,
-        "healthBase":0,
-        "healthCurrent":0,
-        "magickaBase":88
-      },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_02_h",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"apparatus_a_spipe_tsiya",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bk_notefromernil",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02_h",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-98":{
-      "refId":"rat",
-      "location":{
-        "posX":-11865.818359375,
-        "posY":-6425,
-        "posZ":400.65505981445,
-        "rotX":0.71151459217072,
-        "rotZ":-1.3386967182159,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49389-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

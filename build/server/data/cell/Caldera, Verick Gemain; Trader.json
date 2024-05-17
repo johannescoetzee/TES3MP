@@ -6,7 +6,7 @@
     "cellChangeTo":[],
     "container":["278271-0","278272-0","278273-0","278274-0","278275-0","278276-0","278277-0","278278-0","278289-0","278380-0","324674-0","324676-0","324677-0","333456-0","324675-0","278293-0","278269-0","333455-0"],
     "death":[],
-    "delete":["278407-0","278408-0","278444-0","278440-0","278439-0"],
+    "delete":["278407-0","278408-0","278444-0","278440-0","278439-0","278434-0","278437-0"],
     "doorState":[],
     "equipment":["333455-0","278269-0"],
     "lock":[],
@@ -17,29 +17,247 @@
     "state":[],
     "statsDynamic":["278269-0","333455-0"],
     "trap":[],
+    "miscellaneous":["278269-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["278269-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714768267,
     "description":"Caldera, Verick Gemain: Trader"
   },
   "lastVisit":{
-    "Benoit":1714768727,
-    "Fidgug":1714768726
+    "Benoit":1715975995,
+    "Fidgug":1715975775
   },
-  "recordLinks":[],
+  "recordLinks":{
+    "potion":{
+      "$custom_potion_51":["278269-0"],
+      "$custom_potion_58":["278269-0"],
+      "$custom_potion_57":["278269-0"],
+      "$custom_potion_59":["278269-0"],
+      "$custom_potion_60":["278269-0"]
+    }
+  },
   "objectData":{
+    "324675-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "278293-0":{
+      "refId":"com_cupboard_01_gavin",
+      "inventory":[{
+          "refId":"misc_com_bottle_03",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_06",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_13",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "278407-0":{
+      "refId":"imperial_greaves"
+    },
+    "278408-0":{
+      "refId":"iron_pauldron_right"
+    },
+    "278444-0":{
+      "refId":"veloth's robe"
+    },
+    "278440-0":{
+      "refId":"ring of lightning bolt"
+    },
+    "278439-0":{
+      "refId":"amulet of mighty blows"
+    },
+    "278434-0":{
+      "refId":"silver shardaxe"
+    },
+    "278437-0":{
+      "refId":"amulet of recall"
+    },
+    "333455-0":{
+      "refId":"imperial guard",
+      "location":{
+        "posX":-153.07261657715,
+        "posY":-45.938110351563,
+        "posZ":113.00006103516,
+        "rotX":0.0085215531289577,
+        "rotZ":-3.0927097797394,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":285,
+        "healthCurrent":285,
+        "magickaBase":110,
+        "magickaCurrent":110,
+        "fatigueBase":309,
+        "fatigueCurrent":309,
+        "healthModified":285,
+        "magickaModified":110,
+        "fatigueModified":309
+      },
+      "equipment":{
+        "0":{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"imperial_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "278269-0":{
       "refId":"verick gemain",
       "location":{
-        "rotY":0,
-        "posX":64.886337280273,
-        "posY":420.98059082031,
+        "posX":55.374404907227,
+        "posY":424.25106811523,
         "posZ":113,
         "rotX":0,
-        "rotZ":-2.1940486431122
+        "rotZ":-2.1695683002472,
+        "rotY":0
       },
       "stats":{
         "healthBase":125,
@@ -103,6 +321,12 @@
         },
         "9":{
           "refId":"extravagant_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "14":{
+          "refId":"expensive_amulet_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -210,10 +434,46 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"expensive_amulet_02",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_58",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_59",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_60",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_51",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_57",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":6,
-      "goldPool":122,
-      "lastGoldRestockHour":7.1857967376709
+      "lastGoldRestockHour":19.765821456909,
+      "lastGoldRestockDay":14,
+      "goldPool":1025
     },
     "278271-0":{
       "refId":"crate_01_de_mclothes",
@@ -313,23 +573,11 @@
     },
     "278277-0":{
       "refId":"com_sack_01_saltrice_5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "278278-0":{
       "refId":"com_sack_01_saltrice_5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "278289-0":{
       "refId":"com_cupboard_01_tankard",
@@ -423,13 +671,7 @@
     },
     "324676-0":{
       "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "324677-0":{
       "refId":"com_sack_02_chpfood3",
@@ -702,214 +944,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "324675-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "278293-0":{
-      "refId":"com_cupboard_01_gavin",
-      "inventory":[{
-          "refId":"misc_com_bottle_03",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_06",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_13",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "278439-0":{
-      "refId":"amulet of mighty blows"
-    },
-    "278407-0":{
-      "refId":"imperial_greaves"
-    },
-    "278408-0":{
-      "refId":"iron_pauldron_right"
-    },
-    "278444-0":{
-      "refId":"veloth's robe"
-    },
-    "278440-0":{
-      "refId":"ring of lightning bolt"
-    },
-    "333455-0":{
-      "refId":"imperial guard",
-      "location":{
-        "rotY":0,
-        "posX":-106.64979553223,
-        "posY":153.11849975586,
-        "posZ":113,
-        "rotX":-0.047796215862036,
-        "rotZ":-0.1719126701355
-      },
-      "stats":{
-        "healthBase":285,
-        "healthCurrent":285,
-        "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":309,
-        "fatigueCurrent":309,
-        "healthModified":285,
-        "magickaModified":110,
-        "fatigueModified":309
-      },
-      "equipment":{
-        "0":{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"imperial_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

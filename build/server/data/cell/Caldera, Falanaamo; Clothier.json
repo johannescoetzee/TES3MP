@@ -17,20 +17,106 @@
     "state":[],
     "statsDynamic":["172896-0"],
     "trap":[],
+    "miscellaneous":["172896-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["172896-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1714769179,
     "description":"Caldera, Falanaamo: Clothier"
   },
   "lastVisit":{
-    "Benoit":1714769269,
-    "Fidgug":1714769268
+    "Benoit":1715976079,
+    "Fidgug":1715975921
   },
   "recordLinks":[],
   "objectData":{
+    "164995-0":{
+      "refId":"crate_01_de_mclothes",
+      "inventory":[{
+          "refId":"expensive_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164996-0":{
+      "refId":"com_sack_03_chpfood5",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "164997-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "165010-0":{
+      "refId":"com_basket_01_falanaamo",
+      "inventory":[{
+          "refId":"common_robe_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_02_tt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02_t",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "165011-0":{
+      "refId":"com_basket_01_falanaamo",
+      "inventory":[{
+          "refId":"common_robe_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_02_tt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02_t",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "165012-0":{
       "refId":"com_chest_02_pillows",
       "inventory":[{
@@ -522,12 +608,12 @@
     "172896-0":{
       "refId":"falanaamo",
       "location":{
-        "rotY":0,
-        "posX":146.98387145996,
-        "posY":-470.35693359375,
+        "posX":148.16342163086,
+        "posY":-467.82852172852,
         "posZ":129,
         "rotX":0,
-        "rotZ":-0.49999928474426
+        "rotZ":5.7831859588623,
+        "rotY":0
       },
       "stats":{
         "healthBase":67,
@@ -599,9 +685,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":307,
-      "lastGoldRestockHour":14.757297515869,
-      "lastGoldRestockDay":6
+      "lastGoldRestockHour":22.693063735962,
+      "goldPool":300,
+      "lastGoldRestockDay":14
     },
     "164985-0":{
       "refId":"com_hutch_01_misc",
@@ -652,96 +738,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "164995-0":{
-      "refId":"crate_01_de_mclothes",
-      "inventory":[{
-          "refId":"expensive_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164996-0":{
-      "refId":"com_sack_03_chpfood5",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "164997-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "165010-0":{
-      "refId":"com_basket_01_falanaamo",
-      "inventory":[{
-          "refId":"common_robe_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_02_tt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02_t",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "165011-0":{
-      "refId":"com_basket_01_falanaamo",
-      "inventory":[{
-          "refId":"common_robe_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_02_tt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02_t",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

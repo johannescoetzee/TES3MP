@@ -26,131 +26,11 @@
     "description":"Balmora, Meldor: Armorer"
   },
   "lastVisit":{
-    "Fidgug":1714762251,
-    "Benoit":1715353939
+    "Fidgug":1715971909,
+    "Benoit":1715971901
   },
   "recordLinks":[],
   "objectData":{
-    "41707-0":{
-      "refId":"crate_01_armornetch_mel",
-      "inventory":[{
-          "refId":"netch_leather_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_gauntlet_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_armun-an_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_armun-an_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boiled_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_boiled_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_armun-an_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "41711-0":{
-      "refId":"chest_small_01_gold_50",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "41715-0":{
-      "refId":"com_sack_03_ingredients",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "41716-0":{
       "refId":"com_sack_03_ingredients",
       "inventory":[{
@@ -262,23 +142,23 @@
     "389001-0":{
       "refId":"hlaalu guard",
       "location":{
-        "posX":-41.946617126465,
-        "posY":395.68850708008,
+        "posX":-31.696105957031,
+        "posY":380.69519042969,
         "posZ":6,
         "rotX":0,
-        "rotZ":1.5999995470047,
+        "rotZ":2.6304290294647,
         "rotY":0
       },
       "stats":{
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
-        "fatigueModified":307,
         "healthModified":210,
         "magickaModified":122,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122
+        "fatigueModified":307
       },
       "equipment":{
         "0":{
@@ -425,45 +305,62 @@
     "41720-0":{
       "refId":"meldor",
       "location":{
-        "posX":227.71813964844,
-        "posY":163.22883605957,
-        "posZ":5.9999389648438,
+        "posX":215.51045227051,
+        "posY":179.96095275879,
+        "posZ":5.9999313354492,
         "rotX":0,
-        "rotZ":-1.7181074619293,
+        "rotZ":-1.995534658432,
         "rotY":0
       },
       "stats":{
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":86,
         "magickaCurrent":86,
         "fatigueBase":189,
         "fatigueCurrent":189,
-        "fatigueModified":189,
         "healthModified":67,
         "magickaModified":86,
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":86
+        "fatigueModified":189
       },
-      "equipment":[{
-          "refId":"trollbone_cuirass",
+      "equipment":{
+        "1":{
+          "refId":"darkbrotherhood cuirass",
           "count":1,
-          "charge":-1,
+          "charge":273,
           "enchantmentCharge":-1
-        },null,null,null,null,null,{
+        },
+        "3":{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":250,
+          "enchantmentCharge":-1
+        },
+        "7":{
           "refId":"common_shoes_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
+        },
+        "8":{
           "refId":"common_shirt_04",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
+        },
+        "9":{
           "refId":"common_pants_03_c",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        }],
+        },
+        "17":{
+          "refId":"dreugh_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
           "refId":"trollbone_cuirass",
           "count":1,
@@ -494,10 +391,28 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":273,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"dreugh_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_l",
+          "count":1,
+          "charge":250,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockHour":17.353170394897,
-      "goldPool":1500,
-      "lastGoldRestockDay":7
+      "lastGoldRestockHour":7.0864100456238,
+      "lastGoldRestockDay":13,
+      "goldPool":73
     },
     "41668-0":{
       "refId":"de_drawers_02_mclothes4",
@@ -542,12 +457,6 @@
       "inventory":[{
           "refId":"potion_local_brew_01",
           "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel battle axe",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -680,10 +589,130 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "41707-0":{
+      "refId":"crate_01_armornetch_mel",
+      "inventory":[{
+          "refId":"netch_leather_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_armun-an_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_armun-an_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boiled_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_boiled_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_armun-an_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41711-0":{
+      "refId":"chest_small_01_gold_50",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41715-0":{
+      "refId":"com_sack_03_ingredients",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_heather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

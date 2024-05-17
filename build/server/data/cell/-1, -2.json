@@ -26,86 +26,31 @@
     "description":"-1, -2"
   },
   "lastVisit":{
-    "Benoit":1715363140,
-    "Fidgug":1715363134
+    "Benoit":1715975358,
+    "Fidgug":1715975356
   },
   "recordLinks":[],
   "objectData":{
-    "476012-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "0-74":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-33.90909576416,
-        "posY":-9983.921875,
-        "posZ":698.78656005859,
-        "rotX":-0.18154740333557,
-        "rotZ":-0.81506037712097,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15
-      },
-      "inventory":[]
-    },
-    "0-77":{
-      "refId":"rat",
-      "location":{
-        "posX":-7839.5126953125,
-        "posY":-8317.349609375,
-        "posZ":678.93017578125,
-        "rotX":-0.083587825298309,
-        "rotZ":-2.3087432384491,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":299.43206787109,
-        "healthBase":23,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthCurrent":0,
-        "magickaBase":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38,
-      "spellsActive":[]
-    },
     "83144-0":{
       "refId":"snowy granius",
       "location":{
         "posX":-1234.4572753906,
         "posY":-13657.96484375,
         "posZ":2496.9985351563,
-        "rotX":0.1247194558382,
-        "rotZ":-0.0016176700592041,
+        "rotX":0,
+        "rotZ":-1.2999985218048,
         "rotY":0
       },
       "stats":{
+        "healthBase":54,
+        "healthCurrent":0,
+        "magickaBase":108,
         "magickaCurrent":73,
         "fatigueBase":164,
         "fatigueCurrent":164,
-        "fatigueModified":164,
         "healthModified":54,
         "magickaModified":108,
-        "healthBase":54,
-        "healthCurrent":0,
-        "magickaBase":108
+        "fatigueModified":164
       },
       "cellChangeFrom":"0, -2",
       "equipment":{
@@ -159,11 +104,11 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "spellsActive":[],
+      "deathState":39,
       "killer":{
         "playerName":"Benoit"
-      },
-      "deathState":39,
-      "spellsActive":[]
+      }
     },
     "0-75":{
       "refId":"cliff racer",
@@ -176,22 +121,45 @@
         "rotY":0
       },
       "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
         "healthModified":45,
         "magickaModified":20,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20
+        "fatigueModified":400
       },
       "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
       "killer":{
         "playerName":"Benoit"
+      }
+    },
+    "0-74":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-33.90909576416,
+        "posY":-9983.921875,
+        "posZ":699.52282714844,
+        "rotX":-0.18154740333557,
+        "rotZ":-0.81506037712097,
+        "rotY":0
       },
-      "deathState":38,
-      "spellsActive":[]
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300
+      },
+      "inventory":[]
     },
     "475973-0":{
       "refId":"flora_stoneflower_01",
@@ -236,10 +204,42 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "476012-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "0-77":{
+      "refId":"rat",
+      "location":{
+        "posX":-7839.5126953125,
+        "posY":-8317.349609375,
+        "posZ":678.93017578125,
+        "rotX":-0.083587825298309,
+        "rotZ":-2.3087432384491,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.43206787109,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300
+      },
+      "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }
