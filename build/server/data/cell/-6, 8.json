@@ -1,56 +1,160 @@
 {
   "packets":{
-    "actorList":["0-468","0-469","0-470","0-471"],
+    "actorList":["0-468","0-469","0-470","0-500"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["474598-0","474599-0","474600-0","474601-0","474604-0","474605-0","474606-0","474607-0","474608-0","474609-0","474610-0","474611-0","474612-0","474613-0","474614-0","474615-0","474616-0","474618-0","474619-0","474620-0","474621-0","474622-0","474623-0","474624-0","474625-0","474626-0","474627-0","474628-0","474629-0","474630-0","0-468","0-469","0-470","0-471"],
+    "container":["474598-0","474599-0","474600-0","474601-0","474604-0","474605-0","474606-0","474607-0","474608-0","474609-0","474610-0","474611-0","474612-0","474613-0","474614-0","474615-0","474616-0","474618-0","474619-0","474620-0","474621-0","474622-0","474623-0","474624-0","474625-0","474626-0","474627-0","474628-0","474629-0","474630-0","0-468","0-469","0-470","0-500"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-468","0-469","0-470","0-471"],
+    "position":["0-468","0-469","0-470","0-500"],
     "scale":[],
-    "spawn":["0-468","0-469","0-470","0-471"],
+    "spawn":["0-468","0-469","0-470","0-500"],
     "state":[],
-    "statsDynamic":["0-468","0-469","0-470","0-471"],
+    "statsDynamic":["0-468","0-469","0-470","0-500"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
+    "miscellaneous":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-6, 8",
-    "creationTime":1715977698
+    "creationTime":1715977698,
+    "description":"-6, 8"
   },
   "lastVisit":{
-    "Benoit":1715978843,
-    "Fidgug":1715978844
+    "Fidgug":1716737106,
+    "Benoit":1716737109
   },
   "recordLinks":[],
   "objectData":{
+    "474620-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474621-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474622-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474623-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474624-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "474625-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474626-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474627-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474628-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474629-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474630-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-468":{
       "refId":"nix-hound",
       "location":{
-        "posX":-48764.921875,
-        "posY":71548.265625,
-        "posZ":2470.1628417969,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":-2.1837465763092,
+        "rotY":0,
+        "posX":-48569.640625,
+        "posY":72102.0859375,
+        "posZ":2927.1206054688,
+        "rotX":1.2995369434357
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -63,23 +167,23 @@
     "0-469":{
       "refId":"rat_diseased",
       "location":{
-        "posX":-48124.15234375,
-        "posY":68033.984375,
-        "posZ":2266.3876953125,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":-1.4451477527618,
+        "rotY":0,
+        "posX":-48952.109375,
+        "posY":68154.4140625,
+        "posZ":2311.9965820313,
+        "rotX":0.017547180876136
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":103,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":103,
-        "fatigueCurrent":103,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":103
+        "fatigueCurrent":103
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -92,48 +196,54 @@
     "0-470":{
       "refId":"scrib",
       "location":{
-        "posX":-48221.3125,
-        "posY":67585.8984375,
-        "posZ":2223.5903320313,
-        "rotX":0,
-        "rotZ":1.4000000953674,
-        "rotY":0
+        "rotZ":2.3866984844208,
+        "rotY":0,
+        "posX":-48257.05859375,
+        "posY":67942.6640625,
+        "posZ":2246.3859863281,
+        "rotX":0.06853012740612
       },
       "stats":{
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
         "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
+        "fatigueCurrent":300
       },
       "inventory":[]
     },
-    "0-471":{
-      "refId":"kwama forager",
+    "0-500":{
+      "refId":"cliff racer",
       "location":{
-        "posX":-46157.296875,
-        "posY":65692.25,
-        "posZ":2365.4133300781,
-        "rotX":0,
-        "rotZ":1.4000000953674,
-        "rotY":0
+        "rotZ":1.1311681270599,
+        "rotY":0,
+        "posX":-45542.22265625,
+        "posY":73655.1171875,
+        "posZ":5351.5224609375,
+        "rotX":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "474598-0":{
       "refId":"flora_kreshweed_02",
@@ -293,110 +403,6 @@
     },
     "474619-0":{
       "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474620-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474621-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474622-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474623-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474624-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "474625-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474626-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474627-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474628-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474629-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474630-0":{
-      "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
           "count":1,

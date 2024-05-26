@@ -17,68 +17,68 @@
     "state":[],
     "statsDynamic":["261837-0","0-446","0-445","0-447"],
     "trap":[],
-    "miscellaneous":["261837-0"],
     "clientScriptLocal":[],
+    "miscellaneous":["261837-0"],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-5, 6",
-    "creationTime":1715977329
+    "creationTime":1715977329,
+    "description":"-5, 6"
   },
   "lastVisit":{
-    "Fidgug":1715978972,
-    "Benoit":1715978976
+    "Benoit":1716736337,
+    "Fidgug":1716736335
   },
   "recordLinks":[],
   "objectData":{
     "0-446":{
       "refId":"rat_blighted",
       "location":{
+        "rotZ":2.2646353244781,
+        "rotY":0,
         "posX":-38221.06640625,
         "posY":49605.76953125,
         "posZ":2797.8127441406,
-        "rotX":-0.26835536956787,
-        "rotZ":2.2646353244781,
-        "rotY":0
+        "rotX":-0.26835536956787
       },
       "stats":{
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":125,
         "healthBase":45,
         "healthCurrent":0,
         "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":125,
-        "fatigueCurrent":121.75521850586,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":125
+        "fatigueCurrent":121.75521850586
       },
       "inventory":[],
-      "spellsActive":[],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38,
+      "spellsActive":[]
     },
     "261837-0":{
       "refId":"hisin deep-raed",
       "location":{
+        "rotZ":0.89999985694885,
+        "rotY":0,
         "posX":-37748.8828125,
         "posY":53020.8515625,
         "posZ":2281,
-        "rotX":-0.033333331346512,
-        "rotZ":0.86666655540466,
-        "rotY":0
+        "rotX":0
       },
       "stats":{
+        "healthModified":112,
+        "magickaModified":76,
+        "fatigueModified":249,
         "healthBase":112,
         "healthCurrent":112,
         "magickaBase":76,
         "magickaCurrent":76,
         "fatigueBase":249,
-        "fatigueCurrent":249,
-        "healthModified":112,
-        "magickaModified":76,
-        "fatigueModified":249
+        "fatigueCurrent":249
       },
       "equipment":{
         "5":{
@@ -144,51 +144,51 @@
     "0-445":{
       "refId":"nix-hound",
       "location":{
+        "rotZ":2.0561068058014,
+        "rotY":0,
         "posX":-40253.47265625,
         "posY":56862.84765625,
         "posZ":3108.9479980469,
-        "rotX":0.93222665786743,
-        "rotZ":2.0561068058014,
-        "rotY":0
+        "rotX":0.93222665786743
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":0,
         "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":398.83120727539,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400
+        "fatigueCurrent":398.83120727539
       },
       "inventory":[],
-      "spellsActive":[],
-      "deathState":38,
       "killer":{
         "playerName":"Benoit"
-      }
+      },
+      "deathState":38,
+      "spellsActive":[]
     },
     "0-447":{
       "refId":"kwama forager",
       "location":{
-        "posX":-36261.19140625,
-        "posY":56544.5625,
-        "posZ":3355.1535644531,
-        "rotX":0.80270010232925,
-        "rotZ":-1.9380004405975,
-        "rotY":0
+        "rotZ":1.0709049701691,
+        "rotY":0,
+        "posX":-36291.43359375,
+        "posY":55843.046875,
+        "posZ":2984.1240234375,
+        "rotX":0.20347985625267
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",

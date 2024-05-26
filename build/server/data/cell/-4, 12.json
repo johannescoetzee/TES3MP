@@ -1,40 +1,271 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-562","0-563","0-564","297841-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["300375-0","300376-0","300377-0","300378-0","300379-0","300380-0","300381-0","300386-0","300387-0","300392-0","300393-0","300394-0","300395-0","300399-0","297841-0","0-562","0-563","0-564"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-562","0-563","0-564"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-562","0-563","0-564"],
     "state":["297841-0"],
-    "statsDynamic":[],
+    "statsDynamic":["0-562","0-563","0-564"],
     "trap":[],
-    "spellsActive":[],
     "miscellaneous":[],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-4, 12",
     "creationTime":1713904668
   },
-  "lastVisit":[],
+  "lastVisit":{
+    "Benoit":1716737918,
+    "Fidgug":1716737919
+  },
   "recordLinks":[],
   "objectData":{
     "297841-0":{
       "refId":"dreamer_talker08",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
       "state":false
+    },
+    "300375-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300376-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300377-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300378-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300379-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
+    "300380-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-563":{
+      "refId":"guar_feral",
+      "location":{
+        "rotZ":-0.38139843940735,
+        "rotY":0,
+        "posX":-31424.533203125,
+        "posY":101568.71875,
+        "posZ":2054.9345703125,
+        "rotX":-0.11697846651077
+      },
+      "stats":{
+        "healthModified":38,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "healthBase":38,
+        "healthCurrent":38,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_guar_hide_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-564":{
+      "refId":"scrib diseased",
+      "location":{
+        "rotZ":-1.9606335163116,
+        "rotY":0,
+        "posX":-27815.0234375,
+        "posY":105628.21875,
+        "posZ":1656.1091308594,
+        "rotX":-0.14249707758427
+      },
+      "stats":{
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":63,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":63,
+        "fatigueCurrent":63
+      },
+      "inventory":[]
+    },
+    "300387-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300392-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300393-0":{
+      "refId":"flora_fire_fern_01",
+      "inventory":[{
+          "refId":"ingred_fire_petal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300394-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
+    "300395-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300399-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-562":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":-1.7991468906403,
+        "rotY":0,
+        "posX":-27075.765625,
+        "posY":102930.546875,
+        "posZ":2429.7495117188,
+        "rotX":-0.0049376506358385
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300386-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300381-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

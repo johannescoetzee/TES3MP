@@ -26,11 +26,63 @@
     "creationTime":1715977329
   },
   "lastVisit":{
-    "Benoit":1715978808,
-    "Fidgug":1715978808
+    "Benoit":1716736261,
+    "Fidgug":1716736262
   },
   "recordLinks":[],
   "objectData":{
+    "49298-0":{
+      "refId":"urn_02",
+      "inventory":[]
+    },
+    "49299-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_resin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49300-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "49301-0":{
+      "refId":"urn_01_ingred",
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_red_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "49302-0":{
       "refId":"crate_01_random_pos",
       "inventory":[{
@@ -164,23 +216,23 @@
     "8161-0":{
       "refId":"navam veran",
       "location":{
-        "posX":-17642.783203125,
-        "posY":54769.42578125,
+        "rotZ":2.1999998092651,
+        "rotY":0,
+        "posX":-17642.109375,
+        "posY":54763.90625,
         "posZ":2775.5654296875,
-        "rotX":0,
-        "rotZ":2.2000000476837,
-        "rotY":0
+        "rotX":0
       },
       "stats":{
+        "healthModified":37,
+        "magickaModified":96,
+        "fatigueModified":154,
         "healthBase":37,
         "healthCurrent":37,
         "magickaBase":96,
         "magickaCurrent":96,
         "fatigueBase":154,
-        "fatigueCurrent":154,
-        "healthModified":37,
-        "magickaModified":96,
-        "fatigueModified":154
+        "fatigueCurrent":154
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_04",
@@ -237,58 +289,6 @@
       "inventory":[{
           "refId":"ingred_hound_meat_01",
           "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49298-0":{
-      "refId":"urn_02",
-      "inventory":[]
-    },
-    "49299-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_resin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49300-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "49301-0":{
-      "refId":"urn_01_ingred",
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_red_lichen_01",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

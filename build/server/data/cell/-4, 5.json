@@ -26,25 +26,11 @@
     "creationTime":1715976815
   },
   "lastVisit":{
-    "Benoit":1715978975,
-    "Fidgug":1715978972
+    "Benoit":1716736217,
+    "Fidgug":1716736218
   },
   "recordLinks":[],
   "objectData":{
-    "475374-0":{
-      "refId":"flora_bittergreen_pod_01",
-      "inventory":[]
-    },
-    "475375-0":{
-      "refId":"flora_bittergreen_01",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "475376-0":{
       "refId":"flora_bittergreen_02",
       "inventory":[{
@@ -55,40 +41,40 @@
           "soul":""
         }]
     },
-    "0-437":{
-      "refId":"rat",
-      "location":{
-        "posX":-25574.51953125,
-        "posY":48671.55078125,
-        "posZ":689.42468261719,
-        "rotX":-0.12090365588665,
-        "rotZ":-0.96174454689026,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
+    "475377-0":{
+      "refId":"flora_bittergreen_03",
       "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
+          "refId":"ingred_bittergreen_petals_01",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "475378-0":{
-      "refId":"flora_bittergreen_04",
+    "0-437":{
+      "refId":"rat",
+      "location":{
+        "rotZ":-0.21767401695251,
+        "rotY":0,
+        "posX":-25958.36328125,
+        "posY":47864.30859375,
+        "posZ":1074.548828125,
+        "rotX":0.030742691829801
+      },
+      "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300
+      },
       "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
+          "refId":"ingred_rat_meat_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -168,16 +154,6 @@
           "soul":""
         }]
     },
-    "475377-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "300473-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[]
@@ -186,6 +162,30 @@
       "refId":"flora_rm_scathecraw_02",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475378-0":{
+      "refId":"flora_bittergreen_04",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475374-0":{
+      "refId":"flora_bittergreen_pod_01",
+      "inventory":[]
+    },
+    "475375-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

@@ -26,11 +26,78 @@
     "creationTime":1715978154
   },
   "lastVisit":{
-    "Benoit":1715978711,
-    "Fidgug":1715978710
+    "Benoit":1716736146,
+    "Fidgug":1716736144
   },
   "recordLinks":[],
   "objectData":{
+    "49147-0":{
+      "refId":"urn_01_food",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "40124-0":{
+      "refId":"braynas hlervu",
+      "location":{
+        "rotZ":-2.9411180019379,
+        "rotY":0,
+        "posX":-7407.3115234375,
+        "posY":53017.5546875,
+        "posZ":2355.1240234375,
+        "rotX":0.0052423952147365
+      },
+      "stats":{
+        "healthModified":60,
+        "magickaModified":86,
+        "fatigueModified":179,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":86,
+        "magickaCurrent":86,
+        "fatigueBase":179,
+        "fatigueCurrent":179
+      },
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "17485-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -320,73 +387,6 @@
     "146715-0":{
       "refId":"flora_bittergreen_08",
       "inventory":[]
-    },
-    "49147-0":{
-      "refId":"urn_01_food",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "40124-0":{
-      "refId":"braynas hlervu",
-      "location":{
-        "posX":-7407.208984375,
-        "posY":53021.9375,
-        "posZ":2355.947265625,
-        "rotX":-0.088869757950306,
-        "rotZ":0.55826783180237,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":86,
-        "magickaCurrent":86,
-        "fatigueBase":179,
-        "fatigueCurrent":179,
-        "healthModified":60,
-        "magickaModified":86,
-        "fatigueModified":179
-      },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{

@@ -26,15 +26,218 @@
     "creationTime":1713904668
   },
   "lastVisit":{
-    "Benoit":1715978759,
-    "Fidgug":1715978757
+    "Benoit":1716736187,
+    "Fidgug":1716736179
   },
   "recordLinks":[],
   "objectData":{
-    "182796-0":{
-      "refId":"flora_rm_scathecraw_01",
+    "323876-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
+    "323879-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
+    "323882-0":{
+      "refId":"crate_02_food",
       "inventory":[{
-          "refId":"ingred_scathecraw_01",
+          "refId":"food_kwama_egg_02",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323885-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323886-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323887-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323888-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323898-0":{
+      "refId":"crate_02_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "175667-0":{
+      "refId":"imperial archer",
+      "location":{
+        "rotZ":-0.037677049636841,
+        "rotY":0,
+        "posX":-14088.533203125,
+        "posY":43200.859375,
+        "posZ":2913.8493652344,
+        "rotX":-1.0333089828491
+      },
+      "stats":{
+        "healthModified":168,
+        "magickaModified":110,
+        "fatigueModified":298,
+        "healthBase":168,
+        "healthCurrent":168,
+        "magickaBase":110,
+        "magickaCurrent":110,
+        "fatigueBase":298,
+        "fatigueCurrent":298
+      },
+      "equipment":{
+        "0":{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"imperial_chain_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel longbow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "18":{
+          "refId":"cruel sparkarrow",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial_chain_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel sparkarrow",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longbow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron viperblade",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -85,19 +288,37 @@
           "soul":""
         }]
     },
-    "182802-0":{
-      "refId":"tramaroot_05",
-      "inventory":[]
-    },
-    "182803-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "182804-0":{
-      "refId":"tramaroot_01",
+    "323899-0":{
+      "refId":"crate_02_food",
       "inventory":[{
-          "refId":"ingred_trama_root_01",
+          "refId":"ingred_bread_01",
           "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323897-0":{
+      "refId":"crate_01_imp_weapons",
+      "inventory":[{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial shortsword",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323889-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -107,171 +328,41 @@
       "refId":"flora_bittergreen_pod_01",
       "inventory":[]
     },
-    "182806-0":{
-      "refId":"flora_bittergreen_05",
+    "323883-0":{
+      "refId":"barrel_01_random_pos",
       "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182807-0":{
-      "refId":"flora_bittergreen_01",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182808-0":{
-      "refId":"flora_bittergreen_02",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182809-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182810-0":{
-      "refId":"flora_bittergreen_04",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182815-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182816-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300325-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300328-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323872-0":{
-      "refId":"barrel_01_cheapfood20",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323873-0":{
-      "refId":"barrel_01_arrows",
-      "inventory":[{
-          "refId":"iron arrow",
-          "count":250,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323874-0":{
-      "refId":"crate_02_food",
-      "inventory":[{
-          "refId":"ingred_ash_yam_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323875-0":{
-      "refId":"crate_01_imp_weapons",
-      "inventory":[{
-          "refId":"imperial broadsword",
+          "refId":"misc_com_metal_goblet_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"imperial shortsword",
+          "refId":"misc_com_wood_spoon_02",
           "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "323876-0":{
-      "refId":"crate_01_empty",
-      "inventory":[]
-    },
-    "323877-0":{
-      "refId":"crate_02_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323879-0":{
-      "refId":"crate_01_empty",
-      "inventory":[]
-    },
-    "323880-0":{
-      "refId":"crate_01_imp_weapons",
-      "inventory":[{
-          "refId":"imperial broadsword",
+        },{
+          "refId":"misc_soulgem_petty",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"imperial shortsword",
-          "count":2,
+          "refId":"misc_com_pitcher_metal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_redware_vase",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":4,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -377,107 +468,7 @@
           "soul":""
         }]
     },
-    "323882-0":{
-      "refId":"crate_02_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323883-0":{
-      "refId":"barrel_01_random_pos",
-      "inventory":[{
-          "refId":"misc_com_metal_goblet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_wood_spoon_02",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_soulgem_petty",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_pitcher_metal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_redware_vase",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323885-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323886-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323887-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323888-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323889-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323897-0":{
+    "323880-0":{
       "refId":"crate_01_imp_weapons",
       "inventory":[{
           "refId":"imperial broadsword",
@@ -493,21 +484,21 @@
           "soul":""
         }]
     },
-    "323898-0":{
-      "refId":"crate_02_food",
+    "182809-0":{
+      "refId":"flora_bittergreen_03",
       "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":3,
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "323899-0":{
-      "refId":"crate_02_food",
+    "182815-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
-          "refId":"ingred_bread_01",
-          "count":3,
+          "refId":"ingred_scathecraw_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -516,23 +507,23 @@
     "175669-0":{
       "refId":"imperial guard",
       "location":{
-        "posX":-12816.028320313,
-        "posY":42609.49609375,
-        "posZ":2506.6518554688,
-        "rotX":0.062250312417746,
-        "rotZ":-0.014125108718872,
-        "rotY":0
+        "rotZ":0.65404176712036,
+        "rotY":0,
+        "posX":-12889.926757813,
+        "posY":42798.12109375,
+        "posZ":2492.1020507813,
+        "rotX":0.030619783326983
       },
       "stats":{
+        "healthModified":285,
+        "magickaModified":110,
+        "fatigueModified":309,
         "healthBase":285,
-        "healthCurrent":285,
+        "healthCurrent":266.86981201172,
         "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":309,
-        "fatigueCurrent":309,
-        "healthModified":285,
-        "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309
       },
       "equipment":{
         "0":{
@@ -596,7 +587,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"torch_infinite_time",
+          "refId":"imperial shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -676,26 +667,171 @@
           "soul":""
         }]
     },
+    "175666-0":{
+      "refId":"imperial archer",
+      "location":{
+        "rotZ":-0.40965986251831,
+        "rotY":0,
+        "posX":-14794.775390625,
+        "posY":41726.671875,
+        "posZ":2834.8498535156,
+        "rotX":-0.28928211331367
+      },
+      "stats":{
+        "healthModified":168,
+        "magickaModified":110,
+        "fatigueModified":298,
+        "healthBase":168,
+        "healthCurrent":168,
+        "magickaBase":110,
+        "magickaCurrent":110,
+        "fatigueBase":298,
+        "fatigueCurrent":298
+      },
+      "equipment":{
+        "0":{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"imperial_chain_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel longbow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "18":{
+          "refId":"cruel sparkarrow",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial_chain_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_coif_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel sparkarrow",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longbow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron viperblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "384859-0":{
       "refId":"shardie",
       "location":{
-        "posX":-13394.19140625,
-        "posY":44335.78515625,
-        "posZ":2546.4543457031,
-        "rotX":-0.078723438084126,
-        "rotZ":2.9999544620514,
-        "rotY":0
+        "rotZ":-1.2817709445953,
+        "rotY":0,
+        "posX":-13512.06640625,
+        "posY":43942.640625,
+        "posZ":2545,
+        "rotX":-0.086863294243813
       },
       "stats":{
+        "healthModified":313,
+        "magickaModified":112,
+        "fatigueModified":355,
         "healthBase":313,
         "healthCurrent":313,
         "magickaBase":112,
         "magickaCurrent":112,
         "fatigueBase":355,
-        "fatigueCurrent":355,
-        "healthModified":313,
-        "magickaModified":112,
-        "fatigueModified":355
+        "fatigueCurrent":355
       },
       "equipment":[{
           "refId":"imperial cuirass_armor",
@@ -819,23 +955,23 @@
     "175662-0":{
       "refId":"imperial guard",
       "location":{
-        "posX":-14445.7890625,
-        "posY":43294.84375,
-        "posZ":3090.0544433594,
-        "rotX":-0.0012677684426308,
-        "rotZ":1.5481369495392,
-        "rotY":0
+        "rotZ":-2.3323352336884,
+        "rotY":0,
+        "posX":-13185.16796875,
+        "posY":43622.37109375,
+        "posZ":2532.8015136719,
+        "rotX":-0.20464791357517
       },
       "stats":{
+        "healthModified":285,
+        "magickaModified":110,
+        "fatigueModified":309,
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":309,
-        "fatigueCurrent":309,
-        "healthModified":285,
-        "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309
       },
       "equipment":[{
           "refId":"imperial cuirass_armor",
@@ -888,7 +1024,7 @@
           "charge":-1,
           "enchantmentCharge":-1
         },{
-          "refId":"torch_infinite_time",
+          "refId":"imperial shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -970,23 +1106,23 @@
     "175664-0":{
       "refId":"imperial guard",
       "location":{
-        "posX":-14089.896484375,
-        "posY":43757.82421875,
-        "posZ":3090.0544433594,
-        "rotX":0.00046902243047953,
-        "rotZ":-3.1362326145172,
-        "rotY":0
+        "rotZ":-1.8835308551788,
+        "rotY":0,
+        "posX":-13247.375976563,
+        "posY":43124.359375,
+        "posZ":2504.8889160156,
+        "rotX":-0.28209868073463
       },
       "stats":{
+        "healthModified":285,
+        "magickaModified":110,
+        "fatigueModified":309,
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":309,
-        "fatigueCurrent":309,
-        "healthModified":285,
-        "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309
       },
       "equipment":{
         "0":{
@@ -1050,7 +1186,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"torch_infinite_time",
+          "refId":"imperial shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -1153,291 +1289,27 @@
         }],
       "state":false
     },
-    "175666-0":{
-      "refId":"imperial archer",
-      "location":{
-        "posX":-14499.731445313,
-        "posY":43305.6953125,
-        "posZ":3090.0544433594,
-        "rotX":0.00090030953288078,
-        "rotZ":1.5748026371002,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":168,
-        "healthCurrent":168,
-        "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":298,
-        "fatigueCurrent":298,
-        "healthModified":168,
-        "magickaModified":110,
-        "fatigueModified":298
-      },
-      "equipment":{
-        "0":{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"imperial_chain_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel longbow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "18":{
-          "refId":"cruel sparkarrow",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
+    "323874-0":{
+      "refId":"crate_02_food",
       "inventory":[{
-          "refId":"imperial_chain_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron arrow",
-          "count":100,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"cruel sparkarrow",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel longbow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron viperblade",
-          "count":1,
+          "refId":"ingred_ash_yam_01",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "175667-0":{
-      "refId":"imperial archer",
-      "location":{
-        "posX":-14382.432617188,
-        "posY":43299.2421875,
-        "posZ":3090.0544433594,
-        "rotX":0.0014677401632071,
-        "rotZ":-1.5470378398895,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":168,
-        "healthCurrent":168,
-        "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":298,
-        "fatigueCurrent":298,
-        "healthModified":168,
-        "magickaModified":110,
-        "fatigueModified":298
-      },
-      "equipment":{
-        "0":{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"imperial_chain_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel longbow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "18":{
-          "refId":"cruel sparkarrow",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
+    "323875-0":{
+      "refId":"crate_01_imp_weapons",
       "inventory":[{
-          "refId":"imperial_chain_greaves",
+          "refId":"imperial broadsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_coif_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron arrow",
-          "count":100,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"cruel sparkarrow",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel longbow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron viperblade",
-          "count":1,
+          "refId":"imperial shortsword",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -1446,23 +1318,23 @@
     "175668-0":{
       "refId":"imperial archer",
       "location":{
-        "posX":-12592.4140625,
-        "posY":43860.5,
-        "posZ":2900.1655273438,
-        "rotX":-0.025600871071219,
-        "rotZ":-3.0673182010651,
-        "rotY":0
+        "rotZ":3.0836460590363,
+        "rotY":0,
+        "posX":-12643.971679688,
+        "posY":43558.1796875,
+        "posZ":2899.3312988281,
+        "rotX":-0.074313968420029
       },
       "stats":{
+        "healthModified":168,
+        "magickaModified":110,
+        "fatigueModified":298,
         "healthBase":168,
         "healthCurrent":168,
         "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":298,
-        "fatigueCurrent":298,
-        "healthModified":168,
-        "magickaModified":110,
-        "fatigueModified":298
+        "fatigueCurrent":298
       },
       "equipment":{
         "0":{
@@ -1583,6 +1455,134 @@
         },{
           "refId":"iron viperblade",
           "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323877-0":{
+      "refId":"crate_02_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182796-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182802-0":{
+      "refId":"tramaroot_05",
+      "inventory":[]
+    },
+    "182803-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "182804-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182806-0":{
+      "refId":"flora_bittergreen_05",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182807-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182808-0":{
+      "refId":"flora_bittergreen_02",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182810-0":{
+      "refId":"flora_bittergreen_04",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182816-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300325-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300328-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323872-0":{
+      "refId":"barrel_01_cheapfood20",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":20,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323873-0":{
+      "refId":"barrel_01_arrows",
+      "inventory":[{
+          "refId":"iron arrow",
+          "count":250,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

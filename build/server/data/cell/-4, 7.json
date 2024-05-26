@@ -26,19 +26,11 @@
     "creationTime":1715977421
   },
   "lastVisit":{
-    "Fidgug":1715978972,
-    "Benoit":1715978976
+    "Fidgug":1716737018,
+    "Benoit":1716737017
   },
   "recordLinks":[],
   "objectData":{
-    "183049-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "183050-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
     "183051-0":{
       "refId":"tramaroot_02",
       "inventory":[{
@@ -97,8 +89,9 @@
           "soul":""
         }]
     },
-    "261836-0":{
-      "cellChangeTo":"-3, 7"
+    "183070-0":{
+      "refId":"tramaroot_02",
+      "inventory":[]
     },
     "183076-0":{
       "refId":"tramaroot_06",
@@ -258,6 +251,16 @@
           "soul":""
         }]
     },
+    "300466-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "300464-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -272,36 +275,26 @@
       "refId":"flora_rm_scathecraw_02",
       "inventory":[]
     },
-    "300466-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-477":{
       "refId":"db_assassin1",
       "location":{
-        "posX":-29672.390625,
-        "posY":58047.328125,
-        "posZ":1922.0565185547,
-        "rotX":0.030335497111082,
         "rotZ":2.7102892398834,
-        "rotY":0
+        "rotY":0,
+        "posX":-29672.3125,
+        "posY":58047.3203125,
+        "posZ":1922.0417480469,
+        "rotX":0.030335497111082
       },
       "stats":{
+        "healthModified":50,
+        "magickaModified":106,
+        "fatigueModified":164,
         "healthBase":50,
         "healthCurrent":0,
         "magickaBase":106,
         "magickaCurrent":106,
         "fatigueBase":164,
-        "fatigueCurrent":164,
-        "healthModified":50,
-        "magickaModified":106,
-        "fatigueModified":164
+        "fatigueCurrent":164
       },
       "equipment":{
         "4":{
@@ -335,8 +328,15 @@
         "playerName":"Fidgug"
       }
     },
-    "183070-0":{
-      "refId":"tramaroot_02",
+    "261836-0":{
+      "cellChangeTo":"-3, 7"
+    },
+    "183049-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "183050-0":{
+      "refId":"tramaroot_06",
       "inventory":[]
     }
   },

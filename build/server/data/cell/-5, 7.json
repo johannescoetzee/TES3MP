@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-454","0-455","0-444","0-456","0-462"],
+    "actorList":["0-454","0-455","0-444","0-456","0-463"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["183366-0","183367-0","183368-0","183369-0","183370-0","183371-0","183372-0","183373-0","183374-0","183375-0","300625-0","300626-0","300627-0","300628-0","475452-0","475453-0","475454-0","0-454","0-455","0-444","0-456","0-462"],
-    "death":["0-454","0-455","0-444"],
+    "container":["183366-0","183367-0","183368-0","183369-0","183370-0","183371-0","183372-0","183373-0","183374-0","183375-0","300625-0","300626-0","300627-0","300628-0","475452-0","475453-0","475454-0","0-454","0-455","0-444","0-456","0-463"],
+    "death":["0-454","0-455","0-444","0-456"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-454","0-455","0-444","0-456","0-462"],
+    "position":["0-454","0-455","0-444","0-456","0-463"],
     "scale":[],
-    "spawn":["0-454","0-455","0-444","0-456","0-462"],
+    "spawn":["0-454","0-455","0-444","0-456","0-463"],
     "state":[],
-    "statsDynamic":["0-454","0-455","0-444","0-456","0-462"],
+    "statsDynamic":["0-454","0-455","0-444","0-456","0-463"],
     "trap":[],
     "miscellaneous":[],
     "clientScriptLocal":[],
@@ -26,11 +26,139 @@
     "creationTime":1715977469
   },
   "lastVisit":{
-    "Fidgug":1715978972,
-    "Benoit":1715978976
+    "Fidgug":1716737018,
+    "Benoit":1716737017
   },
   "recordLinks":[],
   "objectData":{
+    "0-454":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":3.0185205936432,
+        "rotY":0,
+        "posX":-36278.078125,
+        "posY":59103.3984375,
+        "posZ":2406.638671875,
+        "rotX":0.9390429854393
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "spellsActive":[]
+    },
+    "0-455":{
+      "refId":"nix-hound",
+      "location":{
+        "rotZ":-1.6087553501129,
+        "rotY":0,
+        "posX":-35342.2109375,
+        "posY":58945.40625,
+        "posZ":2308.306640625,
+        "rotX":-0.069133661687374
+      },
+      "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":396.13598632813
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-444":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":0.123206615448,
+        "rotY":0,
+        "posX":-33193.390625,
+        "posY":59271.2265625,
+        "posZ":2097.9074707031,
+        "rotX":1.0421142578125
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "spellsActive":[]
+    },
+    "0-463":{
+      "refId":"scrib",
+      "location":{
+        "rotZ":0.44788813591003,
+        "rotY":0,
+        "posX":-40728.19921875,
+        "posY":61308.6484375,
+        "posZ":3141.8989257813,
+        "rotX":-0.095844253897667
+      },
+      "stats":{
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "183366-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "183367-0":{
       "refId":"tramaroot_02",
       "inventory":[{
@@ -119,15 +247,32 @@
           "soul":""
         }]
     },
-    "300626-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "0-456":{
+      "refId":"kwama forager",
+      "location":{
+        "rotZ":-1.4138395786285,
+        "rotY":0,
+        "posX":-35272.8203125,
+        "posY":65347.3046875,
+        "posZ":1193.0104980469,
+        "rotX":-0.28058013319969
+      },
+      "stats":{
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     },
     "300627-0":{
       "refId":"flora_rm_scathecraw_01",
@@ -179,152 +324,11 @@
           "soul":""
         }]
     },
-    "0-444":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-33193.41015625,
-        "posY":59271.0859375,
-        "posZ":2097.9235839844,
-        "rotX":1.0421142578125,
-        "rotZ":0.123206615448,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[],
-      "spellsActive":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-462":{
-      "refId":"rat_diseased",
-      "location":{
-        "posX":-40619.4453125,
-        "posY":63487.1328125,
-        "posZ":3829.2221679688,
-        "rotX":-0.010281733237207,
-        "rotZ":3.1352770328522,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":105,
-        "fatigueCurrent":105,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":105
-      },
+    "300626-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-456":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-34128.171875,
-        "posY":64980.90625,
-        "posZ":1317.2456054688,
-        "rotX":-0.2281149327755,
-        "rotZ":2.679568529129,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
-      },
-      "inventory":[]
-    },
-    "0-454":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-36278.140625,
-        "posY":59103.58203125,
-        "posZ":2406.6926269531,
-        "rotX":0.9390429854393,
-        "rotZ":3.0185205936432,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[],
-      "spellsActive":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Benoit"
-      }
-    },
-    "0-455":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-35342.26171875,
-        "posY":58945.2578125,
-        "posZ":2308.3781738281,
-        "rotX":-0.069133661687374,
-        "rotZ":-1.6087553501129,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":396.13598632813,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
+          "refId":"ingred_scathecraw_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "183366-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

@@ -1,56 +1,56 @@
 {
   "packets":{
-    "actorList":["0-475","0-476","0-474"],
+    "actorList":["0-475","0-476"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-475","0-476","0-474"],
+    "container":["0-475","0-476"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-475","0-476","0-474"],
+    "position":["0-475","0-476"],
     "scale":[],
-    "spawn":["0-475","0-476","0-474"],
+    "spawn":["0-475","0-476"],
     "state":[],
-    "statsDynamic":["0-475","0-476","0-474"],
+    "statsDynamic":["0-475","0-476"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
+    "miscellaneous":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-3, 8",
-    "creationTime":1715977769
+    "creationTime":1715977769,
+    "description":"-3, 8"
   },
   "lastVisit":{
-    "Fidgug":1715978808,
-    "Benoit":1715978808
+    "Benoit":1716736261,
+    "Fidgug":1716736262
   },
   "recordLinks":[],
   "objectData":{
     "0-476":{
       "refId":"corprus_stalker",
       "location":{
+        "rotZ":0,
+        "rotY":0,
         "posX":-16809.57421875,
         "posY":72866.1640625,
         "posZ":5183.943359375,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotX":1.5707963705063
       },
       "stats":{
+        "healthModified":60,
+        "magickaModified":50,
+        "fatigueModified":300,
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":50,
         "magickaCurrent":50,
         "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":60,
-        "magickaModified":50,
-        "fatigueModified":300
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_corprus_weepings_01",
@@ -60,49 +60,26 @@
           "soul":""
         }]
     },
-    "0-474":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posX":-23350.51953125,
-        "posY":65544.03125,
-        "posZ":3408.2924804688,
-        "rotX":1.409649848938e-05,
-        "rotZ":-0.11475872993469,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":170
-      },
-      "inventory":[]
-    },
     "0-475":{
       "refId":"rat_blighted",
       "location":{
+        "rotZ":-0.23147964477539,
+        "rotY":0,
         "posX":-18691.984375,
         "posY":68081.25,
         "posZ":6517.2319335938,
-        "rotX":-0.066666662693024,
-        "rotZ":-0.23147964477539,
-        "rotY":0
+        "rotX":-0.066666662693024
       },
       "stats":{
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":69,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":80,
-        "fatigueCurrent":80,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":80
+        "fatigueBase":69,
+        "fatigueCurrent":69
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",

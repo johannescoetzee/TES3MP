@@ -26,13 +26,40 @@
     "creationTime":1715978154
   },
   "lastVisit":{
-    "Benoit":1715978711,
-    "Fidgug":1715978710
+    "Benoit":1716736146,
+    "Fidgug":1716736144
   },
   "recordLinks":[],
   "objectData":{
-    "273537-0":{
+    "273538-0":{
       "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
+    },
+    "0-481":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":1.0123646259308,
+        "rotY":0,
+        "posX":-3389.9562988281,
+        "posY":59136.171875,
+        "posZ":6196.4965820313,
+        "rotX":-2.2277235984802e-06
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[]
+    },
+    "273536-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
           "count":1,
@@ -41,35 +68,8 @@
           "soul":""
         }]
     },
-    "273538-0":{
+    "273537-0":{
       "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
-    "0-481":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-4458.53515625,
-        "posY":58323.6328125,
-        "posZ":6196.3671875,
-        "rotX":0,
-        "rotZ":-0.10323858261108,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[]
-    },
-    "273536-0":{
-      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
           "count":1,

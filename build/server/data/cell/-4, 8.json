@@ -17,40 +17,63 @@
     "state":[],
     "statsDynamic":["0-466","0-467"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
+    "miscellaneous":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-4, 8",
-    "creationTime":1715977698
+    "creationTime":1715977698,
+    "description":"-4, 8"
   },
   "lastVisit":{
-    "Fidgug":1715978844,
-    "Benoit":1715978843
+    "Benoit":1716737109,
+    "Fidgug":1716737106
   },
   "recordLinks":[],
   "objectData":{
     "0-466":{
       "refId":"kwama forager",
       "location":{
+        "rotZ":-2.2128994464874,
+        "rotY":0,
         "posX":-32101.1796875,
         "posY":68005.4296875,
-        "posZ":1842.771484375,
-        "rotX":0.048654105514288,
-        "rotZ":-2.2128994464874,
-        "rotY":0
+        "posZ":1842.7712402344,
+        "rotX":0.048654105514288
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
-        "fatigueCurrent":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[]
+    },
+    "0-467":{
+      "refId":"rat",
+      "location":{
+        "rotZ":0.15493512153625,
+        "rotY":0,
+        "posX":-27075.6640625,
+        "posY":65545.4140625,
+        "posZ":1440.9676513672,
+        "rotX":-0.29088893532753
+      },
+      "stats":{
         "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[]
     },
@@ -189,29 +212,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-467":{
-      "refId":"rat",
-      "location":{
-        "posX":-27005.126953125,
-        "posY":66173.4296875,
-        "posZ":1677.3327636719,
-        "rotX":-0.0071173822507262,
-        "rotZ":-0.61913394927979,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[]
     }
   },
   "loadState":{
