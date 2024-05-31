@@ -1,56 +1,56 @@
 {
   "packets":{
-    "actorList":["0-696","471435-0","0-697","0-672"],
+    "actorList":["0-696","471435-0","0-697","0-672","0-698"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":["355379-0"],
-    "container":["367641-0","471439-0","471440-0","471441-0","472236-0","472237-0","472238-0","472239-0","472240-0","472241-0","472242-0","472245-0","472246-0","472247-0","472248-0","472249-0","472252-0","472253-0","472254-0","472255-0","472257-0","472258-0","472259-0","472260-0","472261-0","472262-0","472263-0","472264-0","471435-0","0-696","0-697","0-672"],
+    "container":["367641-0","471439-0","471440-0","471441-0","472236-0","472237-0","472238-0","472239-0","472240-0","472241-0","472242-0","472245-0","472246-0","472247-0","472248-0","472249-0","472252-0","472253-0","472254-0","472255-0","472257-0","472258-0","472259-0","472260-0","472261-0","472262-0","472263-0","472264-0","471435-0","0-696","0-697","0-672","0-698"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["471435-0"],
     "lock":[],
     "place":[],
-    "position":["471435-0","0-696","0-697","0-672"],
+    "position":["471435-0","0-696","0-697","0-672","0-698"],
     "scale":[],
-    "spawn":["0-696","0-672","0-697"],
+    "spawn":["0-696","0-672","0-697","0-698"],
     "state":[],
-    "statsDynamic":["471435-0","0-696","0-697","0-672"],
+    "statsDynamic":["471435-0","0-696","0-697","0-672","0-698"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-10, 13",
     "creationTime":1716739285
   },
   "lastVisit":{
-    "Benoit":1716740715,
-    "Fidgug":1716740715
+    "Benoit":1717183505,
+    "Fidgug":1717180886
   },
   "recordLinks":[],
   "objectData":{
     "0-696":{
       "refId":"scrib",
       "location":{
-        "rotZ":3.0613453388214,
-        "rotY":0,
         "posX":-79546.390625,
-        "posY":111309.828125,
+        "posY":111309.8203125,
         "posZ":1757.8850097656,
-        "rotX":-0.17514938116074
+        "rotX":-0.17514938116074,
+        "rotZ":3.0613453388214,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -63,23 +63,23 @@
     "471435-0":{
       "refId":"smuggler_dead_03",
       "location":{
-        "rotZ":0,
-        "rotY":0,
         "posX":-81635.796875,
         "posY":113816.75,
         "posZ":25.157157897949,
-        "rotX":0
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
       },
       "stats":{
-        "healthModified":0,
-        "magickaModified":60,
-        "fatigueModified":180,
-        "healthBase":0,
-        "healthCurrent":0,
-        "magickaBase":60,
         "magickaCurrent":60,
         "fatigueBase":180,
-        "fatigueCurrent":180
+        "fatigueCurrent":180,
+        "fatigueModified":180,
+        "magickaBase":60,
+        "healthModified":0,
+        "healthBase":0,
+        "healthCurrent":0,
+        "magickaModified":60
       },
       "equipment":{
         "2":{
@@ -130,23 +130,23 @@
     "0-697":{
       "refId":"scrib",
       "location":{
-        "rotZ":2.534609079361,
-        "rotY":0,
         "posX":-81236.375,
-        "posY":110529.8046875,
-        "posZ":1148.935546875,
-        "rotX":-0.11507254838943
+        "posY":110529.796875,
+        "posZ":1148.9345703125,
+        "rotX":-0.11507254838943,
+        "rotZ":2.534609079361,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -159,25 +159,57 @@
     "0-672":{
       "refId":"kwama forager",
       "location":{
-        "rotZ":-1.9343569278717,
-        "rotY":0,
-        "posX":-77031.3515625,
-        "posY":107333.171875,
-        "posZ":674.13067626953,
-        "rotX":-0.14029075205326
+        "posX":-78407.0234375,
+        "posY":107956.328125,
+        "posZ":870.61804199219,
+        "rotX":-0.097756393253803,
+        "rotZ":0.94457411766052,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":15,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":15
       },
       "inventory":[]
+    },
+    "0-698":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-81673.578125,
+        "posY":107408.03125,
+        "posZ":1127.1787109375,
+        "rotX":0.1831351518631,
+        "rotZ":2.000182390213,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":15,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":15
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "355379-0":{
+      "cellChangeTo":"-10, 14"
     },
     "367641-0":{
       "refId":"flora_kreshweed_01",
@@ -464,13 +496,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "355379-0":{
-      "cellChangeTo":"-10, 14"
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

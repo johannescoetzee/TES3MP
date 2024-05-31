@@ -1,33 +1,33 @@
 {
   "packets":{
-    "actorList":["0-644","0-645","0-646","0-647","0-641","0-642","287921-0","147051-0","0-643"],
+    "actorList":["0-644","0-645","0-646","0-647","0-641","0-642","287921-0","147051-0","0-643","0-629"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["147051-0","287921-0","0-644","0-645","0-646","0-647","0-641","0-642","0-643"],
+    "container":["147051-0","287921-0","0-644","0-645","0-646","0-647","0-641","0-642","0-643","0-629"],
     "death":["0-642","0-646","147051-0","0-645","0-647","0-641"],
     "delete":[],
     "doorState":[],
     "equipment":["287921-0","147051-0"],
     "lock":[],
     "place":["0-662"],
-    "position":["147051-0","287921-0","0-641","0-642","0-644","0-645","0-646","0-647","0-643"],
+    "position":["147051-0","287921-0","0-641","0-642","0-644","0-645","0-646","0-647","0-643","0-629"],
     "scale":[],
-    "spawn":["0-644","0-645","0-646","0-647","0-641","0-642","0-643"],
+    "spawn":["0-644","0-645","0-646","0-647","0-641","0-642","0-643","0-629"],
     "state":["287921-0"],
-    "statsDynamic":["147051-0","287921-0","0-641","0-642","0-644","0-645","0-646","0-647","0-643"],
+    "statsDynamic":["147051-0","287921-0","0-641","0-642","0-644","0-645","0-646","0-647","0-643","0-629"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":["0-646","147051-0","0-645","0-647"]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716738524,
     "description":"-10, 15"
   },
   "lastVisit":{
-    "Benoit":1716740715,
-    "Fidgug":1716740715
+    "Fidgug":1717181369,
+    "Benoit":1717181371
   },
   "recordLinks":{
     "potion":[]
@@ -36,23 +36,23 @@
     "0-644":{
       "refId":"rat",
       "location":{
-        "rotZ":-0.44380497932434,
-        "rotY":0,
-        "posX":-79450.4375,
-        "posY":128533.3359375,
-        "posZ":722.26629638672,
-        "rotX":-0.1649261713028
+        "posX":-78499.3828125,
+        "posY":127766.921875,
+        "posZ":1041.2216796875,
+        "rotX":-0.031282678246498,
+        "rotZ":-2.9995353221893,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -62,224 +62,168 @@
           "soul":""
         }]
     },
-    "0-662":{
-      "refId":"steel frostsword",
-      "location":{
-        "rotZ":1.6453211307526,
-        "posY":124902.03125,
-        "posX":-79036.0078125,
-        "rotY":0,
-        "posZ":1869.5734863281,
-        "rotX":0
-      }
-    },
     "0-645":{
       "refId":"scamp",
       "location":{
-        "rotZ":-0.61331415176392,
-        "rotY":0,
         "posX":-75600.6953125,
-        "posY":125667.5078125,
-        "posZ":1795.0789794922,
-        "rotX":-0.55927932262421
+        "posY":125667.5,
+        "posZ":1795.0811767578,
+        "rotX":-0.55927932262421,
+        "rotZ":-0.61331415176392,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
-        "fatigueCurrent":392.83511352539
+        "fatigueCurrent":392.83511352539,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaModified":100
       },
       "inventory":[],
-      "deathState":38,
+      "spellsActive":{
+      },
       "killer":{
         "playerName":"Fidgug"
       },
-      "spellsActive":{
-        "cloudcleaver_unique":[{
-            "effects":[{
-                "magnitude":2,
-                "arg":-1,
-                "duration":1,
-                "id":15,
-                "timeLeft":1
-              }],
-            "displayName":"Cloudcleaver",
-            "startTime":1716738774,
-            "caster":{
-              "playerName":"Fidgug"
-            },
-            "stackingState":false
-          }]
-      }
+      "deathState":38
     },
     "0-646":{
       "refId":"scamp",
       "location":{
-        "rotZ":0.68195605278015,
-        "rotY":0,
         "posX":-75576.1171875,
-        "posY":128166.7109375,
-        "posZ":1696.7885742188,
-        "rotX":-0.061445444822311
+        "posY":128166.703125,
+        "posZ":1696.7884521484,
+        "rotX":-0.061445444822311,
+        "rotZ":0.68195605278015,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaModified":100
       },
       "inventory":[],
-      "deathState":38,
+      "spellsActive":{
+      },
       "killer":{
         "playerName":"Fidgug"
       },
-      "spellsActive":{
-        "cloudcleaver_unique":[{
-            "effects":[{
-                "magnitude":6.5,
-                "arg":-1,
-                "duration":1,
-                "id":15,
-                "timeLeft":1
-              }],
-            "displayName":"Cloudcleaver",
-            "startTime":1716738723,
-            "caster":{
-              "playerName":"Fidgug"
-            },
-            "stackingState":false
-          }]
-      }
+      "deathState":38
     },
     "0-647":{
       "refId":"scamp",
       "location":{
-        "rotZ":-1.4321582317352,
-        "rotY":0,
         "posX":-78107.171875,
         "posY":125788.71875,
-        "posZ":2418,
-        "rotX":0.35174685716629
+        "posZ":2417.9997558594,
+        "rotX":0.35174685716629,
+        "rotZ":-1.4321582317352,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
-        "fatigueCurrent":364.42858886719
+        "fatigueCurrent":364.42858886719,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaModified":100
       },
       "inventory":[],
-      "deathState":38,
+      "spellsActive":{
+      },
       "killer":{
         "playerName":"Fidgug"
       },
-      "spellsActive":{
-        "cloudcleaver_unique":[{
-            "effects":[{
-                "magnitude":10,
-                "arg":-1,
-                "duration":1,
-                "id":15,
-                "timeLeft":1
-              }],
-            "displayName":"Cloudcleaver",
-            "startTime":1716738905,
-            "caster":{
-              "playerName":"Fidgug"
-            },
-            "stackingState":false
-          }]
-      }
+      "deathState":38
     },
     "0-641":{
       "refId":"nix-hound",
       "location":{
-        "rotZ":0.31971454620361,
-        "rotY":0,
         "posX":-79108.34375,
         "posY":124759.34375,
-        "posZ":1869.4230957031,
-        "rotX":-0.15017223358154
+        "posZ":1869.4229736328,
+        "rotX":-0.15017223358154,
+        "rotZ":0.31971454620361,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":398.24847412109
+        "fatigueCurrent":398.24847412109,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
       },
       "inventory":[],
-      "deathState":38,
+      "spellsActive":[],
       "killer":{
         "playerName":"Benoit"
       },
-      "spellsActive":[]
+      "deathState":38
     },
     "0-642":{
       "refId":"kwama forager",
       "location":{
-        "rotZ":2.0250856876373,
-        "rotY":0,
         "posX":-73735.0625,
-        "posY":126419.1484375,
-        "posZ":1343.9733886719,
-        "rotX":0.20971986651421
+        "posY":126419.140625,
+        "posZ":1343.9732666016,
+        "rotX":0.20971986651421,
+        "rotZ":2.0250856876373,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15,
         "magickaCurrent":15,
         "fatigueBase":300,
-        "fatigueCurrent":297.24798583984
+        "fatigueCurrent":297.24798583984,
+        "fatigueModified":300,
+        "magickaBase":15,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":15
       },
       "inventory":[],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     },
     "147051-0":{
       "refId":"bodean",
       "location":{
-        "rotZ":2.8958704471588,
-        "rotY":0,
         "posX":-76060.6796875,
         "posY":127171.3125,
-        "posZ":1804.8895263672,
-        "rotX":-0.30913001298904
+        "posZ":1804.8894042969,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
       },
       "stats":{
-        "healthModified":109,
-        "magickaModified":92,
-        "fatigueModified":273,
-        "healthBase":109,
-        "healthCurrent":0,
-        "magickaBase":92,
         "magickaCurrent":2,
         "fatigueBase":273,
-        "fatigueCurrent":273
+        "fatigueCurrent":273,
+        "fatigueModified":273,
+        "magickaBase":92,
+        "healthModified":109,
+        "healthBase":109,
+        "healthCurrent":0,
+        "magickaModified":92
       },
       "equipment":{
         "7":{
@@ -332,64 +276,33 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":46,
+      "spellsActive":{
+      },
       "killer":{
         "playerName":"Fidgug"
       },
-      "spellsActive":{
-        "$custom_spell_5":[{
-            "effects":[{
-                "magnitude":4.75,
-                "arg":-1,
-                "duration":15,
-                "timeLeft":15,
-                "id":14
-              }],
-            "displayName":"Ignite",
-            "startTime":1716738742,
-            "caster":{
-              "playerName":"Benoit"
-            },
-            "stackingState":false
-          }],
-        "p_fire_shield_b":[{
-            "effects":[{
-                "magnitude":5,
-                "arg":-1,
-                "duration":8,
-                "timeLeft":8,
-                "id":4
-              }],
-            "displayName":"Bargain Potion of Fire Shield",
-            "startTime":1716738738,
-            "caster":{
-              "refId":"bodean",
-              "uniqueIndex":"147051-0"
-            },
-            "stackingState":true
-          }]
-      }
+      "deathState":46
     },
     "0-643":{
       "refId":"scrib blighted",
       "location":{
-        "rotZ":2.3648321628571,
-        "rotY":0,
         "posX":-74832.8671875,
         "posY":131048.359375,
         "posZ":729.17401123047,
-        "rotX":-0.12502467632294
+        "rotX":-0.12502467632294,
+        "rotZ":2.3648321628571,
+        "rotY":0
       },
       "stats":{
-        "healthModified":30,
-        "magickaModified":12,
-        "fatigueModified":400,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":12,
+        "healthModified":30,
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -399,26 +312,66 @@
           "soul":""
         }]
     },
+    "0-629":{
+      "refId":"netch_bull",
+      "location":{
+        "posX":-75048.1953125,
+        "posY":130839.0546875,
+        "posZ":839.55114746094,
+        "rotX":0.00066744908690453,
+        "rotZ":-1.2970044612885,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":100
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-662":{
+      "refId":"steel frostsword",
+      "location":{
+        "rotY":0,
+        "posY":124902.03125,
+        "posZ":1869.5734863281,
+        "rotX":0,
+        "rotZ":1.6453211307526,
+        "posX":-79036.0078125
+      }
+    },
     "287921-0":{
       "refId":"j_saddha",
       "location":{
-        "rotZ":3.7831854820251,
-        "rotY":0,
         "posX":-78229.984375,
         "posY":125194.890625,
         "posZ":1869.4229736328,
-        "rotX":0
+        "rotX":0,
+        "rotZ":3.7831854820251,
+        "rotY":0
       },
       "stats":{
-        "healthModified":60,
-        "magickaModified":81,
         "fatigueModified":179,
+        "fatigueBase":179,
+        "fatigueCurrent":179,
+        "magickaModified":81,
+        "magickaCurrent":81,
+        "healthModified":60,
         "healthBase":60,
         "healthCurrent":60,
-        "magickaBase":84,
-        "magickaCurrent":81,
-        "fatigueBase":179,
-        "fatigueCurrent":179
+        "magickaBase":84
       },
       "equipment":[null,null,null,null,null,{
           "refId":"slave_bracer_right",
@@ -448,7 +401,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

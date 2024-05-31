@@ -7,7 +7,7 @@
     "container":["28804-0","28805-0","28806-0","28807-0","28816-0","28817-0","28818-0","28826-0","28842-0","28858-0","28862-0","28887-0","28932-0","295156-0","295162-0","295177-0","296031-0","296032-0","296033-0","296034-0","296035-0","296036-0","296037-0","333441-0","333440-0","387469-0","460127-0","470837-0","9220-0","9231-0","9232-0","9233-0"],
     "death":[],
     "delete":[],
-    "doorState":["9213-0"],
+    "doorState":["9213-0","9214-0","9211-0"],
     "equipment":["9233-0","9231-0","9232-0","9220-0"],
     "lock":[],
     "place":[],
@@ -17,20 +17,242 @@
     "state":[],
     "statsDynamic":["9220-0","9231-0","9232-0","9233-0"],
     "trap":[],
-    "miscellaneous":["9232-0","9233-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["9232-0","9233-0","9231-0","9220-0"]
   },
   "entry":{
     "description":"Ald-ruhn, Guild of Fighters",
     "creationTime":1715978559
   },
   "lastVisit":{
-    "Fidgug":1715978643,
-    "Benoit":1715978645
+    "Benoit":1717189900,
+    "Fidgug":1717189935
   },
   "recordLinks":[],
   "objectData":{
+    "28826-0":{
+      "refId":"de_p_chest_01_baradras",
+      "inventory":[]
+    },
+    "28842-0":{
+      "refId":"chest_small_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28858-0":{
+      "refId":"com_chest_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28862-0":{
+      "refId":"chest_small_02_gold_10",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28887-0":{
+      "refId":"de_p_desk_01_pesesius",
+      "inventory":[{
+          "refId":"potion_cyro_whiskey_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_paper plain",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28932-0":{
+      "refId":"chest_small_01_pos",
+      "inventory":[{
+          "refId":"misc_com_metal_goblet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "295156-0":{
+      "refId":"com_basket_01_food",
+      "inventory":[{
+          "refId":"ingred_ash_yam_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "295162-0":{
+      "refId":"de_p_chest_percius_02",
+      "inventory":[{
+          "refId":"orcish_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_towershield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "295177-0":{
+      "refId":"de_p_chest_02_mclothes3",
+      "inventory":[{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"shockbite battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296031-0":{
+      "refId":"urn_05_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scuttle_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296032-0":{
+      "refId":"urn_03_food",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296033-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296034-0":{
+      "refId":"urn_01_ingred",
+      "inventory":[{
+          "refId":"ingred_bloat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296035-0":{
+      "refId":"com_basket_01_food",
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296036-0":{
+      "refId":"com_sack_02_ingred",
+      "inventory":[{
+          "refId":"ingred_sload_soap_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "296037-0":{
       "refId":"com_sack_02_chpfood3",
       "inventory":[{
@@ -302,18 +524,6 @@
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"p_restore_health_s",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_fatigue_s",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
           "refId":"fur_colovian_helm",
           "count":1,
           "charge":-1,
@@ -367,101 +577,177 @@
           "soul":""
         }]
     },
-    "9220-0":{
-      "refId":"ergnir",
+    "9213-0":{
+      "refId":"in_r_s_door_01",
+      "doorState":1
+    },
+    "9214-0":{
+      "refId":"in_r_s_door_01",
+      "doorState":1
+    },
+    "9233-0":{
+      "refId":"persius mercius",
       "location":{
-        "posX":-146.44911193848,
-        "posY":-262.98446655273,
-        "posZ":-510.99987792969,
-        "rotX":-0.070480346679688,
-        "rotZ":1.5249922275543,
+        "posX":1470.2354736328,
+        "posY":-46.246124267578,
+        "posZ":-767,
+        "rotX":-0.035202469676733,
+        "rotZ":-0.82327151298523,
         "rotY":0
       },
       "stats":{
-        "healthBase":126,
-        "healthCurrent":126,
-        "magickaBase":72,
-        "magickaCurrent":72,
-        "fatigueBase":247,
-        "fatigueCurrent":247,
-        "healthModified":126,
-        "magickaModified":72,
-        "fatigueModified":247
+        "magickaCurrent":128,
+        "fatigueBase":252,
+        "fatigueCurrent":252,
+        "fatigueModified":252,
+        "magickaBase":128,
+        "healthModified":141,
+        "healthBase":141,
+        "healthCurrent":141,
+        "magickaModified":128
       },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_05",
+      "equipment":[{
+          "refId":"netch_leather_cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },{
-          "refId":"common_shirt_04_a",
+          "refId":"netch_leather_greaves",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },{
-          "refId":"common_pants_01",
+          "refId":"netch_leather_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"netch_leather_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"netch_leather_gauntlet_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"netch_leather_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"netch_leather_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"common_pants_03_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,null,{
+          "refId":"steel broadsword of hewing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"netch_leather_shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         }],
       "inventory":[{
-          "refId":"common_shirt_04_a",
+          "refId":"netch_leather_shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"common_shoes_05",
+          "refId":"netch_leather_gauntlet_right",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"common_pants_01",
+          "refId":"netch_leather_gauntlet_left",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"iron bolt",
-          "count":50,
+          "refId":"netch_leather_boots",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"iron arrow",
-          "count":100,
+          "refId":"netch_leather_greaves",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"steel arrow",
-          "count":50,
+          "refId":"netch_leather_pauldron_right",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"netch_leather_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"key_persius mercius",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel broadsword of hewing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "goldPool":0,
+      "lastGoldRestockHour":4.1218204498291,
+      "lastGoldRestockDay":23
     },
     "9231-0":{
       "refId":"tralan",
       "location":{
-        "posX":-738.54089355469,
-        "posY":175.47253417969,
+        "posX":-762.42059326172,
+        "posY":190.85511779785,
         "posZ":-511,
-        "rotX":0.009621269069612,
-        "rotZ":1.7403662204742,
+        "rotX":0.010587126947939,
+        "rotZ":-3.0831825733185,
         "rotY":0
       },
       "stats":{
-        "healthBase":112,
-        "healthCurrent":112,
-        "magickaBase":70,
         "magickaCurrent":70,
         "fatigueBase":235,
         "fatigueCurrent":235,
+        "fatigueModified":235,
+        "magickaBase":70,
         "healthModified":112,
-        "magickaModified":70,
-        "fatigueModified":235
+        "healthBase":112,
+        "healthCurrent":112,
+        "magickaModified":70
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -596,28 +882,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "goldPool":0,
+      "lastGoldRestockHour":4.449914932251,
+      "lastGoldRestockDay":23
     },
     "9232-0":{
       "refId":"baradras",
       "location":{
-        "posX":120.62424468994,
-        "posY":-210.99116516113,
-        "posZ":-255,
+        "posX":125.76718139648,
+        "posY":-209.01547241211,
+        "posZ":-255.00001525879,
         "rotX":0,
-        "rotZ":-0.010026454925537,
+        "rotZ":-1.2060358524323,
         "rotY":0
       },
       "stats":{
-        "healthBase":80,
-        "healthCurrent":80,
-        "magickaBase":94,
         "magickaCurrent":94,
         "fatigueBase":194,
         "fatigueCurrent":194,
+        "fatigueModified":194,
+        "magickaBase":94,
         "healthModified":80,
-        "magickaModified":94,
-        "fatigueModified":194
+        "healthBase":80,
+        "healthCurrent":80,
+        "magickaModified":94
       },
       "equipment":{
         "0":{
@@ -718,154 +1007,147 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":23.361507415771,
-      "lastGoldRestockDay":15,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockHour":3.9975533485413,
+      "lastGoldRestockDay":23
     },
-    "9233-0":{
-      "refId":"persius mercius",
+    "9220-0":{
+      "refId":"ergnir",
       "location":{
-        "posX":1477.4534912109,
-        "posY":-140.5796661377,
+        "posX":1422.2933349609,
+        "posY":-276.88360595703,
         "posZ":-767,
-        "rotX":0.015554213896394,
-        "rotZ":-1.0623190402985,
+        "rotX":-0.026610009372234,
+        "rotZ":-0.28178572654724,
         "rotY":0
       },
       "stats":{
-        "healthBase":141,
-        "healthCurrent":141,
-        "magickaBase":128,
-        "magickaCurrent":128,
-        "fatigueBase":252,
-        "fatigueCurrent":252,
-        "healthModified":141,
-        "magickaModified":128,
-        "fatigueModified":252
+        "magickaCurrent":72,
+        "fatigueBase":247,
+        "fatigueCurrent":247,
+        "fatigueModified":247,
+        "magickaBase":72,
+        "healthModified":126,
+        "healthBase":126,
+        "healthCurrent":126,
+        "magickaModified":72
       },
-      "equipment":[{
-          "refId":"netch_leather_cuirass",
+      "equipment":{
+        "0":{
+          "refId":"darkbrotherhood helm",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_greaves",
+        },
+        "1":{
+          "refId":"darkbrotherhood cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_pauldron_left",
+        },
+        "4":{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":211,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_05",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_pauldron_right",
+        },
+        "8":{
+          "refId":"common_shirt_04_a",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_gauntlet_left",
+        },
+        "9":{
+          "refId":"common_pants_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,{
-          "refId":"common_pants_03_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,null,null,null,null,{
-          "refId":"steel broadsword of hewing",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"netch_leather_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
+        }
+      },
       "inventory":[{
-          "refId":"netch_leather_shield",
+          "refId":"common_shirt_04_a",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"netch_leather_gauntlet_right",
+          "refId":"common_shoes_05",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"netch_leather_gauntlet_left",
+          "refId":"common_pants_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"netch_leather_boots",
+          "refId":"iron bolt",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel arrow",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood helm",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":211,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"grey shaft of unraveling",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"netch_leather_greaves",
-          "count":1,
+          "refId":"dire shardarrow",
+          "count":20,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"netch_leather_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"key_persius mercius",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel broadsword of hewing",
+          "refId":"darkbrotherhood cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":23.531608581543,
-      "lastGoldRestockDay":15,
-      "goldPool":0
+      "goldPool":32,
+      "lastGoldRestockHour":4.7286577224731,
+      "lastGoldRestockDay":23
     },
-    "9213-0":{
+    "9211-0":{
       "refId":"in_r_s_door_01",
       "doorState":1
     },
@@ -968,232 +1250,10 @@
     "28818-0":{
       "refId":"de_p_chest_02_empty",
       "inventory":[]
-    },
-    "28826-0":{
-      "refId":"de_p_chest_01_baradras",
-      "inventory":[]
-    },
-    "28842-0":{
-      "refId":"chest_small_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28858-0":{
-      "refId":"com_chest_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28862-0":{
-      "refId":"chest_small_02_gold_10",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28887-0":{
-      "refId":"de_p_desk_01_pesesius",
-      "inventory":[{
-          "refId":"potion_cyro_whiskey_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_paper plain",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28932-0":{
-      "refId":"chest_small_01_pos",
-      "inventory":[{
-          "refId":"misc_com_metal_goblet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "295156-0":{
-      "refId":"com_basket_01_food",
-      "inventory":[{
-          "refId":"ingred_ash_yam_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "295162-0":{
-      "refId":"de_p_chest_percius_02",
-      "inventory":[{
-          "refId":"orcish_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_towershield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "295177-0":{
-      "refId":"de_p_chest_02_mclothes3",
-      "inventory":[{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"shockbite battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296031-0":{
-      "refId":"urn_05_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scuttle_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296032-0":{
-      "refId":"urn_03_food",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296033-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296034-0":{
-      "refId":"urn_01_ingred",
-      "inventory":[{
-          "refId":"ingred_bloat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296035-0":{
-      "refId":"com_basket_01_food",
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296036-0":{
-      "refId":"com_sack_02_ingred",
-      "inventory":[{
-          "refId":"ingred_sload_soap_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

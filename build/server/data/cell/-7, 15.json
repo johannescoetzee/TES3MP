@@ -18,32 +18,30 @@
     "statsDynamic":["0-597","0-599","0-598"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716738124,
     "description":"-7, 15"
   },
   "lastVisit":{
-    "Benoit":1716741265,
-    "Fidgug":1716741264
+    "Benoit":1717181456,
+    "Fidgug":1717181455
   },
   "recordLinks":[],
   "objectData":{
-    "474711-0":{
+    "474697-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "474703-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
     },
-    "474710-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "474704-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
     },
     "474705-0":{
       "refId":"flora_kreshweed_03",
@@ -55,11 +53,17 @@
           "soul":""
         }]
     },
-    "474704-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
+    "474710-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "474703-0":{
+    "474711-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
     },
@@ -93,163 +97,10 @@
           "soul":""
         }]
     },
-    "0-597":{
-      "refId":"scrib",
-      "location":{
-        "rotZ":1.0161368846893,
-        "rotY":0,
-        "posX":-55139.22265625,
-        "posY":123783.28125,
-        "posZ":1747.6958007813,
-        "rotX":0.064605124294758
-      },
-      "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300
-      },
+    "474715-0":{
+      "refId":"flora_chokeweed_02",
       "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474689-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-599":{
-      "refId":"kwama forager",
-      "location":{
-        "rotZ":3.0283763408661,
-        "rotY":0,
-        "posX":-55830.40625,
-        "posY":126597.3671875,
-        "posZ":1784.1585693359,
-        "rotX":-0.32976502180099
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":296.65295410156
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-598":{
-      "refId":"kwama forager",
-      "location":{
-        "rotZ":0.33015441894531,
-        "rotY":0,
-        "posX":-55578.97265625,
-        "posY":123147.0390625,
-        "posZ":1738.8802490234,
-        "rotX":-0.26811653375626
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":296.27041625977
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "474688-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474687-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474686-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474685-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474682-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474683-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474684-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
+          "refId":"ingred_chokeweed_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -418,10 +269,163 @@
           "soul":""
         }]
     },
-    "474715-0":{
-      "refId":"flora_chokeweed_02",
+    "0-597":{
+      "refId":"scrib",
+      "location":{
+        "posX":-55139.22265625,
+        "posY":123783.28125,
+        "posZ":1747.6962890625,
+        "rotX":0.064605124294758,
+        "rotZ":1.0161368846893,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
+      },
       "inventory":[{
-          "refId":"ingred_chokeweed_01",
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-599":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-55830.40625,
+        "posY":126597.3671875,
+        "posZ":1784.1585693359,
+        "rotX":-0.32976502180099,
+        "rotZ":3.0283763408661,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":296.65295410156,
+        "fatigueModified":300,
+        "magickaBase":15,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":15
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-598":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-55578.97265625,
+        "posY":123147.0390625,
+        "posZ":1738.8802490234,
+        "rotX":-0.26811653375626,
+        "rotZ":0.33015441894531,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":296.27041625977,
+        "fatigueModified":300,
+        "magickaBase":15,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":15
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "474682-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474683-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474684-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474685-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474686-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474687-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474688-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474689-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -455,14 +459,10 @@
     "474696-0":{
       "refId":"flora_stoneflower_02",
       "inventory":[]
-    },
-    "474697-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

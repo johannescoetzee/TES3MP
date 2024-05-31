@@ -1,56 +1,114 @@
 {
   "packets":{
-    "actorList":["0-684","0-685","0-683","19433-0","0-702"],
+    "actorList":["0-684","0-683","19433-0","0-685","0-702"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["26620-0","472395-0","472396-0","472397-0","472398-0","472399-0","472400-0","472401-0","472402-0","472403-0","472404-0","0-684","0-685","0-683","19433-0","0-702"],
+    "container":["26620-0","472395-0","472396-0","472397-0","472398-0","472399-0","472400-0","472401-0","472402-0","472403-0","472404-0","0-684","0-683","19433-0","0-685","0-702"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-683","0-684","0-685","19433-0","0-702"],
+    "position":["0-683","0-684","19433-0","0-685","0-702"],
     "scale":[],
-    "spawn":["0-684","0-685","0-683","0-702"],
+    "spawn":["0-684","0-683","0-685","0-702"],
     "state":[],
-    "statsDynamic":["0-683","0-684","0-685","19433-0","0-702"],
+    "statsDynamic":["0-683","0-684","19433-0","0-685","0-702"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716739229,
     "description":"-11, 12"
   },
   "lastVisit":{
-    "Fidgug":1716742072,
-    "Benoit":1716742075
+    "Benoit":1717188856,
+    "Fidgug":1717188839
   },
   "recordLinks":[],
   "objectData":{
+    "0-684":{
+      "refId":"netch_bull",
+      "location":{
+        "posX":-87164.8671875,
+        "posY":103029.1875,
+        "posZ":1103.8286132813,
+        "rotX":-0.0064665488898754,
+        "rotZ":-2.1190721988678,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":100
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-683":{
+      "refId":"scrib diseased",
+      "location":{
+        "posX":-88697.8671875,
+        "posY":102470.7734375,
+        "posZ":940.63989257813,
+        "rotX":-0.12544704973698,
+        "rotZ":-1.7626926898956,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":79,
+        "fatigueCurrent":79,
+        "fatigueModified":79,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "19433-0":{
       "refId":"alit",
       "location":{
-        "rotZ":-1.3237869739532,
-        "rotY":0,
-        "posX":-83108.8125,
-        "posY":102306.0390625,
-        "posZ":161.54678344727,
-        "rotX":0.19031135737896
+        "posX":-83629.5546875,
+        "posY":101855.9140625,
+        "posZ":692.43597412109,
+        "rotX":0.054911471903324,
+        "rotZ":-1.5528757572174,
+        "rotY":0
       },
       "stats":{
-        "healthModified":30,
-        "magickaModified":75,
-        "fatigueModified":400,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":75,
         "magickaCurrent":75,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":75,
+        "healthModified":30,
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaModified":75
       },
       "inventory":[{
           "refId":"ingred_alit_hide_01",
@@ -60,26 +118,55 @@
           "soul":""
         }]
     },
+    "0-685":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-84589.15625,
+        "posY":104184.5078125,
+        "posZ":1188.3308105469,
+        "rotX":-0.052382703870535,
+        "rotZ":-1.0127098560333,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-702":{
       "refId":"scrib diseased",
       "location":{
-        "rotZ":-0.45689344406128,
-        "rotY":0,
-        "posX":-84810.140625,
-        "posY":105830.28125,
-        "posZ":1937.8786621094,
-        "rotX":-0.22480779886246
+        "posX":-85176.609375,
+        "posY":105604.3828125,
+        "posZ":1858.6279296875,
+        "rotX":0.21228712797165,
+        "rotZ":-1.6415102481842,
+        "rotY":0
       },
       "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":73,
+        "fatigueCurrent":73,
+        "fatigueModified":73,
+        "magickaBase":12,
         "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":71,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":71,
-        "fatigueCurrent":71
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -198,97 +285,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-684":{
-      "refId":"netch_bull",
-      "location":{
-        "rotZ":0.22166419029236,
-        "rotY":0,
-        "posX":-87635.3203125,
-        "posY":104056.0234375,
-        "posZ":1109.3511962891,
-        "rotX":-0.00088328681886196
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-685":{
-      "refId":"nix-hound",
-      "location":{
-        "rotZ":1.7238867282867,
-        "rotY":0,
-        "posX":-83556.3203125,
-        "posY":103970.4609375,
-        "posZ":1125.1218261719,
-        "rotX":0.35783439874649
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-683":{
-      "refId":"scrib diseased",
-      "location":{
-        "rotZ":1.8028719425201,
-        "rotY":0,
-        "posX":-88282.7578125,
-        "posY":103693.6171875,
-        "posZ":290.79559326172,
-        "rotX":-0.1087861508131
-      },
-      "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":71,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":71,
-        "fatigueCurrent":71
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

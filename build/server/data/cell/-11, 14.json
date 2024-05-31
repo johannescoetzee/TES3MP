@@ -1,6 +1,6 @@
 {
   "packets":{
-    "actorList":["0-655","0-656","0-657","268210-0","268211-0"],
+    "actorList":["0-655","0-657","268210-0","268211-0","0-656"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
@@ -11,141 +11,92 @@
     "equipment":["268210-0","268211-0"],
     "lock":[],
     "place":[],
-    "position":["268210-0","268211-0","0-655","0-656","0-657"],
+    "position":["268210-0","268211-0","0-655","0-657","0-656"],
     "scale":[],
-    "spawn":["0-655","0-656","0-657"],
+    "spawn":["0-655","0-657","0-656"],
     "state":[],
-    "statsDynamic":["268210-0","268211-0","0-655","0-656","0-657"],
+    "statsDynamic":["268210-0","268211-0","0-655","0-657","0-656"],
     "trap":[],
-    "miscellaneous":["268211-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["268211-0","268210-0"]
   },
   "entry":{
     "description":"-11, 14",
     "creationTime":1716738706
   },
   "lastVisit":{
-    "Fidgug":1716740635,
-    "Benoit":1716740637
+    "Benoit":1717183505,
+    "Fidgug":1717180886
   },
   "recordLinks":[],
   "objectData":{
-    "472347-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472348-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-655":{
       "refId":"scrib diseased",
       "location":{
-        "rotZ":2.4347970485687,
-        "rotY":0,
-        "posX":-88253.265625,
-        "posY":121365.9765625,
-        "posZ":1171.3090820313,
-        "rotX":0.14608000218868
+        "posX":-87783.21875,
+        "posY":121021.4609375,
+        "posZ":1227.7106933594,
+        "rotX":-0.081041403114796,
+        "rotZ":2.4784018993378,
+        "rotY":0
       },
       "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":66,
+        "fatigueCurrent":66,
+        "fatigueModified":66,
+        "magickaBase":12,
         "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":62,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":62,
-        "fatigueCurrent":62
+        "magickaModified":12
       },
       "inventory":[]
-    },
-    "0-656":{
-      "refId":"netch_bull",
-      "location":{
-        "rotZ":-1.0443069934845,
-        "rotY":0,
-        "posX":-89913.75,
-        "posY":115390.421875,
-        "posZ":860.05859375,
-        "rotX":0.23100790381432
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     },
     "0-657":{
       "refId":"scrib",
       "location":{
-        "rotZ":-2.3307411670685,
-        "rotY":0,
-        "posX":-85231.0546875,
-        "posY":119408.8984375,
-        "posZ":1065.7026367188,
-        "rotX":-0.085759781301022
+        "posX":-85273.953125,
+        "posY":120133.65625,
+        "posZ":942.96484375,
+        "rotX":0.17115071415901,
+        "rotZ":-0.20211505889893,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[]
     },
     "268210-0":{
       "refId":"rawia ashirbibi",
       "location":{
-        "rotZ":0.24183988571167,
-        "rotY":0,
-        "posX":-88242.046875,
-        "posY":119277.859375,
-        "posZ":1577,
-        "rotX":-0.10553106665611
+        "posX":-87764.484375,
+        "posY":119182.859375,
+        "posZ":1584.1079101563,
+        "rotX":0,
+        "rotZ":4.4831857681274,
+        "rotY":0
       },
       "stats":{
-        "healthModified":70,
-        "magickaModified":100,
-        "fatigueModified":206,
-        "healthBase":70,
-        "healthCurrent":70,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":206,
-        "fatigueCurrent":206
+        "fatigueCurrent":206,
+        "fatigueModified":206,
+        "magickaBase":100,
+        "healthModified":70,
+        "healthBase":70,
+        "healthCurrent":70,
+        "magickaModified":100
       },
       "equipment":{
         "7":{
@@ -209,28 +160,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "goldPool":0,
+      "lastGoldRestockHour":14.505515098572,
+      "lastGoldRestockDay":19
     },
     "268211-0":{
       "refId":"kund assarnibani",
       "location":{
-        "rotZ":-0.5844395160675,
-        "rotY":0,
-        "posX":-88599.4765625,
-        "posY":118615.9140625,
-        "posZ":1629.2828369141,
-        "rotX":0.026134412735701
+        "posX":-88299.5546875,
+        "posY":118180.90625,
+        "posZ":1659.2211914063,
+        "rotX":0,
+        "rotZ":4.1831855773926,
+        "rotY":0
       },
       "stats":{
-        "healthModified":113,
-        "magickaModified":100,
-        "fatigueModified":226,
-        "healthBase":113,
-        "healthCurrent":113,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":226,
-        "fatigueCurrent":226
+        "fatigueCurrent":226,
+        "fatigueModified":226,
+        "magickaBase":100,
+        "healthModified":113,
+        "healthBase":113,
+        "healthCurrent":113,
+        "magickaModified":100
       },
       "equipment":{
         "1":{
@@ -325,19 +279,42 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "goldPool":564,
       "lastGoldRestockHour":23.907545089722,
-      "lastGoldRestockDay":17,
-      "goldPool":564
+      "lastGoldRestockDay":17
     },
-    "59986-0":{
-      "refId":"flora_roobrush_02",
+    "0-656":{
+      "refId":"netch_bull",
+      "location":{
+        "posX":-89563.015625,
+        "posY":115188.9375,
+        "posZ":890.0908203125,
+        "rotX":0.0021224804222584,
+        "rotZ":1.3093249797821,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
+      },
       "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
+          "refId":"ingred_netch_leather_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "59986-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
     },
     "59988-0":{
       "refId":"flora_roobrush_02",
@@ -463,13 +440,7 @@
     },
     "472344-0":{
       "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "472345-0":{
       "refId":"flora_stoneflower_02",
@@ -484,10 +455,30 @@
     "472346-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
+    },
+    "472347-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472348-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

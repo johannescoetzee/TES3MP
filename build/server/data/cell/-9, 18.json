@@ -18,18 +18,43 @@
     "statsDynamic":["0-749"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716741265,
     "description":"-9, 18"
   },
   "lastVisit":{
-    "Benoit":1716741356
+    "Benoit":1717181363,
+    "Fidgug":1717181358
   },
   "recordLinks":[],
   "objectData":{
+    "402803-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402956-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402957-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
     "402958-0":{
       "refId":"kollop_03_pearl",
       "inventory":[{
@@ -58,53 +83,27 @@
           "soul":""
         }]
     },
-    "403114-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "403115-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "403116-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
     "0-749":{
       "refId":"slaughterfish_small",
       "location":{
-        "rotZ":0.18138885498047,
-        "rotY":0,
-        "posX":-66965.1015625,
-        "posY":153588.96875,
-        "posZ":-33.367046356201,
-        "rotX":-1.2553426027298
+        "posX":-67065.53125,
+        "posY":153982.453125,
+        "posZ":-33.008354187012,
+        "rotX":-0.0023016929626465,
+        "rotZ":1.1163747310638,
+        "rotY":0
       },
       "stats":{
-        "healthModified":15,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":15,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaModified":10
       },
-      "inventory":[]
-    },
-    "402929-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402930-0":{
-      "refId":"kollop_01_pearl",
       "inventory":[]
     },
     "402927-0":{
@@ -126,6 +125,32 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "403114-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "403115-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "403116-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "402929-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402930-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
     },
     "402931-0":{
       "refId":"kollop_02_pearl",
@@ -178,34 +203,10 @@
     "402802-0":{
       "refId":"kollop_02_pearl",
       "inventory":[]
-    },
-    "402803-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402956-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402957-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

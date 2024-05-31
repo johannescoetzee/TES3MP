@@ -17,44 +17,20 @@
     "state":[],
     "statsDynamic":["470783-0","0-636","0-638"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["470783-0"]
   },
   "entry":{
     "description":"-9, 16",
     "creationTime":1716738328
   },
   "lastVisit":{
-    "Fidgug":1716741264,
-    "Benoit":1716741356
+    "Benoit":1717181456,
+    "Fidgug":1717181455
   },
   "recordLinks":[],
   "objectData":{
-    "68135-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "68136-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "471832-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
     "471833-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[{
@@ -68,23 +44,23 @@
     "0-638":{
       "refId":"nix-hound",
       "location":{
-        "rotZ":-2.5671660900116,
-        "rotY":0,
-        "posX":-71491.8515625,
-        "posY":136449.546875,
-        "posZ":949.80871582031,
-        "rotX":0.58220237493515
+        "posX":-70243.390625,
+        "posY":136043.1875,
+        "posZ":704.48937988281,
+        "rotX":0.4126264154911,
+        "rotZ":2.2099158763885,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -97,23 +73,23 @@
     "0-636":{
       "refId":"nix-hound",
       "location":{
-        "rotZ":-2.4391243457794,
-        "rotY":0,
-        "posX":-71418.0234375,
-        "posY":133156.078125,
-        "posZ":1576.1654052734,
-        "rotX":0.087241366505623
+        "posX":-71024.140625,
+        "posY":133702.5625,
+        "posZ":1494.3342285156,
+        "rotX":-0.19040922820568,
+        "rotZ":-1.5961830615997,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -126,23 +102,23 @@
     "470783-0":{
       "refId":"seldus nerendus",
       "location":{
-        "rotZ":1.3000004291534,
-        "rotY":0,
-        "posX":-65939.1796875,
-        "posY":135592.109375,
+        "posX":-65918.0703125,
+        "posY":135587.890625,
         "posZ":961,
-        "rotX":0
+        "rotX":0,
+        "rotZ":1.3906586170197,
+        "rotY":0
       },
       "stats":{
-        "healthModified":59,
-        "magickaModified":106,
-        "fatigueModified":171,
-        "healthBase":59,
-        "healthCurrent":59,
-        "magickaBase":106,
         "magickaCurrent":106,
         "fatigueBase":171,
-        "fatigueCurrent":171
+        "fatigueCurrent":171,
+        "fatigueModified":171,
+        "magickaBase":106,
+        "healthModified":59,
+        "healthBase":59,
+        "healthCurrent":59,
+        "magickaModified":106
       },
       "equipment":{
         "7":{
@@ -206,11 +182,38 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        }],
+      "goldPool":0,
+      "lastGoldRestockHour":18.618204116821,
+      "lastGoldRestockDay":19
+    },
+    "68135-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }]
+    },
+    "68136-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "471832-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

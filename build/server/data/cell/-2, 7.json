@@ -17,17 +17,17 @@
     "state":[],
     "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-2, 7",
     "creationTime":1715977880
   },
   "lastVisit":{
-    "Fidgug":1716736179,
-    "Benoit":1716736187
+    "Fidgug":1717189943,
+    "Benoit":1717189941
   },
   "recordLinks":[],
   "objectData":{
@@ -348,7 +348,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

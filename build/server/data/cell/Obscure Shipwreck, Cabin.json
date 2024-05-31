@@ -1,0 +1,42 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["318093-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
+  },
+  "entry":{
+    "description":"Obscure Shipwreck, Cabin",
+    "creationTime":1717184960
+  },
+  "lastVisit":{
+    "Fidgug":1717184968
+  },
+  "recordLinks":[],
+  "objectData":{
+    "318093-0":{
+      "refId":"de_p_desk_01",
+      "inventory":[]
+    }
+  },
+  "loadState":{
+    "hasFullActorList":true,
+    "hasFullContainerData":true
+  }
+}

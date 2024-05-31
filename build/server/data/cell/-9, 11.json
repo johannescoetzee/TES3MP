@@ -4,86 +4,57 @@
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["419146-0","419147-0","419151-0","419156-0","419159-0","419162-0","471952-0","471953-0","471954-0","471958-0","471965-0","471966-0","471967-0","471968-0","471972-0","471973-0","471974-0","471975-0","471976-0","471977-0","471978-0","355351-0","0-670"],
+    "container":["419146-0","419147-0","419151-0","419156-0","419159-0","419162-0","471952-0","471953-0","471954-0","471958-0","471965-0","471966-0","471967-0","471968-0","471972-0","471973-0","471974-0","471975-0","471976-0","471977-0","471978-0","0-670","355351-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["355351-0","0-670"],
+    "position":["0-670","355351-0"],
     "scale":[],
     "spawn":["0-670"],
     "state":[],
-    "statsDynamic":["355351-0","0-670"],
+    "statsDynamic":["0-670","355351-0"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-9, 11",
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1716742075,
-    "Fidgug":1716742072
+    "Benoit":1717188705,
+    "Fidgug":1717188741
   },
   "recordLinks":[],
   "objectData":{
     "0-670":{
       "refId":"mudcrab",
       "location":{
-        "rotZ":-0.94163203239441,
-        "rotY":0,
-        "posX":-71087.6640625,
-        "posY":95568.703125,
-        "posZ":102.82913970947,
-        "rotX":-0.10224720835686
+        "posX":-70797.21875,
+        "posY":95828.0390625,
+        "posZ":109.34754943848,
+        "rotX":0.53178453445435,
+        "rotZ":2.8129494190216,
+        "rotY":0
       },
       "stats":{
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
         "magickaCurrent":5,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":5,
+        "healthModified":15,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaModified":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "355351-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "rotZ":1.5933511257172,
-        "rotY":0,
-        "posX":-72795.1796875,
-        "posY":91171.0078125,
-        "posZ":-203.87945556641,
-        "rotX":0
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -262,10 +233,39 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "355351-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-73507.265625,
+        "posY":91829.9375,
+        "posZ":-203.99542236328,
+        "rotX":0.00027887336909771,
+        "rotZ":-2.0284836292267,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":399.98834228516,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

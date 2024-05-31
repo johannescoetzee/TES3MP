@@ -5,11 +5,11 @@
     "passwordSalt":"FMq0swpChePyqnQzrh65XHGVESdQlKLMyFYOEV3ramJNDfDWEdpd8UIIi6bo288I"
   },
   "timestamps":{
-    "lastLogin":1716734614,
-    "lastFixMe":0,
+    "lastLogin":1717187565,
     "creation":1713904744,
-    "lastDisconnect":1716742072,
-    "lastSessionDuration":7458
+    "lastFixMe":0,
+    "lastDisconnect":1717190726,
+    "lastSessionDuration":3161
   },
   "settings":{
     "difficulty":"default",
@@ -32,1023 +32,828 @@
   },
   "customClass":{
     "name":"WAAAAGGGGGGHHHHH!!!",
-    "description":"",
     "specialization":0,
     "majorAttributes":"Strength, Endurance",
     "majorSkills":"Heavyarmor, Axe, Longblade, Bluntweapon, Armorer",
-    "minorSkills":"Block, Mediumarmor, Spear, Athletics, Acrobatics"
+    "minorSkills":"Block, Mediumarmor, Spear, Athletics, Acrobatics",
+    "description":""
   },
   "location":{
-    "cell":"-10, 11",
-    "posX":-80409.328125,
-    "posY":90506.6171875,
-    "posZ":1040.1146240234,
-    "rotX":0.1484375,
-    "rotZ":-1.8881704807281,
-    "regionName":"west gash region"
+    "cell":"Vivec, Guild of Mages",
+    "posX":602.28796386719,
+    "posY":963.96423339844,
+    "posZ":-511,
+    "rotX":0.20703125,
+    "rotZ":1.9755947589874,
+    "regionName":""
   },
   "stats":{
-    "healthBase":88.799995422363,
-    "healthCurrent":88.799995422363,
+    "healthBase":95.599998474121,
+    "healthCurrent":95.599998474121,
     "magickaBase":30,
     "magickaCurrent":30,
-    "fatigueBase":210.49992370605,
-    "fatigueCurrent":210.49992370605,
-    "levelProgress":9,
-    "level":6
+    "fatigueBase":232,
+    "fatigueCurrent":228.48799133301,
+    "level":7,
+    "levelProgress":12
   },
   "fame":{
-    "bounty":0,
-    "reputation":0
+    "reputation":0,
+    "bounty":0
   },
   "shapeshift":{
     "isWerewolf":false,
-    "displayCreatureName":false,
     "scale":1,
-    "creatureRefId":""
+    "creatureRefId":"",
+    "displayCreatureName":false
   },
   "attributes":{
     "Agility":{
+      "skillIncrease":0,
       "base":36,
-      "damage":0,
-      "skillIncrease":0
+      "damage":0
     },
     "Endurance":{
-      "base":66,
-      "damage":16.500078201294,
-      "skillIncrease":2
+      "skillIncrease":4,
+      "base":68,
+      "damage":0
     },
     "Personality":{
+      "skillIncrease":0,
       "base":32,
-      "damage":0,
-      "skillIncrease":0
+      "damage":0
     },
     "Luck":{
+      "skillIncrease":0,
       "base":40,
-      "damage":0,
-      "skillIncrease":0
+      "damage":0
     },
     "Speed":{
-      "base":40,
-      "damage":0,
-      "skillIncrease":3
+      "skillIncrease":2,
+      "base":42,
+      "damage":0
     },
     "Strength":{
-      "base":74,
-      "damage":0,
-      "skillIncrease":4
+      "skillIncrease":6,
+      "base":77,
+      "damage":0
     },
     "Intelligence":{
+      "skillIncrease":0,
       "base":30,
-      "damage":0,
-      "skillIncrease":0
+      "damage":0
     },
     "Willpower":{
+      "skillIncrease":0,
       "base":51,
-      "damage":0,
-      "skillIncrease":0
+      "damage":0
     }
   },
   "skills":{
-    "Bluntweapon":{
-      "base":33,
-      "damage":0,
-      "progress":0
-    },
-    "Longblade":{
-      "base":35,
-      "damage":0,
-      "progress":0
-    },
-    "Axe":{
-      "base":70,
-      "damage":0,
-      "progress":36.000011444092
-    },
-    "Spear":{
-      "base":20,
-      "damage":0,
-      "progress":0
-    },
-    "Athletics":{
-      "base":27,
-      "damage":0,
-      "progress":0
-    },
-    "Enchant":{
-      "base":3,
-      "damage":0,
-      "progress":0
-    },
-    "Destruction":{
-      "base":3,
-      "damage":0,
-      "progress":0
-    },
-    "Alteration":{
-      "base":2,
-      "damage":0,
-      "progress":0
-    },
-    "Acrobatics":{
-      "base":30,
-      "damage":0,
-      "progress":12.29999256134
-    },
-    "Conjuration":{
-      "base":1,
-      "damage":0,
-      "progress":0
-    },
-    "Mysticism":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Restoration":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Alchemy":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Unarmored":{
-      "base":15,
-      "damage":0,
-      "progress":0
-    },
-    "Security":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Sneak":{
-      "base":5,
-      "damage":0,
-      "progress":0
-    },
-    "Lightarmor":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Shortblade":{
-      "base":5,
-      "damage":0,
-      "progress":0
-    },
-    "Marksman":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
-    "Mercantile":{
-      "base":5,
-      "damage":0,
-      "progress":0
-    },
-    "Speechcraft":{
-      "base":4,
-      "damage":0,
-      "progress":1
-    },
-    "Handtohand":{
-      "base":5,
-      "damage":0,
-      "progress":0
-    },
-    "Illusion":{
-      "base":4,
-      "damage":0,
-      "progress":0
-    },
     "Block":{
-      "base":30,
-      "damage":0,
-      "progress":0
+      "progress":0,
+      "base":29,
+      "damage":0
     },
     "Armorer":{
+      "progress":14.399994850159,
       "base":45,
-      "damage":0,
-      "progress":0
+      "damage":0
     },
     "Mediumarmor":{
-      "base":31,
-      "damage":0,
-      "progress":11
+      "progress":15,
+      "base":32,
+      "damage":0
     },
     "Heavyarmor":{
-      "base":49,
-      "damage":0,
-      "progress":19
+      "progress":16,
+      "base":51,
+      "damage":0
+    },
+    "Bluntweapon":{
+      "progress":2,
+      "base":30,
+      "damage":0
+    },
+    "Longblade":{
+      "progress":0,
+      "base":35,
+      "damage":0
+    },
+    "Axe":{
+      "progress":9.5999994277954,
+      "base":76,
+      "damage":0
+    },
+    "Spear":{
+      "progress":0,
+      "base":20,
+      "damage":0
+    },
+    "Athletics":{
+      "progress":0,
+      "base":29,
+      "damage":0
+    },
+    "Enchant":{
+      "progress":0,
+      "base":3,
+      "damage":0
+    },
+    "Destruction":{
+      "progress":0,
+      "base":2,
+      "damage":0
+    },
+    "Alteration":{
+      "progress":0,
+      "base":2,
+      "damage":0
+    },
+    "Illusion":{
+      "progress":0,
+      "base":3,
+      "damage":0
+    },
+    "Conjuration":{
+      "progress":0,
+      "base":1,
+      "damage":0
+    },
+    "Mysticism":{
+      "progress":0,
+      "base":3,
+      "damage":0
+    },
+    "Restoration":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Alchemy":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Unarmored":{
+      "progress":0,
+      "base":15,
+      "damage":0
+    },
+    "Security":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Sneak":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Lightarmor":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Shortblade":{
+      "progress":0,
+      "base":5,
+      "damage":0
+    },
+    "Marksman":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Mercantile":{
+      "progress":0,
+      "base":4,
+      "damage":0
+    },
+    "Speechcraft":{
+      "progress":1,
+      "base":4,
+      "damage":0
+    },
+    "Handtohand":{
+      "progress":0,
+      "base":5,
+      "damage":0
+    },
+    "Acrobatics":{
+      "progress":16.799982070923,
+      "base":31,
+      "damage":0
     }
   },
   "recordLinks":{
-    "potion":["$custom_potion_3","$custom_potion_4","$custom_potion_42","$custom_potion_43","$custom_potion_61","$custom_potion_72"]
+    "potion":["$custom_potion_4","$custom_potion_42","$custom_potion_43","$custom_potion_61","$custom_potion_72","$custom_potion_74","$custom_potion_76","$custom_potion_83","$custom_potion_85","$custom_potion_86","$custom_potion_109"]
   },
   "equipment":{
     "0":{
-      "charge":591,
-      "refId":"ebony_closed_helm_fghl",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":600,
+      "refId":"ebony_closed_helm_fghl"
     },
     "1":{
-      "charge":780,
-      "refId":"orcish_cuirass",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":900,
+      "refId":"orcish_cuirass"
     },
     "2":{
-      "charge":111,
-      "refId":"imperial_greaves",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":170,
+      "refId":"imperial_greaves"
     },
     "3":{
-      "charge":87,
-      "refId":"steel_pauldron_left",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":150,
+      "refId":"steel_pauldron_left"
     },
     "4":{
-      "charge":126,
-      "refId":"steel_pauldron_right",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":150,
+      "refId":"steel_pauldron_right"
     },
     "5":{
-      "charge":-1,
-      "refId":"orcish_bracer_left",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":150,
+      "refId":"orcish_bracer_left"
     },
     "6":{
-      "charge":137,
-      "refId":"orcish_bracer_right",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":150,
+      "refId":"orcish_bracer_right"
     },
     "7":{
-      "charge":85,
-      "refId":"steel_boots",
       "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":150,
+      "refId":"steel_boots"
     },
     "8":{
-      "charge":-1,
-      "refId":"common_shirt_01",
       "enchantmentCharge":-1,
-      "count":1
+      "count":0,
+      "charge":-1,
+      "refId":""
     },
     "9":{
-      "charge":-1,
-      "refId":"common_pants_01",
       "enchantmentCharge":-1,
-      "count":1
+      "count":0,
+      "charge":-1,
+      "refId":""
     },
     "12":{
-      "charge":-1,
       "refId":"fighter_ring",
-      "enchantmentCharge":-1,
-      "count":1
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1
     },
     "14":{
-      "charge":1,
       "enchantmentCharge":95,
-      "refId":"amulet of mighty blows",
-      "count":1
+      "count":1,
+      "charge":1,
+      "refId":"amulet of mighty blows"
     },
     "16":{
-      "charge":1656,
-      "refId":"cloudcleaver_unique",
-      "enchantmentCharge":21.297119140625,
-      "count":1
+      "enchantmentCharge":50,
+      "count":1,
+      "charge":1800,
+      "refId":"cloudcleaver_unique"
     }
   },
   "inventory":[{
-      "refId":"bk_a1_1_directionscaiuscosades",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"bk_a1_1_directionscaiuscosades"
     },{
-      "refId":"bk_a1_1_elone_to_balmora",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"common_shirt_01",
-      "count":1,
+      "soul":"",
+      "refId":"bk_a1_1_elone_to_balmora"
+    },null,{
+      "count":8,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"repair_journeyman_01"
     },{
-      "refId":"common_pants_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"trollbone_helm",
-      "count":1,
-      "charge":164,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"repair_journeyman_01",
       "count":10,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"p_restore_health_s"
     },{
-      "refId":"p_restore_health_s",
+      "count":22,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_fatigue_s"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"key_drarayne_thelas"
+    },{
       "count":5,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"p_restore_fatigue_q"
     },{
-      "refId":"p_restore_fatigue_s",
-      "count":12,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"key_drarayne_thelas",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"p_restore_fatigue_q",
-      "count":5,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"misc_soulgem_greater",
       "count":1,
       "charge":0,
       "enchantmentCharge":-1,
-      "soul":"dremora"
+      "soul":"dremora",
+      "refId":"misc_soulgem_greater"
     },{
-      "refId":"misc_soulgem_lesser",
-      "count":4,
+      "count":7,
       "charge":0,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"misc_soulgem_lesser"
     },{
-      "refId":"misc_soulgem_grand",
       "count":1,
       "charge":0,
       "enchantmentCharge":-1,
-      "soul":"winged twilight"
-    },{
-      "refId":"imperial_greaves",
-      "count":1,
-      "charge":111,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"steel_pauldron_left",
-      "count":1,
-      "charge":87,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"amulet of mighty blows",
+      "soul":"winged twilight",
+      "refId":"misc_soulgem_grand"
+    },null,null,{
       "count":1,
       "charge":1,
       "enchantmentCharge":94.109069824219,
-      "soul":""
+      "soul":"",
+      "refId":"amulet of mighty blows"
     },{
-      "refId":"gold_001",
-      "count":5032,
+      "count":9641,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"steel_boots",
-      "count":1,
-      "charge":85,
-      "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"gold_001"
     },null,{
-      "refId":"light_com_lantern_01_128",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
-    },null,null,{
-      "refId":"p_fortify_speed_s",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"p_fortify_speed_s"
     },{
-      "refId":"sparkstar",
       "count":20,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"sparkstar"
     },{
-      "refId":"misc_soulgem_grand",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"misc_soulgem_grand"
     },{
-      "refId":"misc_soulgem_petty",
-      "count":6,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"$custom_potion_3",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"$custom_potion_4",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"repair_prongs",
-      "count":1,
-      "charge":25,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"hammer_repair",
-      "count":4,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,null,{
-      "refId":"sc_ondusisunhinging",
-      "count":5,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_chameleon_b",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_fire_resistance_b",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_dispel_s",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"key_sandas_tomb",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"potion_cyro_whiskey_01",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"orcish_bracer_right",
-      "count":1,
-      "charge":137,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"orcish_bracer_left",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"common_amulet_03",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"ebony dart_db_unique",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"amulet of slowfalling",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"steel_pauldron_right",
-      "count":1,
-      "charge":126,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"expensive_amulet_02",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"common_ring_04",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ebony_closed_helm_fghl",
-      "count":1,
-      "charge":591,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"$custom_potion_42",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"$custom_potion_43",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"$custom_potion_61",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"common_amulet_02",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"common_ring_02",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,null,{
-      "refId":"bk_notefromernil",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_hound_meat_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"key_odibaal",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"amulet of recall",
-      "count":1,
-      "charge":1,
-      "enchantmentCharge":71.000671386719,
-      "soul":""
-    },{
-      "refId":"boots of blinding speed[unique]",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_restore_health_e",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_fortify_health_q",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"steel battle axe",
-      "count":1,
-      "charge":1451,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"darkbrotherhood gauntlet_r",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,null,null,null,{
-      "refId":"darkbrotherhood gauntlet_l",
-      "count":4,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood boots",
-      "count":1,
-      "charge":180,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"darkbrotherhood pauldron_r",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_cure_paralyzation_s",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood pauldron_l",
-      "count":1,
-      "charge":233,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"darkbrotherhood helm",
-      "count":2,
-      "charge":284,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"probe_journeyman_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"pick_journeyman_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"bookskill_security5",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"misc_com_bottle_05",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood greaves",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood pauldron_l",
-      "count":1,
-      "charge":221,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"darkbrotherhood gauntlet_r",
-      "count":1,
-      "charge":81,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood boots",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood pauldron_r",
-      "count":1,
-      "charge":231,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood pauldron_l",
-      "count":1,
-      "charge":232,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood cuirass",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood helm",
-      "count":2,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"ingred_scathecraw_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"cloudcleaver_unique",
-      "count":1,
-      "charge":1730,
-      "enchantmentCharge":22.235675811768,
-      "soul":""
-    },{
-      "refId":"orcish_cuirass",
-      "count":1,
-      "charge":780,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"pick_apprentice_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"probe_apprentice_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"sc_fphyggisgemfeeder",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_heather_01",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_corkbulb_root_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_crab_meat_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_scuttle_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_gold_kanet_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_roobrush_01",
-      "count":4,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_netch_leather_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },null,{
-      "refId":"ingred_bloat_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_trama_root_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_resin_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_saltrice_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_black_lichen_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_green_lichen_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_drain_luck_q",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"misc_soulgem_common",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_restore_speed_q",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_moon_sugar_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"fighter_ring",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"bk_ngastakvatakvakis_o",
-      "count":3,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_swift_swim_c",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_fortify_fatigue_c",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"p_fortify_strength_c",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"expensive_ring_03",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"darkbrotherhood pauldron_l",
-      "count":1,
-      "charge":209,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_stoneflower_petals_01",
-      "count":1,
-      "charge":-1,
-      "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_vampire_dust_01",
       "count":7,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"ingred_russula_01",
+      "soul":"",
+      "refId":"misc_soulgem_petty"
+    },null,{
       "count":2,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"$custom_potion_4"
     },{
-      "refId":"ingred_coprinus_01",
+      "count":1,
+      "charge":25,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"repair_prongs"
+    },{
+      "count":4,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"hammer_repair"
+    },{
+      "count":5,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"sc_ondusisunhinging"
+    },null,null,{
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"p_dispel_s"
     },{
-      "refId":"p_invisibility_c",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"key_sandas_tomb"
+    },null,null,null,{
+      "count":5,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ebony dart_db_unique"
     },{
-      "refId":"p_poison_resistance_s",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
-    },{
-      "refId":"bk_corpsepreperation1_c",
+      "soul":"",
+      "refId":"amulet of slowfalling"
+    },null,{
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"expensive_amulet_02"
     },{
-      "refId":"iron tanto",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"common_ring_04"
+    },null,{
+      "count":3,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_42"
     },{
-      "refId":"p_fortify_personality_s",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"$custom_potion_43"
     },{
-      "refId":"p_fortify_luck_b",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"$custom_potion_61"
     },{
-      "refId":"$custom_potion_72",
+      "count":2,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"common_ring_02"
+    },{
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
-      "soul":""
+      "soul":"",
+      "refId":"bk_notefromernil"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"key_odibaal"
+    },{
+      "count":1,
+      "charge":1,
+      "enchantmentCharge":71.000671386719,
+      "soul":"",
+      "refId":"amulet of recall"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"boots of blinding speed[unique]"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_health_e"
+    },{
+      "count":1,
+      "charge":900,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"orcish_cuirass"
+    },{
+      "count":5,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood gauntlet_l"
+    },null,{
+      "count":6,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood pauldron_r"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_cure_paralyzation_s"
+    },null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"probe_journeyman_01"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"pick_journeyman_01"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"bookskill_security5"
+    },{
+      "count":2,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_83"
+    },null,null,null,null,null,{
+      "count":1,
+      "charge":1800,
+      "enchantmentCharge":28.642379760742,
+      "soul":"",
+      "refId":"cloudcleaver_unique"
+    },{
+      "count":1,
+      "charge":150,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"orcish_bracer_left"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"pick_apprentice_01"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"probe_apprentice_01"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"sc_fphyggisgemfeeder"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_drain_luck_q"
+    },{
+      "count":3,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"misc_soulgem_common"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_restore_speed_q"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"fighter_ring"
+    },{
+      "count":4,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"bk_ngastakvatakvakis_o"
+    },null,null,null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"expensive_ring_03"
+    },null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_poison_resistance_s"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_fortify_personality_s"
+    },{
+      "count":1,
+      "charge":5000,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"dwarven warhammer"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_72"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"sc_blackscorn"
+    },{
+      "count":46,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel throwing star"
+    },{
+      "count":2,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_bonemeal_01"
+    },{
+      "count":4,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_85"
+    },{
+      "count":2,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_86"
+    },null,{
+      "count":3,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood gauntlet_r"
+    },null,null,null,{
+      "count":2,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood pauldron_l"
+    },null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood helm"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ring of vampire's kiss"
+    },{
+      "count":3,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_russula_01"
+    },null,null,null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_74"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_76"
+    },null,null,null,null,null,{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"p_cure_common_s"
+    },{
+      "count":1,
+      "charge":170,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"imperial_greaves"
+    },{
+      "count":1,
+      "charge":150,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"orcish_bracer_right"
+    },{
+      "count":1,
+      "charge":600,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ebony_closed_helm_fghl"
+    },null,{
+      "count":1,
+      "charge":150,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_boots"
+    },{
+      "count":1,
+      "charge":150,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_pauldron_left"
+    },{
+      "count":1,
+      "charge":150,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"steel_pauldron_right"
+    },null,{
+      "count":2,
+      "charge":100,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood gauntlet_l"
+    },null,{
+      "count":5,
+      "charge":250,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood pauldron_l"
+    },{
+      "count":1,
+      "charge":100,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood gauntlet_r"
+    },{
+      "count":2,
+      "charge":250,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"darkbrotherhood pauldron_r"
+    },{
+      "count":1,
+      "charge":180,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"trollbone_helm"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"bk_vampiresofvvardenfell2"
+    },{
+      "count":3,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"ingred_coprinus_01"
+    },{
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":"",
+      "refId":"$custom_potion_109"
     }],
   "spellbook":["mark","recall"],
   "books":["bookskill_acrobatics3","bookskill_mercantile2","bookskill_security5"],
   "factionRanks":[],
   "factionReputation":[],
   "factionExpulsion":[],
-  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7","-1, -6","-2, -6","-2, -5","-1, -5","-1, -4","-1, -3","-2, -3","-3, -3","-3, -2","-2, -2","-4, -2","-4, -3","-4, -4","-4, -5","-5, -5","-6, -5","-5, -4","-6, -4","-1, -2","-1, -1","-2, -1","-2, 0","-2, 1","-2, 2","-3, 2","-3, 1","-3, -1","0, -4","0, -2","0, -3","1, -2","0, -1","1, -1","2, -1","2, -2","3, -2","4, -2","4, -3","4, -1","4, 0","3, 0","3, -1","6, -6","6, -7","5, -6","5, -7","4, -6","4, -5","3, -5","3, -4","2, -4","2, -5","1, -4","1, -5","-1, 0","-1, 1","-2, 3","-3, 3","-4, 3","-5, 3","-5, 4","-6, 4","-4, 4","-4, 5","-5, 5","-5, 6","-5, 7","-4, 7","-4, 6","-3, 6","-3, 7","-2, 6","-2, 7","-5, 8","-5, 9","-5, 10","-6, 10","-6, 11","-5, 11","-5, 12","-5, 13","-5, 14","-6, 14","-6, 15","-7, 15","-7, 16","-6, 16","-8, 16","-8, 15","-9, 15","-10, 15","-10, 11","-11, 11","-11, 12","-12, 12","-11, 13","-12, 13","-11, 14","-10, 14","-10, 13","-9, 14","-8, 14","-7, 14","-8, 17","-7, 17","-6, 17","-6, 18"],
+  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7","-1, -6","-2, -6","-2, -5","-1, -5","-1, -4","-1, -3","-2, -3","-3, -3","-3, -2","-2, -2","-4, -2","-4, -3","-4, -4","-4, -5","-5, -5","-6, -5","-5, -4","-6, -4","-1, -2","-1, -1","-2, -1","-2, 0","-2, 1","-2, 2","-3, 2","-3, 1","-3, -1","0, -4","0, -2","0, -3","1, -2","0, -1","1, -1","2, -1","2, -2","3, -2","4, -2","4, -3","4, -1","4, 0","3, 0","3, -1","6, -6","6, -7","5, -6","5, -7","4, -6","4, -5","3, -5","3, -4","2, -4","2, -5","1, -4","1, -5","-1, 0","-1, 1","-2, 3","-3, 3","-4, 3","-5, 3","-5, 4","-6, 4","-4, 4","-4, 5","-5, 5","-5, 6","-5, 7","-4, 7","-4, 6","-3, 6","-3, 7","-2, 6","-2, 7","-5, 8","-5, 9","-5, 10","-6, 10","-6, 11","-5, 11","-5, 12","-5, 13","-5, 14","-6, 14","-6, 15","-7, 15","-7, 16","-6, 16","-8, 16","-8, 15","-9, 15","-10, 15","-10, 11","-11, 11","-11, 12","-12, 12","-11, 13","-12, 13","-11, 14","-10, 14","-10, 13","-9, 14","-8, 14","-7, 14","-8, 17","-7, 17","-6, 17","-6, 18","-11, 15","-9, 16","-9, 17","-7, 18","-5, 18","-4, 18","-3, 18","-2, 18","-2, 19","-2, 20","-2, 21","-1, 21","-1, 22","-1, 23","-2, 23","-2, 24","-1, 24","0, 24","1, 24","1, 23","0, 23","1, 22","0, 22","-11, 10","-3, 12"],
   "ipAddresses":["127.0.0.1"],
   "customVariables":[],
   "clientVariables":{
     "globals":[]
   },
-  "topics":[],
-  "alliedPlayers":[],
-  "destinationOverrides":[],
-  "journal":[],
-  "cooldowns":[{
-      "spellId":"orc_beserk",
-      "startDay":2,
-      "startHour":12.697022438049
-    },{
-      "spellId":"orc_beserk",
-      "startDay":4,
-      "startHour":23.504425048828
-    },{
-      "spellId":"orc_beserk",
-      "startDay":6,
-      "startHour":21.009965896606
-    }],
+  "spellsActive":[],
   "miscellaneous":{
+    "selectedSpell":"orc_beserk",
     "markLocation":{
       "cell":"",
       "posX":0,
@@ -1056,27 +861,45 @@
       "posZ":0,
       "rotX":0,
       "rotZ":0
-    },
-    "selectedSpell":"orc_beserk"
+    }
   },
   "quickKeys":[{
-      "keyType":0,
-      "itemId":"$custom_potion_2"
+      "itemId":"p_restore_health_s",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_3"
+      "itemId":"$custom_potion_3",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_45"
+      "itemId":"p_restore_fatigue_s",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"p_fortify_health_q"
-    },null,null,null,{
-      "keyType":0,
-      "itemId":"$custom_potion_43"
+      "itemId":"p_fortify_health_q",
+      "keyType":0
+    },null,null,{
+      "itemId":"$custom_potion_109",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_42"
+      "itemId":"$custom_potion_43",
+      "keyType":0
+    },{
+      "itemId":"$custom_potion_42",
+      "keyType":0
     }],
-  "spellsActive":[]
+  "cooldowns":[{
+      "startHour":12.697022438049,
+      "spellId":"orc_beserk",
+      "startDay":2
+    },{
+      "startHour":23.504425048828,
+      "spellId":"orc_beserk",
+      "startDay":4
+    },{
+      "startHour":21.009965896606,
+      "spellId":"orc_beserk",
+      "startDay":6
+    }],
+  "topics":[],
+  "journal":[],
+  "alliedPlayers":[],
+  "destinationOverrides":[]
 }

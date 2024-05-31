@@ -18,124 +18,19 @@
     "statsDynamic":["0-650","0-651","0-652","0-653","0-637","0-649"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716738519,
     "description":"-10, 16"
   },
   "lastVisit":{
-    "Fidgug":1716740635,
-    "Benoit":1716740637
+    "Fidgug":1717181369,
+    "Benoit":1717181371
   },
   "recordLinks":[],
   "objectData":{
-    "0-653":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "rotZ":1.1337192058563,
-        "rotY":0,
-        "posX":-78755.3828125,
-        "posY":134394.640625,
-        "posZ":-167.99713134766,
-        "rotX":0
-      },
-      "stats":{
-        "healthModified":15,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-637":{
-      "refId":"scrib",
-      "location":{
-        "rotZ":2.8552787303925,
-        "rotY":0,
-        "posX":-74017.4921875,
-        "posY":136092.015625,
-        "posZ":611.33459472656,
-        "rotX":-0.11855109781027
-      },
-      "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472211-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "0-649":{
-      "refId":"rat_blighted",
-      "location":{
-        "rotZ":-1.6878550052643,
-        "rotY":0,
-        "posX":-75021.578125,
-        "posY":132310.1875,
-        "posZ":623.73260498047,
-        "rotX":0.29744762182236
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":70,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":70,
-        "fatigueCurrent":70
-      },
-      "inventory":[]
-    },
-    "472200-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472201-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "472202-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -184,26 +79,30 @@
       "refId":"flora_muckspunge_03",
       "inventory":[]
     },
+    "472211-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
     "0-650":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":-0.44908952713013,
-        "rotY":0,
-        "posX":-79860.5546875,
-        "posY":133765.65625,
-        "posZ":-84.379501342773,
-        "rotX":0
+        "posX":-80853.328125,
+        "posY":133925.734375,
+        "posZ":-84.379508972168,
+        "rotX":0,
+        "rotZ":-0.26206827163696,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":399.97201538086,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -216,23 +115,23 @@
     "0-651":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":-1.5312807559967,
-        "rotY":0,
-        "posX":-76622.3359375,
-        "posY":134966.140625,
-        "posZ":-153.15913391113,
-        "rotX":0.00076874345541
+        "posX":-76968.8515625,
+        "posY":134763.296875,
+        "posZ":-153.29086303711,
+        "rotX":-0.0013142116367817,
+        "rotZ":-2.7542688846588,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -245,29 +144,130 @@
     "0-652":{
       "refId":"slaughterfish_small",
       "location":{
-        "rotZ":2.674426317215,
-        "rotY":0,
-        "posX":-79428.5234375,
-        "posY":133193.09375,
+        "posX":-79521.921875,
+        "posY":133291.3125,
         "posZ":-183.20193481445,
-        "rotX":0
+        "rotX":0,
+        "rotZ":-1.5199291706085,
+        "rotY":0
       },
       "stats":{
-        "healthModified":15,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":15,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaModified":10
       },
       "inventory":[]
+    },
+    "0-653":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-79399.6015625,
+        "posY":133700.734375,
+        "posZ":-167.99713134766,
+        "rotX":0,
+        "rotZ":-0.09467339515686,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":15,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-637":{
+      "refId":"scrib",
+      "location":{
+        "posX":-74325.6484375,
+        "posY":136724.421875,
+        "posZ":256.92492675781,
+        "rotX":-0.064560897648335,
+        "rotZ":0.97305226325989,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-649":{
+      "refId":"rat_blighted",
+      "location":{
+        "posX":-74111.421875,
+        "posY":132196.328125,
+        "posZ":823.89276123047,
+        "rotX":0.0051998905837536,
+        "rotZ":3.136385679245,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":70,
+        "fatigueCurrent":70,
+        "fatigueModified":70,
+        "magickaBase":10,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":10
+      },
+      "inventory":[]
+    },
+    "472200-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472201-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -18,19 +18,103 @@
     "statsDynamic":["0-648","355379-0","355366-0"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716738524,
     "description":"-10, 14"
   },
   "lastVisit":{
-    "Benoit":1716740715,
-    "Fidgug":1716740715
+    "Benoit":1717183505,
+    "Fidgug":1717181024
   },
   "recordLinks":[],
   "objectData":{
+    "0-648":{
+      "refId":"rat_blighted",
+      "location":{
+        "posX":-76236.65625,
+        "posY":119509.578125,
+        "posZ":1408.7495117188,
+        "rotX":0.0096035562455654,
+        "rotZ":-0.41157865524292,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":125,
+        "fatigueCurrent":125,
+        "fatigueModified":125,
+        "magickaBase":10,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaModified":10
+      },
+      "inventory":[],
+      "killer":{
+        "refId":"rat_blighted",
+        "uniqueIndex":"0-648"
+      },
+      "deathState":38,
+      "spellsActive":[]
+    },
+    "355366-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-74647.546875,
+        "posY":115550.1796875,
+        "posZ":-501.17858886719,
+        "rotX":-0.0067911203950644,
+        "rotZ":2.3492729663849,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "367634-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472212-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "472213-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "472214-0":{
+      "refId":"flora_bittergreen_pod_01",
+      "inventory":[]
+    },
+    "472215-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[]
+    },
     "472216-0":{
       "refId":"flora_bittergreen_02",
       "inventory":[{
@@ -109,9 +193,39 @@
       "refId":"flora_stoneflower_01",
       "inventory":[]
     },
-    "472229-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
+    "355379-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-81455.453125,
+        "posY":114911.875,
+        "posZ":-146.52410888672,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":398.83432006836,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
+      },
+      "cellChangeFrom":"-10, 13",
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
     "472230-0":{
       "refId":"flora_stoneflower_02",
@@ -139,127 +253,13 @@
           "soul":""
         }]
     },
-    "0-648":{
-      "refId":"rat_blighted",
-      "location":{
-        "rotZ":-0.41157865524292,
-        "rotY":0,
-        "posX":-76236.65625,
-        "posY":119509.578125,
-        "posZ":1408.7495117188,
-        "rotX":0.0096035562455654
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":125,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":125,
-        "fatigueCurrent":125
-      },
-      "inventory":[],
-      "killer":{
-        "refId":"rat_blighted",
-        "uniqueIndex":"0-648"
-      },
-      "deathState":38,
-      "spellsActive":[]
-    },
-    "355366-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "rotZ":3.013797044754,
-        "rotY":0,
-        "posX":-74917.6796875,
-        "posY":115726.09375,
-        "posZ":-500.28015136719,
-        "rotX":0.029974428936839
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "355379-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "rotZ":0.17534589767456,
-        "rotY":0,
-        "posX":-81455.453125,
-        "posY":114911.875,
-        "posZ":-146.52410888672,
-        "rotX":-0.64504837989807
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":398.83432006836
-      },
-      "cellChangeFrom":"-10, 13",
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "367634-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472212-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "472213-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "472214-0":{
-      "refId":"flora_bittergreen_pod_01",
-      "inventory":[]
-    },
-    "472215-0":{
-      "refId":"flora_bittergreen_01",
+    "472229-0":{
+      "refId":"flora_stoneflower_01",
       "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

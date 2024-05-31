@@ -17,34 +17,20 @@
     "state":[],
     "statsDynamic":["0-611","0-612","0-613","0-625","261703-0","261718-0"],
     "trap":[],
-    "miscellaneous":["261703-0","261718-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["261703-0","261718-0"]
   },
   "entry":{
     "description":"-8, 15",
     "creationTime":1716738258
   },
   "lastVisit":{
-    "Fidgug":1716741264,
-    "Benoit":1716741265
+    "Fidgug":1717181455,
+    "Benoit":1717181456
   },
   "recordLinks":[],
   "objectData":{
-    "474958-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "474959-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "474960-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
@@ -248,23 +234,23 @@
     "0-611":{
       "refId":"nix-hound",
       "location":{
-        "rotZ":1.1166923046112,
-        "rotY":0,
         "posX":-59471.35546875,
         "posY":125160.65625,
         "posZ":1154.3581542969,
-        "rotX":-0.056612964719534
+        "rotX":-0.056612964719534,
+        "rotZ":1.1166923046112,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":393.00869750977
+        "fatigueCurrent":393.00869750977,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -281,46 +267,46 @@
     "0-612":{
       "refId":"scrib",
       "location":{
-        "rotZ":0.72919178009033,
-        "rotY":0,
-        "posX":-61629.75,
-        "posY":124909.171875,
-        "posZ":898.16479492188,
-        "rotX":-0.21836523711681
+        "posX":-61402.11328125,
+        "posY":124159.203125,
+        "posZ":892.90759277344,
+        "rotX":-0.11015859991312,
+        "rotZ":-2.7424900531769,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[]
     },
     "0-613":{
       "refId":"scrib",
       "location":{
-        "rotZ":-0.64842510223389,
-        "rotY":0,
         "posX":-60715.0859375,
         "posY":130736.5,
-        "posZ":1225.8061523438,
-        "rotX":-0.096558198332787
+        "posZ":1225.8057861328,
+        "rotX":-0.096558198332787,
+        "rotZ":-0.64842510223389,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -333,23 +319,23 @@
     "0-625":{
       "refId":"rat",
       "location":{
-        "rotZ":0.76883888244629,
-        "rotY":0,
         "posX":-60954.7578125,
         "posY":123723.140625,
         "posZ":935.94757080078,
-        "rotX":-0.16245378553867
+        "rotX":-0.16245378553867,
+        "rotZ":0.76883888244629,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":298.55026245117
+        "fatigueCurrent":298.55026245117,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -366,23 +352,23 @@
     "261703-0":{
       "refId":"sason",
       "location":{
-        "rotZ":2.0462181568146,
-        "rotY":0,
-        "posX":-57653.0234375,
-        "posY":125381.46875,
-        "posZ":1099.8664550781,
-        "rotX":-0.17897911369801
+        "posX":-57653.1328125,
+        "posY":125381.4140625,
+        "posZ":1099.87109375,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
       },
       "stats":{
-        "healthModified":80,
-        "magickaModified":72,
-        "fatigueModified":190,
-        "healthBase":80,
-        "healthCurrent":80,
-        "magickaBase":72,
         "magickaCurrent":72,
         "fatigueBase":190,
-        "fatigueCurrent":190
+        "fatigueCurrent":190,
+        "fatigueModified":190,
+        "magickaBase":72,
+        "healthModified":80,
+        "healthBase":80,
+        "healthCurrent":80,
+        "magickaModified":72
       },
       "equipment":{
         "7":{
@@ -435,30 +421,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "goldPool":0,
       "lastGoldRestockHour":13.880172729492,
-      "lastGoldRestockDay":17,
-      "goldPool":0
+      "lastGoldRestockDay":17
     },
     "261718-0":{
       "refId":"malexa",
       "location":{
-        "rotZ":-1.5413291454315,
-        "rotY":0,
         "posX":-57421.28125,
         "posY":125295.765625,
         "posZ":1107.7922363281,
-        "rotX":-0.023114617913961
+        "rotX":0,
+        "rotZ":-2.3999998569489,
+        "rotY":0
       },
       "stats":{
-        "healthModified":73,
-        "magickaModified":68,
-        "fatigueModified":186,
-        "healthBase":73,
-        "healthCurrent":73,
-        "magickaBase":68,
         "magickaCurrent":68,
         "fatigueBase":186,
-        "fatigueCurrent":186
+        "fatigueCurrent":186,
+        "fatigueModified":186,
+        "magickaBase":68,
+        "healthModified":73,
+        "healthBase":73,
+        "healthCurrent":73,
+        "magickaModified":68
       },
       "cellChangeFrom":"Ashalmawia, Shrine",
       "equipment":{
@@ -757,10 +743,24 @@
     "474957-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
+    },
+    "474958-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "474959-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -1,113 +1,38 @@
 {
   "packets":{
-    "actorList":["0-699","476750-0"],
+    "actorList":["0-699","0-632"],
     "ai":[],
     "cellChangeFrom":[],
-    "cellChangeTo":[],
-    "container":["471918-0","471919-0","471920-0","471922-0","471923-0","471924-0","471925-0","471926-0","476750-0","0-699"],
+    "cellChangeTo":["476750-0"],
+    "container":["471918-0","471919-0","471920-0","471922-0","471923-0","471924-0","471925-0","471926-0","0-699","0-632"],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["476750-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["476750-0","0-699"],
+    "position":["0-699","0-632"],
     "scale":[],
-    "spawn":["0-699"],
+    "spawn":["0-699","0-632"],
     "state":[],
-    "statsDynamic":["476750-0","0-699"],
+    "statsDynamic":["0-699","0-632"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716739288,
     "description":"-9, 13"
   },
   "lastVisit":{
-    "Benoit":1716740780,
-    "Fidgug":1716740782
+    "Benoit":1717183505,
+    "Fidgug":1717180886
   },
   "recordLinks":[],
   "objectData":{
-    "0-699":{
-      "refId":"nix-hound",
-      "location":{
-        "rotZ":-0.057358741760254,
-        "rotY":0,
-        "posX":-68419.921875,
-        "posY":113624.203125,
-        "posZ":288.81958007813,
-        "rotX":1.1777548789978
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "476750-0":{
-      "refId":"skeleton entrance",
-      "location":{
-        "rotZ":2.2228243350983,
-        "rotY":0,
-        "posX":-68865.7578125,
-        "posY":107233.8671875,
-        "posZ":723.53393554688,
-        "rotX":-0.21656197309494
-      },
-      "stats":{
-        "healthModified":38,
-        "magickaModified":30,
-        "fatigueModified":1000,
-        "healthBase":38,
-        "healthCurrent":38,
-        "magickaBase":30,
-        "magickaCurrent":30,
-        "fatigueBase":1000,
-        "fatigueCurrent":1000
-      },
-      "equipment":{
-        "16":{
-          "refId":"iron claymore",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"iron_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bonemeal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron claymore",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "cellChangeTo":"-9, 12"
     },
     "471918-0":{
       "refId":"flora_kreshweed_02",
@@ -176,10 +101,68 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-632":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-67894.1640625,
+        "posY":114622.34375,
+        "posZ":-122.49569702148,
+        "rotX":0,
+        "rotZ":-2.3550465106964,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.98876953125,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":15,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-699":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-68503.5546875,
+        "posY":112758.4296875,
+        "posZ":536.52313232422,
+        "rotX":-0.10316597670317,
+        "rotZ":2.1741907596588,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

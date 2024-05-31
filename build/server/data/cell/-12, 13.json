@@ -1,212 +1,108 @@
 {
   "packets":{
-    "actorList":["0-705","0-706","323335-0","323336-0","261838-0","0-707"],
+    "actorList":["0-705","0-706","323335-0","323336-0","261838-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["24132-0","24133-0","25527-0","472454-0","472455-0","472456-0","472457-0","472458-0","472459-0","472461-0","472462-0","472463-0","472468-0","472469-0","472470-0","261838-0","323335-0","323336-0","0-705","0-706","0-707"],
+    "container":["24132-0","24133-0","25527-0","472454-0","472455-0","472456-0","472457-0","472458-0","472459-0","472461-0","472462-0","472463-0","472468-0","472469-0","472470-0","261838-0","323335-0","323336-0","0-705","0-706"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["323335-0","323336-0","261838-0"],
     "lock":[],
     "place":[],
-    "position":["261838-0","323335-0","323336-0","0-705","0-706","0-707"],
+    "position":["261838-0","323335-0","323336-0","0-705","0-706"],
     "scale":[],
-    "spawn":["0-705","0-706","0-707"],
+    "spawn":["0-705","0-706"],
     "state":[],
     "statsDynamic":["261838-0","323335-0","323336-0","0-705","0-706"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716739327,
     "description":"-12, 13"
   },
   "lastVisit":{
-    "Fidgug":1716739515
+    "Fidgug":1717180746,
+    "Benoit":1717180739
   },
   "recordLinks":[],
   "objectData":{
-    "472461-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472462-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472463-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472468-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472469-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472470-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "261838-0":{
-      "refId":"din",
+    "0-705":{
+      "refId":"nix-hound",
       "location":{
-        "rotZ":2.5009348392487,
-        "rotY":0,
-        "posX":-92717.328125,
-        "posY":108294.7578125,
-        "posZ":2249.7014160156,
-        "rotX":-0.090213164687157
+        "posX":-95239.5390625,
+        "posY":108878.9921875,
+        "posZ":2014.2595214844,
+        "rotX":-0.072058476507664,
+        "rotZ":1.6807639598846,
+        "rotY":0
       },
       "stats":{
-        "healthModified":109,
-        "magickaModified":90,
-        "fatigueModified":225,
-        "healthBase":109,
-        "healthCurrent":109,
-        "magickaBase":90,
-        "magickaCurrent":90,
-        "fatigueBase":225,
-        "fatigueCurrent":225
-      },
-      "equipment":{
-        "1":{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":30,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_de_fishing_pole",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
+          "refId":"ingred_hound_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-706":{
+      "refId":"scrib diseased",
+      "location":{
+        "posX":-96960.4296875,
+        "posY":111273.296875,
+        "posZ":1813.1842041016,
+        "rotX":-0.038743123412132,
+        "rotZ":-0.069532155990601,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":68,
+        "fatigueCurrent":68,
+        "fatigueModified":68,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
+      },
+      "inventory":[]
     },
     "323335-0":{
       "refId":"tavynu tedran",
       "location":{
+        "posX":-94678.71875,
+        "posY":114351.7109375,
+        "posZ":757.67126464844,
+        "rotX":0,
         "rotZ":1.3336266279221,
-        "rotY":0,
-        "posX":-94678.7421875,
-        "posY":114351.734375,
-        "posZ":757.67242431641,
-        "rotX":0
+        "rotY":0
       },
       "stats":{
-        "healthModified":97,
-        "magickaModified":40,
-        "fatigueModified":241,
-        "healthBase":97,
-        "healthCurrent":97,
-        "magickaBase":40,
         "magickaCurrent":40,
         "fatigueBase":241,
-        "fatigueCurrent":241
+        "fatigueCurrent":241,
+        "fatigueModified":241,
+        "magickaBase":40,
+        "healthModified":97,
+        "healthBase":97,
+        "healthCurrent":97,
+        "magickaModified":40
       },
       "equipment":{
         "0":{
@@ -335,23 +231,23 @@
     "323336-0":{
       "refId":"synette jeline",
       "location":{
-        "rotZ":1.1338465213776,
-        "rotY":0,
-        "posX":-96197.140625,
-        "posY":113526.84375,
-        "posZ":599.69860839844,
-        "rotX":0.70141059160233
+        "posX":-96158.390625,
+        "posY":113520.5703125,
+        "posZ":592.36267089844,
+        "rotX":0.2881660759449,
+        "rotZ":1.54319024086,
+        "rotY":0
       },
       "stats":{
-        "healthModified":61,
-        "magickaModified":152,
-        "fatigueModified":202,
-        "healthBase":61,
-        "healthCurrent":61,
-        "magickaBase":152,
         "magickaCurrent":152,
         "fatigueBase":202,
-        "fatigueCurrent":202
+        "fatigueCurrent":202,
+        "fatigueModified":202,
+        "magickaBase":152,
+        "healthModified":61,
+        "healthBase":61,
+        "healthCurrent":61,
+        "magickaModified":152
       },
       "equipment":{
         "7":{
@@ -441,71 +337,98 @@
           "soul":""
         }]
     },
-    "0-706":{
-      "refId":"scrib diseased",
+    "261838-0":{
+      "refId":"din",
       "location":{
-        "rotZ":-0.1184549331665,
-        "rotY":0,
-        "posX":-97167.9375,
-        "posY":111493.078125,
-        "posZ":1848.560546875,
-        "rotX":0.14352060854435
+        "posX":-93475.6796875,
+        "posY":108419.90625,
+        "posZ":2113.7272949219,
+        "rotX":0.068136878311634,
+        "rotZ":-1.4566180706024,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":67,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":67,
-        "fatigueCurrent":67
+        "magickaCurrent":90,
+        "fatigueBase":225,
+        "fatigueCurrent":225,
+        "fatigueModified":225,
+        "magickaBase":90,
+        "healthModified":109,
+        "healthBase":109,
+        "healthCurrent":109,
+        "magickaModified":90
       },
-      "inventory":[]
-    },
-    "0-705":{
-      "refId":"nix-hound",
-      "location":{
-        "rotZ":-1.6718199253082,
-        "rotY":0,
-        "posX":-95212.25,
-        "posY":108203.78125,
-        "posZ":2116.3435058594,
-        "rotX":0.098946079611778
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+      "equipment":{
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
       },
       "inventory":[{
-          "refId":"ingred_hound_meat_01",
+          "refId":"imperial cuirass_armor",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "0-707":{
-      "refId":"netch_bull",
-      "location":{
-        "rotZ":1.6654288768768,
-        "rotY":0,
-        "posX":-94632.8125,
-        "posY":106586.5703125,
-        "posZ":2234.7834472656,
-        "rotX":-0.0084960786625743
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":4,
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":30,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_de_fishing_pole",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron battle axe",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -600,10 +523,70 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "472461-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472462-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472463-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472468-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472469-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472470-0":{
+      "refId":"flora_bittergreen_03",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

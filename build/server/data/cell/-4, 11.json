@@ -1,56 +1,36 @@
 {
   "packets":{
-    "actorList":["0-525","0-523","0-524"],
+    "actorList":["0-524","0-525","0-523"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["300401-0","300402-0","300409-0","300412-0","300419-0","300420-0","300430-0","300435-0","300437-0","300441-0","0-525","0-523","0-524"],
+    "container":["300401-0","300402-0","300409-0","300412-0","300419-0","300420-0","300430-0","300435-0","300437-0","300441-0","0-524","0-525","0-523"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-523","0-524","0-525"],
+    "position":["0-524","0-525","0-523"],
     "scale":[],
-    "spawn":["0-525","0-523","0-524"],
+    "spawn":["0-524","0-525","0-523"],
     "state":[],
-    "statsDynamic":["0-523","0-524","0-525"],
+    "statsDynamic":["0-524","0-525","0-523"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716737106,
     "description":"-4, 11"
   },
   "lastVisit":{
-    "Benoit":1716737828,
-    "Fidgug":1716737831
+    "Fidgug":1717189221,
+    "Benoit":1717189216
   },
   "recordLinks":[],
   "objectData":{
-    "300420-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300430-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "300435-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -84,69 +64,69 @@
     "0-523":{
       "refId":"kagouti",
       "location":{
-        "rotZ":1.933938741684,
-        "rotY":0,
-        "posX":-24774.578125,
-        "posY":96466.234375,
-        "posZ":3420.5009765625,
-        "rotX":0.1458138525486
+        "posX":-25313.03515625,
+        "posY":96541.171875,
+        "posZ":3182.4240722656,
+        "rotX":-0.13515831530094,
+        "rotZ":1.2928740978241,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":10
       },
       "inventory":[]
     },
     "0-524":{
       "refId":"kagouti",
       "location":{
-        "rotZ":0,
-        "rotY":0,
-        "posX":-25404.8828125,
-        "posY":92565.25,
-        "posZ":1360.9166259766,
-        "rotX":0
+        "posX":-25190.72265625,
+        "posY":92755.1328125,
+        "posZ":1337.3233642578,
+        "rotX":0.2371217161417,
+        "rotZ":2.7798955440521,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":10
       },
       "inventory":[]
     },
     "0-525":{
       "refId":"cliff racer",
       "location":{
-        "rotZ":2.3050682544708,
-        "rotY":0,
-        "posX":-27225.66015625,
-        "posY":93887.7421875,
-        "posZ":3079.1740722656,
-        "rotX":0.00065126176923513
+        "posX":-26793.134765625,
+        "posY":93670.4296875,
+        "posZ":3079.220703125,
+        "rotX":0.00022600311785936,
+        "rotZ":2.6050837039948,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":20,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":20
       },
       "inventory":[]
     },
@@ -187,10 +167,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "300420-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300430-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

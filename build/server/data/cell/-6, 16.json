@@ -17,63 +17,40 @@
     "state":[],
     "statsDynamic":["295111-0","0-601"],
     "trap":[],
-    "miscellaneous":["295111-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["295111-0"]
   },
   "entry":{
     "description":"-6, 16",
     "creationTime":1716738149
   },
   "lastVisit":{
-    "Fidgug":1716741475,
-    "Benoit":1716741476
+    "Benoit":1717181995,
+    "Fidgug":1717181995
   },
   "recordLinks":[],
   "objectData":{
-    "0-601":{
-      "refId":"cliff racer",
-      "location":{
-        "rotZ":-1.5402066707611,
-        "rotY":0,
-        "posX":-41987.52734375,
-        "posY":138879,
-        "posZ":3343.1247558594,
-        "rotX":0.00053062848746777
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[]
-    },
     "295111-0":{
       "refId":"fonus rathryon",
       "location":{
-        "rotZ":2.3994162082672,
-        "rotY":0,
         "posX":-46029.828125,
         "posY":132127.640625,
         "posZ":3504.666015625,
-        "rotX":0.025383021682501
+        "rotX":0,
+        "rotZ":1.5707963705063,
+        "rotY":0
       },
       "stats":{
-        "healthModified":82,
-        "magickaModified":94,
-        "fatigueModified":195,
-        "healthBase":82,
-        "healthCurrent":82,
-        "magickaBase":94,
         "magickaCurrent":94,
         "fatigueBase":195,
-        "fatigueCurrent":194.84367370605
+        "fatigueCurrent":194.84367370605,
+        "fatigueModified":195,
+        "magickaBase":94,
+        "healthModified":82,
+        "healthBase":82,
+        "healthCurrent":82,
+        "magickaModified":94
       },
       "cellChangeFrom":"-5, 12",
       "equipment":[null,null,null,null,null,null,{
@@ -120,10 +97,33 @@
       "lastGoldRestockHour":5.8149480819702,
       "lastGoldRestockDay":17,
       "goldPool":0
+    },
+    "0-601":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-42391.36328125,
+        "posY":138511.53125,
+        "posZ":3342.6442871094,
+        "rotX":-0.0083788689225912,
+        "rotZ":-2.1329329013824,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":20,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":20
+      },
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

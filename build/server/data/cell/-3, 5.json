@@ -17,54 +17,20 @@
     "state":[],
     "statsDynamic":["377933-0","0-404","0-440"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-3, 5",
     "creationTime":1715976928
   },
   "lastVisit":{
-    "Benoit":1716736217,
-    "Fidgug":1716736218
+    "Benoit":1717189941,
+    "Fidgug":1717189943
   },
   "recordLinks":[],
   "objectData":{
-    "149206-0":{
-      "refId":"flora_black_lichen_01",
-      "inventory":[{
-          "refId":"ingred_black_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "149207-0":{
-      "refId":"flora_black_lichen_02",
-      "inventory":[{
-          "refId":"ingred_black_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "149208-0":{
-      "refId":"contain_trama_shrub_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "149212-0":{
-      "refId":"flora_red_lichen_01",
-      "inventory":[]
-    },
     "149213-0":{
       "refId":"flora_red_lichen_02",
       "inventory":[{
@@ -196,23 +162,23 @@
     "377933-0":{
       "refId":"viatrix petilia",
       "location":{
+        "posX":-18653.9921875,
+        "posY":48045.25,
+        "posZ":978.11437988281,
+        "rotX":0,
         "rotZ":0,
-        "rotY":0,
-        "posX":-18654.064453125,
-        "posY":48045.22265625,
-        "posZ":978.10473632813,
-        "rotX":0
+        "rotY":0
       },
       "stats":{
-        "healthModified":113,
-        "magickaModified":104,
-        "fatigueModified":225,
-        "healthBase":113,
-        "healthCurrent":113,
-        "magickaBase":104,
         "magickaCurrent":104,
         "fatigueBase":225,
-        "fatigueCurrent":225
+        "fatigueCurrent":225,
+        "fatigueModified":225,
+        "magickaBase":104,
+        "healthModified":113,
+        "healthBase":113,
+        "healthCurrent":113,
+        "magickaModified":104
       },
       "equipment":[null,null,null,null,{
           "refId":"expensive_glove_left_01",
@@ -292,23 +258,23 @@
     "0-404":{
       "refId":"nix-hound",
       "location":{
-        "rotZ":-1.6327517032623,
-        "rotY":0,
         "posX":-18900.154296875,
         "posY":41041.203125,
         "posZ":2952.2641601563,
-        "rotX":0.26740181446075
+        "rotX":0.26740181446075,
+        "rotZ":-1.6327517032623,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -321,23 +287,23 @@
     "0-440":{
       "refId":"scrib",
       "location":{
-        "rotZ":-0.62740206718445,
-        "rotY":0,
-        "posX":-21108.341796875,
-        "posY":49082.7734375,
-        "posZ":1272.0321044922,
-        "rotX":0.023679813370109
+        "posX":-20309.1328125,
+        "posY":48943.6015625,
+        "posZ":946.72833251953,
+        "rotX":0.15642277896404,
+        "rotZ":2.6740524768829,
+        "rotY":0
       },
       "stats":{
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
         "magickaCurrent":12,
         "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -390,10 +356,44 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "149206-0":{
+      "refId":"flora_black_lichen_01",
+      "inventory":[{
+          "refId":"ingred_black_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "149207-0":{
+      "refId":"flora_black_lichen_02",
+      "inventory":[{
+          "refId":"ingred_black_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "149208-0":{
+      "refId":"contain_trama_shrub_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "149212-0":{
+      "refId":"flora_red_lichen_01",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

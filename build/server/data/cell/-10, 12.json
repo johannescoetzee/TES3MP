@@ -1,80 +1,36 @@
 {
   "packets":{
-    "actorList":["0-673","0-682"],
+    "actorList":["0-673","0-674","0-682"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["367648-0","472265-0","472266-0","472267-0","472268-0","472269-0","472272-0","472273-0","472274-0","472278-0","472279-0","472280-0","472281-0","0-682","0-673"],
+    "container":["367648-0","472265-0","472266-0","472267-0","472268-0","472269-0","472272-0","472273-0","472274-0","472278-0","472279-0","472280-0","472281-0","0-673","0-674","0-682"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-673","0-682"],
+    "position":["0-673","0-674","0-682"],
     "scale":[],
-    "spawn":["0-673","0-682"],
+    "spawn":["0-673","0-674","0-682"],
     "state":[],
-    "statsDynamic":["0-673","0-682"],
+    "statsDynamic":["0-673","0-674","0-682"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716739229,
     "description":"-10, 12"
   },
   "lastVisit":{
-    "Fidgug":1716742072,
-    "Benoit":1716742075
+    "Benoit":1717188856,
+    "Fidgug":1717188839
   },
   "recordLinks":[],
   "objectData":{
-    "472268-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472269-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472272-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472273-0":{
-      "refId":"flora_muckspunge_05",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472274-0":{
-      "refId":"flora_muckspunge_06",
-      "inventory":[]
-    },
     "472278-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[{
@@ -118,23 +74,23 @@
     "0-673":{
       "refId":"netch_bull",
       "location":{
-        "rotZ":2.5304100513458,
-        "rotY":0,
-        "posX":-78049.7421875,
-        "posY":103195.5390625,
-        "posZ":354.97668457031,
-        "rotX":0.002216100692749
+        "posX":-75217.453125,
+        "posY":101836.4140625,
+        "posZ":431.71875,
+        "rotX":0.0016686636954546,
+        "rotZ":0.47438859939575,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":100,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":100
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -144,26 +100,55 @@
           "soul":""
         }]
     },
+    "0-674":{
+      "refId":"scrib",
+      "location":{
+        "posX":-77492.6875,
+        "posY":98451.5390625,
+        "posZ":993,
+        "rotX":-0.038194112479687,
+        "rotZ":-0.30328798294067,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":12,
+        "healthModified":8,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaModified":12
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-682":{
       "refId":"alit_diseased",
       "location":{
-        "rotZ":-2.5216534137726,
-        "rotY":0,
-        "posX":-81199.7578125,
-        "posY":100316.15625,
-        "posZ":786.74560546875,
-        "rotX":0.36966463923454
+        "posX":-81279.0546875,
+        "posY":100322.953125,
+        "posZ":737.01232910156,
+        "rotX":0.30728247761726,
+        "rotZ":3.0573132038116,
+        "rotY":0
       },
       "stats":{
-        "healthModified":30,
-        "magickaModified":75,
-        "fatigueModified":170,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":75,
         "magickaCurrent":75,
         "fatigueBase":170,
-        "fatigueCurrent":170
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "magickaBase":75,
+        "healthModified":30,
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaModified":75
       },
       "inventory":[]
     },
@@ -206,10 +191,54 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "472268-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472269-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472272-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472273-0":{
+      "refId":"flora_muckspunge_05",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472274-0":{
+      "refId":"flora_muckspunge_06",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

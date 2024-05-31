@@ -1,6 +1,6 @@
 {
   "general":{
-    "currentGeneratedNum":6
+    "currentGeneratedNum":9
   },
   "permanentRecords":[],
   "generatedRecords":{
@@ -20,6 +20,22 @@
           "magnitudeMin":20
         }]
     },
+    "$custom_spell_8":{
+      "name":"Fireball",
+      "subtype":0,
+      "cost":28,
+      "flags":0,
+      "effects":[{
+          "id":14,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":2,
+          "area":10,
+          "duration":1,
+          "magnitudeMax":40,
+          "magnitudeMin":30
+        }]
+    },
     "$custom_spell_5":{
       "name":"Ignite",
       "subtype":0,
@@ -34,6 +50,38 @@
           "duration":15,
           "magnitudeMax":5,
           "magnitudeMin":5
+        }]
+    },
+    "$custom_spell_9":{
+      "name":"Greater Rejuvination",
+      "subtype":0,
+      "cost":26,
+      "flags":0,
+      "effects":[{
+          "id":75,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":1,
+          "area":0,
+          "duration":20,
+          "magnitudeMax":5,
+          "magnitudeMin":5
+        }]
+    },
+    "$custom_spell_7":{
+      "name":"Electrocute",
+      "subtype":0,
+      "cost":31,
+      "flags":0,
+      "effects":[{
+          "id":15,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":1,
+          "area":0,
+          "duration":1,
+          "magnitudeMax":50,
+          "magnitudeMin":40
         }]
     },
     "$custom_spell_1":{
@@ -57,7 +105,16 @@
     "$custom_spell_6":{
       "players":["Benoit"]
     },
+    "$custom_spell_8":{
+      "players":["Benoit"]
+    },
     "$custom_spell_5":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_9":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_7":{
       "players":["Benoit"]
     },
     "$custom_spell_1":{

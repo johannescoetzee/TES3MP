@@ -1,36 +1,181 @@
 {
   "packets":{
-    "actorList":["0-743","0-745","0-746","371086-0"],
+    "actorList":["0-743","0-745","0-746","371086-0","0-744"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["178699-0","178700-0","178701-0","178706-0","178707-0","178709-0","178710-0","178720-0","178721-0","178722-0","178723-0","178724-0","178725-0","178726-0","178727-0","178728-0","178733-0","178734-0","178736-0","178758-0","178759-0","178760-0","178762-0","178763-0","178764-0","178765-0","178766-0","178767-0","297309-0","418766-0","418790-0","418791-0","418792-0","418793-0","371086-0","0-743","0-745","0-746"],
-    "death":["0-746"],
+    "container":["178699-0","178700-0","178701-0","178706-0","178707-0","178709-0","178710-0","178720-0","178721-0","178722-0","178723-0","178724-0","178725-0","178726-0","178727-0","178728-0","178733-0","178734-0","178736-0","178758-0","178759-0","178760-0","178762-0","178763-0","178764-0","178765-0","178766-0","178767-0","297309-0","418766-0","418790-0","418791-0","418792-0","418793-0","371086-0","0-743","0-745","0-746","0-744"],
+    "death":["0-746","0-745","0-744"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["371086-0","0-743","0-745","0-746"],
+    "position":["371086-0","0-743","0-745","0-746","0-744"],
     "scale":[],
-    "spawn":["0-743","0-745","0-746"],
+    "spawn":["0-743","0-745","0-746","0-744"],
     "state":[],
-    "statsDynamic":["371086-0","0-743","0-745","0-746"],
+    "statsDynamic":["371086-0","0-743","0-745","0-746","0-744"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1716741264,
     "description":"-6, 18"
   },
   "lastVisit":{
-    "Benoit":1716741476,
-    "Fidgug":1716741475
+    "Fidgug":1717182575,
+    "Benoit":1717182578
   },
   "recordLinks":[],
   "objectData":{
+    "0-743":{
+      "refId":"rat_blighted",
+      "location":{
+        "posX":-45478.20703125,
+        "posY":150727.046875,
+        "posZ":548.24487304688,
+        "rotX":0.17048768699169,
+        "rotZ":0.18436098098755,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":60,
+        "fatigueCurrent":60,
+        "fatigueModified":60,
+        "magickaBase":10,
+        "healthModified":45,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-745":{
+      "refId":"dreugh",
+      "location":{
+        "posX":-44632.6953125,
+        "posY":152370.390625,
+        "posZ":-78.426910400391,
+        "rotX":-0.41581469774246,
+        "rotZ":-2.9610874652863,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":75,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":75,
+        "healthModified":60,
+        "healthBase":60,
+        "healthCurrent":0,
+        "magickaModified":75
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-746":{
+      "refId":"rat",
+      "location":{
+        "posX":-43700.125,
+        "posY":147711.9375,
+        "posZ":546.33892822266,
+        "rotX":-0.69577372074127,
+        "rotZ":-1.6274688243866,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "371086-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-42199.53125,
+        "posY":152761,
+        "posZ":-139.58369445801,
+        "rotX":0.033046491444111,
+        "rotZ":-1.4395792484283,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10
+      },
+      "inventory":[]
+    },
+    "0-744":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-44892.2109375,
+        "posY":152987.9375,
+        "posZ":-37.362579345703,
+        "rotX":-0.33953312039375,
+        "rotZ":2.8456213474274,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":380.76196289063,
+        "fatigueModified":400,
+        "magickaBase":10,
+        "healthModified":23,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
     "178699-0":{
       "refId":"tramaroot_01",
       "inventory":[{
@@ -255,13 +400,7 @@
     },
     "418790-0":{
       "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "418791-0":{
       "refId":"kollop_03_pearl",
@@ -280,118 +419,10 @@
     "418793-0":{
       "refId":"kollop_02_pearl",
       "inventory":[]
-    },
-    "371086-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "rotZ":2.1705372333527,
-        "rotY":0,
-        "posX":-42219.1015625,
-        "posY":152751.21875,
-        "posZ":-126.68119049072,
-        "rotX":0
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[]
-    },
-    "0-746":{
-      "refId":"rat",
-      "location":{
-        "rotZ":-1.6274688243866,
-        "rotY":0,
-        "posX":-43700.125,
-        "posY":147711.9375,
-        "posZ":546.35919189453,
-        "rotX":-0.69577372074127
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-745":{
-      "refId":"dreugh",
-      "location":{
-        "rotZ":2.2859795093536,
-        "rotY":0,
-        "posX":-45010.19921875,
-        "posY":153081.5,
-        "posZ":-155.26786804199,
-        "rotX":0.0013696094974875
-      },
-      "stats":{
-        "healthModified":60,
-        "magickaModified":75,
-        "fatigueModified":400,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "fatigueBase":400,
-        "fatigueCurrent":399.98706054688
-      },
-      "inventory":[]
-    },
-    "0-743":{
-      "refId":"rat_blighted",
-      "location":{
-        "rotZ":1.7333309650421,
-        "rotY":0,
-        "posX":-46078.015625,
-        "posY":150442.203125,
-        "posZ":593.0244140625,
-        "rotX":0.084751136600971
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":68,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":68,
-        "fatigueCurrent":68
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

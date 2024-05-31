@@ -17,22 +17,244 @@
     "state":["440215-0"],
     "statsDynamic":["28777-0","29345-0","33373-0","40126-0","40127-0","40129-0","40131-0","40132-0","48752-0","82808-0","40135-0","40134-0","40133-0"],
     "trap":[],
-    "miscellaneous":["33373-0","28777-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["33373-0","28777-0"]
   },
   "entry":{
     "description":"-2, 6",
     "creationTime":1713904668
   },
   "lastVisit":{
-    "Fidgug":1716736179,
-    "Benoit":1716736187
+    "Fidgug":1717189943,
+    "Benoit":1717189941
   },
   "recordLinks":{
     "potion":[]
   },
   "objectData":{
+    "49261-0":{
+      "refId":"com_basket_01_food",
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49262-0":{
+      "refId":"crate_02_food",
+      "inventory":[{
+          "refId":"ingred_bread_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49263-0":{
+      "refId":"crate_01_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49264-0":{
+      "refId":"crate_02_empty",
+      "inventory":[]
+    },
+    "49265-0":{
+      "refId":"crate_01_food_misc01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":7,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_rat_meat_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_saltrice_01",
+          "count":8,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49266-0":{
+      "refId":"crate_01_eggs",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49267-0":{
+      "refId":"crate_02_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49269-0":{
+      "refId":"urn_01_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49270-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49271-0":{
+      "refId":"urn_02",
+      "inventory":[]
+    },
+    "49273-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_alit_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_netch_leather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_ash_yam_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49274-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "49275-0":{
+      "refId":"urn_05_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49276-0":{
+      "refId":"urn_03_ingred",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "82809-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
+    "82810-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "82811-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "82812-0":{
+      "refId":"tramaroot_05",
+      "inventory":[]
+    },
+    "82813-0":{
+      "refId":"urn_02_food",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "82814-0":{
+      "refId":"urn_03_food",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "82815-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "82816-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "82818-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
+    },
+    "49249-0":{
+      "refId":"crate_01_empty",
+      "inventory":[]
+    },
     "300316-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -197,10 +419,181 @@
           "soul":""
         }]
     },
-    "49201-0":{
-      "refId":"com_basket_01_pos",
+    "48752-0":{
+      "refId":"redoran guard female",
+      "location":{
+        "posX":-9645.0830078125,
+        "posY":54935.046875,
+        "posZ":2653.0405273438,
+        "rotX":0.11499997228384,
+        "rotZ":-2.4768950939178,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":122,
+        "fatigueBase":297,
+        "fatigueCurrent":297,
+        "fatigueModified":297,
+        "magickaBase":122,
+        "healthModified":205,
+        "healthBase":205,
+        "healthCurrent":205,
+        "magickaModified":122
+      },
+      "equipment":{
+        "0":{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"extravagant_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"silver longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"misc_com_wood_cup_01",
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver longsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -313,46 +706,91 @@
           "soul":""
         }]
     },
-    "384858-0":{
-      "refId":"crate_01_dandera",
+    "40126-0":{
+      "refId":"gindrala hleran",
+      "location":{
+        "posX":-10138.765625,
+        "posY":52971.328125,
+        "posZ":2346.1257324219,
+        "rotX":0.059095401316881,
+        "rotZ":-1.5611779689789,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":88,
+        "fatigueBase":166,
+        "fatigueCurrent":166,
+        "fatigueModified":166,
+        "magickaBase":88,
+        "healthModified":63,
+        "healthBase":63,
+        "healthCurrent":63,
+        "magickaModified":88
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"common_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "12":{
+          "refId":"common_ring_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "14":{
+          "refId":"common_amulet_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"iron_shield",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron_pauldron_left",
+          "refId":"common_amulet_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"steel_pauldron_left",
+          "refId":"common_ring_05",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"steel_gauntlet_left",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin pauldron - right",
+          "refId":"common_skirt_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"chitin pauldron - left",
+          "refId":"common_shirt_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"chitin guantlet - right",
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"key_gindrala",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -362,23 +800,23 @@
     "28777-0":{
       "refId":"dandera selaro",
       "location":{
-        "rotZ":-2.874664068222,
-        "rotY":0,
-        "posX":-11382.728515625,
-        "posY":57300.21484375,
+        "posX":-11386.250976563,
+        "posY":57306.6328125,
         "posZ":2593,
-        "rotX":0
+        "rotX":0,
+        "rotZ":5.0831871032715,
+        "rotY":0
       },
       "stats":{
-        "healthModified":119,
-        "magickaModified":94,
-        "fatigueModified":224,
-        "healthBase":119,
-        "healthCurrent":119,
-        "magickaBase":94,
         "magickaCurrent":94,
         "fatigueBase":224,
-        "fatigueCurrent":224
+        "fatigueCurrent":224,
+        "fatigueModified":224,
+        "magickaBase":94,
+        "healthModified":119,
+        "healthBase":119,
+        "healthCurrent":119,
+        "magickaModified":94
       },
       "equipment":{
         "7":{
@@ -503,30 +941,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "goldPool":774,
       "lastGoldRestockHour":8.7813377380371,
-      "lastGoldRestockDay":16,
-      "goldPool":774
+      "lastGoldRestockDay":16
     },
     "33373-0":{
       "refId":"louis beauchamp",
       "location":{
-        "rotZ":-1.5706732273102,
-        "rotY":0,
-        "posX":-14936.857421875,
-        "posY":53114.11328125,
-        "posZ":2205.2739257813,
-        "rotX":0
+        "posX":-14943.278320313,
+        "posY":53102.4140625,
+        "posZ":2204.8728027344,
+        "rotX":0,
+        "rotZ":2.8494532108307,
+        "rotY":0
       },
       "stats":{
-        "healthModified":92,
-        "magickaModified":215,
-        "fatigueModified":236,
-        "healthBase":92,
-        "healthCurrent":92,
-        "magickaBase":215,
         "magickaCurrent":215,
         "fatigueBase":236,
-        "fatigueCurrent":236
+        "fatigueCurrent":236,
+        "fatigueModified":236,
+        "magickaBase":215,
+        "healthModified":92,
+        "healthBase":92,
+        "healthCurrent":92,
+        "magickaModified":215
       },
       "equipment":{
         "7":{
@@ -561,30 +999,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":19.252906799316,
-      "lastGoldRestockDay":15,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockHour":5.647620677948,
+      "lastGoldRestockDay":23
     },
     "29345-0":{
       "refId":"aryni orethi",
       "location":{
-        "rotZ":2.6420948505402,
-        "rotY":0,
-        "posX":-12604.9140625,
-        "posY":56333.7578125,
-        "posZ":2550.9333496094,
-        "rotX":-0.0080385189503431
+        "posX":-12423.40234375,
+        "posY":55555.08984375,
+        "posZ":2292.9416503906,
+        "rotX":-0.19907557964325,
+        "rotZ":-0.58084273338318,
+        "rotY":0
       },
       "stats":{
-        "healthModified":63,
-        "magickaModified":88,
-        "fatigueModified":166,
-        "healthBase":63,
-        "healthCurrent":63,
-        "magickaBase":88,
         "magickaCurrent":88,
         "fatigueBase":166,
-        "fatigueCurrent":166
+        "fatigueCurrent":166,
+        "fatigueModified":166,
+        "magickaBase":88,
+        "healthModified":63,
+        "healthBase":63,
+        "healthCurrent":63,
+        "magickaModified":88
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -690,23 +1128,23 @@
     "40127-0":{
       "refId":"tauryon",
       "location":{
-        "rotZ":1.9847719669342,
-        "rotY":0,
-        "posX":-10627.399414063,
-        "posY":54509.94921875,
-        "posZ":2345,
-        "rotX":-0.030510084703565
+        "posX":-11112.416015625,
+        "posY":55562.4140625,
+        "posZ":2572.1298828125,
+        "rotX":-0.11385414749384,
+        "rotZ":-1.57750248909,
+        "rotY":0
       },
       "stats":{
-        "healthModified":55,
-        "magickaModified":185,
-        "fatigueModified":179,
-        "healthBase":55,
-        "healthCurrent":55,
-        "magickaBase":185,
         "magickaCurrent":185,
         "fatigueBase":179,
-        "fatigueCurrent":179
+        "fatigueCurrent":179,
+        "fatigueModified":179,
+        "magickaBase":185,
+        "healthModified":55,
+        "healthBase":55,
+        "healthCurrent":55,
+        "magickaModified":185
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_03",
@@ -747,23 +1185,23 @@
     "40131-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotZ":1.3582422733307,
-        "rotY":0,
-        "posX":-12247.9453125,
-        "posY":54559.1953125,
-        "posZ":2336.8278808594,
-        "rotX":-0.0069340541958809
+        "posX":-14280.91796875,
+        "posY":54431.75390625,
+        "posZ":2369,
+        "rotX":0.12253499031067,
+        "rotZ":1.4907047748566,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "fatigueModified":307,
+        "magickaBase":122,
+        "healthModified":210,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaModified":122
       },
       "equipment":{
         "0":{
@@ -940,23 +1378,23 @@
     "40129-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotZ":-1.3975536823273,
-        "rotY":0,
-        "posX":-12271.299804688,
-        "posY":55016.0859375,
-        "posZ":2323.8713378906,
-        "rotX":0.022133888676763
+        "posX":-11171.073242188,
+        "posY":55574.46875,
+        "posZ":2589.80859375,
+        "rotX":0.28147658705711,
+        "rotZ":1.4292118549347,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "fatigueModified":307,
+        "magickaBase":122,
+        "healthModified":210,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaModified":122
       },
       "equipment":{
         "0":{
@@ -1133,23 +1571,23 @@
     "40132-0":{
       "refId":"redoran guard female",
       "location":{
-        "rotZ":-1.8462603092194,
-        "rotY":0,
-        "posX":-13989.801757813,
-        "posY":52396.765625,
-        "posZ":2090.1511230469,
-        "rotX":-0.065582290291786
+        "posX":-13697.57421875,
+        "posY":51718.1484375,
+        "posZ":2090.7292480469,
+        "rotX":-0.079862885177135,
+        "rotZ":2.7112877368927,
+        "rotY":0
       },
       "stats":{
-        "healthModified":205,
-        "magickaModified":122,
-        "fatigueModified":297,
-        "healthBase":205,
-        "healthCurrent":205,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":297,
-        "fatigueCurrent":297
+        "fatigueCurrent":297,
+        "fatigueModified":297,
+        "magickaBase":122,
+        "healthModified":205,
+        "healthBase":205,
+        "healthCurrent":205,
+        "magickaModified":122
       },
       "equipment":{
         "0":{
@@ -1314,23 +1752,23 @@
     "40133-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotZ":0.81806755065918,
-        "rotY":0,
-        "posX":-15083.537109375,
-        "posY":57094.25,
-        "posZ":2453.3366699219,
-        "rotX":0.025395648553967
+        "posX":-14895.90234375,
+        "posY":55753.91796875,
+        "posZ":2358.1577148438,
+        "rotX":-0.067066296935081,
+        "rotZ":-2.8874199390411,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "fatigueModified":307,
+        "magickaBase":122,
+        "healthModified":210,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaModified":122
       },
       "equipment":{
         "0":{
@@ -1507,23 +1945,23 @@
     "82808-0":{
       "refId":"redoran guard female",
       "location":{
-        "rotZ":0.80583882331848,
-        "rotY":0,
-        "posX":-14256.6953125,
-        "posY":51019.03125,
-        "posZ":2057,
-        "rotX":-0.067258313298225
+        "posX":-14133.88671875,
+        "posY":50963.765625,
+        "posZ":2063.4597167969,
+        "rotX":0.022524869069457,
+        "rotZ":-2.1189529895782,
+        "rotY":0
       },
       "stats":{
-        "healthModified":205,
-        "magickaModified":122,
-        "fatigueModified":297,
-        "healthBase":205,
-        "healthCurrent":183.91548156738,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":297,
-        "fatigueCurrent":297
+        "fatigueCurrent":297,
+        "fatigueModified":297,
+        "magickaBase":122,
+        "healthModified":205,
+        "healthBase":205,
+        "healthCurrent":183.91548156738,
+        "magickaModified":122
       },
       "cellChangeFrom":"-2, 7",
       "equipment":{
@@ -1689,23 +2127,23 @@
     "40135-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotZ":-2.5140783786774,
-        "rotY":0,
-        "posX":-8861.85546875,
-        "posY":53509.1015625,
-        "posZ":2363.4453125,
-        "rotX":0.031308475881815
+        "posX":-9181.81640625,
+        "posY":53574.50390625,
+        "posZ":2350.8752441406,
+        "rotX":-0.015409986488521,
+        "rotZ":2.6285231113434,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
         "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "fatigueModified":307,
+        "magickaBase":122,
+        "healthModified":210,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaModified":122
       },
       "equipment":{
         "0":{
@@ -1873,6 +2311,243 @@
           "soul":""
         },{
           "refId":"steel mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "40134-0":{
+      "refId":"redoran guard female",
+      "location":{
+        "posX":-13407.486328125,
+        "posY":52638.28125,
+        "posZ":2091.3974609375,
+        "rotX":0.019991574808955,
+        "rotZ":-2.1114790439606,
+        "rotY":0
+      },
+      "stats":{
+        "magickaCurrent":122,
+        "fatigueBase":297,
+        "fatigueCurrent":297,
+        "fatigueModified":297,
+        "magickaBase":122,
+        "healthModified":205,
+        "healthBase":205,
+        "healthCurrent":205,
+        "magickaModified":122
+      },
+      "equipment":{
+        "0":{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"extravagant_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"silver longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"silver longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "384858-0":{
+      "refId":"crate_01_dandera",
+      "inventory":[{
+          "refId":"iron_shield",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_gauntlet_left",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin pauldron - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin pauldron - left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin guantlet - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49201-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_wood_cup_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -2171,459 +2846,6 @@
           "soul":""
         }]
     },
-    "40134-0":{
-      "refId":"redoran guard female",
-      "location":{
-        "rotZ":2.2844831943512,
-        "rotY":0,
-        "posX":-13702.744140625,
-        "posY":51701.7734375,
-        "posZ":2090.4060058594,
-        "rotX":0.051381882280111
-      },
-      "stats":{
-        "healthModified":205,
-        "magickaModified":122,
-        "fatigueModified":297,
-        "healthBase":205,
-        "healthCurrent":205,
-        "magickaBase":122,
-        "magickaCurrent":122,
-        "fatigueBase":297,
-        "fatigueCurrent":297
-      },
-      "equipment":{
-        "0":{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"extravagant_shirt_01_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"extravagant_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"extravagant_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"silver longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shirt_01_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"silver longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "48752-0":{
-      "refId":"redoran guard female",
-      "location":{
-        "rotZ":2.5206186771393,
-        "rotY":0,
-        "posX":-8391.6376953125,
-        "posY":53786.1328125,
-        "posZ":2583.7541503906,
-        "rotX":0.54153084754944
-      },
-      "stats":{
-        "healthModified":205,
-        "magickaModified":122,
-        "fatigueModified":297,
-        "healthBase":205,
-        "healthCurrent":205,
-        "magickaBase":122,
-        "magickaCurrent":122,
-        "fatigueBase":297,
-        "fatigueCurrent":297
-      },
-      "equipment":{
-        "0":{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"extravagant_shirt_01_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"extravagant_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"extravagant_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"silver longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shirt_01_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"silver longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "40126-0":{
-      "refId":"gindrala hleran",
-      "location":{
-        "rotZ":2.0082771778107,
-        "rotY":0,
-        "posX":-11285.666992188,
-        "posY":54489.5,
-        "posZ":2361,
-        "rotX":0.0041500069200993
-      },
-      "stats":{
-        "healthModified":63,
-        "magickaModified":88,
-        "fatigueModified":166,
-        "healthBase":63,
-        "healthCurrent":63,
-        "magickaBase":88,
-        "magickaCurrent":88,
-        "fatigueBase":166,
-        "fatigueCurrent":166
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"common_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "12":{
-          "refId":"common_ring_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "14":{
-          "refId":"common_amulet_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_amulet_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_ring_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"key_gindrala",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "49253-0":{
       "refId":"tramaroot_06",
       "inventory":[]
@@ -2663,232 +2885,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "49261-0":{
-      "refId":"com_basket_01_food",
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49262-0":{
-      "refId":"crate_02_food",
-      "inventory":[{
-          "refId":"ingred_bread_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49263-0":{
-      "refId":"crate_01_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49264-0":{
-      "refId":"crate_02_empty",
-      "inventory":[]
-    },
-    "49265-0":{
-      "refId":"crate_01_food_misc01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":7,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_rat_meat_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_saltrice_01",
-          "count":8,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49266-0":{
-      "refId":"crate_01_eggs",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49267-0":{
-      "refId":"crate_02_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49269-0":{
-      "refId":"urn_01_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49270-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49271-0":{
-      "refId":"urn_02",
-      "inventory":[]
-    },
-    "49273-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_alit_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_netch_leather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_ash_yam_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49274-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "49275-0":{
-      "refId":"urn_05_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49276-0":{
-      "refId":"urn_03_ingred",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "82809-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[]
-    },
-    "82810-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "82811-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "82812-0":{
-      "refId":"tramaroot_05",
-      "inventory":[]
-    },
-    "82813-0":{
-      "refId":"urn_02_food",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "82814-0":{
-      "refId":"urn_03_food",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "82815-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "82816-0":{
-      "refId":"tramaroot_05",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "82818-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
-    "49249-0":{
-      "refId":"crate_01_empty",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }
