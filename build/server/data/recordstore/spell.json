@@ -1,22 +1,54 @@
 {
   "general":{
-    "currentGeneratedNum":9
+    "currentGeneratedNum":12
   },
   "permanentRecords":[],
   "generatedRecords":{
-    "$custom_spell_6":{
-      "name":"Flare",
+    "$custom_spell_9":{
+      "name":"Greater Rejuvination",
       "subtype":0,
-      "cost":18,
+      "cost":26,
       "flags":0,
       "effects":[{
-          "id":14,
+          "id":75,
           "attribute":-1,
           "skill":-1,
-          "rangeType":2,
+          "rangeType":1,
+          "area":0,
+          "duration":20,
+          "magnitudeMax":5,
+          "magnitudeMin":5
+        }]
+    },
+    "$custom_spell_7":{
+      "name":"Electrocute",
+      "subtype":0,
+      "cost":31,
+      "flags":0,
+      "effects":[{
+          "id":15,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":1,
           "area":0,
           "duration":1,
-          "magnitudeMax":30,
+          "magnitudeMax":50,
+          "magnitudeMin":40
+        }]
+    },
+    "$custom_spell_11":{
+      "name":"Bolster",
+      "subtype":0,
+      "cost":31,
+      "flags":0,
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":1,
+          "area":0,
+          "duration":30,
+          "magnitudeMax":20,
           "magnitudeMin":20
         }]
     },
@@ -52,57 +84,47 @@
           "magnitudeMin":5
         }]
     },
-    "$custom_spell_9":{
-      "name":"Greater Rejuvination",
+    "$custom_spell_12":{
+      "name":"Spark of Brilliance",
       "subtype":0,
-      "cost":26,
+      "cost":40,
       "flags":0,
       "effects":[{
-          "id":75,
-          "attribute":-1,
+          "id":79,
+          "attribute":1,
           "skill":-1,
-          "rangeType":1,
+          "rangeType":0,
           "area":0,
-          "duration":20,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_spell_7":{
-      "name":"Electrocute",
-      "subtype":0,
-      "cost":31,
-      "flags":0,
-      "effects":[{
-          "id":15,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":1,
-          "area":0,
-          "duration":1,
+          "duration":15,
           "magnitudeMax":50,
-          "magnitudeMin":40
+          "magnitudeMin":50
         }]
     },
-    "$custom_spell_1":{
-      "name":"Lesser Rejuvination",
+    "$custom_spell_10":{
+      "name":"Acrobatic Encouragement",
       "subtype":0,
-      "cost":7,
+      "cost":18,
       "flags":0,
       "effects":[{
-          "id":75,
+          "id":9,
           "attribute":-1,
           "skill":-1,
           "rangeType":1,
           "area":0,
           "duration":5,
-          "magnitudeMax":5,
-          "magnitudeMin":5
+          "magnitudeMax":20,
+          "magnitudeMin":20
         }]
     }
   },
   "recordLinks":{
-    "$custom_spell_6":{
+    "$custom_spell_9":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_7":{
+      "players":["Benoit"]
+    },
+    "$custom_spell_11":{
       "players":["Benoit"]
     },
     "$custom_spell_8":{
@@ -111,13 +133,10 @@
     "$custom_spell_5":{
       "players":["Benoit"]
     },
-    "$custom_spell_9":{
+    "$custom_spell_12":{
       "players":["Benoit"]
     },
-    "$custom_spell_7":{
-      "players":["Benoit"]
-    },
-    "$custom_spell_1":{
+    "$custom_spell_10":{
       "players":["Benoit"]
     }
   },

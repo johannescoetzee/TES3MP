@@ -26,57 +26,11 @@
     "creationTime":1713905608
   },
   "lastVisit":{
-    "Fidgug":1713905672,
-    "Benoit":1713905673
+    "Benoit":1717790146,
+    "Fidgug":1717790637
   },
   "recordLinks":[],
   "objectData":{
-    "266032-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "461689-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "461696-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "461703-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "461711-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "461716-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "461722-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
     "461726-0":{
       "refId":"kollop_02_pearl",
       "inventory":[{
@@ -137,12 +91,35 @@
           "soul":""
         }]
     },
+    "0-42":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":8778.751953125,
+        "posY":-79784.15625,
+        "posZ":-275.77850341797,
+        "rotX":-7.1940012276173e-05,
+        "rotZ":0.66618847846985,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
+      },
+      "inventory":[]
+    },
     "0-39":{
       "refId":"mudcrab",
       "location":{
         "posX":10459.47265625,
         "posY":-73810.1875,
-        "posZ":423.16778564453,
+        "posZ":422.82809448242,
         "rotX":0.084869295358658,
         "rotZ":-1.2199289798737,
         "rotY":0
@@ -151,12 +128,12 @@
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "healthModified":15,
-        "magickaModified":5
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -169,23 +146,23 @@
     "0-40":{
       "refId":"kwama forager",
       "location":{
-        "posX":16193.45703125,
-        "posY":-78568.0859375,
-        "posZ":566.12005615234,
-        "rotX":0,
-        "rotZ":0,
+        "posX":15863.03125,
+        "posY":-79038.03125,
+        "posZ":503.9880065918,
+        "rotX":-0.077328108251095,
+        "rotZ":3.1182754039764,
         "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
+        "healthModified":23,
+        "magickaModified":15,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":15
+        "magickaCurrent":15,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -198,23 +175,23 @@
     "0-41":{
       "refId":"kwama forager",
       "location":{
-        "posX":16206.3203125,
-        "posY":-78010.796875,
-        "posZ":524.39721679688,
-        "rotX":0,
-        "rotZ":0,
+        "posX":15375.280273438,
+        "posY":-77408.578125,
+        "posZ":514.51489257813,
+        "rotX":-0.19775846600533,
+        "rotZ":-1.4410321712494,
         "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
+        "healthModified":23,
+        "magickaModified":15,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "healthModified":23,
-        "magickaModified":15
+        "magickaCurrent":15,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -224,32 +201,55 @@
           "soul":""
         }]
     },
-    "0-42":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":8596.5478515625,
-        "posY":-79485.7109375,
-        "posZ":-275.89581298828,
-        "rotX":0,
-        "rotZ":-0.18237805366516,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":15,
-        "magickaModified":10
-      },
+    "266032-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "461689-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "461696-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "461703-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "461711-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "461716-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "461722-0":{
+      "refId":"kollop_03_pearl",
       "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }
