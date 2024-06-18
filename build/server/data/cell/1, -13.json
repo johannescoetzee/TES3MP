@@ -22,360 +22,34 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717790544,
-    "description":"1, -13"
+    "description":"1, -13",
+    "creationTime":1717790544
   },
   "lastVisit":{
-    "Benoit":1717790560
+    "Benoit":1718727906
   },
   "recordLinks":[],
   "objectData":{
-    "388943-0":{
-      "refId":"imperial guard_ebonhear",
-      "location":{
-        "posX":9018.5859375,
-        "posY":-100586.75,
-        "posZ":1265,
-        "rotX":-0.028961975127459,
-        "rotZ":-2.1485893726349,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueCurrent":297,
-        "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
-      },
-      "equipment":{
-        "0":{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"imperial skirt_clothing",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"imperial shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"imperial shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial skirt_clothing",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "388944-0":{
-      "refId":"imperial guard_ebonhear",
-      "location":{
-        "posX":9962.216796875,
-        "posY":-100568.5,
-        "posZ":2003.4353027344,
-        "rotX":0.014147691428661,
-        "rotZ":2.3132426738739,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueCurrent":297,
-        "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
-      },
-      "equipment":{
-        "0":{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"imperial skirt_clothing",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"imperial shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"imperial shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial skirt_clothing",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "388945-0":{
       "refId":"imperial guard_ebonhear",
       "location":{
-        "posX":14715.8125,
-        "posY":-102544.7421875,
-        "posZ":640.73034667969,
-        "rotX":0.23975443840027,
-        "rotZ":1.9267494678497,
-        "rotY":0
+        "rotY":0,
+        "posX":12994.227539063,
+        "posY":-102504.609375,
+        "posZ":710.68841552734,
+        "rotX":-0.081021919846535,
+        "rotZ":-1.9150311946869
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueCurrent":297,
         "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
+        "fatigueCurrent":297
       },
       "equipment":{
         "0":{
@@ -522,23 +196,23 @@
     "388946-0":{
       "refId":"imperial guard_ebonhear",
       "location":{
-        "posX":13650.672851563,
-        "posY":-102818.453125,
-        "posZ":705,
-        "rotX":-0.090898215770721,
-        "rotZ":-1.7517459392548,
-        "rotY":0
+        "rotY":0,
+        "posX":13127.340820313,
+        "posY":-102084.4140625,
+        "posZ":713,
+        "rotX":0.0091728195548058,
+        "rotZ":2.1203858852386
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueCurrent":297,
         "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
+        "fatigueCurrent":297
       },
       "equipment":{
         "0":{
@@ -685,23 +359,23 @@
     "389033-0":{
       "refId":"imperial templar_ebon",
       "location":{
-        "posX":11832.525390625,
-        "posY":-100645.109375,
+        "rotY":0,
+        "posX":11565.120117188,
+        "posY":-100639.203125,
         "posZ":1332.1654052734,
-        "rotX":-0.032594561576843,
-        "rotZ":2.5203602313995,
-        "rotY":0
+        "rotX":0.028997913002968,
+        "rotZ":-1.5715487003326
       },
       "stats":{
         "healthBase":231,
         "healthCurrent":231,
         "magickaBase":128,
+        "magickaCurrent":128,
+        "fatigueBase":311,
         "healthModified":231,
         "magickaModified":128,
-        "fatigueCurrent":311,
         "fatigueModified":311,
-        "magickaCurrent":128,
-        "fatigueBase":311
+        "fatigueCurrent":311
       },
       "equipment":{
         "0":{
@@ -842,23 +516,23 @@
     "7294-0":{
       "refId":"apelles matius",
       "location":{
-        "posX":13501.873046875,
-        "posY":-100418.765625,
-        "posZ":1171.3312988281,
-        "rotX":0,
-        "rotZ":-1.5179727077484,
-        "rotY":0
+        "rotY":0,
+        "posX":13311.16015625,
+        "posY":-100900.4296875,
+        "posZ":1084.2744140625,
+        "rotX":-0.43530359864235,
+        "rotZ":0.0096373558044434
       },
       "stats":{
         "healthBase":304,
         "healthCurrent":304,
         "magickaBase":154,
+        "magickaCurrent":154,
+        "fatigueBase":341,
         "healthModified":304,
         "magickaModified":154,
-        "fatigueCurrent":341,
         "fatigueModified":341,
-        "magickaCurrent":154,
-        "fatigueBase":341
+        "fatigueCurrent":341
       },
       "equipment":[{
           "refId":"adamantium_cuirass",
@@ -954,23 +628,23 @@
     "388940-0":{
       "refId":"pilus amatius",
       "location":{
-        "posX":14754.951171875,
-        "posY":-102605.78125,
-        "posZ":626.11871337891,
-        "rotX":-0.0012423396110535,
-        "rotZ":-2.3232281208038,
-        "rotY":0
+        "rotY":0,
+        "posX":14840.411132813,
+        "posY":-102535.609375,
+        "posZ":629.90600585938,
+        "rotX":0.15145014226437,
+        "rotZ":-2.2445743083954
       },
       "stats":{
         "healthBase":63,
         "healthCurrent":63,
         "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueBase":158,
         "healthModified":63,
         "magickaModified":92,
-        "fatigueCurrent":158,
         "fatigueModified":158,
-        "magickaCurrent":92,
-        "fatigueBase":158
+        "fatigueCurrent":158
       },
       "equipment":{
         "7":{
@@ -1054,49 +728,26 @@
           "soul":""
         }]
     },
-    "0-1134":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":9135.9697265625,
-        "posY":-104921.28125,
-        "posZ":-457.21630859375,
-        "rotX":0,
-        "rotZ":2.1822597980499,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "healthModified":15,
-        "magickaModified":10,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":10,
-        "fatigueBase":300
-      },
-      "inventory":[]
-    },
     "388941-0":{
       "refId":"maline masolaude",
       "location":{
-        "posX":12887.342773438,
-        "posY":-102856.296875,
-        "posZ":713,
-        "rotX":0.010385327041149,
-        "rotZ":-2.8134548664093,
-        "rotY":0
+        "rotY":0,
+        "posX":12725.1875,
+        "posY":-101934.75,
+        "posZ":727.85522460938,
+        "rotX":-0.06541783362627,
+        "rotZ":-1.1762993335724
       },
       "stats":{
         "healthBase":47,
         "healthCurrent":47,
         "magickaBase":130,
+        "magickaCurrent":130,
+        "fatigueBase":159,
         "healthModified":47,
         "magickaModified":130,
-        "fatigueCurrent":159,
         "fatigueModified":159,
-        "magickaCurrent":130,
-        "fatigueBase":159
+        "fatigueCurrent":159
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_04",
@@ -1146,55 +797,26 @@
           "soul":""
         }]
     },
-    "0-1135":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":14496.53125,
-        "posY":-105507.0703125,
-        "posZ":231.98556518555,
-        "rotX":0.18375498056412,
-        "rotZ":-2.3650705814362,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":5,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "388942-0":{
       "refId":"vilamon",
       "location":{
-        "posX":13229.111328125,
-        "posY":-101573.7265625,
+        "rotY":0,
+        "posX":13773.42578125,
+        "posY":-100646.890625,
         "posZ":729,
-        "rotX":-0.0069098342210054,
-        "rotZ":1.3555262088776,
-        "rotY":0
+        "rotX":0.018605748191476,
+        "rotZ":-0.028264760971069
       },
       "stats":{
         "healthBase":63,
         "healthCurrent":63,
         "magickaBase":86,
+        "magickaCurrent":86,
+        "fatigueBase":182,
         "healthModified":63,
         "magickaModified":86,
-        "fatigueCurrent":182,
         "fatigueModified":182,
-        "magickaCurrent":86,
-        "fatigueBase":182
+        "fatigueCurrent":182
       },
       "equipment":{
         "1":{
@@ -1271,10 +893,388 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1135":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":14221.833984375,
+        "posY":-105461.3046875,
+        "posZ":137.88114929199,
+        "rotX":1.0532901287079,
+        "rotZ":-1.4618852138519
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1134":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "rotY":0,
+        "posX":8469.59765625,
+        "posY":-104751.171875,
+        "posZ":-457.21630859375,
+        "rotX":0,
+        "rotZ":-1.2225606441498
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[]
+    },
+    "388943-0":{
+      "refId":"imperial guard_ebonhear",
+      "location":{
+        "rotY":0,
+        "posX":9176.1396484375,
+        "posY":-101533.2109375,
+        "posZ":1265,
+        "rotX":0.0099429935216904,
+        "rotZ":2.5861642360687
+      },
+      "stats":{
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":297,
+        "fatigueCurrent":297
+      },
+      "equipment":{
+        "0":{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"imperial skirt_clothing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"imperial shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial skirt_clothing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "388944-0":{
+      "refId":"imperial guard_ebonhear",
+      "location":{
+        "rotY":0,
+        "posX":9860.2001953125,
+        "posY":-100681.6171875,
+        "posZ":2003.4351806641,
+        "rotX":0.022984225302935,
+        "rotZ":-0.25489521026611
+      },
+      "stats":{
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":297,
+        "fatigueCurrent":297
+      },
+      "equipment":{
+        "0":{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"imperial skirt_clothing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"imperial shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial skirt_clothing",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -1,9 +1,21 @@
 {
   "general":{
-    "currentGeneratedNum":0
+    "currentGeneratedNum":1
   },
   "permanentRecords":[],
-  "generatedRecords":[],
-  "recordLinks":[],
+  "generatedRecords":{
+    "$custom_weapon_1":{
+      "baseId":"silver staff",
+      "name":"Staff of Dubious Regeneration",
+      "enchantmentId":"$custom_enchantment_1",
+      "enchantmentCharge":100
+    }
+  },
+  "recordLinks":{
+    "$custom_weapon_1":{
+      "players":[],
+      "cells":["Balmora, Meldor: Armorer"]
+    }
+  },
   "unlinkedRecordsToCheck":[]
 }

@@ -22,37 +22,38 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717790544,
-    "description":"0, -14"
+    "description":"0, -14",
+    "creationTime":1717790544
   },
   "lastVisit":{
-    "Benoit":1717790560
+    "Benoit":1718727906
   },
   "recordLinks":[],
   "objectData":{
-    "462655-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "462659-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "462668-0":{
-      "refId":"kollop_03_pearl",
+    "0-1153":{
+      "refId":"slaughterfish",
+      "location":{
+        "rotY":0,
+        "posX":4749.966796875,
+        "posY":-107369.703125,
+        "posZ":-1149.8366699219,
+        "rotX":0,
+        "rotZ":1.9450037479401
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
       "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "462606-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
+          "refId":"ingred_scales_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -61,23 +62,23 @@
     "0-1154":{
       "refId":"dreugh",
       "location":{
-        "posX":1491.59765625,
-        "posY":-108439.671875,
+        "rotY":0,
+        "posX":786.42218017578,
+        "posY":-108516.09375,
         "posZ":-509.41412353516,
         "rotX":0,
-        "rotZ":-1.6261117458344,
-        "rotY":0
+        "rotZ":-0.82814908027649
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
+        "magickaCurrent":75,
+        "fatigueBase":400,
         "healthModified":60,
         "magickaModified":75,
-        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":75,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -90,23 +91,23 @@
     "0-1152":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":5251.982421875,
-        "posY":-108555.6796875,
+        "rotY":0,
+        "posX":5159.3447265625,
+        "posY":-108689.59375,
         "posZ":-2367.2580566406,
         "rotX":0,
-        "rotZ":1.4936926364899,
-        "rotY":0
+        "rotZ":0.15989780426025
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
         "healthModified":15,
         "magickaModified":10,
-        "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":10,
-        "fatigueBase":300
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -116,30 +117,11 @@
           "soul":""
         }]
     },
-    "0-1153":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":4732.490234375,
-        "posY":-107665.7734375,
-        "posZ":-1149.8366699219,
-        "rotX":0,
-        "rotZ":-2.7626411914825,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
-      },
+    "462606-0":{
+      "refId":"kollop_03_pearl",
       "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
+          "refId":"ingred_pearl_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -174,10 +156,28 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "462655-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "462659-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "462668-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -26,31 +26,31 @@
     "creationTime":1717785965
   },
   "lastVisit":{
-    "Benoit":1717790717,
-    "Fidgug":1717790703
+    "Benoit":1718727513,
+    "Fidgug":1718727514
   },
   "recordLinks":[],
   "objectData":{
     "241620-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":30114.064453125,
-        "posY":-94940.7265625,
-        "posZ":1523.5583496094,
-        "rotX":-0.44184750318527,
-        "rotZ":-1.5735013484955,
-        "rotY":0
+        "rotY":0,
+        "posX":31471.95703125,
+        "posY":-95436.4609375,
+        "posZ":1792.9992675781,
+        "rotX":0.00070534460246563,
+        "rotZ":-1.5890934467316
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -197,23 +197,23 @@
     "287791-0":{
       "refId":"ordinator wander",
       "location":{
+        "rotY":0,
         "posX":32748.57421875,
         "posY":-97912.015625,
         "posZ":-126.99340057373,
-        "rotX":-1.4931654930115,
-        "rotZ":3.0324275493622,
-        "rotY":0
+        "rotX":0,
+        "rotZ":0
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -272,12 +272,6 @@
         },
         "16":{
           "refId":"ebony mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"indoril shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -360,23 +354,23 @@
     "241618-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":28740.107421875,
-        "posY":-95387.0546875,
-        "posZ":1792.9997558594,
-        "rotX":-0.014179512858391,
-        "rotZ":1.4642527103424,
-        "rotY":0
+        "rotY":0,
+        "posX":30483.408203125,
+        "posY":-95744.0234375,
+        "posZ":577,
+        "rotX":0.010042617097497,
+        "rotZ":1.5683615207672
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -522,7 +516,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

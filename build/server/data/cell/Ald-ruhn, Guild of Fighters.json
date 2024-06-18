@@ -17,9 +17,9 @@
     "state":[],
     "statsDynamic":["9220-0","9231-0","9232-0","9233-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":["9232-0","9233-0","9231-0","9220-0"]
+    "miscellaneous":["9232-0","9233-0","9231-0","9220-0"],
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"Ald-ruhn, Guild of Fighters",
@@ -27,66 +27,10 @@
   },
   "lastVisit":{
     "Benoit":1717189900,
-    "Fidgug":1717189935
+    "Fidgug":1718733493
   },
   "recordLinks":[],
   "objectData":{
-    "28826-0":{
-      "refId":"de_p_chest_01_baradras",
-      "inventory":[]
-    },
-    "28842-0":{
-      "refId":"chest_small_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28858-0":{
-      "refId":"com_chest_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28862-0":{
-      "refId":"chest_small_02_gold_10",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "28887-0":{
-      "refId":"de_p_desk_01_pesesius",
-      "inventory":[{
-          "refId":"potion_cyro_whiskey_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_paper plain",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "28932-0":{
       "refId":"chest_small_01_pos",
       "inventory":[{
@@ -253,134 +197,26 @@
           "soul":""
         }]
     },
-    "296037-0":{
-      "refId":"com_sack_02_chpfood3",
+    "28806-0":{
+      "refId":"crate_01_steel_weapons",
       "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":3,
+          "refId":"steel spear",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "333441-0":{
-      "refId":"com_chest_02_v_weapon04",
+    "28807-0":{
+      "refId":"crate_01_iron_weapons",
       "inventory":[{
-          "refId":"iron arrow",
-          "count":200,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel arrow",
-          "count":100,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron throwing knife",
-          "count":50,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel longbow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron long spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel staff",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron club",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel claymore",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron saber",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel saber",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron wakizashi",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron tanto",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
           "refId":"iron war axe",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"steel battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel spear",
+          "refId":"iron wakizashi",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -549,6 +385,74 @@
           "soul":""
         }]
     },
+    "28826-0":{
+      "refId":"de_p_chest_01_baradras",
+      "inventory":[]
+    },
+    "28842-0":{
+      "refId":"chest_small_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28858-0":{
+      "refId":"com_chest_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28862-0":{
+      "refId":"chest_small_02_gold_10",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28887-0":{
+      "refId":"de_p_desk_01_pesesius",
+      "inventory":[{
+          "refId":"potion_cyro_whiskey_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_paper plain",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "28818-0":{
+      "refId":"de_p_chest_02_empty",
+      "inventory":[]
+    },
+    "28817-0":{
+      "refId":"de_p_chest_02_empty",
+      "inventory":[]
+    },
+    "28816-0":{
+      "refId":"de_p_chest_02_empty",
+      "inventory":[]
+    },
     "470837-0":{
       "refId":"de_p_chest_percius_01",
       "inventory":[{
@@ -588,23 +492,23 @@
     "9233-0":{
       "refId":"persius mercius",
       "location":{
-        "posX":1470.2354736328,
-        "posY":-46.246124267578,
+        "rotY":0,
+        "posX":1512.2679443359,
+        "posY":-74.228828430176,
         "posZ":-767,
-        "rotX":-0.035202469676733,
-        "rotZ":-0.82327151298523,
-        "rotY":0
+        "rotX":0.012438251636922,
+        "rotZ":-1.8048870563507
       },
       "stats":{
-        "magickaCurrent":128,
-        "fatigueBase":252,
-        "fatigueCurrent":252,
-        "fatigueModified":252,
-        "magickaBase":128,
-        "healthModified":141,
         "healthBase":141,
         "healthCurrent":141,
-        "magickaModified":128
+        "magickaBase":128,
+        "magickaCurrent":128,
+        "fatigueBase":252,
+        "healthModified":141,
+        "magickaModified":128,
+        "fatigueModified":252,
+        "fatigueCurrent":252
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -724,30 +628,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
-      "lastGoldRestockHour":4.1218204498291,
-      "lastGoldRestockDay":23
+      "lastGoldRestockHour":10.209002494812,
+      "lastGoldRestockDay":28,
+      "goldPool":0
     },
     "9231-0":{
       "refId":"tralan",
       "location":{
-        "posX":-762.42059326172,
-        "posY":190.85511779785,
+        "rotY":0,
+        "posX":-743.20269775391,
+        "posY":198.37858581543,
         "posZ":-511,
-        "rotX":0.010587126947939,
-        "rotZ":-3.0831825733185,
-        "rotY":0
+        "rotX":0.0097087062895298,
+        "rotZ":-0.40692353248596
       },
       "stats":{
-        "magickaCurrent":70,
-        "fatigueBase":235,
-        "fatigueCurrent":235,
-        "fatigueModified":235,
-        "magickaBase":70,
-        "healthModified":112,
         "healthBase":112,
         "healthCurrent":112,
-        "magickaModified":70
+        "magickaBase":70,
+        "magickaCurrent":70,
+        "fatigueBase":235,
+        "healthModified":112,
+        "magickaModified":70,
+        "fatigueModified":235,
+        "fatigueCurrent":235
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -883,30 +787,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
       "lastGoldRestockHour":4.449914932251,
-      "lastGoldRestockDay":23
+      "lastGoldRestockDay":23,
+      "goldPool":0
     },
     "9232-0":{
       "refId":"baradras",
       "location":{
-        "posX":125.76718139648,
-        "posY":-209.01547241211,
-        "posZ":-255.00001525879,
+        "rotY":0,
+        "posX":128.15135192871,
+        "posY":-209.01617431641,
+        "posZ":-255,
         "rotX":0,
-        "rotZ":-1.2060358524323,
-        "rotY":0
+        "rotZ":-1.8501451015472
       },
       "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":194,
-        "fatigueCurrent":194,
-        "fatigueModified":194,
-        "magickaBase":94,
-        "healthModified":80,
         "healthBase":80,
         "healthCurrent":80,
-        "magickaModified":94
+        "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueBase":194,
+        "healthModified":80,
+        "magickaModified":94,
+        "fatigueModified":194,
+        "fatigueCurrent":194
       },
       "equipment":{
         "0":{
@@ -1007,30 +911,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
-      "lastGoldRestockHour":3.9975533485413,
-      "lastGoldRestockDay":23
+      "lastGoldRestockHour":10.107227325439,
+      "lastGoldRestockDay":28,
+      "goldPool":0
     },
     "9220-0":{
       "refId":"ergnir",
       "location":{
+        "rotY":0,
         "posX":1422.2933349609,
         "posY":-276.88360595703,
         "posZ":-767,
-        "rotX":-0.026610009372234,
-        "rotZ":-0.28178572654724,
-        "rotY":0
+        "rotX":0,
+        "rotZ":1.8707964420319
       },
       "stats":{
-        "magickaCurrent":72,
-        "fatigueBase":247,
-        "fatigueCurrent":247,
-        "fatigueModified":247,
-        "magickaBase":72,
-        "healthModified":126,
         "healthBase":126,
         "healthCurrent":126,
-        "magickaModified":72
+        "magickaBase":72,
+        "magickaCurrent":72,
+        "fatigueBase":247,
+        "healthModified":126,
+        "magickaModified":72,
+        "fatigueModified":247,
+        "fatigueCurrent":247
       },
       "equipment":{
         "0":{
@@ -1143,9 +1047,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":32,
       "lastGoldRestockHour":4.7286577224731,
-      "lastGoldRestockDay":23
+      "lastGoldRestockDay":23,
+      "goldPool":32
     },
     "9211-0":{
       "refId":"in_r_s_door_01",
@@ -1213,20 +1117,82 @@
           "soul":""
         }]
     },
-    "28806-0":{
-      "refId":"crate_01_steel_weapons",
+    "333441-0":{
+      "refId":"com_chest_02_v_weapon04",
       "inventory":[{
-          "refId":"steel spear",
+          "refId":"iron arrow",
+          "count":200,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel arrow",
+          "count":100,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron throwing knife",
+          "count":50,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longbow",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "28807-0":{
-      "refId":"crate_01_iron_weapons",
-      "inventory":[{
-          "refId":"iron war axe",
+        },{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron long spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel staff",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron club",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron saber",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel saber",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -1237,19 +1203,53 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"steel dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron tanto",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }]
     },
-    "28816-0":{
-      "refId":"de_p_chest_02_empty",
-      "inventory":[]
-    },
-    "28817-0":{
-      "refId":"de_p_chest_02_empty",
-      "inventory":[]
-    },
-    "28818-0":{
-      "refId":"de_p_chest_02_empty",
-      "inventory":[]
+    "296037-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

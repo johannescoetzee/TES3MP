@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["388939-0","147566-0","147565-0","294907-0","147567-0","294932-0","388938-0","147564-0","0-1107"],
+    "actorList":["388939-0","147566-0","147565-0","294907-0","147567-0","294932-0","388938-0","147564-0","0-1107","0-1106"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["283900-0","283901-0","294945-0","294946-0","294947-0","294948-0","294949-0","294950-0","294951-0","294952-0","294955-0","294956-0","294957-0","294958-0","294959-0","294960-0","294961-0","294962-0","294963-0","294964-0","294965-0","294966-0","294967-0","294969-0","294970-0","294971-0","294972-0","294973-0","294974-0","294975-0","294976-0","294977-0","294978-0","294979-0","294980-0","294981-0","294982-0","294984-0","294985-0","294986-0","295119-0","147564-0","147566-0","294907-0","294932-0","388938-0","388939-0","147565-0","147567-0","0-1107"],
+    "container":["283900-0","283901-0","294945-0","294946-0","294947-0","294948-0","294949-0","294950-0","294951-0","294952-0","294955-0","294956-0","294957-0","294958-0","294959-0","294960-0","294961-0","294962-0","294963-0","294964-0","294965-0","294966-0","294967-0","294969-0","294970-0","294971-0","294972-0","294973-0","294974-0","294975-0","294976-0","294977-0","294978-0","294979-0","294980-0","294981-0","294982-0","294984-0","294985-0","294986-0","295119-0","147564-0","147566-0","294907-0","294932-0","388938-0","388939-0","147565-0","147567-0","0-1107","0-1106"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["388939-0","147566-0","147565-0","294907-0","147567-0","294932-0","388938-0","147564-0"],
     "lock":[],
     "place":[],
-    "position":["147564-0","147565-0","147566-0","147567-0","294907-0","294932-0","388938-0","388939-0","0-1107"],
+    "position":["147564-0","147565-0","147566-0","147567-0","294907-0","294932-0","388938-0","388939-0","0-1107","0-1106"],
     "scale":[],
-    "spawn":["0-1107"],
+    "spawn":["0-1107","0-1106"],
     "state":[],
-    "statsDynamic":["147564-0","147565-0","147566-0","147567-0","294907-0","294932-0","388938-0","388939-0","0-1107"],
+    "statsDynamic":["147564-0","147565-0","147566-0","147567-0","294907-0","294932-0","388938-0","388939-0","0-1107","0-1106"],
     "trap":[],
     "spellsActive":[],
     "miscellaneous":[],
@@ -26,31 +26,137 @@
     "creationTime":1717788677
   },
   "lastVisit":{
-    "Benoit":1717790581,
+    "Benoit":1718727906,
     "Fidgug":1717789896
   },
   "recordLinks":[],
   "objectData":{
+    "294984-0":{
+      "refId":"com_sack_02_gold_05",
+      "inventory":[{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "294985-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "294986-0":{
+      "refId":"urn_04_ingred",
+      "inventory":[]
+    },
+    "295119-0":{
+      "refId":"com_chest_11_vault",
+      "inventory":[{
+          "refId":"sparkbolt ring",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel viperbolt ring",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"belt of nimbleness",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"amulet of light",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"exquisite_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"exquisite_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_ruby_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_emerald_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":311,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "388939-0":{
       "refId":"imperial guard_ebonhear",
       "location":{
-        "posX":20380.23046875,
-        "posY":-102578.7578125,
-        "posZ":88.288467407227,
-        "rotX":0.020493308082223,
-        "rotZ":0.085310697555542,
-        "rotY":0
+        "rotY":0,
+        "posX":20158.41796875,
+        "posY":-103090.71875,
+        "posZ":152.26391601563,
+        "rotX":0.062794573605061,
+        "rotZ":1.1195266246796
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueCurrent":297,
         "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
+        "fatigueCurrent":297
       },
       "equipment":{
         "0":{
@@ -197,23 +303,23 @@
     "147566-0":{
       "refId":"fainertil",
       "location":{
-        "posX":17719.45703125,
-        "posY":-102027.1640625,
+        "rotY":0,
+        "posX":17716.1015625,
+        "posY":-102034.7578125,
         "posZ":322.44512939453,
-        "rotX":0.0092909671366215,
-        "rotZ":2.9875862598419,
-        "rotY":0
+        "rotX":-0.017463240772486,
+        "rotZ":2.9053661823273
       },
       "stats":{
         "healthBase":148,
         "healthCurrent":148,
         "magickaBase":210,
+        "magickaCurrent":210,
+        "fatigueBase":265,
         "healthModified":148,
         "magickaModified":210,
-        "fatigueCurrent":265,
         "fatigueModified":265,
-        "magickaCurrent":210,
-        "fatigueBase":265
+        "fatigueCurrent":265
       },
       "equipment":{
         "0":{
@@ -336,23 +442,23 @@
     "147565-0":{
       "refId":"ian",
       "location":{
-        "posX":19144.44921875,
-        "posY":-102353.140625,
-        "posZ":270.72229003906,
-        "rotX":0.46679037809372,
-        "rotZ":2.3137056827545,
-        "rotY":0
+        "rotY":0,
+        "posX":19110.462890625,
+        "posY":-102463.3359375,
+        "posZ":289.89501953125,
+        "rotX":0.55983996391296,
+        "rotZ":0.94601941108704
       },
       "stats":{
         "healthBase":141,
         "healthCurrent":141,
         "magickaBase":80,
+        "magickaCurrent":80,
+        "fatigueBase":279,
         "healthModified":141,
         "magickaModified":80,
-        "fatigueCurrent":279,
         "fatigueModified":279,
-        "magickaCurrent":80,
-        "fatigueBase":279
+        "fatigueCurrent":279
       },
       "equipment":[{
           "refId":"fur_cuirass",
@@ -471,23 +577,23 @@
     "294907-0":{
       "refId":"blatta hateria",
       "location":{
+        "rotY":0,
         "posX":20569.611328125,
         "posY":-101315.15625,
         "posZ":73.785995483398,
         "rotX":0,
-        "rotZ":-2.3561947345734,
-        "rotY":0
+        "rotZ":3.9269909858704
       },
       "stats":{
         "healthBase":101,
         "healthCurrent":101,
         "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":219,
         "healthModified":101,
         "magickaModified":100,
-        "fatigueCurrent":219,
         "fatigueModified":219,
-        "magickaCurrent":100,
-        "fatigueBase":219
+        "fatigueCurrent":219
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -528,23 +634,23 @@
     "147567-0":{
       "refId":"gaeldol",
       "location":{
-        "posX":18016.23046875,
-        "posY":-102224.640625,
+        "rotY":0,
+        "posX":18138.16015625,
+        "posY":-102242.671875,
         "posZ":322.44512939453,
-        "rotX":0.0030293054878712,
-        "rotZ":1.8207428455353,
-        "rotY":0
+        "rotX":0.0034654513001442,
+        "rotZ":-1.5249807834625
       },
       "stats":{
         "healthBase":113,
         "healthCurrent":113,
         "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":249,
         "healthModified":113,
         "magickaModified":100,
-        "fatigueCurrent":249,
         "fatigueModified":249,
-        "magickaCurrent":100,
-        "fatigueBase":249
+        "fatigueCurrent":249
       },
       "equipment":{
         "0":{
@@ -673,23 +779,23 @@
     "294932-0":{
       "refId":"nevosi hlan",
       "location":{
+        "rotY":0,
         "posX":20232.990234375,
         "posY":-103320.1875,
         "posZ":151.16851806641,
         "rotX":0,
-        "rotZ":-0.28539967536926,
-        "rotY":0
+        "rotZ":5.9977855682373
       },
       "stats":{
         "healthBase":63,
         "healthCurrent":63,
         "magickaBase":21,
+        "magickaCurrent":21,
+        "fatigueBase":183,
         "healthModified":63,
         "magickaModified":21,
-        "fatigueCurrent":183,
         "fatigueModified":183,
-        "magickaCurrent":21,
-        "fatigueBase":183
+        "fatigueCurrent":183
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_04",
@@ -736,23 +842,23 @@
     "388938-0":{
       "refId":"imperial guard_ebonhear",
       "location":{
-        "posX":17608.24609375,
-        "posY":-101955.671875,
+        "rotY":0,
+        "posX":17729.455078125,
+        "posY":-102115.390625,
         "posZ":322.44512939453,
-        "rotX":0.0091846622526646,
-        "rotZ":1.4658353328705,
-        "rotY":0
+        "rotX":-0.028972506523132,
+        "rotZ":-0.35737657546997
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueCurrent":297,
         "fatigueModified":297,
-        "magickaCurrent":122,
-        "fatigueBase":297
+        "fatigueCurrent":297
       },
       "equipment":{
         "0":{
@@ -899,23 +1005,23 @@
     "147564-0":{
       "refId":"olfin gro-logrob",
       "location":{
-        "posX":18956.51953125,
-        "posY":-101840.5703125,
+        "rotY":0,
+        "posX":18942.9453125,
+        "posY":-101735.265625,
         "posZ":322.44512939453,
-        "rotX":0.0031668897718191,
-        "rotZ":-3.0673267841339,
-        "rotY":0
+        "rotX":0.0044088512659073,
+        "rotZ":0.044146537780762
       },
       "stats":{
         "healthBase":160,
         "healthCurrent":160,
         "magickaBase":80,
+        "magickaCurrent":80,
+        "fatigueBase":295,
         "healthModified":160,
         "magickaModified":80,
-        "fatigueCurrent":295,
         "fatigueModified":295,
-        "magickaCurrent":80,
-        "fatigueBase":295
+        "fatigueCurrent":295
       },
       "equipment":{
         "0":{
@@ -1038,23 +1144,23 @@
     "0-1107":{
       "refId":"slaughterfish",
       "location":{
-        "posX":23225.06640625,
-        "posY":-103567.484375,
-        "posZ":-67.638122558594,
-        "rotX":-0.008220293559134,
-        "rotZ":-1.1685450077057,
-        "rotY":0
+        "rotY":0,
+        "posX":23416.44921875,
+        "posY":-103505.9140625,
+        "posZ":-68.130004882813,
+        "rotX":0.0002613440155983,
+        "rotZ":2.4185497760773
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueCurrent":399.99108886719,
         "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
+        "fatigueCurrent":399.99108886719
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -1215,6 +1321,35 @@
     "294950-0":{
       "refId":"com_sack_03",
       "inventory":[]
+    },
+    "0-1106":{
+      "refId":"cliff racer",
+      "location":{
+        "rotY":0,
+        "posX":24381.802734375,
+        "posY":-106063.078125,
+        "posZ":446.34884643555,
+        "rotX":0.0086418343707919,
+        "rotZ":0.45599508285522
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "294951-0":{
       "refId":"crate_01_food",
@@ -1523,116 +1658,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "294984-0":{
-      "refId":"com_sack_02_gold_05",
-      "inventory":[{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "294985-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "294986-0":{
-      "refId":"urn_04_ingred",
-      "inventory":[]
-    },
-    "295119-0":{
-      "refId":"com_chest_11_vault",
-      "inventory":[{
-          "refId":"sparkbolt ring",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"cruel viperbolt ring",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"belt of nimbleness",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"amulet of light",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"exquisite_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"exquisite_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_ruby_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_emerald_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":311,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

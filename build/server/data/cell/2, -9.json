@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-1074","0-1075","0-1071","194011-0","0-1073","194012-0","0-1072"],
+    "actorList":["0-1074","0-1075","0-1071","0-1073","194012-0"],
     "ai":[],
     "cellChangeFrom":[],
-    "cellChangeTo":[],
-    "container":["461090-0","461098-0","461100-0","461127-0","461129-0","477058-0","478191-0","478192-0","478193-0","478194-0","478195-0","478197-0","478199-0","194012-0","0-1074","0-1075","0-1071","0-1073","194011-0","0-1072"],
+    "cellChangeTo":["194011-0"],
+    "container":["461090-0","461098-0","461100-0","461127-0","461129-0","477058-0","478191-0","478192-0","478193-0","478194-0","478195-0","478197-0","478199-0","194012-0","0-1074","0-1075","0-1071","0-1073"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["194012-0","0-1071","194011-0","0-1073","0-1074","0-1075","0-1072"],
+    "position":["194012-0","0-1071","0-1073","0-1074","0-1075"],
     "scale":[],
-    "spawn":["0-1074","0-1075","0-1071","0-1073","0-1072"],
+    "spawn":["0-1074","0-1071","0-1073","0-1075"],
     "state":[],
-    "statsDynamic":["194012-0","0-1071","194011-0","0-1073","0-1074","0-1075","0-1072"],
+    "statsDynamic":["194012-0","0-1071","0-1073","0-1074","0-1075"],
     "trap":[],
     "spellsActive":[],
     "miscellaneous":[],
@@ -26,176 +26,31 @@
     "creationTime":1717784987
   },
   "lastVisit":{
-    "Benoit":1717785965,
-    "Fidgug":1717785966
+    "Benoit":1718730813,
+    "Fidgug":1718730814
   },
   "recordLinks":[],
   "objectData":{
-    "0-1074":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":17480.984375,
-        "posY":-67808.3125,
-        "posZ":690.23492431641,
-        "rotX":0.0020821988582611,
-        "rotZ":2.8765285015106,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
-        "fatigueModified":400,
-        "magickaCurrent":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1075":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":24037.869140625,
-        "posY":-72318.4765625,
-        "posZ":242.36352539063,
-        "rotX":-0.081285439431667,
-        "rotZ":-2.4710838794708,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
-        "fatigueModified":400,
-        "magickaCurrent":5
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1071":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":18420.638671875,
-        "posY":-70542.578125,
-        "posZ":54.966533660889,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
-        "fatigueModified":400,
-        "magickaCurrent":5
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "194011-0":{
-      "refId":"netch_betty_ranched",
-      "location":{
-        "posX":24317.505859375,
-        "posY":-66054.6640625,
-        "posZ":1043.6711425781,
-        "rotX":0,
-        "rotZ":-2.7850019931793,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":113,
-        "healthCurrent":113,
-        "magickaBase":75,
-        "healthModified":113,
-        "magickaModified":75,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
-        "fatigueModified":400,
-        "magickaCurrent":75
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1073":{
-      "refId":"scrib diseased",
-      "location":{
-        "posX":20296.0859375,
-        "posY":-71546.390625,
-        "posZ":862.38122558594,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueCurrent":79,
-        "fatigueBase":79,
-        "fatigueModified":79,
-        "magickaCurrent":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "194012-0":{
       "refId":"netch_betty_ranched",
       "location":{
-        "posX":20766.2890625,
-        "posY":-67843.75,
+        "rotY":0,
+        "posX":20850.5390625,
+        "posY":-68369.3984375,
         "posZ":754.81927490234,
         "rotX":0,
-        "rotZ":-2.567586183548,
-        "rotY":0
+        "rotZ":2.6341269016266
       },
       "stats":{
         "healthBase":113,
         "healthCurrent":113,
         "magickaBase":75,
+        "magickaCurrent":75,
+        "fatigueBase":400,
         "healthModified":113,
         "magickaModified":75,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
         "fatigueModified":400,
-        "magickaCurrent":75
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -257,6 +112,26 @@
           "soul":""
         }]
     },
+    "478192-0":{
+      "refId":"flora_comberry_01",
+      "inventory":[{
+          "refId":"ingred_comberry_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478193-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[{
+          "refId":"ingred_gold_kanet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "478194-0":{
       "refId":"flora_gold_kanet_01",
       "inventory":[{
@@ -291,50 +166,120 @@
           "soul":""
         }]
     },
-    "0-1072":{
-      "refId":"dreugh",
+    "0-1074":{
+      "refId":"netch_bull",
       "location":{
-        "posX":16891.265625,
-        "posY":-73727.7734375,
-        "posZ":-223.58020019531,
-        "rotX":0.0014485297724605,
-        "rotZ":-0.87999606132507,
-        "rotY":0
+        "rotY":0,
+        "posX":18345.703125,
+        "posY":-66623.265625,
+        "posZ":689.93658447266,
+        "rotX":-0.0018603941425681,
+        "rotZ":0.48961782455444
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "healthModified":60,
-        "magickaModified":75,
-        "fatigueCurrent":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "healthModified":45,
+        "magickaModified":100,
         "fatigueModified":400,
-        "magickaCurrent":75,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
+          "refId":"ingred_netch_leather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1075":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":23907.4375,
+        "posY":-72790.0546875,
+        "posZ":257,
+        "rotX":-0.029433198273182,
+        "rotZ":3.0045735836029
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "478193-0":{
-      "refId":"flora_gold_kanet_02",
+    "0-1071":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":18420.638671875,
+        "posY":-70542.578125,
+        "posZ":54.966533660889,
+        "rotX":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
       "inventory":[{
-          "refId":"ingred_gold_kanet_01",
+          "refId":"ingred_crab_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "478192-0":{
-      "refId":"flora_comberry_01",
+    "194011-0":{
+      "cellChangeTo":"3, -9"
+    },
+    "0-1073":{
+      "refId":"scrib diseased",
+      "location":{
+        "rotY":0,
+        "posX":20321.345703125,
+        "posY":-71643.890625,
+        "posZ":857.74438476563,
+        "rotX":-0.1161220446229,
+        "rotZ":2.9037230014801
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "fatigueBase":79,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":79,
+        "fatigueCurrent":79
+      },
       "inventory":[{
-          "refId":"ingred_comberry_01",
-          "count":1,
+          "refId":"ingred_scrib_jelly_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -342,7 +287,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

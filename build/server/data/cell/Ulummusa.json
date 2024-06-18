@@ -1,66 +1,278 @@
 {
   "packets":{
-    "actorList":["269133-0","0-65"],
+    "actorList":["269133-0","0-65","0-1293","0-1295"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["50391-0","298329-0","377421-0","377422-0","269133-0","269132-0","0-65"],
-    "death":["269133-0"],
-    "delete":["269132-0"],
+    "container":["50391-0","298329-0","377421-0","377422-0","269133-0","269132-0","0-65","0-1293","0-1295"],
+    "death":["269133-0","0-65","0-1293","0-1295"],
+    "delete":["269132-0","50379-0","50385-0","50383-0","50384-0"],
     "doorState":[],
-    "equipment":["269133-0","0-65"],
-    "lock":[],
-    "place":[],
-    "position":["269133-0","269132-0","0-65"],
+    "equipment":["269133-0","0-65","0-1293","0-1295"],
+    "lock":["50391-0"],
+    "place":["0-1296","0-1297","0-1298","0-1299","0-1300","0-1301","0-1302","0-1303","0-1304"],
+    "position":["269133-0","269132-0","0-65","0-1293","0-1295"],
     "scale":[],
-    "spawn":["0-65"],
+    "spawn":["0-65","0-1293","0-1295"],
     "state":[],
-    "statsDynamic":["269133-0","269132-0","0-65"],
+    "statsDynamic":["269133-0","269132-0","0-65","0-1293","0-1295"],
     "trap":[],
-    "miscellaneous":[],
-    "spellsActive":["269133-0"],
-    "clientScriptLocal":[]
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1714758430,
     "description":"Ulummusa"
   },
   "lastVisit":{
-    "Benoit":1714758716,
-    "Fidgug":1714758716
+    "Benoit":1718735996,
+    "Fidgug":1718735995
   },
   "recordLinks":[],
   "objectData":{
-    "50391-0":{
-      "refId":"com_chest_11_k01",
+    "0-1302":{
+      "refId":"iron spider dagger",
+      "charge":495,
+      "enchantmentCharge":25.634628295898,
+      "location":{
+        "posX":-3507.0812988281,
+        "posY":-749.30438232422,
+        "posZ":389.76593017578,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "377421-0":{
+      "refId":"crate_bandit_01",
       "inventory":[{
-          "refId":"p_restore_speed_q",
+          "refId":"netch_leather_pauldron_left",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
+    "377422-0":{
+      "refId":"crate_bandit_01",
+      "inventory":[{
+          "refId":"p_drain_luck_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"netch_leather_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "269132-0":{
+      "refId":"terenu uveran",
+      "location":{
+        "posX":-3684.3225097656,
+        "posY":-686.26489257813,
+        "posZ":393.01065063477,
+        "rotY":0,
+        "rotZ":-3.0069720745087,
+        "rotX":-0.0073079336434603
+      },
+      "stats":{
+        "healthBase":61,
+        "healthCurrent":0,
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueBase":180,
+        "fatigueCurrent":174.15042114258,
+        "fatigueModified":180,
+        "healthModified":61,
+        "magickaModified":92
+      },
+      "inventory":[]
+    },
+    "0-1304":{
+      "refId":"iron spider dagger",
+      "charge":496,
+      "enchantmentCharge":40,
+      "location":{
+        "posX":-3514.9035644531,
+        "posY":-732.88214111328,
+        "posZ":388.24395751953,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "0-1299":{
+      "refId":"iron spider dagger",
+      "charge":475,
+      "enchantmentCharge":40,
+      "location":{
+        "posX":-3513.814453125,
+        "posY":-752.80364990234,
+        "posZ":390.1897277832,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "0-1301":{
+      "refId":"iron spider dagger",
+      "charge":497,
+      "enchantmentCharge":33.463443756104,
+      "location":{
+        "posX":-3509.3330078125,
+        "posY":-741.5966796875,
+        "posZ":389.12112426758,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "50383-0":{
+      "refId":"gold_001"
+    },
+    "0-1295":{
+      "refId":"db_assassin1",
+      "location":{
+        "posX":-3636.0432128906,
+        "posY":-929.01959228516,
+        "posZ":427.02648925781,
+        "rotX":0.14303687214851,
+        "rotZ":0.66135621070862,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaBase":106,
+        "healthModified":50,
+        "magickaModified":106,
+        "fatigueCurrent":164,
+        "fatigueModified":164,
+        "magickaCurrent":106,
+        "fatigueBase":164
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":42
+    },
+    "0-1298":{
+      "refId":"arrow of wasting spark",
+      "count":45,
+      "location":{
+        "posX":-3515.2866210938,
+        "posY":-696.42535400391,
+        "posZ":387.45635986328,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "0-1293":{
+      "refId":"db_assassin1",
+      "location":{
+        "posX":-3550.7646484375,
+        "posY":-885.86663818359,
+        "posZ":436.04010009766,
+        "rotX":0.024940356612206,
+        "rotZ":1.1255962848663,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaBase":106,
+        "healthModified":50,
+        "magickaModified":106,
+        "fatigueCurrent":163.29754638672,
+        "fatigueModified":164,
+        "magickaCurrent":106,
+        "fatigueBase":164
+      },
+      "equipment":{
+        "16":{
+          "refId":"iron spider dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":40
+    },
+    "0-1303":{
+      "refId":"iron spider dagger",
+      "charge":496,
+      "enchantmentCharge":40,
+      "location":{
+        "posX":-3505.623046875,
+        "posY":-753.08612060547,
+        "posZ":389.80136108398,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "0-1296":{
+      "refId":"dwarven warhammer",
+      "charge":4939,
+      "location":{
+        "posX":-3500.650390625,
+        "posY":-757.83459472656,
+        "posZ":395.98080444336,
+        "rotX":0,
+        "rotZ":-2.934689283371,
+        "rotY":0
+      }
+    },
     "269133-0":{
       "refId":"godrod hairy-breeks",
       "location":{
-        "rotY":0,
-        "posX":-1001.1504516602,
+        "posX":-1001.1505126953,
         "posY":838.56756591797,
-        "posZ":-369.98867797852,
-        "rotX":-0.37001612782478,
-        "rotZ":-1.7510826587677
+        "posZ":-369.97555541992,
+        "rotX":0,
+        "rotZ":-1.7831833362579,
+        "rotY":0
       },
       "stats":{
         "healthBase":151,
         "healthCurrent":0,
         "magickaBase":78,
-        "magickaCurrent":63,
-        "fatigueBase":266,
-        "fatigueCurrent":266,
         "healthModified":151,
         "magickaModified":78,
-        "fatigueModified":266
+        "fatigueCurrent":266,
+        "fatigueModified":266,
+        "magickaCurrent":63,
+        "fatigueBase":266
       },
       "equipment":{
         "1":{
@@ -107,272 +319,88 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "spellsActive":{
-        "troll's blood":[{
-            "effects":[{
-                "timeLeft":10,
-                "magnitude":1,
-                "id":75,
-                "duration":10,
-                "arg":-1
-              }],
-            "stackingState":false,
-            "caster":{
-              "refId":"godrod hairy-breeks",
-              "uniqueIndex":"269133-0"
-            },
-            "displayName":"Troll's Blood",
-            "startTime":1714758608
-          }]
-      },
       "killer":{
         "playerName":"Fidgug"
       },
+      "spellsActive":{
+      },
       "deathState":41
     },
-    "298329-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "377421-0":{
-      "refId":"crate_bandit_01",
-      "inventory":[{
-          "refId":"potion_t_bug_musk_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_fphyggisgemfeeder",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_ondusisunhinging",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "377422-0":{
-      "refId":"crate_bandit_01",
-      "inventory":[{
-          "refId":"p_drain_luck_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"netch_leather_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "50379-0":{
+      "refId":"gold_005"
     },
     "0-65":{
       "refId":"db_assassin1b",
       "location":{
-        "rotY":0,
-        "posX":-3242.9001464844,
-        "posY":-816.22521972656,
-        "posZ":364.62719726563,
-        "rotX":0.015447142533958,
-        "rotZ":-1.50461602211
+        "posX":-3445.6733398438,
+        "posY":-759.37908935547,
+        "posZ":390.64529418945,
+        "rotX":0.019683752208948,
+        "rotZ":1.5642902851105,
+        "rotY":0
       },
       "stats":{
         "healthBase":40,
-        "healthCurrent":39,
+        "healthCurrent":0,
         "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":150,
-        "fatigueCurrent":135.96383666992,
         "healthModified":40,
         "magickaModified":100,
-        "fatigueModified":150
+        "fatigueCurrent":139.94728088379,
+        "fatigueModified":150,
+        "magickaCurrent":100,
+        "fatigueBase":150
       },
-      "equipment":{
-        "0":{
-          "refId":"darkbrotherhood helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"darkbrotherhood cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"darkbrotherhood greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"darkbrotherhood pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"darkbrotherhood pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"darkbrotherhood gauntlet_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"darkbrotherhood gauntlet_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"darkbrotherhood boots",
-          "count":1,
-          "charge":199,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"ebony dart_db_unique",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
       },
-      "inventory":[{
-          "refId":"darkbrotherhood gauntlet_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood gauntlet_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"darkbrotherhood helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ebony dart_db_unique",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"silver dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "spellsActive":[],
+      "deathState":39
     },
-    "269132-0":{
-      "refId":"terenu uveran",
+    "0-1300":{
+      "refId":"iron spider dagger",
+      "charge":468,
+      "enchantmentCharge":40,
       "location":{
-        "posX":-3684.3225097656,
-        "rotY":0,
-        "posY":-686.26489257813,
-        "posZ":393.01065063477,
-        "rotX":-0.0073079336434603,
-        "rotZ":-3.0069720745087
-      },
-      "stats":{
-        "healthBase":61,
-        "healthCurrent":0,
-        "magickaBase":92,
-        "magickaCurrent":92,
-        "fatigueBase":180,
-        "fatigueCurrent":174.15042114258,
-        "healthModified":61,
-        "magickaModified":92,
-        "fatigueModified":180
-      },
+        "posX":-3502.4523925781,
+        "posY":-745.68463134766,
+        "posZ":389.28958129883,
+        "rotX":0,
+        "rotZ":0.41296696662903,
+        "rotY":0
+      }
+    },
+    "50385-0":{
+      "refId":"gold_001"
+    },
+    "50384-0":{
+      "refId":"gold_001"
+    },
+    "0-1297":{
+      "refId":"silver dagger",
+      "charge":398,
+      "location":{
+        "posX":-3506.5498046875,
+        "posY":-764.73999023438,
+        "posZ":390.16522216797,
+        "rotX":0,
+        "rotZ":-2.934689283371,
+        "rotY":0
+      }
+    },
+    "50391-0":{
+      "refId":"com_chest_11_k01",
+      "inventory":[],
+      "lockLevel":0
+    },
+    "298329-0":{
+      "refId":"com_sack_02_chpfood3",
       "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

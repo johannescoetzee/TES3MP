@@ -17,17 +17,17 @@
     "state":[],
     "statsDynamic":["0-473","261835-0","261833-0","261832-0","261836-0","0-474"],
     "trap":[],
-    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":["261836-0","261832-0"]
+    "miscellaneous":["261836-0","261832-0"],
+    "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1715977769,
-    "description":"-3, 7"
+    "description":"-3, 7",
+    "creationTime":1715977769
   },
   "lastVisit":{
-    "Fidgug":1717189943,
-    "Benoit":1717189941
+    "Benoit":1717189941,
+    "Fidgug":1718733551
   },
   "recordLinks":[],
   "objectData":{
@@ -38,23 +38,23 @@
     "0-473":{
       "refId":"rat_diseased",
       "location":{
-        "posX":-21876.529296875,
-        "posY":60304.45703125,
-        "posZ":2132.0244140625,
-        "rotX":0.26000511646271,
-        "rotZ":2.8116896152496,
-        "rotY":0
+        "rotY":0,
+        "posX":-21322.23828125,
+        "posY":59937.046875,
+        "posZ":1967.8137207031,
+        "rotX":0.17940117418766,
+        "rotZ":2.1522476673126
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":120,
-        "fatigueCurrent":120,
-        "fatigueModified":120,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":113,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":113,
+        "fatigueCurrent":113
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -67,77 +67,77 @@
     "261835-0":{
       "refId":"nix-hound",
       "location":{
+        "rotY":0,
         "posX":-23144.515625,
         "posY":58555.875,
         "posZ":1958.029296875,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":398.63195800781,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":398.63195800781
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
     },
     "261833-0":{
       "refId":"nix-hound",
       "location":{
+        "rotY":0,
         "posX":-23529.97265625,
         "posY":58127.265625,
         "posZ":1523.3485107422,
         "rotX":0,
-        "rotZ":3.8831877708435,
-        "rotY":0
+        "rotZ":3.8831877708435
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":397.7873840332,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":397.7873840332
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
     },
     "261836-0":{
       "refId":"drerel indaren",
       "location":{
+        "rotY":0,
         "posX":-20751.71875,
         "posY":57423.41015625,
         "posZ":1435.1379394531,
         "rotX":0,
-        "rotZ":0.80000007152557,
-        "rotY":0
+        "rotZ":0.80000007152557
       },
       "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":195,
-        "fatigueCurrent":195,
-        "fatigueModified":195,
-        "magickaBase":94,
-        "healthModified":35,
         "healthBase":35,
         "healthCurrent":35,
-        "magickaModified":94
+        "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueBase":195,
+        "healthModified":35,
+        "magickaModified":94,
+        "fatigueModified":195,
+        "fatigueCurrent":195
       },
       "cellChangeFrom":"-4, 7",
       "equipment":{
@@ -197,30 +197,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "goldPool":0,
       "lastGoldRestockHour":17.902391433716,
-      "lastGoldRestockDay":15,
-      "goldPool":0
+      "lastGoldRestockDay":15
     },
     "261832-0":{
       "refId":"falanu indaren",
       "location":{
-        "posX":-18870.833984375,
-        "posY":57750.66015625,
-        "posZ":2597.7556152344,
-        "rotX":-0.3764785528183,
-        "rotZ":-0.088337182998657,
-        "rotY":0
+        "rotY":0,
+        "posX":-19023.640625,
+        "posY":57591.8671875,
+        "posZ":2492.0187988281,
+        "rotX":0.43321111798286,
+        "rotZ":-3.1171000003815
       },
       "stats":{
-        "magickaCurrent":88,
-        "fatigueBase":166,
-        "fatigueCurrent":166,
-        "fatigueModified":166,
-        "magickaBase":88,
-        "healthModified":63,
         "healthBase":63,
         "healthCurrent":63,
-        "magickaModified":88
+        "magickaBase":88,
+        "magickaCurrent":88,
+        "fatigueBase":166,
+        "healthModified":63,
+        "magickaModified":88,
+        "fatigueModified":166,
+        "fatigueCurrent":166
       },
       "equipment":{
         "7":{
@@ -279,30 +279,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
       "lastGoldRestockHour":17.067415237427,
-      "lastGoldRestockDay":15
+      "lastGoldRestockDay":15,
+      "goldPool":0
     },
     "0-474":{
       "refId":"cliff racer_diseased",
       "location":{
-        "posX":-24384.5234375,
-        "posY":64108.7890625,
+        "rotY":0,
+        "posX":-24382.078125,
+        "posY":64117.22265625,
         "posZ":3407.8046875,
         "rotX":1.409649848938e-05,
-        "rotZ":-2.8632338047028,
-        "rotY":0
+        "rotZ":-2.8632338047028
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "fatigueModified":170,
-        "magickaBase":20,
-        "healthModified":45,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":170,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":170,
+        "fatigueCurrent":170
       },
       "inventory":[]
     },

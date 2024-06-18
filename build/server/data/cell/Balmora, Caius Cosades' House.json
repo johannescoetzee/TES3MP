@@ -26,11 +26,21 @@
     "description":"Balmora, Caius Cosades' House"
   },
   "lastVisit":{
-    "Benoit":1714761835,
-    "Fidgug":1714761835
+    "Benoit":1718737280,
+    "Fidgug":1718737279
   },
   "recordLinks":[],
   "objectData":{
+    "57340-0":{
+      "refId":"com_sack_01_saltrice_5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "57341-0":{
       "refId":"com_sack_01_moon sugar5",
       "inventory":[{
@@ -40,6 +50,76 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "67647-0":{
+      "refId":"caius cosades",
+      "location":{
+        "posX":-8.6750202178955,
+        "posY":-210.24594116211,
+        "posZ":70,
+        "rotX":0,
+        "rotZ":0.60000109672546,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":201,
+        "healthCurrent":201,
+        "magickaBase":118,
+        "healthModified":201,
+        "magickaModified":118,
+        "fatigueCurrent":310,
+        "fatigueModified":310,
+        "magickaCurrent":118,
+        "fatigueBase":310
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_moon_sugar_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":17.352548599243,
+      "lastGoldRestockDay":29,
+      "goldPool":0
     },
     "459570-0":{
       "refId":"chest_small_02_rndgold",
@@ -96,90 +176,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "67647-0":{
-      "refId":"caius cosades",
-      "location":{
-        "rotY":0,
-        "posX":-34.646575927734,
-        "posY":-193.83053588867,
-        "posZ":70,
-        "rotX":0,
-        "rotZ":1.8000004291534
-      },
-      "stats":{
-        "healthBase":201,
-        "healthCurrent":201,
-        "magickaBase":118,
-        "magickaCurrent":118,
-        "fatigueBase":310,
-        "fatigueCurrent":310,
-        "healthModified":201,
-        "magickaModified":118,
-        "fatigueModified":310
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_moon_sugar_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":3,
-      "goldPool":0,
-      "lastGoldRestockHour":14.97039604187
-    },
-    "57340-0":{
-      "refId":"com_sack_01_saltrice_5",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

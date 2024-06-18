@@ -26,152 +26,31 @@
     "creationTime":1717787465
   },
   "lastVisit":{
-    "Benoit":1717790727,
-    "Fidgug":1717790723
+    "Benoit":1718727464,
+    "Fidgug":1718727465
   },
   "recordLinks":[],
   "objectData":{
-    "287899-0":{
-      "refId":"farmin",
-      "location":{
-        "posX":4153.2368164063,
-        "posY":4588.248046875,
-        "posZ":18049,
-        "rotX":0.016046298667789,
-        "rotZ":-1.216756105423,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":120,
-        "healthCurrent":120,
-        "magickaBase":72,
-        "healthModified":120,
-        "magickaModified":72,
-        "fatigueCurrent":246,
-        "fatigueModified":246,
-        "magickaCurrent":72,
-        "fatigueBase":246
-      },
-      "equipment":[{
-          "refId":"steel_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"steel_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"steel_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"steel_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,{
-          "refId":"steel_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,null,null,null,null,{
-          "refId":"steel longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"steel_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":24,
-      "lastGoldRestockHour":16.787021636963,
-      "goldPool":0
-    },
     "287900-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":4053.5959472656,
-        "posY":3356.2482910156,
+        "rotY":0,
+        "posX":4310.2041015625,
+        "posY":4304.2182617188,
         "posZ":18049,
-        "rotX":0.017779067158699,
-        "rotZ":-1.5242574214935,
-        "rotY":0
+        "rotX":0.016435718163848,
+        "rotZ":0.72166752815247
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -318,23 +197,23 @@
     "287901-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":3527.2153320313,
-        "posY":4383.056640625,
+        "rotY":0,
+        "posX":3527.248046875,
+        "posY":4383.0815429688,
         "posZ":18049,
-        "rotX":0.01013567019254,
-        "rotZ":2.7758686542511,
-        "rotY":0
+        "rotX":0,
+        "rotZ":4.783185005188
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -481,23 +360,23 @@
     "287902-0":{
       "refId":"alvura othrenim",
       "location":{
-        "posX":3455.5827636719,
-        "posY":4100.5126953125,
+        "rotY":0,
+        "posX":3441.4577636719,
+        "posY":4134.1591796875,
         "posZ":18049,
-        "rotX":0.014838273636997,
-        "rotZ":-1.6416966915131,
-        "rotY":0
+        "rotX":0.014591417275369,
+        "rotZ":3.0170876979828
       },
       "stats":{
         "healthBase":46,
         "healthCurrent":46,
         "magickaBase":82,
+        "magickaCurrent":82,
+        "fatigueBase":154,
         "healthModified":46,
         "magickaModified":82,
-        "fatigueCurrent":154,
         "fatigueModified":154,
-        "magickaCurrent":82,
-        "fatigueBase":154
+        "fatigueCurrent":154
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -540,13 +419,134 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockHour":2.3581607341766,
+      "lastGoldRestockDay":26,
+      "goldPool":0
+    },
+    "287899-0":{
+      "refId":"farmin",
+      "location":{
+        "rotY":0,
+        "posX":4189.919921875,
+        "posY":4597.6889648438,
+        "posZ":18049,
+        "rotX":0.018469976261258,
+        "rotZ":-1.4700834751129
+      },
+      "stats":{
+        "healthBase":120,
+        "healthCurrent":120,
+        "magickaBase":72,
+        "magickaCurrent":72,
+        "fatigueBase":246,
+        "healthModified":120,
+        "magickaModified":72,
+        "fatigueModified":246,
+        "fatigueCurrent":246
+      },
+      "equipment":[{
+          "refId":"steel_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,{
+          "refId":"steel_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,null,{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"steel_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":16.787021636963,
       "lastGoldRestockDay":24,
-      "lastGoldRestockHour":15.716704368591,
       "goldPool":0
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

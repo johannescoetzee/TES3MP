@@ -1,137 +1,56 @@
 {
   "packets":{
-    "actorList":["0-111","0-112","0-110","0-118"],
+    "actorList":["0-111","0-112","0-110","0-118","0-100"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["253016-0","253021-0","253028-0","253029-0","253032-0","253034-0","253035-0","253036-0","253087-0","253088-0","253089-0","253134-0","253135-0","253136-0","253207-0","253208-0","253209-0","253283-0","253284-0","253285-0","253293-0","253294-0","253304-0","253305-0","253306-0","253328-0","253342-0","253344-0","253345-0","0-111","0-112","0-118","0-110"],
+    "container":["253016-0","253021-0","253028-0","253029-0","253032-0","253034-0","253035-0","253036-0","253087-0","253088-0","253089-0","253134-0","253135-0","253136-0","253207-0","253208-0","253209-0","253283-0","253284-0","253285-0","253293-0","253294-0","253304-0","253305-0","253306-0","253328-0","253342-0","253344-0","253345-0","0-111","0-112","0-118","0-110","0-100"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-110","0-111","0-112","0-118"],
+    "position":["0-110","0-111","0-112","0-118","0-100"],
     "scale":[],
-    "spawn":["0-111","0-112","0-110","0-118"],
+    "spawn":["0-111","0-112","0-110","0-118","0-100"],
     "state":[],
-    "statsDynamic":["0-110","0-111","0-112","0-118"],
+    "statsDynamic":["0-110","0-111","0-112","0-118","0-100"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1714762012,
     "description":"-5, -3"
   },
   "lastVisit":{
-    "Benoit":1715975165,
-    "Fidgug":1715975165
+    "Benoit":1718737078,
+    "Fidgug":1718732461
   },
   "recordLinks":[],
   "objectData":{
-    "0-111":{
-      "refId":"scrib",
+    "0-100":{
+      "refId":"cliff racer",
       "location":{
-        "posX":-34775.7265625,
-        "posY":-22448.98828125,
-        "posZ":468.59600830078,
-        "rotX":-0.0014898832887411,
-        "rotZ":-0.56606268882751,
+        "posX":-32818.83203125,
+        "posY":-17199.40625,
+        "posZ":750.97253417969,
+        "rotX":3.6111101508141e-05,
+        "rotZ":-1.7056705951691,
         "rotY":0
       },
       "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-112":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-39991.6171875,
-        "posY":-20020.375,
-        "posZ":121.37216949463,
-        "rotX":0.31764569878578,
-        "rotZ":-1.5534393787384,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-110":{
-      "refId":"scrib",
-      "location":{
-        "posX":-39762.6953125,
-        "posY":-23017.953125,
-        "posZ":448.43264770508,
-        "rotX":-0.14226913452148,
-        "rotZ":0.91919827461243,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[]
-    },
-    "0-118":{
-      "refId":"scrib",
-      "location":{
-        "posX":-36548.234375,
-        "posY":-22876.96484375,
-        "posZ":361.20324707031,
-        "rotX":0.0084602599963546,
-        "rotZ":-0.96833491325378,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "fatigueBase":400
       },
       "inventory":[]
     },
@@ -149,19 +68,19 @@
           "soul":""
         }]
     },
-    "253135-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[]
-    },
-    "253136-0":{
-      "refId":"flora_bc_podplant_01",
+    "253028-0":{
+      "refId":"flora_bc_podplant_03",
       "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
+          "refId":"ingred_bc_coda_flower",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "253029-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
     },
     "253032-0":{
       "refId":"flora_bc_mushroom_07",
@@ -243,6 +162,100 @@
           "soul":""
         }]
     },
+    "253135-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
+    },
+    "253136-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253207-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253208-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253209-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253283-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253284-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253285-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253293-0":{
+      "refId":"flora_bc_shelffungus_03",
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "253294-0":{
+      "refId":"flora_bc_shelffungus_04",
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "253304-0":{
       "refId":"flora_bc_mushroom_05",
       "inventory":[{
@@ -307,99 +320,109 @@
           "soul":""
         }]
     },
-    "253207-0":{
-      "refId":"flora_bc_podplant_03",
+    "0-111":{
+      "refId":"scrib",
+      "location":{
+        "posX":-34775.7265625,
+        "posY":-22448.98828125,
+        "posZ":468.59600830078,
+        "rotX":-0.0014898832887411,
+        "rotZ":-0.56606268882751,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "fatigueBase":300
+      },
       "inventory":[{
-          "refId":"ingred_bc_coda_flower",
+          "refId":"ingred_scrib_jelly_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "253294-0":{
-      "refId":"flora_bc_shelffungus_04",
+    "0-112":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-39991.6171875,
+        "posY":-20020.375,
+        "posZ":121.37216186523,
+        "rotX":0.31764569878578,
+        "rotZ":-1.5534393787384,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
+      },
       "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
+          "refId":"ingred_kwama_cuttle_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "253293-0":{
-      "refId":"flora_bc_shelffungus_03",
-      "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253285-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253284-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253283-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253209-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253208-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "253029-0":{
-      "refId":"flora_bc_podplant_01",
+    "0-110":{
+      "refId":"scrib",
+      "location":{
+        "posX":-39762.6953125,
+        "posY":-23017.953125,
+        "posZ":448.4326171875,
+        "rotX":-0.14226913452148,
+        "rotZ":0.91919827461243,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "fatigueBase":300
+      },
       "inventory":[]
     },
-    "253028-0":{
-      "refId":"flora_bc_podplant_03",
-      "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "0-118":{
+      "refId":"scrib",
+      "location":{
+        "posX":-36548.234375,
+        "posY":-22876.96484375,
+        "posZ":361.20318603516,
+        "rotX":0.0084602599963546,
+        "rotZ":-0.96833491325378,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "fatigueBase":300
+      },
+      "inventory":[]
     }
   },
   "loadState":{

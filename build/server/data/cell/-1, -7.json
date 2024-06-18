@@ -1,79 +1,37 @@
 {
   "packets":{
-    "actorList":["6608-0"],
+    "actorList":["6608-0","0-1292"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["3736-0","3737-0","3738-0","3739-0","3791-0","3792-0","3811-0","76606-0","76611-0","76612-0","76613-0","76614-0","146718-0","146720-0","477306-0","477326-0","477327-0","6608-0"],
-    "death":[],
+    "container":["3736-0","3737-0","3738-0","3739-0","3791-0","3792-0","3811-0","76606-0","76611-0","76612-0","76613-0","76614-0","146718-0","146720-0","477306-0","477326-0","477327-0","6608-0","0-1292"],
+    "death":["0-1292"],
     "delete":[],
     "doorState":[],
-    "equipment":["6608-0"],
+    "equipment":["6608-0","0-1292"],
     "lock":[],
     "place":[],
-    "position":["6608-0"],
+    "position":["6608-0","0-1292"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-1292"],
     "state":[],
-    "statsDynamic":["6608-0"],
+    "statsDynamic":["6608-0","0-1292"],
     "trap":[],
-    "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713905672,
     "description":"-1, -7"
   },
   "lastVisit":{
-    "Benoit":1714759025,
-    "Fidgug":1714759024
+    "Benoit":1718736047,
+    "Fidgug":1718736047
   },
   "recordLinks":[],
   "objectData":{
-    "76612-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "76613-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "76614-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "146718-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "146720-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "477306-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[]
-    },
-    "477326-0":{
+    "3736-0":{
       "refId":"flora_corkbulb",
       "inventory":[{
           "refId":"ingred_corkbulb_root_01",
@@ -83,30 +41,54 @@
           "soul":""
         }]
     },
-    "477327-0":{
-      "refId":"flora_comberry_01",
-      "inventory":[]
+    "0-1292":{
+      "refId":"db_assassin1",
+      "location":{
+        "posX":-4740.9926757813,
+        "posY":-52528.3828125,
+        "posZ":793.26916503906,
+        "rotX":0.084563672542572,
+        "rotZ":-1.9497535228729,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaBase":106,
+        "healthModified":50,
+        "magickaModified":106,
+        "fatigueCurrent":154.03955078125,
+        "fatigueModified":164,
+        "magickaCurrent":106,
+        "fatigueBase":164
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":42
     },
     "6608-0":{
       "refId":"junal_lei",
       "location":{
-        "rotY":0,
-        "posX":-850.27026367188,
-        "posY":-53824.49609375,
-        "posZ":584.36566162109,
-        "rotX":0.17009960114956,
-        "rotZ":1.6858794689178
+        "posX":-682.3974609375,
+        "posY":-53743.44140625,
+        "posZ":547.44067382813,
+        "rotX":0.27392071485519,
+        "rotZ":0.1376748085022,
+        "rotY":0
       },
       "stats":{
         "healthBase":97,
         "healthCurrent":97,
         "magickaBase":94,
-        "magickaCurrent":94,
-        "fatigueBase":228,
-        "fatigueCurrent":228,
         "healthModified":97,
         "magickaModified":94,
-        "fatigueModified":228
+        "fatigueCurrent":228,
+        "fatigueModified":228,
+        "magickaCurrent":94,
+        "fatigueBase":228
       },
       "equipment":[null,null,null,null,null,null,null,{
           "refId":"common_shirt_01",
@@ -133,35 +115,11 @@
           "soul":""
         }]
     },
-    "3736-0":{
-      "refId":"flora_corkbulb",
+    "76614-0":{
+      "refId":"flora_heather_01",
       "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "3737-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "3738-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[]
-    },
-    "3739-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
+          "refId":"ingred_heather_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -216,10 +174,80 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "76612-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "76613-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "3737-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "3738-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    },
+    "146718-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "146720-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "477306-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    },
+    "477326-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477327-0":{
+      "refId":"flora_comberry_01",
+      "inventory":[]
+    },
+    "3739-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

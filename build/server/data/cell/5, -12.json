@@ -1,6 +1,6 @@
 {
   "packets":{
-    "actorList":["0-1097","0-1095","0-1096"],
+    "actorList":["0-1095","0-1096","0-1097"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
@@ -13,7 +13,7 @@
     "place":[],
     "position":["0-1095","0-1096","0-1097"],
     "scale":[],
-    "spawn":["0-1097","0-1095","0-1096"],
+    "spawn":["0-1095","0-1096","0-1097"],
     "state":[],
     "statsDynamic":["0-1095","0-1096","0-1097"],
     "trap":[],
@@ -26,73 +26,11 @@
     "creationTime":1717787461
   },
   "lastVisit":{
-    "Benoit":1717790717,
-    "Fidgug":1717790703
+    "Benoit":1718727683,
+    "Fidgug":1718727673
   },
   "recordLinks":[],
   "objectData":{
-    "0-1095":{
-      "refId":"mudcrab-diseased",
-      "location":{
-        "posX":42810.2109375,
-        "posY":-91913.8125,
-        "posZ":66.198165893555,
-        "rotX":-0.17901758849621,
-        "rotZ":2.0884001255035,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":28,
-        "fatigueModified":28,
-        "magickaCurrent":5,
-        "fatigueBase":28
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1096":{
-      "refId":"mudcrab-diseased",
-      "location":{
-        "posX":42689.74609375,
-        "posY":-92720.375,
-        "posZ":115.05305480957,
-        "rotX":0.030102383345366,
-        "rotZ":3.0678646564484,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":25,
-        "fatigueModified":25,
-        "magickaCurrent":5,
-        "fatigueBase":25
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "458799-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
     "458807-0":{
       "refId":"kollop_03_pearl",
       "inventory":[{
@@ -172,23 +110,23 @@
     "0-1097":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":48953.2890625,
-        "posY":-96891.609375,
-        "posZ":-483.97836303711,
-        "rotX":0,
-        "rotZ":2.3646242618561,
-        "rotY":0
+        "rotY":0,
+        "posX":48965.0546875,
+        "posY":-96663.6171875,
+        "posZ":-484.03912353516,
+        "rotX":0.0012009404599667,
+        "rotZ":-2.3711884021759
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
         "healthModified":15,
         "magickaModified":10,
-        "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":10,
-        "fatigueBase":300
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -197,10 +135,72 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1095":{
+      "refId":"mudcrab-diseased",
+      "location":{
+        "rotY":0,
+        "posX":43762.94140625,
+        "posY":-92115.5703125,
+        "posZ":570.90734863281,
+        "rotX":0.44261121749878,
+        "rotZ":0.89184165000916
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":28,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":28,
+        "fatigueCurrent":28
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1096":{
+      "refId":"mudcrab-diseased",
+      "location":{
+        "rotY":0,
+        "posX":42900.1953125,
+        "posY":-92189.46875,
+        "posZ":114.25708007813,
+        "rotX":0.32890456914902,
+        "rotZ":0.045395374298096
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":25,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":25,
+        "fatigueCurrent":25
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "458799-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

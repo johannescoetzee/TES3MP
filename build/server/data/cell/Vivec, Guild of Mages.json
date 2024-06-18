@@ -22,272 +22,561 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717189980,
-    "description":"Vivec, Guild of Mages"
+    "description":"Vivec, Guild of Mages",
+    "creationTime":1717189980
   },
   "lastVisit":{
-    "Benoit":1717784974,
-    "Fidgug":1717784975
+    "Benoit":1718731058,
+    "Fidgug":1718730965
   },
   "recordLinks":{
     "potion":{
-      "$custom_potion_92":["214970-0"],
       "$custom_potion_69":["214970-0"],
-      "$custom_potion_91":["214970-0"],
+      "$custom_potion_114":["214970-0"],
       "$custom_potion_93":["214970-0"],
+      "$custom_potion_94":["214970-0"],
+      "$custom_potion_113":["214970-0"],
       "$custom_potion_103":["214970-0"],
-      "$custom_potion_94":["214970-0"]
+      "$custom_potion_92":["214970-0"],
+      "$custom_potion_91":["214970-0"],
+      "$custom_potion_120":["214970-0"],
+      "$custom_potion_135":["214970-0"]
     }
   },
   "objectData":{
-    "214971-0":{
-      "refId":"sirilonwe",
-      "location":{
-        "posX":892.28021240234,
-        "posY":341.85934448242,
-        "posZ":-510.99996948242,
-        "rotX":-0.042033657431602,
-        "rotZ":-1.0715954303741,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":53,
-        "healthCurrent":53,
-        "magickaBase":199,
-        "healthModified":53,
-        "magickaModified":199,
-        "fatigueCurrent":189,
-        "fatigueModified":189,
-        "magickaCurrent":199,
-        "fatigueBase":189
-      },
-      "equipment":{
-        "7":{
-          "refId":"expensive_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"expensive_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"expensive_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":8.5759010314941,
-      "goldPool":379
+    "335964-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
     },
-    "287800-0":{
-      "refId":"trebonius artorius",
-      "location":{
-        "posX":-270.01272583008,
-        "posY":563.52008056641,
-        "posZ":-767,
-        "rotX":0.010678917169571,
-        "rotZ":0.31917786598206,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":149,
-        "healthCurrent":149,
-        "magickaBase":246,
-        "healthModified":149,
-        "magickaModified":246,
-        "fatigueCurrent":310,
-        "fatigueModified":310,
-        "magickaCurrent":246,
-        "fatigueBase":310
-      },
-      "equipment":{
-        "7":{
-          "refId":"extravagant_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"extravagant_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "14":{
-          "refId":"necromancers_amulet_uniq",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"extravagant_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"ebony_staff_trebonius",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
+    "335965-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "335966-0":{
+      "refId":"com_basket_01_chpfood5",
       "inventory":[{
-          "refId":"p_fortify_health_c",
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "335967-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215175-0":{
+      "refId":"de_r_closet_01_fcloth02",
+      "inventory":[{
+          "refId":"expensive_shoes_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"p_levitation_e",
+          "refId":"expensive_amulet_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"p_restore_magicka_e",
+          "refId":"expensive_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215080-0":{
+      "refId":"in_velothismall_ndoor_01",
+      "doorState":1
+    },
+    "215118-0":{
+      "refId":"in_velothismall_ndoor_01",
+      "doorState":1
+    },
+    "215089-0":{
+      "refId":"apparatus_m_retort_01"
+    },
+    "215087-0":{
+      "refId":"apparatus_m_alembic_01"
+    },
+    "215086-0":{
+      "refId":"apparatus_m_calcinator_01"
+    },
+    "477579-0":{
+      "refId":"de_r_chest_01_maulinie",
+      "inventory":[{
+          "refId":"merisan_cuirass",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"light amulet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"magickguard robe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"poisonguard robe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel shardblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel frostsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"wooden staff of divine",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"icebreaker",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"stormblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "475264-0":{
+      "refId":"chest_small_02_rndgold",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":34,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "460139-0":{
+      "refId":"com_chest_02_mg_supply",
+      "inventory":[{
+          "refId":"p_restore_magicka_s",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_willpower_s",
           "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"p_cure_common_unique",
+          "refId":"sc_almsiviintervention",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"necromancers_amulet_uniq",
+          "refId":"sc_divineintervention",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"extravagant_robe_01",
-          "count":1,
+          "refId":"sc_daydenespanacea",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"extravagant_belt_01",
-          "count":1,
+          "refId":"bk_vagariesofmagica",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"extravagant_shoes_01",
-          "count":1,
+          "refId":"misc_soulgem_lesser",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"ebony_staff_trebonius",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":6.4444670677185,
-      "goldPool":0
+        }]
     },
-    "214972-0":{
-      "refId":"malven romori",
-      "location":{
-        "posX":-117.0005645752,
-        "posY":169.65341186523,
-        "posZ":-255,
-        "rotX":-0.070121556520462,
-        "rotZ":-0.58460283279419,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":69,
-        "healthCurrent":69,
-        "magickaBase":130,
-        "healthModified":69,
-        "magickaModified":130,
-        "fatigueCurrent":207,
-        "fatigueModified":207,
-        "magickaCurrent":130,
-        "fatigueBase":207
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
+    "338696-0":{
+      "refId":"chest_01_v_potion_al_03",
       "inventory":[{
-          "refId":"common_robe_02",
+          "refId":"p_invisibility_s",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"common_shoes_02",
+          "refId":"p_levitation_s",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"gold_001",
-          "count":35,
+          "refId":"p_water_breathing_s",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":6.5277581214905,
-      "goldPool":263
+        },{
+          "refId":"p_water_walking_s",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_disease_resistance_q",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_disease_resistance_s",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_dispel_s",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_cure_poison_s",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_cure_paralyzation_s",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_cure_common_s",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_swift_swim_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_willpower_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_strength_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_speed_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_personality_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_luck_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_intelligence_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_health_q",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_fatigue_q",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_endurance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_agility_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_shock_resistance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_poison_resistance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_magicka_resistance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fire_resistance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_reflection_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_night-eye_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_lightning shield_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_light_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_frost_resistance_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_frost_shield_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_magicka_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_health_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_fatigue_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fire_shield_q",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407174-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407173-0":{
+      "refId":"flora_bc_mushroom_07",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407172-0":{
+      "refId":"flora_bc_mushroom_07",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215122-0":{
+      "refId":"chest_small_02_ingfine1",
+      "inventory":[{
+          "refId":"ingred_ash_salts_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_bonemeal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_crab_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407170-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407169-0":{
+      "refId":"flora_bc_mushroom_03",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407168-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407167-0":{
+      "refId":"flora_bc_podplant_04",
+      "inventory":[]
+    },
+    "407166-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "407165-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "214974-0":{
       "refId":"tiram gadar",
       "location":{
-        "posX":236.07049560547,
-        "posY":337.64340209961,
+        "rotY":0,
+        "posX":270.8108215332,
+        "posY":367.5182800293,
         "posZ":-767,
-        "rotX":-0.092810705304146,
-        "rotZ":-1.0757052898407,
-        "rotY":0
+        "rotX":-0.13822565972805,
+        "rotZ":0.14291191101074
       },
       "stats":{
         "healthBase":63,
         "healthCurrent":63,
         "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueBase":199,
         "healthModified":63,
         "magickaModified":94,
-        "fatigueCurrent":199,
         "fatigueModified":199,
-        "magickaCurrent":94,
-        "fatigueBase":199
+        "fatigueCurrent":199
       },
       "equipment":{
         "7":{
@@ -328,30 +617,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":6.4234585762024,
+      "lastGoldRestockHour":10.606994628906,
+      "lastGoldRestockDay":27,
       "goldPool":0
     },
     "214969-0":{
       "refId":"flacassia fauseius",
       "location":{
-        "posX":90.356140136719,
-        "posY":1435.4622802734,
+        "rotY":0,
+        "posX":90.601043701172,
+        "posY":1433.2969970703,
         "posZ":-479.12005615234,
         "rotX":0,
-        "rotZ":3.9269909858704,
-        "rotY":0
+        "rotZ":-2.8189790248871
       },
       "stats":{
         "healthBase":82,
         "healthCurrent":82,
         "magickaBase":138,
+        "magickaCurrent":138,
+        "fatigueBase":222,
         "healthModified":82,
         "magickaModified":138,
-        "fatigueCurrent":222,
         "fatigueModified":222,
-        "magickaCurrent":138,
-        "fatigueBase":222
+        "fatigueCurrent":222
       },
       "equipment":{
         "7":{
@@ -386,30 +675,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":11.619747161865,
-      "goldPool":0
+      "lastGoldRestockHour":10.852549552917,
+      "lastGoldRestockDay":27,
+      "goldPool":22
     },
     "214973-0":{
       "refId":"janand maulinie",
       "location":{
-        "posX":217.68579101563,
-        "posY":-34.452976226807,
+        "rotY":0,
+        "posX":350.22698974609,
+        "posY":-49.209815979004,
         "posZ":-255,
-        "rotX":-0.047037336975336,
-        "rotZ":-1.5950891971588,
-        "rotY":0
+        "rotX":-0.052940301597118,
+        "rotZ":2.2672636508942
       },
       "stats":{
         "healthBase":55,
         "healthCurrent":55,
         "magickaBase":190,
+        "magickaCurrent":190,
+        "fatigueBase":185,
         "healthModified":55,
         "magickaModified":190,
-        "fatigueCurrent":185,
         "fatigueModified":185,
-        "magickaCurrent":190,
-        "fatigueBase":185
+        "fatigueCurrent":185
       },
       "equipment":{
         "7":{
@@ -576,30 +865,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":6.5477685928345,
+      "lastGoldRestockHour":9.8645620346069,
+      "lastGoldRestockDay":27,
       "goldPool":650
     },
     "214970-0":{
       "refId":"craeita jullalian",
       "location":{
-        "posX":957.07446289063,
-        "posY":690.91003417969,
+        "rotY":0,
+        "posX":976.17993164063,
+        "posY":693.80718994141,
         "posZ":-511,
-        "rotX":-0.081024557352066,
-        "rotZ":-1.2873260974884,
-        "rotY":0
+        "rotX":-0.088840574026108,
+        "rotZ":0.45264554023743
       },
       "stats":{
         "healthBase":75,
         "healthCurrent":75,
         "magickaBase":158,
+        "magickaCurrent":158,
+        "fatigueBase":199,
         "healthModified":75,
         "magickaModified":158,
-        "fatigueCurrent":199,
         "fatigueModified":199,
-        "magickaCurrent":158,
-        "fatigueBase":199
+        "fatigueCurrent":199
       },
       "equipment":{
         "7":{
@@ -771,10 +1060,34 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"$custom_potion_135",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_114",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_113",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"$custom_potion_120",
+          "count":6,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockDay":23,
-      "lastGoldRestockHour":7.0804858207703,
-      "goldPool":565
+      "lastGoldRestockHour":10.740389823914,
+      "lastGoldRestockDay":27,
+      "goldPool":0
     },
     "215094-0":{
       "refId":"chest_small_02_ingfine2",
@@ -888,29 +1201,17 @@
           "soul":""
         }]
     },
-    "215122-0":{
-      "refId":"chest_small_02_ingfine1",
+    "215120-0":{
+      "refId":"de_p_chest_02_sirilonwe",
       "inventory":[{
-          "refId":"ingred_ash_salts_01",
+          "refId":"bookskill_heavy armor3",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"ingred_bonemeal_01",
+          "refId":"bookskill_alteration1",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -1028,33 +1329,63 @@
           "soul":""
         }]
     },
-    "215175-0":{
-      "refId":"de_r_closet_01_fcloth02",
+    "214971-0":{
+      "refId":"sirilonwe",
+      "location":{
+        "rotY":0,
+        "posX":898.57641601563,
+        "posY":317.4704284668,
+        "posZ":-511,
+        "rotX":-0.048048324882984,
+        "rotZ":1.0790593624115
+      },
+      "stats":{
+        "healthBase":53,
+        "healthCurrent":53,
+        "magickaBase":199,
+        "magickaCurrent":199,
+        "fatigueBase":189,
+        "healthModified":53,
+        "magickaModified":199,
+        "fatigueModified":189,
+        "fatigueCurrent":189
+      },
+      "equipment":{
+        "7":{
+          "refId":"expensive_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"expensive_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"expensive_shoes_02",
+          "refId":"expensive_robe_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_amulet_02",
+          "refId":"expensive_shoes_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_ring_02",
-          "count":1,
+          "refId":"gold_001",
+          "count":20,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"expensive_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":11.562372207642,
+      "lastGoldRestockDay":27,
+      "goldPool":150
     },
     "215242-0":{
       "refId":"de_r_closet_01_mcloth02",
@@ -1072,255 +1403,175 @@
           "soul":""
         }]
     },
-    "215243-0":{
-      "refId":"de_r_drawers_01_empty",
-      "inventory":[]
-    },
-    "215250-0":{
-      "refId":"de_r_closet_01_mcloth02",
+    "287800-0":{
+      "refId":"trebonius artorius",
+      "location":{
+        "rotY":0,
+        "posX":-404.56210327148,
+        "posY":453.72872924805,
+        "posZ":-767,
+        "rotX":-0.044904112815857,
+        "rotZ":1.9934756755829
+      },
+      "stats":{
+        "healthBase":149,
+        "healthCurrent":149,
+        "magickaBase":246,
+        "magickaCurrent":246,
+        "fatigueBase":310,
+        "healthModified":149,
+        "magickaModified":246,
+        "fatigueModified":310,
+        "fatigueCurrent":310
+      },
+      "equipment":{
+        "7":{
+          "refId":"extravagant_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"extravagant_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "14":{
+          "refId":"necromancers_amulet_uniq",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"ebony_staff_trebonius",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"expensive_shirt_02",
+          "refId":"p_fortify_health_c",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_ring_02",
+          "refId":"p_levitation_e",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_amulet_02",
-          "count":2,
+          "refId":"p_restore_magicka_e",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"p_cure_common_unique",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"necromancers_amulet_uniq",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony_staff_trebonius",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":10.64276599884,
+      "lastGoldRestockDay":27,
+      "goldPool":0
     },
-    "215251-0":{
-      "refId":"de_r_drawers_01_mcloth",
+    "214972-0":{
+      "refId":"malven romori",
+      "location":{
+        "rotY":0,
+        "posX":-100.08214569092,
+        "posY":95.627532958984,
+        "posZ":-255,
+        "rotX":-0.082278400659561,
+        "rotZ":-1.6247217655182
+      },
+      "stats":{
+        "healthBase":69,
+        "healthCurrent":69,
+        "magickaBase":130,
+        "magickaCurrent":130,
+        "fatigueBase":207,
+        "healthModified":69,
+        "magickaModified":130,
+        "fatigueModified":207,
+        "fatigueCurrent":207
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"expensive_shoes_02",
+          "refId":"common_robe_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_ring_02",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "215259-0":{
-      "refId":"de_r_closet_01_mcloth02",
-      "inventory":[{
-          "refId":"expensive_amulet_02",
+          "refId":"common_shoes_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"expensive_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "215269-0":{
-      "refId":"chest_small_02_ingfine4",
-      "inventory":[{
-          "refId":"ingred_scamp_skin_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jerky_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "281647-0":{
-      "refId":"de_r_chest_01_gold2",
-      "inventory":[{
           "refId":"gold_001",
-          "count":262,
+          "count":35,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "335932-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335933-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335934-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335949-0":{
-      "refId":"urn_03_food",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335950-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_bottle_15",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335951-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_bottle_10",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335952-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "335953-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "335959-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335962-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_wood_spoon_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335963-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_bottle_10",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335964-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "335965-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "335966-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "335967-0":{
-      "refId":"com_basket_01_chpfood5",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "215120-0":{
-      "refId":"de_p_chest_02_sirilonwe",
-      "inventory":[{
-          "refId":"bookskill_heavy armor3",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bookskill_alteration1",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":9.7402257919312,
+      "lastGoldRestockDay":27,
+      "goldPool":299
     },
     "407134-0":{
       "refId":"com_sack_01_ingred",
@@ -1526,55 +1777,109 @@
           "soul":""
         }]
     },
-    "407165-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "407166-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "407167-0":{
-      "refId":"flora_bc_podplant_04",
+    "215243-0":{
+      "refId":"de_r_drawers_01_empty",
       "inventory":[]
     },
-    "407168-0":{
-      "refId":"flora_bc_mushroom_06",
+    "215250-0":{
+      "refId":"de_r_closet_01_mcloth02",
       "inventory":[{
-          "refId":"ingred_coprinus_01",
+          "refId":"expensive_shirt_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "407169-0":{
-      "refId":"flora_bc_mushroom_03",
-      "inventory":[{
-          "refId":"ingred_russula_01",
+        },{
+          "refId":"expensive_ring_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "407170-0":{
-      "refId":"flora_bc_mushroom_02",
-      "inventory":[{
-          "refId":"ingred_russula_01",
+        },{
+          "refId":"expensive_amulet_02",
           "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215251-0":{
+      "refId":"de_r_drawers_01_mcloth",
+      "inventory":[{
+          "refId":"expensive_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_ring_02",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215259-0":{
+      "refId":"de_r_closet_01_mcloth02",
+      "inventory":[{
+          "refId":"expensive_amulet_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "215269-0":{
+      "refId":"chest_small_02_ingfine4",
+      "inventory":[{
+          "refId":"ingred_scamp_skin_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jerky_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "281647-0":{
+      "refId":"de_r_chest_01_gold2",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":262,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -1590,390 +1895,107 @@
           "soul":""
         }]
     },
-    "407172-0":{
-      "refId":"flora_bc_mushroom_07",
+    "335932-0":{
+      "refId":"com_basket_01_chpfood5",
       "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "407173-0":{
-      "refId":"flora_bc_mushroom_07",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "407174-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "338696-0":{
-      "refId":"chest_01_v_potion_al_03",
-      "inventory":[{
-          "refId":"p_invisibility_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_levitation_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_water_breathing_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_water_walking_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_disease_resistance_q",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_disease_resistance_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_dispel_s",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_cure_poison_s",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_cure_paralyzation_s",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_cure_common_s",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_swift_swim_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_willpower_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_strength_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_magicka_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_speed_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_personality_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_luck_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_intelligence_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_health_q",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_fatigue_q",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_endurance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_agility_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_shock_resistance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_poison_resistance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_magicka_resistance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fire_resistance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_reflection_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_night-eye_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_lightning shield_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_light_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_frost_resistance_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_frost_shield_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fortify_magicka_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fortify_health_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fortify_fatigue_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fire_shield_q",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "460139-0":{
-      "refId":"com_chest_02_mg_supply",
-      "inventory":[{
-          "refId":"p_restore_magicka_s",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fortify_willpower_s",
+          "refId":"ingred_scuttle_01",
           "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"sc_almsiviintervention",
-          "count":1,
+        }]
+    },
+    "335933-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"sc_divineintervention",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_daydenespanacea",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bk_vagariesofmagica",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_soulgem_lesser",
+        }]
+    },
+    "335934-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
           "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "475264-0":{
-      "refId":"chest_small_02_rndgold",
+    "335949-0":{
+      "refId":"urn_03_food",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "335950-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_bottle_15",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "335951-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_bottle_10",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "335952-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "335953-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "335959-0":{
+      "refId":"com_basket_01_pos",
       "inventory":[{
           "refId":"gold_001",
-          "count":34,
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "477579-0":{
-      "refId":"de_r_chest_01_maulinie",
+    "335962-0":{
+      "refId":"com_basket_01_pos",
       "inventory":[{
-          "refId":"merisan_cuirass",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"light amulet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"magickguard robe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"poisonguard robe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"cruel shardblade",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel frostsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"wooden staff of divine",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"icebreaker",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"stormblade",
+          "refId":"misc_com_wood_spoon_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "215086-0":{
-      "refId":"apparatus_m_calcinator_01"
-    },
-    "215087-0":{
-      "refId":"apparatus_m_alembic_01"
-    },
-    "215089-0":{
-      "refId":"apparatus_m_retort_01"
-    },
-    "215118-0":{
-      "refId":"in_velothismall_ndoor_01",
-      "doorState":1
-    },
-    "215080-0":{
-      "refId":"in_velothismall_ndoor_01",
-      "doorState":1
+    "335963-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_bottle_10",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

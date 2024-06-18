@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["377933-0","0-404","0-440"],
+    "actorList":["377933-0","0-404"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["15842-0","82840-0","149203-0","149204-0","149205-0","149206-0","149207-0","149208-0","149212-0","149213-0","182914-0","182916-0","182917-0","182918-0","182919-0","182923-0","182924-0","182925-0","182928-0","182929-0","182931-0","182932-0","182945-0","149199-0","300353-0","475327-0","377933-0","0-404","0-440"],
+    "container":["15842-0","82840-0","149203-0","149204-0","149205-0","149206-0","149207-0","149208-0","149212-0","149213-0","182914-0","182916-0","182917-0","182918-0","182919-0","182923-0","182924-0","182925-0","182928-0","182929-0","182931-0","182932-0","182945-0","149199-0","300353-0","475327-0","377933-0","0-404"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["377933-0"],
     "lock":[],
     "place":[],
-    "position":["377933-0","0-404","0-440"],
+    "position":["377933-0","0-404"],
     "scale":[],
-    "spawn":["0-404","0-440"],
+    "spawn":["0-404"],
     "state":[],
-    "statsDynamic":["377933-0","0-404","0-440"],
+    "statsDynamic":["377933-0","0-404"],
     "trap":[],
-    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"-3, 5",
@@ -27,86 +27,10 @@
   },
   "lastVisit":{
     "Benoit":1717189941,
-    "Fidgug":1717189943
+    "Fidgug":1718733551
   },
   "recordLinks":[],
   "objectData":{
-    "149213-0":{
-      "refId":"flora_red_lichen_02",
-      "inventory":[{
-          "refId":"ingred_red_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182914-0":{
-      "refId":"flora_fire_fern_02",
-      "inventory":[{
-          "refId":"ingred_fire_petal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182916-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182917-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182918-0":{
-      "refId":"tramaroot_03",
-      "inventory":[]
-    },
-    "182919-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "182923-0":{
-      "refId":"flora_fire_fern_01",
-      "inventory":[]
-    },
-    "182924-0":{
-      "refId":"flora_fire_fern_03",
-      "inventory":[]
-    },
-    "182925-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "182928-0":{
-      "refId":"flora_red_lichen_01",
-      "inventory":[{
-          "refId":"ingred_red_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "182929-0":{
       "refId":"flora_red_lichen_02",
       "inventory":[{
@@ -162,23 +86,23 @@
     "377933-0":{
       "refId":"viatrix petilia",
       "location":{
+        "rotY":0,
         "posX":-18653.9921875,
-        "posY":48045.25,
-        "posZ":978.11437988281,
+        "posY":48045.2578125,
+        "posZ":978.11828613281,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
-        "magickaCurrent":104,
-        "fatigueBase":225,
-        "fatigueCurrent":225,
-        "fatigueModified":225,
-        "magickaBase":104,
-        "healthModified":113,
         "healthBase":113,
         "healthCurrent":113,
-        "magickaModified":104
+        "magickaBase":104,
+        "magickaCurrent":104,
+        "fatigueBase":225,
+        "healthModified":113,
+        "magickaModified":104,
+        "fatigueModified":225,
+        "fatigueCurrent":225
       },
       "equipment":[null,null,null,null,{
           "refId":"expensive_glove_left_01",
@@ -258,55 +182,26 @@
     "0-404":{
       "refId":"nix-hound",
       "location":{
+        "rotY":0,
         "posX":-18900.154296875,
         "posY":41041.203125,
         "posZ":2952.2641601563,
         "rotX":0.26740181446075,
-        "rotZ":-1.6327517032623,
-        "rotY":0
+        "rotZ":-1.6327517032623
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-440":{
-      "refId":"scrib",
-      "location":{
-        "posX":-20309.1328125,
-        "posY":48943.6015625,
-        "posZ":946.72833251953,
-        "rotX":0.15642277896404,
-        "rotZ":2.6740524768829,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -390,6 +285,82 @@
     "149212-0":{
       "refId":"flora_red_lichen_01",
       "inventory":[]
+    },
+    "149213-0":{
+      "refId":"flora_red_lichen_02",
+      "inventory":[{
+          "refId":"ingred_red_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182914-0":{
+      "refId":"flora_fire_fern_02",
+      "inventory":[{
+          "refId":"ingred_fire_petal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182916-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182917-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182918-0":{
+      "refId":"tramaroot_03",
+      "inventory":[]
+    },
+    "182919-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "182923-0":{
+      "refId":"flora_fire_fern_01",
+      "inventory":[]
+    },
+    "182924-0":{
+      "refId":"flora_fire_fern_03",
+      "inventory":[]
+    },
+    "182925-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "182928-0":{
+      "refId":"flora_red_lichen_01",
+      "inventory":[{
+          "refId":"ingred_red_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

@@ -17,40 +17,40 @@
     "state":[],
     "statsDynamic":["243208-0","243209-0","243210-0","259837-0","259838-0","259839-0"],
     "trap":[],
-    "miscellaneous":["243209-0","259839-0","259837-0","259838-0"],
-    "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["243209-0","259839-0","259837-0","259838-0","243208-0"],
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"Balmora, Temple",
     "creationTime":1715973650
   },
   "lastVisit":{
-    "Fidgug":1715973833,
-    "Benoit":1715973836
+    "Benoit":1718732332,
+    "Fidgug":1715973833
   },
   "recordLinks":[],
   "objectData":{
-    "243208-0":{
-      "refId":"feldrelo sadri",
+    "259839-0":{
+      "refId":"llathyno hlaalu",
       "location":{
-        "posX":4218.8706054688,
-        "posY":4732.9326171875,
-        "posZ":14993,
-        "rotX":-0.090988464653492,
-        "rotZ":-0.86037564277649,
-        "rotY":0
+        "rotY":0,
+        "posX":3808.8759765625,
+        "posY":3920.40234375,
+        "posZ":14225,
+        "rotX":0,
+        "rotZ":3.483186006546
       },
       "stats":{
-        "healthBase":131,
-        "healthCurrent":131,
-        "magickaBase":108,
-        "magickaCurrent":108,
-        "fatigueBase":274,
-        "fatigueCurrent":274,
-        "healthModified":131,
-        "magickaModified":108,
-        "fatigueModified":274
+        "healthBase":98,
+        "healthCurrent":98,
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":254,
+        "healthModified":98,
+        "magickaModified":122,
+        "fatigueModified":254,
+        "fatigueCurrent":254
       },
       "equipment":{
         "7":{
@@ -59,15 +59,21 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
+        "16":{
+          "refId":"steel staff of divine judgement",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
         "11":{
-          "refId":"expensive_robe_02",
+          "refId":"common_robe_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         }
       },
       "inventory":[{
-          "refId":"expensive_robe_02",
+          "refId":"common_robe_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -78,111 +84,80 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "243209-0":{
-      "refId":"dralval andrano",
-      "location":{
-        "posX":4081.9870605469,
-        "posY":3591.5922851563,
-        "posZ":14737,
-        "rotX":0.0099826455116272,
-        "rotZ":-0.99436450004578,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":86,
-        "healthCurrent":86,
-        "magickaBase":160,
-        "magickaCurrent":160,
-        "fatigueBase":223,
-        "fatigueCurrent":223,
-        "healthModified":86,
-        "magickaModified":160,
-        "fatigueModified":223
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
+        },{
+          "refId":"ingred_willow_anther_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_trama_root_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jelly_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_resin_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_muck_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_kresh_fiber_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_gravedust_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel staff of divine judgement",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_robe_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bc_hypha_facia",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scathecraw_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_red_lichen_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_kagouti_hide_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_green_lichen_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_black_lichen_01",
-          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":2.4161734580994,
+      "lastGoldRestockHour":2.5942678451538,
       "lastGoldRestockDay":14,
-      "goldPool":261
+      "goldPool":717
     },
     "243210-0":{
       "refId":"telis salvani",
       "location":{
-        "posX":4285.1782226563,
-        "posY":3952.9248046875,
+        "rotY":0,
+        "posX":4228.0708007813,
+        "posY":3926.7094726563,
         "posZ":14993,
-        "rotX":0.0096543505787849,
-        "rotZ":1.1533539295197,
-        "rotY":0
+        "rotX":0,
+        "rotZ":1.1534035205841
       },
       "stats":{
         "healthBase":64,
@@ -190,10 +165,10 @@
         "magickaBase":94,
         "magickaCurrent":94,
         "fatigueBase":198,
-        "fatigueCurrent":198,
         "healthModified":64,
         "magickaModified":94,
-        "fatigueModified":198
+        "fatigueModified":198,
+        "fatigueCurrent":198
       },
       "equipment":{
         "7":{
@@ -300,6 +275,314 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "259838-0":{
+      "refId":"llarara omayn",
+      "location":{
+        "rotY":0,
+        "posX":4875.5576171875,
+        "posY":3749.4716796875,
+        "posZ":14225,
+        "rotX":-0.13828293979168,
+        "rotZ":-0.23566389083862
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":96,
+        "magickaCurrent":96,
+        "fatigueBase":193,
+        "healthModified":60,
+        "magickaModified":96,
+        "fatigueModified":193,
+        "fatigueCurrent":193
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"p_fortify_fatigue_b",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_fortify_health_c",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_cure_poison_s",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_disease_resistance_c",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_fatigue_c",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_health_c",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"p_restore_health_b",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_wickwheat_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_shalk_resin_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jerky_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_ectoplasm_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_corkbulb_root_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":3.1293168067932,
+      "lastGoldRestockDay":14,
+      "goldPool":568
+    },
+    "259837-0":{
+      "refId":"ilen faveran",
+      "location":{
+        "rotY":0,
+        "posX":4253.943359375,
+        "posY":5179.98046875,
+        "posZ":14737,
+        "rotX":-0.047176502645016,
+        "rotZ":-1.6568505764008
+      },
+      "stats":{
+        "healthBase":77,
+        "healthCurrent":77,
+        "magickaBase":148,
+        "magickaCurrent":148,
+        "fatigueBase":210,
+        "healthModified":77,
+        "magickaModified":148,
+        "fatigueModified":210,
+        "fatigueCurrent":210
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_03_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"shield_of_light",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"velothian_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_ondusisunhinging",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_daydenespanacea",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_almsiviintervention",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_fphyggisgemfeeder",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_vitality",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_oathfast",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_mageweal",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_insight",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_celerity",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_bloodthief",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_telvinscourage",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_restoration",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_blackmind",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_mindfeeder",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_tranasasspelltwist",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_flamebane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_reddeath",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"sc_manarape",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_robe_03_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":22.428800582886,
+      "lastGoldRestockDay":27,
+      "goldPool":750
     },
     "243272-0":{
       "refId":"crate_01_random_pos",
@@ -427,142 +710,6 @@
           "soul":""
         }]
     },
-    "259838-0":{
-      "refId":"llarara omayn",
-      "location":{
-        "posX":4779.7094726563,
-        "posY":3875.4755859375,
-        "posZ":14225,
-        "rotX":-0.087070815265179,
-        "rotZ":2.7172119617462,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":96,
-        "magickaCurrent":96,
-        "fatigueBase":193,
-        "fatigueCurrent":193,
-        "healthModified":60,
-        "magickaModified":96,
-        "fatigueModified":193
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"p_fortify_fatigue_b",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_fortify_health_c",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_cure_poison_s",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_disease_resistance_c",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_fatigue_c",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_health_c",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"p_restore_health_b",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_wickwheat_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_shalk_resin_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jerky_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_saltrice_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_ectoplasm_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_corkbulb_root_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":3.1293168067932,
-      "lastGoldRestockDay":14,
-      "goldPool":568
-    },
     "243278-0":{
       "refId":"chest_small_01_gold_05",
       "inventory":[{
@@ -572,124 +719,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "259839-0":{
-      "refId":"llathyno hlaalu",
-      "location":{
-        "posX":3808.8759765625,
-        "posY":3920.4020996094,
-        "posZ":14225,
-        "rotX":0,
-        "rotZ":3.0539252758026,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":98,
-        "healthCurrent":98,
-        "magickaBase":122,
-        "magickaCurrent":122,
-        "fatigueBase":254,
-        "fatigueCurrent":254,
-        "healthModified":98,
-        "magickaModified":122,
-        "fatigueModified":254
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel staff of divine judgement",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_robe_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_willow_anther_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_trama_root_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scuttle_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jelly_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_resin_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_muck_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_kresh_fiber_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_gravedust_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel staff of divine judgement",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":2.5942678451538,
-      "lastGoldRestockDay":14,
-      "goldPool":717
     },
     "243356-0":{
       "refId":"de_p_table_01_pos3",
@@ -774,6 +803,34 @@
     "311315-0":{
       "refId":"de_p_chest_02_empty",
       "inventory":[]
+    },
+    "477572-0":{
+      "refId":"de_p_closet_02_faveran",
+      "inventory":[{
+          "refId":"veloths_tower_shield",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"holy_tower_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"holy_shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"water spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "311316-0":{
       "refId":"de_p_chest_02_empty",
@@ -1006,12 +1063,6 @@
     "243434-0":{
       "refId":"chest_small_02_ingfine2",
       "inventory":[{
-          "refId":"ingred_frost_salts_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
           "refId":"ingred_gravedust_01",
           "count":1,
           "charge":-1,
@@ -1031,26 +1082,26 @@
           "soul":""
         }]
     },
-    "259837-0":{
-      "refId":"ilen faveran",
+    "243208-0":{
+      "refId":"feldrelo sadri",
       "location":{
-        "posX":4256.3764648438,
-        "posY":5134.1474609375,
-        "posZ":14737,
-        "rotX":-0.03127108886838,
-        "rotZ":1.3292362689972,
-        "rotY":0
+        "rotY":0,
+        "posX":4360.4624023438,
+        "posY":4729.9248046875,
+        "posZ":14993,
+        "rotX":-0.012764904648066,
+        "rotZ":1.7932541370392
       },
       "stats":{
-        "healthBase":77,
-        "healthCurrent":77,
-        "magickaBase":148,
-        "magickaCurrent":148,
-        "fatigueBase":210,
-        "fatigueCurrent":210,
-        "healthModified":77,
-        "magickaModified":148,
-        "fatigueModified":210
+        "healthBase":131,
+        "healthCurrent":131,
+        "magickaBase":108,
+        "magickaCurrent":108,
+        "fatigueBase":274,
+        "healthModified":131,
+        "magickaModified":108,
+        "fatigueModified":274,
+        "fatigueCurrent":274
       },
       "equipment":{
         "7":{
@@ -1060,134 +1111,14 @@
           "enchantmentCharge":-1
         },
         "11":{
-          "refId":"common_robe_03_a",
+          "refId":"expensive_robe_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         }
       },
       "inventory":[{
-          "refId":"shield_of_light",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"velothian_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_ondusisunhinging",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_daydenespanacea",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_almsiviintervention",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_fphyggisgemfeeder",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_vitality",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_oathfast",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_mageweal",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_insight",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_celerity",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_bloodthief",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_telvinscourage",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_restoration",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_blackmind",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_mindfeeder",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_tranasasspelltwist",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_flamebane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_reddeath",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"sc_manarape",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_robe_03_a",
+          "refId":"expensive_robe_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -1199,41 +1130,107 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":2.8001050949097,
-      "lastGoldRestockDay":14,
-      "goldPool":750
+      "lastGoldRestockHour":22.091918945313,
+      "lastGoldRestockDay":27,
+      "goldPool":0
     },
-    "477572-0":{
-      "refId":"de_p_closet_02_faveran",
+    "243209-0":{
+      "refId":"dralval andrano",
+      "location":{
+        "rotY":0,
+        "posX":4082.1682128906,
+        "posY":3583.6284179688,
+        "posZ":14737,
+        "rotX":0,
+        "rotZ":2.1155445575714
+      },
+      "stats":{
+        "healthBase":86,
+        "healthCurrent":86,
+        "magickaBase":160,
+        "magickaCurrent":160,
+        "fatigueBase":223,
+        "healthModified":86,
+        "magickaModified":160,
+        "fatigueModified":223,
+        "fatigueCurrent":223
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"veloths_tower_shield",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"holy_tower_shield",
+          "refId":"common_robe_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"holy_shield",
+          "refId":"common_shoes_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"water spear",
-          "count":1,
+          "refId":"ingred_bc_hypha_facia",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scathecraw_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_red_lichen_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_kagouti_hide_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_green_lichen_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_black_lichen_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":21.636161804199,
+      "lastGoldRestockDay":27,
+      "goldPool":330
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

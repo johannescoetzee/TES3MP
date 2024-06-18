@@ -1,56 +1,186 @@
 {
   "packets":{
-    "actorList":["41643-0","428721-0","0-100"],
+    "actorList":["41643-0","428721-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["252140-0","252141-0","252146-0","252147-0","252148-0","252150-0","252164-0","252165-0","252166-0","34115-0","41643-0","428721-0","0-100"],
+    "container":["252140-0","252141-0","252146-0","252147-0","252148-0","252150-0","252164-0","252165-0","252166-0","34115-0","41643-0","428721-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["41643-0","428721-0"],
     "lock":[],
     "place":[],
-    "position":["41643-0","428721-0","0-100"],
+    "position":["41643-0","428721-0"],
     "scale":[],
-    "spawn":["0-100"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["41643-0","428721-0","0-100"],
+    "statsDynamic":["41643-0","428721-0"],
     "trap":[],
-    "miscellaneous":["41643-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["41643-0"]
   },
   "entry":{
     "creationTime":1714761404,
     "description":"-4, -2"
   },
   "lastVisit":{
-    "Fidgug":1715975227,
-    "Benoit":1715975234
+    "Benoit":1718737125,
+    "Fidgug":1718737025
   },
   "recordLinks":[],
   "objectData":{
+    "252165-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252166-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "34115-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41643-0":{
+      "refId":"stargel",
+      "location":{
+        "posX":-25985.453125,
+        "posY":-11682.860351563,
+        "posZ":961,
+        "rotX":0.011542895808816,
+        "rotZ":-1.1329944133759,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":64,
+        "healthModified":67,
+        "magickaModified":64,
+        "fatigueCurrent":189,
+        "fatigueModified":189,
+        "magickaCurrent":64,
+        "fatigueBase":189
+      },
+      "equipment":{
+        "5":{
+          "refId":"common_glove_left_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"common_glove_right_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_04_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_04_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_glove_left_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_glove_right_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_04_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_04_b",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":15.609610557556,
+      "lastGoldRestockDay":14,
+      "goldPool":0
+    },
     "428721-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "posX":-25851.78125,
-        "posY":-13340.37109375,
-        "posZ":992.39978027344,
-        "rotX":-0.40335750579834,
-        "rotZ":-1.6598517894745,
+        "posX":-24836.8671875,
+        "posY":-10438.515625,
+        "posZ":961,
+        "rotX":0.0099776014685631,
+        "rotZ":0.52367854118347,
         "rotY":0
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
-        "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueModified":307
+        "fatigueCurrent":307,
+        "fatigueModified":307,
+        "magickaCurrent":122,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -194,29 +324,6 @@
           "soul":""
         }]
     },
-    "0-100":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-31714.525390625,
-        "posY":-16193.262695313,
-        "posZ":750.77911376953,
-        "rotX":0.0010584974661469,
-        "rotZ":-3.1123692989349,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
-      },
-      "inventory":[]
-    },
     "252140-0":{
       "refId":"flora_bc_shelffungus_03",
       "inventory":[{
@@ -270,136 +377,6 @@
       "inventory":[{
           "refId":"ingred_coprinus_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252165-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252166-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "41643-0":{
-      "refId":"stargel",
-      "location":{
-        "posX":-25643.15234375,
-        "posY":-10602.7109375,
-        "posZ":961,
-        "rotX":0.0031818747520447,
-        "rotZ":-0.90960097312927,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":64,
-        "magickaCurrent":64,
-        "fatigueBase":189,
-        "fatigueCurrent":189,
-        "healthModified":67,
-        "magickaModified":64,
-        "fatigueModified":189
-      },
-      "equipment":{
-        "5":{
-          "refId":"common_glove_left_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"common_glove_right_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_04_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_04_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_glove_left_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_glove_right_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_04_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_04_b",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":15.609610557556,
-      "lastGoldRestockDay":14,
-      "goldPool":0
-    },
-    "34115-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

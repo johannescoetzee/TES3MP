@@ -1,36 +1,59 @@
 {
   "packets":{
-    "actorList":["0-73"],
+    "actorList":["0-73","0-74"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":["83144-0"],
-    "container":["83134-0","83135-0","83137-0","83142-0","0-73"],
+    "container":["83134-0","83135-0","83137-0","83142-0","0-73","0-74"],
     "death":["0-73"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-73"],
+    "position":["0-73","0-74"],
     "scale":[],
-    "spawn":["0-73"],
+    "spawn":["0-73","0-74"],
     "state":[],
-    "statsDynamic":["0-73"],
+    "statsDynamic":["0-73","0-74"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":["210972-0"],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1714759398,
     "description":"0, -2"
   },
   "lastVisit":{
-    "Fidgug":1715971089,
-    "Benoit":1715971086
+    "Benoit":1718736168,
+    "Fidgug":1718736173
   },
   "recordLinks":[],
   "objectData":{
+    "0-74":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":106.28347015381,
+        "posY":-10388.328125,
+        "posZ":686.7919921875,
+        "rotX":-0.12265642732382,
+        "rotZ":-1.125016450882,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
+      },
+      "inventory":[]
+    },
     "83134-0":{
       "refId":"crate_01",
       "inventory":[]
@@ -43,8 +66,9 @@
       "refId":"crate_01",
       "inventory":[]
     },
-    "83144-0":{
-      "cellChangeTo":"-1, -2"
+    "83142-0":{
+      "refId":"dwrv_barrel00",
+      "inventory":[]
     },
     "210972-0":{
       "refId":"in_dwrv_crank_arkn",
@@ -57,9 +81,8 @@
         }
       }
     },
-    "83142-0":{
-      "refId":"dwrv_barrel00",
-      "inventory":[]
+    "83144-0":{
+      "cellChangeTo":"-1, -2"
     },
     "0-73":{
       "refId":"kwama forager",
@@ -75,18 +98,18 @@
         "healthBase":23,
         "healthCurrent":0,
         "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":298.12823486328,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
+        "fatigueCurrent":298.12823486328,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
       },
       "inventory":[],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     }
   },
   "loadState":{

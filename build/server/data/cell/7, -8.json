@@ -1,83 +1,56 @@
 {
   "packets":{
-    "actorList":["0-336","0-337","406292-0"],
+    "actorList":["0-336","0-337","406292-0","0-1198","0-1199"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["456557-0","406292-0","0-336","0-337"],
+    "container":["456557-0","406292-0","0-336","0-337","0-1198","0-1199"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["406292-0","0-336","0-337"],
+    "position":["406292-0","0-336","0-337","0-1198","0-1199"],
     "scale":[],
-    "spawn":["0-336","0-337"],
+    "spawn":["0-336","0-337","0-1198","0-1199"],
     "state":[],
-    "statsDynamic":["406292-0","0-336","0-337"],
+    "statsDynamic":["406292-0","0-336","0-337","0-1198","0-1199"],
     "trap":[],
+    "spellsActive":[],
     "miscellaneous":[],
-    "clientScriptLocal":[],
-    "spellsActive":[]
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"7, -8",
     "creationTime":1715364251
   },
   "lastVisit":{
-    "Benoit":1715365235,
-    "Fidgug":1715365229
+    "Benoit":1718730412,
+    "Fidgug":1718730407
   },
   "recordLinks":[],
   "objectData":{
-    "406292-0":{
-      "refId":"kwama worker entrance",
-      "location":{
-        "posX":63878.234375,
-        "posY":-57560.70703125,
-        "posZ":1053.6599121094,
-        "rotX":0,
-        "rotZ":0.29999995231628,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":8,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":30,
-        "magickaModified":8,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":8
-      },
-      "inventory":[]
-    },
-    "456557-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
     "0-336":{
       "refId":"cliff racer",
       "location":{
-        "posX":60880.1796875,
-        "posY":-62350.28515625,
-        "posZ":252.23081970215,
-        "rotX":0.002396616153419,
-        "rotZ":1.4182379245758,
-        "rotY":0
+        "rotY":0,
+        "posX":60674.65234375,
+        "posY":-62870.265625,
+        "posZ":252.42880249023,
+        "rotX":0.0025546373799443,
+        "rotZ":2.2535207271576
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "healthModified":45,
-        "magickaModified":20,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -90,23 +63,23 @@
     "0-337":{
       "refId":"mudcrab-diseased",
       "location":{
+        "rotY":0,
         "posX":59405.9375,
         "posY":-64949.234375,
-        "posZ":90.567008972168,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posZ":85.461669921875,
+        "rotX":-0.0067153563722968,
+        "rotZ":-0.3772566318512
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":25,
-        "fatigueCurrent":25,
-        "fatigueModified":25,
-        "healthModified":15,
-        "magickaModified":5,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaBase":5
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":25,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":25,
+        "fatigueCurrent":25
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -115,6 +88,85 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "406292-0":{
+      "refId":"kwama worker entrance",
+      "location":{
+        "rotY":0,
+        "posX":63878.15625,
+        "posY":-57560.9453125,
+        "posZ":1053.5416259766,
+        "rotX":0,
+        "rotZ":0.29999995231628
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaBase":8,
+        "magickaCurrent":8,
+        "fatigueBase":300,
+        "healthModified":30,
+        "magickaModified":8,
+        "fatigueModified":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[]
+    },
+    "456557-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "0-1199":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":62629.7578125,
+        "posY":-64938.6484375,
+        "posZ":138.98303222656,
+        "rotX":0.23576638102531,
+        "rotZ":-1.7487051486969
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1198":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":62985.09375,
+        "posY":-65386.6875,
+        "posZ":129,
+        "rotX":-0.043401088565588,
+        "rotZ":2.2484333515167
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[]
     }
   },
   "loadState":{

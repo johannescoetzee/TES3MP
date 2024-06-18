@@ -26,33 +26,477 @@
     "description":"-2, -9"
   },
   "lastVisit":{
-    "Benoit":1714758317,
-    "Fidgug":1713905824,
+    "Benoit":1718735712,
+    "asdf":1713904733,
     "qwer":1713904730,
-    "asdf":1713904733
+    "Fidgug":1718735714
   },
   "recordLinks":[],
   "objectData":{
+    "172852-0":{
+      "refId":"chargen dock guard",
+      "inventory":[{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_04_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "128960-0":{
+      "refId":"erene llenim",
+      "location":{
+        "posX":-13953.819335938,
+        "posY":-71920.84375,
+        "posZ":71.327934265137,
+        "rotX":0.25270119309425,
+        "rotZ":-0.9176619052887,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":57,
+        "healthCurrent":57,
+        "magickaBase":84,
+        "healthModified":57,
+        "magickaModified":84,
+        "fatigueCurrent":169,
+        "fatigueModified":169,
+        "magickaCurrent":84,
+        "fatigueBase":169
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_04_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "12":{
+          "refId":"common_ring_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_ring_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_04_a",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"food_kwama_egg_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":7,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "128961-0":{
+      "refId":"indrele rathryon",
+      "location":{
+        "posX":-13215.936523438,
+        "posY":-70693.375,
+        "posZ":61.050796508789,
+        "rotX":0.10593838989735,
+        "rotZ":-0.94050478935242,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":80,
+        "healthModified":40,
+        "magickaModified":80,
+        "fatigueCurrent":150,
+        "fatigueModified":150,
+        "magickaCurrent":80,
+        "fatigueBase":150
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"common_skirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "12":{
+          "refId":"common_ring_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_ring_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_skirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "341046-0":{
+      "refId":"mudcrab",
+      "location":{
+        "posX":-16184.229492188,
+        "posY":-66147.59375,
+        "posZ":303.2926940918,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "128962-0":{
+      "refId":"vodunius nuccius",
+      "location":{
+        "posX":-11765.462890625,
+        "posY":-70392.0546875,
+        "posZ":347.43161010742,
+        "rotX":0.68058866262436,
+        "rotZ":1.6368715763092,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":63,
+        "healthCurrent":63,
+        "magickaBase":86,
+        "healthModified":63,
+        "magickaModified":86,
+        "fatigueCurrent":162,
+        "fatigueModified":162,
+        "magickaCurrent":86,
+        "fatigueBase":162
+      },
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"sc_paper plain",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_de_tankard_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "172848-0":{
+      "refId":"chargen boat guard 1",
+      "inventory":[{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"heavy_leather_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial_chain_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "128963-0":{
+      "refId":"eldafire",
+      "location":{
+        "posX":-11408.15625,
+        "posY":-68726.8671875,
+        "posZ":217.80609130859,
+        "rotX":0.0096675995737314,
+        "rotZ":3.0989530086517,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":58,
+        "healthCurrent":58,
+        "magickaBase":189,
+        "healthModified":58,
+        "magickaModified":189,
+        "fatigueCurrent":166,
+        "fatigueModified":166,
+        "magickaCurrent":189,
+        "fatigueBase":166
+      },
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"common_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"common_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":17.901399612427,
+      "lastGoldRestockDay":1,
+      "goldPool":0
+    },
     "270748-0":{
       "refId":"darvame hleran",
       "location":{
-        "rotY":0,
-        "posX":-8594.1689453125,
-        "posY":-70198.8984375,
+        "posX":-8594.0439453125,
+        "posY":-70198.84375,
         "posZ":823.21862792969,
         "rotX":0,
-        "rotZ":0.20000000298023
+        "rotZ":0.20000000298023,
+        "rotY":0
       },
       "stats":{
         "healthBase":32,
         "healthCurrent":32,
         "magickaBase":96,
-        "magickaCurrent":96,
-        "fatigueBase":144,
-        "fatigueCurrent":144,
         "healthModified":32,
         "magickaModified":96,
-        "fatigueModified":144
+        "fatigueCurrent":144,
+        "fatigueModified":144,
+        "magickaCurrent":96,
+        "fatigueBase":144
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_01",
@@ -93,23 +537,23 @@
     "128964-0":{
       "refId":"fargoth",
       "location":{
-        "rotY":0,
-        "posX":-10698.625976563,
-        "posY":-71283.7421875,
-        "posZ":180.57907104492,
-        "rotX":0,
-        "rotZ":1.9707964658737
+        "posX":-10359.606445313,
+        "posY":-71387.7421875,
+        "posZ":157.04368591309,
+        "rotX":-0.039341751486063,
+        "rotZ":-1.4242074489594,
+        "rotY":0
       },
       "stats":{
         "healthBase":41,
         "healthCurrent":41,
         "magickaBase":82,
-        "magickaCurrent":82,
-        "fatigueBase":154,
-        "fatigueCurrent":154,
         "healthModified":41,
         "magickaModified":82,
-        "fatigueModified":154
+        "fatigueCurrent":154,
+        "fatigueModified":154,
+        "magickaCurrent":82,
+        "fatigueBase":154
       },
       "equipment":{
         "7":{
@@ -184,23 +628,23 @@
     "270747-0":{
       "refId":"teleri helvi",
       "location":{
-        "rotY":0,
-        "posX":-11700.790039063,
-        "posY":-71917.640625,
-        "posZ":113.64251708984,
-        "rotX":0.23087152838707,
-        "rotZ":-2.144339799881
+        "posX":-11747.047851563,
+        "posY":-71838.109375,
+        "posZ":111.96200561523,
+        "rotX":-0.096409693360329,
+        "rotZ":1.7209618091583,
+        "rotY":0
       },
       "stats":{
         "healthBase":58,
         "healthCurrent":58,
         "magickaBase":86,
-        "magickaCurrent":86,
-        "fatigueBase":162,
-        "fatigueCurrent":162,
         "healthModified":58,
         "magickaModified":86,
-        "fatigueModified":162
+        "fatigueCurrent":162,
+        "fatigueModified":162,
+        "magickaCurrent":86,
+        "fatigueBase":162
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_05",
@@ -248,30 +692,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockHour":10.341028213501,
       "lastGoldRestockDay":1,
-      "goldPool":0,
-      "lastGoldRestockHour":10.341028213501
+      "goldPool":0
     },
     "128965-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":-12414.14453125,
-        "posY":-70353.96875,
-        "posZ":332.58291625977,
-        "rotX":0.026324843987823,
-        "rotZ":3.1396286487579
+        "posX":-10974.951171875,
+        "posY":-71520.453125,
+        "posZ":172.51127624512,
+        "rotX":0.001814229413867,
+        "rotZ":0.89907002449036,
+        "rotY":0
       },
       "stats":{
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":309,
-        "fatigueCurrent":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309,
+        "fatigueModified":309,
+        "magickaCurrent":110,
+        "fatigueBase":309
       },
       "equipment":{
         "0":{
@@ -430,23 +874,23 @@
     "128966-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":-11390.1484375,
-        "posY":-68986.859375,
-        "posZ":217.75311279297,
-        "rotX":-0.017611028626561,
-        "rotZ":-0.023163795471191
+        "posX":-11395.662109375,
+        "posY":-69605.4375,
+        "posZ":217.80609130859,
+        "rotX":0.0025243312120438,
+        "rotZ":-3.1349050998688,
+        "rotY":0
       },
       "stats":{
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":309,
-        "fatigueCurrent":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309,
+        "fatigueModified":309,
+        "magickaCurrent":110,
+        "fatigueBase":309
       },
       "equipment":{
         "0":{
@@ -593,23 +1037,23 @@
     "128967-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":-12922.611328125,
-        "posY":-71558.5703125,
-        "posZ":45.348655700684,
-        "rotX":0.064783796668053,
-        "rotZ":1.9278290271759
+        "posX":-11471.505859375,
+        "posY":-71858.78125,
+        "posZ":161.47880554199,
+        "rotX":0.034435249865055,
+        "rotZ":3.1396877765656,
+        "rotY":0
       },
       "stats":{
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":309,
-        "fatigueCurrent":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309,
+        "fatigueModified":309,
+        "magickaCurrent":110,
+        "fatigueBase":309
       },
       "equipment":{
         "0":{
@@ -744,23 +1188,23 @@
     "0-7":{
       "refId":"mudcrab",
       "location":{
-        "rotY":0,
-        "posX":-16290.126953125,
+        "posX":-16290.125976563,
         "posY":-66701.6640625,
-        "posZ":283.08648681641,
+        "posZ":283.072265625,
         "rotX":-0.093379005789757,
-        "rotZ":-0.4250762462616
+        "rotZ":-0.4250762462616,
+        "rotY":0
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -893,454 +1337,10 @@
     "445168-0":{
       "refId":"chargencollision - extra",
       "state":false
-    },
-    "172852-0":{
-      "refId":"chargen dock guard",
-      "inventory":[{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_04_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "128960-0":{
-      "refId":"erene llenim",
-      "location":{
-        "rotY":0,
-        "posX":-13851.702148438,
-        "posY":-71981.15625,
-        "posZ":69.866394042969,
-        "rotX":0.081489451229572,
-        "rotZ":-0.9966299533844
-      },
-      "stats":{
-        "healthBase":57,
-        "healthCurrent":57,
-        "magickaBase":84,
-        "magickaCurrent":84,
-        "fatigueBase":169,
-        "fatigueCurrent":169,
-        "healthModified":57,
-        "magickaModified":84,
-        "fatigueModified":169
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_04_a",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "12":{
-          "refId":"common_ring_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_ring_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_04_a",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"food_kwama_egg_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":7,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "128961-0":{
-      "refId":"indrele rathryon",
-      "location":{
-        "rotY":0,
-        "posX":-11896.901367188,
-        "posY":-71652.265625,
-        "posZ":125.85899353027,
-        "rotX":0.000229487195611,
-        "rotZ":2.2033274173737
-      },
-      "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":80,
-        "magickaCurrent":80,
-        "fatigueBase":150,
-        "fatigueCurrent":150,
-        "healthModified":40,
-        "magickaModified":80,
-        "fatigueModified":150
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"common_skirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "12":{
-          "refId":"common_ring_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_ring_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_skirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "341046-0":{
-      "refId":"mudcrab",
-      "location":{
-        "rotY":0,
-        "posX":-16184.23046875,
-        "posY":-66147.59375,
-        "posZ":304.47705078125,
-        "rotX":0,
-        "rotZ":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "128962-0":{
-      "refId":"vodunius nuccius",
-      "location":{
-        "rotY":0,
-        "posX":-11596.212890625,
-        "posY":-70342.421875,
-        "posZ":228.24322509766,
-        "rotX":0,
-        "rotZ":2.5561945438385
-      },
-      "stats":{
-        "healthBase":63,
-        "healthCurrent":63,
-        "magickaBase":86,
-        "magickaCurrent":86,
-        "fatigueBase":162,
-        "fatigueCurrent":162,
-        "healthModified":63,
-        "magickaModified":86,
-        "fatigueModified":162
-      },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"sc_paper plain",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_de_tankard_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "172848-0":{
-      "refId":"chargen boat guard 1",
-      "inventory":[{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"heavy_leather_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial_chain_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "128963-0":{
-      "refId":"eldafire",
-      "location":{
-        "rotY":0,
-        "posX":-12022.626953125,
-        "posY":-67704.203125,
-        "posZ":316.87127685547,
-        "rotX":0.22241675853729,
-        "rotZ":0.59660911560059
-      },
-      "stats":{
-        "healthBase":58,
-        "healthCurrent":58,
-        "magickaBase":189,
-        "magickaCurrent":189,
-        "fatigueBase":166,
-        "fatigueCurrent":166,
-        "healthModified":58,
-        "magickaModified":189,
-        "fatigueModified":166
-      },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,{
-          "refId":"common_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"common_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockDay":1,
-      "goldPool":0,
-      "lastGoldRestockHour":17.901399612427
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

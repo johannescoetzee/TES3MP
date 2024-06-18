@@ -22,11 +22,11 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717785965,
-    "description":"2, -12"
+    "description":"2, -12",
+    "creationTime":1717785965
   },
   "lastVisit":{
-    "Benoit":1717790626,
+    "Benoit":1718727906,
     "Fidgug":1717790672
   },
   "recordLinks":[],
@@ -34,23 +34,23 @@
     "0-1082":{
       "refId":"mudcrab-diseased",
       "location":{
+        "rotY":0,
         "posX":23123.61328125,
         "posY":-92001.546875,
         "posZ":137,
         "rotX":-0.049194533377886,
-        "rotZ":-1.3751156330109,
-        "rotY":0
+        "rotZ":-1.3751156330109
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":25,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueCurrent":25,
         "fatigueModified":25,
-        "magickaCurrent":5,
-        "fatigueBase":25
+        "fatigueCurrent":25
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -63,27 +63,56 @@
     "0-1081":{
       "refId":"mudcrab",
       "location":{
+        "rotY":0,
         "posX":22093.380859375,
         "posY":-92882.7578125,
         "posZ":237.96539306641,
         "rotX":0.17613446712494,
-        "rotZ":-0.85524487495422,
-        "rotY":0
+        "rotZ":-0.85524487495422
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":5,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
           "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1130":{
+      "refId":"netch_bull",
+      "location":{
+        "rotY":0,
+        "posX":17309.052734375,
+        "posY":-96045.6796875,
+        "posZ":1132.2277832031,
+        "rotX":-0.10809084028006,
+        "rotZ":-2.195344209671
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -375,7 +404,17 @@
       "refId":"flora_gold_kanet_01",
       "inventory":[]
     },
-    "478330-0":{
+    "478333-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478332-0":{
       "refId":"flora_gold_kanet_02",
       "inventory":[{
           "refId":"ingred_gold_kanet_01",
@@ -395,7 +434,7 @@
           "soul":""
         }]
     },
-    "478332-0":{
+    "478330-0":{
       "refId":"flora_gold_kanet_02",
       "inventory":[{
           "refId":"ingred_gold_kanet_01",
@@ -404,49 +443,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "478333-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1130":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":16583.681640625,
-        "posY":-95785.3125,
-        "posZ":1138.4869384766,
-        "rotX":0.0011603944003582,
-        "rotZ":-1.1016943454742,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueCurrent":400,
-        "fatigueBase":400,
-        "fatigueModified":400,
-        "magickaCurrent":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

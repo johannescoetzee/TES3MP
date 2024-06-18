@@ -22,35 +22,35 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717787806,
-    "description":"Vivec, Arena Canalworks"
+    "description":"Vivec, Arena Canalworks",
+    "creationTime":1717787806
   },
   "lastVisit":{
-    "Benoit":1717790739,
-    "Fidgug":1717790733
+    "Benoit":1718727448,
+    "Fidgug":1718727449
   },
   "recordLinks":[],
   "objectData":{
     "241962-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":-1449.8929443359,
-        "posY":-478.33065795898,
-        "posZ":-18.32025718689,
-        "rotX":-0.2368212044239,
-        "rotZ":-1.5313708782196,
-        "rotY":0
+        "rotY":0,
+        "posX":-1484.2364501953,
+        "posY":-473.55749511719,
+        "posZ":-0.99743568897247,
+        "rotX":0,
+        "rotZ":0
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -197,23 +197,23 @@
     "241961-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":3687.5927734375,
-        "posY":-111.37992095947,
+        "rotY":0,
+        "posX":3695.1328125,
+        "posY":-142.16032409668,
         "posZ":1,
-        "rotX":0.010884703136981,
-        "rotZ":2.4918396472931,
-        "rotY":0
+        "rotX":-0.035211600363255,
+        "rotZ":-2.2682478427887
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -359,7 +359,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

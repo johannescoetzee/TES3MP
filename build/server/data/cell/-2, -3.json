@@ -11,26 +11,75 @@
     "equipment":["377937-0"],
     "lock":[],
     "place":[],
-    "position":["377937-0","0-72","0-321"],
+    "position":["377937-0","0-321","0-72"],
     "scale":[],
     "spawn":["0-321","0-72"],
     "state":["297839-0","377937-0"],
-    "statsDynamic":["377937-0","0-72","0-321"],
+    "statsDynamic":["377937-0","0-321","0-72"],
     "trap":[],
-    "miscellaneous":["377937-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["377937-0"]
   },
   "entry":{
     "creationTime":1713904668,
     "description":"-2, -3"
   },
   "lastVisit":{
-    "Fidgug":1715975227,
-    "Benoit":1715975224
+    "Benoit":1718737289,
+    "Fidgug":1718737288
   },
   "recordLinks":[],
   "objectData":{
+    "0-72":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-13418.421875,
+        "posY":-23419.890625,
+        "posZ":2216.197265625,
+        "rotX":-0.29964739084244,
+        "rotZ":-0.99759650230408,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323908-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "476164-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476165-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476166-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476167-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
     "476168-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
@@ -87,7 +136,7 @@
       "location":{
         "posX":-10935.690429688,
         "posY":-18641.525390625,
-        "posZ":611.51275634766,
+        "posZ":611.49633789063,
         "rotX":-0.19631138443947,
         "rotZ":2.7574770450592,
         "rotY":0
@@ -96,12 +145,12 @@
         "healthBase":23,
         "healthCurrent":0,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -110,31 +159,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     },
     "377937-0":{
       "refId":"itermerel",
       "location":{
         "posX":-10746.5859375,
         "posY":-18873.55078125,
-        "posZ":600.55688476563,
+        "posZ":600.54046630859,
         "rotX":0,
-        "rotZ":4.8431849479675,
+        "rotZ":-1.4400007724762,
         "rotY":0
       },
       "stats":{
         "healthBase":84,
         "healthCurrent":0,
         "magickaBase":164,
-        "magickaCurrent":132.5714263916,
-        "fatigueBase":241,
-        "fatigueCurrent":209.58851623535,
         "healthModified":84,
         "magickaModified":164,
-        "fatigueModified":241
+        "fatigueCurrent":209.58851623535,
+        "fatigueModified":241,
+        "magickaCurrent":132.5714263916,
+        "fatigueBase":241
       },
       "cellChangeFrom":"Balmora, Eight Plates",
       "equipment":{
@@ -170,65 +219,16 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":6.3862047195435,
-      "lastGoldRestockDay":11,
-      "state":false,
-      "goldPool":0,
       "spellsActive":{
       },
       "deathState":39,
       "killer":{
         "playerName":"Benoit"
-      }
-    },
-    "0-72":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-14289.50390625,
-        "posY":-23596.326171875,
-        "posZ":2562.6870117188,
-        "rotX":-0.15444666147232,
-        "rotZ":-1.5649054050446,
-        "rotY":0
       },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323908-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
-    "476164-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476165-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476166-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476167-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
+      "lastGoldRestockHour":6.3862047195435,
+      "lastGoldRestockDay":11,
+      "goldPool":0,
+      "state":false
     }
   },
   "loadState":{

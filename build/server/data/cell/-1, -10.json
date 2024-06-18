@@ -17,82 +17,22 @@
     "state":[],
     "statsDynamic":["0-20","0-19","0-31"],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-1, -10",
-    "creationTime":1713904313
+    "creationTime":1713904313,
+    "description":"-1, -10"
   },
   "lastVisit":{
-    "Fidgug":1713905672,
+    "Fidgug":1718735677,
     "qwer":1713904731,
-    "asdf":1713904733,
-    "Benoit":1713905673
+    "Benoit":1718735681,
+    "asdf":1713904733
   },
   "recordLinks":[],
   "objectData":{
-    "251708-0":{
-      "refId":"flora_bc_mushroom_02",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251709-0":{
-      "refId":"flora_bc_mushroom_01",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251710-0":{
-      "refId":"flora_bc_mushroom_04",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251713-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251714-0":{
-      "refId":"flora_bc_mushroom_02",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251715-0":{
-      "refId":"flora_bc_mushroom_01",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "251716-0":{
       "refId":"flora_bc_mushroom_04",
       "inventory":[{
@@ -173,6 +113,52 @@
       "refId":"kollop_02_pearl",
       "inventory":[]
     },
+    "0-20":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-2922.69140625,
+        "posY":-75843.2890625,
+        "posZ":-824.65100097656,
+        "rotX":-0.0034964336082339,
+        "rotZ":-1.5909731388092,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
+      },
+      "inventory":[]
+    },
+    "0-19":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-7988.3115234375,
+        "posY":-77326.6640625,
+        "posZ":-607.83782958984,
+        "rotX":3.899447619915e-06,
+        "rotZ":-0.0077693462371826,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
+      },
+      "inventory":[]
+    },
     "0-31":{
       "refId":"slaughterfish_small",
       "location":{
@@ -187,58 +173,12 @@
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
+        "healthModified":15,
+        "magickaModified":10,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "healthModified":15,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
-    "0-20":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-2748.7092285156,
-        "posY":-75375.7890625,
-        "posZ":-824.42126464844,
-        "rotX":-0.003491940908134,
-        "rotZ":1.2568728923798,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":15,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
-    "0-19":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-8060.1708984375,
-        "posY":-77643.015625,
-        "posZ":-607.83734130859,
-        "rotX":3.899447619915e-06,
-        "rotZ":-3.1162693500519,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "healthModified":15,
-        "magickaModified":10
+        "fatigueBase":300
       },
       "inventory":[]
     },
@@ -321,10 +261,70 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "251708-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251709-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251710-0":{
+      "refId":"flora_bc_mushroom_04",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251713-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251714-0":{
+      "refId":"flora_bc_mushroom_02",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251715-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

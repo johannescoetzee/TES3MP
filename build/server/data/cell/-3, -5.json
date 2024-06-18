@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-62","0-59"],
+    "actorList":["0-59"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-62","0-59"],
-    "death":[],
+    "container":["0-59"],
+    "death":["0-59"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-62","0-59"],
+    "position":["0-59"],
     "scale":[],
-    "spawn":["0-62","0-59"],
+    "spawn":["0-59"],
     "state":[],
-    "statsDynamic":["0-62","0-59"],
+    "statsDynamic":["0-59"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,60 +26,42 @@
     "description":"-3, -5"
   },
   "lastVisit":{
-    "Benoit":1714765787,
-    "Fidgug":1714765788
+    "Benoit":1718736070,
+    "Fidgug":1718736073
   },
   "recordLinks":[],
   "objectData":{
-    "0-62":{
-      "refId":"rat",
-      "location":{
-        "rotY":0,
-        "posX":-23783.98046875,
-        "posY":-33756.33203125,
-        "posZ":286.70739746094,
-        "rotX":-0.16803015768528,
-        "rotZ":-1.6942121982574
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[]
-    },
     "0-59":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-21133.916015625,
-        "posY":-39263.7109375,
-        "posZ":987.00769042969,
-        "rotX":0.00048795714974403,
-        "rotZ":-0.89810252189636
+        "posX":-18494.185546875,
+        "posY":-38160.49609375,
+        "posZ":323.3899230957,
+        "rotX":0.88208431005478,
+        "rotZ":2.9124433994293,
+        "rotY":0
       },
       "stats":{
         "healthBase":45,
-        "healthCurrent":45,
+        "healthCurrent":0,
         "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400
+        "fatigueCurrent":398.43133544922,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "fatigueBase":400
       },
-      "inventory":[]
+      "inventory":[],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "spellsActive":[],
+      "deathState":38
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

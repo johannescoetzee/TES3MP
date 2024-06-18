@@ -26,31 +26,31 @@
     "description":"-4, -5"
   },
   "lastVisit":{
-    "Benoit":1714765999,
-    "Fidgug":1714765997
+    "Benoit":1718734874,
+    "Fidgug":1718734877
   },
   "recordLinks":[],
   "objectData":{
     "476737-0":{
       "refId":"kwama worker entrance",
       "location":{
-        "rotY":0,
-        "posX":-29016.748046875,
-        "posY":-40024.80859375,
-        "posZ":936.60626220703,
-        "rotX":0.16309773921967,
-        "rotZ":1.5074326992035
+        "posX":-28799.31640625,
+        "posY":-39927.625,
+        "posZ":930.12292480469,
+        "rotX":-0.090773768723011,
+        "rotZ":-1.0024635791779,
+        "rotY":0
       },
       "stats":{
         "healthBase":30,
         "healthCurrent":30,
         "magickaBase":8,
-        "magickaCurrent":8,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":30,
         "magickaModified":8,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":8,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"food_kwama_egg_02",
@@ -204,7 +204,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

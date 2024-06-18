@@ -17,30 +17,20 @@
     "state":[],
     "statsDynamic":["0-53","0-54","0-50","0-52"],
     "trap":[],
-    "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713905824,
     "description":"-1, -6"
   },
   "lastVisit":{
-    "Benoit":1714759188,
-    "Fidgug":1714759186
+    "Benoit":1718736089,
+    "Fidgug":1718736091
   },
   "recordLinks":[],
   "objectData":{
-    "477272-0":{
-      "refId":"flora_gold_kanet_02",
-      "inventory":[{
-          "refId":"ingred_gold_kanet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "477277-0":{
       "refId":"flora_black_anther_02",
       "inventory":[{
@@ -178,23 +168,23 @@
     "0-52":{
       "refId":"rat",
       "location":{
-        "rotY":0,
-        "posX":-7235.9848632813,
-        "posY":-41470.09765625,
-        "posZ":404.55505371094,
-        "rotX":0.14421769976616,
-        "rotZ":0.27805018424988
+        "posX":-7362.248046875,
+        "posY":-41323.87890625,
+        "posZ":368.54278564453,
+        "rotX":0.11693812161684,
+        "rotZ":-1.5819499492645,
+        "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -207,23 +197,23 @@
     "0-53":{
       "refId":"mudcrab",
       "location":{
-        "rotY":0,
-        "posX":-76.636199951172,
-        "posY":-42265.31640625,
-        "posZ":426.40325927734,
-        "rotX":-0.011096406728029,
-        "rotZ":0.16707921028137
+        "posX":-1463.4169921875,
+        "posY":-41955.4921875,
+        "posZ":503.80944824219,
+        "rotX":0.40960538387299,
+        "rotZ":-1.5370371341705,
+        "rotY":0
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -236,23 +226,23 @@
     "0-54":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
-        "posX":-3431.9162597656,
-        "posY":-47558.9140625,
-        "posZ":515.03216552734,
-        "rotX":0.065198592841625,
-        "rotZ":-0.41523051261902
+        "posX":-3889.3176269531,
+        "posY":-48416.33984375,
+        "posZ":683.88879394531,
+        "rotX":-0.14377255737782,
+        "rotZ":-2.0323603153229,
+        "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -265,23 +255,23 @@
     "0-50":{
       "refId":"mudcrab",
       "location":{
-        "rotY":0,
-        "posX":-146.03691101074,
-        "posY":-46601.12890625,
-        "posZ":265.64538574219,
-        "rotX":0.41449457406998,
-        "rotZ":1.9638068675995
+        "posX":-729.39123535156,
+        "posY":-46999.26953125,
+        "posZ":429.52093505859,
+        "rotX":0.077802293002605,
+        "rotZ":1.1700294017792,
+        "rotY":0
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -344,10 +334,20 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "477272-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[{
+          "refId":"ingred_gold_kanet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

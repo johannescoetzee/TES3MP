@@ -22,101 +22,81 @@
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1717790121,
-    "description":"1, -12"
+    "description":"1, -12",
+    "creationTime":1717790121
   },
   "lastVisit":{
-    "Benoit":1717790560,
+    "Benoit":1718727906,
     "Fidgug":1717790637
   },
   "recordLinks":[],
   "objectData":{
-    "478460-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478461-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-1131":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":9978.67578125,
-        "posY":-93599.3828125,
+        "rotY":0,
+        "posX":10642.395507813,
+        "posY":-93906.703125,
         "posZ":-155.15042114258,
         "rotX":0,
-        "rotZ":-1.7646362781525,
-        "rotY":0
+        "rotZ":1.1736600399017
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
         "healthModified":15,
         "magickaModified":10,
-        "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":10,
-        "fatigueBase":300
+        "fatigueCurrent":300
       },
       "inventory":[]
     },
     "0-1128":{
       "refId":"slaughterfish",
       "location":{
-        "posX":9703.466796875,
-        "posY":-98107.921875,
-        "posZ":-277.3620300293,
-        "rotX":0,
-        "rotZ":-3.1259777545929,
-        "rotY":0
+        "rotY":0,
+        "posX":9495.556640625,
+        "posY":-97641.5625,
+        "posZ":-277.24011230469,
+        "rotX":0.00021709222346544,
+        "rotZ":-2.1741049289703
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[]
     },
     "0-1129":{
       "refId":"slaughterfish",
       "location":{
-        "posX":10773.60546875,
-        "posY":-97111.5546875,
-        "posZ":-277.44778442383,
+        "rotY":0,
+        "posX":10621.600585938,
+        "posY":-97012.15625,
+        "posZ":-277.51620483398,
         "rotX":1.7628073692322e-05,
-        "rotZ":2.8218972682953,
-        "rotY":0
+        "rotZ":-0.55616092681885
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -305,10 +285,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "478460-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478461-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

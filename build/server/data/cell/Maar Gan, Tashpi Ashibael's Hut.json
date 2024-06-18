@@ -14,12 +14,12 @@
     "position":["232789-0"],
     "scale":[],
     "spawn":[],
-    "state":[],
+    "state":["232789-0"],
     "statsDynamic":["232789-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":["232789-0"]
+    "miscellaneous":["232789-0"],
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"Maar Gan, Tashpi Ashibael's Hut",
@@ -31,6 +31,22 @@
   },
   "recordLinks":[],
   "objectData":{
+    "340118-0":{
+      "refId":"urn_05_food",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "340119-0":{
       "refId":"urn_03_food",
       "inventory":[{
@@ -177,26 +193,42 @@
       "refId":"com_sack_03_pos",
       "inventory":[]
     },
+    "214489-0":{
+      "refId":"crate_01_levelweapons",
+      "inventory":[{
+          "refId":"steel dagger",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel staff of chastening",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "232789-0":{
       "refId":"tashpi ashibael",
       "location":{
+        "rotY":0,
         "posX":10.214273452759,
         "posY":290.56848144531,
         "posZ":-127,
         "rotX":0,
-        "rotZ":-2.3561947345734,
-        "rotY":0
+        "rotZ":-2.3561947345734
       },
       "stats":{
+        "healthBase":50,
+        "healthCurrent":50,
+        "magickaBase":88,
         "magickaCurrent":88,
         "fatigueBase":174,
         "fatigueCurrent":174,
+        "magickaModified":88,
         "fatigueModified":174,
-        "magickaBase":88,
-        "healthModified":50,
-        "healthBase":50,
-        "healthCurrent":50,
-        "magickaModified":88
+        "healthModified":50
       },
       "equipment":{
         "8":{
@@ -269,39 +301,8 @@
         }],
       "goldPool":0,
       "lastGoldRestockHour":20.360971450806,
-      "lastGoldRestockDay":22
-    },
-    "214489-0":{
-      "refId":"crate_01_levelweapons",
-      "inventory":[{
-          "refId":"steel dagger",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel staff of chastening",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "340118-0":{
-      "refId":"urn_05_food",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "lastGoldRestockDay":22,
+      "state":false
     }
   },
   "loadState":{

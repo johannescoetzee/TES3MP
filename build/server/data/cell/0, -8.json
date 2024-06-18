@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-30","0-28","0-29"],
+    "actorList":["0-30","0-28"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["3864-0","288907-0","288908-0","288909-0","288910-0","288911-0","288912-0","288913-0","288914-0","288915-0","288919-0","288920-0","288921-0","333272-0","333273-0","333274-0","333275-0","341478-0","462192-0","462200-0","0-30","0-28","0-29"],
+    "container":["3864-0","288907-0","288908-0","288909-0","288910-0","288911-0","288912-0","288913-0","288914-0","288915-0","288919-0","288920-0","288921-0","333272-0","333273-0","333274-0","333275-0","341478-0","462192-0","462200-0","0-30","0-28"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-28","0-29","0-30"],
+    "position":["0-28","0-30"],
     "scale":[],
-    "spawn":["0-30","0-28","0-29"],
+    "spawn":["0-30","0-28"],
     "state":[],
-    "statsDynamic":["0-28","0-29","0-30"],
+    "statsDynamic":["0-28","0-30"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,170 +26,11 @@
     "description":"0, -8"
   },
   "lastVisit":{
-    "Fidgug":1714758405,
-    "Benoit":1714758407
+    "Fidgug":1718735761,
+    "Benoit":1718735764
   },
   "recordLinks":[],
   "objectData":{
-    "0-30":{
-      "refId":"mudcrab",
-      "location":{
-        "rotY":0,
-        "posX":3981.9428710938,
-        "posY":-62028.44140625,
-        "posZ":691.58435058594,
-        "rotX":0.15983898937702,
-        "rotZ":0.84077858924866
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-28":{
-      "refId":"mudcrab",
-      "location":{
-        "rotY":0,
-        "posX":5774.3061523438,
-        "posY":-62701.46484375,
-        "posZ":76.131988525391,
-        "rotX":0.79386460781097,
-        "rotZ":1.9950363636017
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400
-      },
-      "inventory":[]
-    },
-    "0-29":{
-      "refId":"mudcrab",
-      "location":{
-        "rotY":0,
-        "posX":4300.4204101563,
-        "posY":-65287.39453125,
-        "posZ":363.14379882813,
-        "rotX":0.37173449993134,
-        "rotZ":-2.3028938770294
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "3864-0":{
-      "refId":"barrel_01_pos",
-      "inventory":[{
-          "refId":"misc_com_wood_cup_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_wood_spoon_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_15",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_redware_cup",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "288907-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "288908-0":{
-      "refId":"flora_marshmerrow_02",
-      "inventory":[]
-    },
-    "288909-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "288910-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "288911-0":{
-      "refId":"flora_marshmerrow_02",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "288912-0":{
       "refId":"flora_marshmerrow_01",
       "inventory":[{
@@ -413,10 +254,140 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-30":{
+      "refId":"mudcrab",
+      "location":{
+        "posX":5032.9692382813,
+        "posY":-62781.3046875,
+        "posZ":321.10595703125,
+        "rotX":0.24058808386326,
+        "rotZ":0.71801662445068,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-28":{
+      "refId":"mudcrab",
+      "location":{
+        "posX":6565.705078125,
+        "posY":-63671.8984375,
+        "posZ":113.63291931152,
+        "rotX":0.032985109835863,
+        "rotZ":1.8085401058197,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
+      },
+      "inventory":[]
+    },
+    "3864-0":{
+      "refId":"barrel_01_pos",
+      "inventory":[{
+          "refId":"misc_com_wood_cup_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_wood_spoon_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_15",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_redware_cup",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "288907-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "288908-0":{
+      "refId":"flora_marshmerrow_02",
+      "inventory":[]
+    },
+    "288909-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "288910-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "288911-0":{
+      "refId":"flora_marshmerrow_02",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

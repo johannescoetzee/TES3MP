@@ -1,9 +1,32 @@
 {
   "general":{
-    "currentGeneratedNum":0
+    "currentGeneratedNum":1
   },
   "permanentRecords":[],
-  "generatedRecords":[],
-  "recordLinks":[],
+  "generatedRecords":{
+    "$custom_enchantment_1":{
+      "subtype":1,
+      "cost":5,
+      "charge":100,
+      "flags":0,
+      "effects":[{
+          "id":17,
+          "attribute":1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":1,
+          "magnitudeMax":100,
+          "magnitudeMin":100
+        }]
+    }
+  },
+  "recordLinks":{
+    "$custom_enchantment_1":{
+      "records":{
+        "weapon":["$custom_weapon_1"]
+      }
+    }
+  },
   "unlinkedRecordsToCheck":[]
 }

@@ -17,29 +17,40 @@
     "state":[],
     "statsDynamic":["67610-0","67611-0","67612-0","67613-0","67614-0","0-223","0-385"],
     "trap":[],
+    "spellsActive":[],
     "miscellaneous":["67612-0","67610-0","67611-0","67614-0","67613-0"],
-    "clientScriptLocal":[],
-    "spellsActive":[]
+    "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1714762862,
-    "description":"Balmora, Guild of Fighters"
+    "description":"Balmora, Guild of Fighters",
+    "creationTime":1714762862
   },
   "lastVisit":{
-    "Fidgug":1715973499,
-    "Benoit":1715973384
+    "Benoit":1718733805,
+    "Fidgug":1718732995
   },
   "recordLinks":[],
   "objectData":{
+    "56742-0":{
+      "refId":"silver staff"
+    },
+    "56780-0":{
+      "refId":"in_hlaalu_door",
+      "doorState":2
+    },
+    "56722-0":{
+      "refId":"in_hlaalu_door",
+      "doorState":1
+    },
     "67611-0":{
       "refId":"wayn",
       "location":{
-        "posX":837.67547607422,
-        "posY":68.132522583008,
+        "rotY":0,
+        "posX":845.08416748047,
+        "posY":69.409103393555,
         "posZ":-122.00009155273,
         "rotX":0,
-        "rotZ":-0.598384141922,
-        "rotY":0
+        "rotZ":-0.29191994667053
       },
       "stats":{
         "healthBase":143,
@@ -47,10 +58,10 @@
         "magickaBase":74,
         "magickaCurrent":74,
         "fatigueBase":254,
-        "fatigueCurrent":254,
         "healthModified":143,
         "magickaModified":74,
-        "fatigueModified":254
+        "fatigueModified":254,
+        "fatigueCurrent":254
       },
       "equipment":{
         "0":{
@@ -266,19 +277,19 @@
           "soul":""
         },{
           "refId":"darkbrotherhood pauldron_l",
-          "count":1,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
           "refId":"darkbrotherhood gauntlet_r",
-          "count":1,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         },{
           "refId":"darkbrotherhood pauldron_r",
-          "count":3,
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -350,7 +361,7 @@
           "soul":""
         },{
           "refId":"darkbrotherhood helm",
-          "count":1,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -360,20 +371,44 @@
           "charge":693,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"darkbrotherhood cuirass",
+          "count":1,
+          "charge":299,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"darkbrotherhood gauntlet_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_bracer_left",
+          "count":1,
+          "charge":136,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockHour":4.5072598457336,
-      "lastGoldRestockDay":13,
-      "goldPool":42
+      "lastGoldRestockHour":12.681746482849,
+      "lastGoldRestockDay":28,
+      "goldPool":2000
     },
     "67612-0":{
       "refId":"fasile charascel",
       "location":{
-        "posX":688.88543701172,
-        "posY":188.36225891113,
+        "rotY":0,
+        "posX":700.78875732422,
+        "posY":197.76159667969,
         "posZ":-122.00009155273,
         "rotX":0,
-        "rotZ":-1.5049760341644,
-        "rotY":0
+        "rotZ":-1.2469189167023
       },
       "stats":{
         "healthBase":72,
@@ -381,10 +416,10 @@
         "magickaBase":142,
         "magickaCurrent":142,
         "fatigueBase":194,
-        "fatigueCurrent":194,
         "healthModified":72,
         "magickaModified":142,
-        "fatigueModified":194
+        "fatigueModified":194,
+        "fatigueCurrent":194
       },
       "equipment":{
         "1":{
@@ -461,19 +496,19 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":5.8338484764099,
-      "lastGoldRestockDay":13,
+      "lastGoldRestockHour":12.665148735046,
+      "lastGoldRestockDay":28,
       "goldPool":0
     },
     "67613-0":{
       "refId":"flaenia amiulusus",
       "location":{
-        "posX":641.15484619141,
-        "posY":668.87097167969,
+        "rotY":0,
+        "posX":660.58898925781,
+        "posY":366.91632080078,
         "posZ":-378,
-        "rotX":-0.041911631822586,
-        "rotZ":1.3468673229218,
-        "rotY":0
+        "rotX":-0.038420677185059,
+        "rotZ":1.581348657608
       },
       "stats":{
         "healthBase":77,
@@ -481,10 +516,10 @@
         "magickaBase":110,
         "magickaCurrent":110,
         "fatigueBase":196,
-        "fatigueCurrent":196,
         "healthModified":77,
         "magickaModified":110,
-        "fatigueModified":196
+        "fatigueModified":196,
+        "fatigueCurrent":196
       },
       "equipment":{
         "5":{
@@ -580,12 +615,12 @@
     "67614-0":{
       "refId":"hasphat antabolis",
       "location":{
-        "posX":594.10113525391,
-        "posY":456.78829956055,
+        "rotY":0,
+        "posX":688.50048828125,
+        "posY":550.49786376953,
         "posZ":-378,
-        "rotX":-0.09095474332571,
-        "rotZ":1.687917470932,
-        "rotY":0
+        "rotX":-0.055986672639847,
+        "rotZ":2.1442215442657
       },
       "stats":{
         "healthBase":91,
@@ -593,10 +628,10 @@
         "magickaBase":112,
         "magickaCurrent":112,
         "fatigueBase":198,
-        "fatigueCurrent":198,
         "healthModified":91,
         "magickaModified":112,
-        "fatigueModified":198
+        "fatigueModified":198,
+        "fatigueCurrent":198
       },
       "equipment":{
         "7":{
@@ -673,19 +708,19 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":6.0731725692749,
-      "lastGoldRestockDay":13,
+      "lastGoldRestockHour":2.143150806427,
+      "lastGoldRestockDay":28,
       "goldPool":0
     },
     "67610-0":{
       "refId":"eydis fire-eye",
       "location":{
-        "posX":312.60925292969,
-        "posY":38.044078826904,
+        "rotY":0,
+        "posX":322.90274047852,
+        "posY":35.133380889893,
         "posZ":133.99971008301,
         "rotX":0,
-        "rotZ":1.6867492198944,
-        "rotY":0
+        "rotZ":1.5460097789764
       },
       "stats":{
         "healthBase":247,
@@ -693,10 +728,10 @@
         "magickaBase":88,
         "magickaCurrent":88,
         "fatigueBase":305,
-        "fatigueCurrent":305,
         "healthModified":247,
         "magickaModified":88,
-        "fatigueModified":305
+        "fatigueModified":305,
+        "fatigueCurrent":305
       },
       "equipment":[{
           "refId":"bonemold_cuirass",
@@ -811,19 +846,19 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":4.8092470169067,
-      "lastGoldRestockDay":13,
+      "lastGoldRestockHour":12.649346351624,
+      "lastGoldRestockDay":27,
       "goldPool":0
     },
     "0-223":{
       "refId":"db_assassin1b",
       "location":{
+        "rotY":0,
         "posX":560.04571533203,
         "posY":61.77799987793,
         "posZ":-378.00009155273,
         "rotX":-0.018182426691055,
-        "rotZ":2.8517701625824,
-        "rotY":0
+        "rotZ":2.8517701625824
       },
       "stats":{
         "healthBase":40,
@@ -831,18 +866,46 @@
         "magickaBase":100,
         "magickaCurrent":100,
         "fatigueBase":150,
-        "fatigueCurrent":150,
         "healthModified":40,
         "magickaModified":100,
-        "fatigueModified":150
+        "fatigueModified":150,
+        "fatigueCurrent":150
       },
       "equipment":[],
       "inventory":[],
       "spellsActive":[],
-      "deathState":41,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":41
+    },
+    "0-385":{
+      "refId":"db_assassin1b",
+      "location":{
+        "rotY":0,
+        "posX":395.47839355469,
+        "posY":-324.22311401367,
+        "posZ":-346.20196533203,
+        "rotX":0.30553635954857,
+        "rotZ":-0.83168196678162
+      },
+      "stats":{
+        "healthBase":40,
+        "healthCurrent":0,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":150,
+        "healthModified":40,
+        "magickaModified":100,
+        "fatigueModified":150,
+        "fatigueCurrent":150
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":40
     },
     "56732-0":{
       "refId":"de_p_chest_02_hasphat 1",
@@ -1297,49 +1360,10 @@
     "460129-0":{
       "refId":"com_chest_02_fg_supply",
       "inventory":[]
-    },
-    "56742-0":{
-      "refId":"silver staff"
-    },
-    "56780-0":{
-      "refId":"in_hlaalu_door",
-      "doorState":1
-    },
-    "56722-0":{
-      "refId":"in_hlaalu_door",
-      "doorState":1
-    },
-    "0-385":{
-      "refId":"db_assassin1b",
-      "location":{
-        "posX":395.47839355469,
-        "posY":-324.22311401367,
-        "posZ":-346.20196533203,
-        "rotX":0.30553635954857,
-        "rotZ":-0.83168196678162,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":40,
-        "healthCurrent":0,
-        "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":150,
-        "fatigueCurrent":150,
-        "healthModified":40,
-        "magickaModified":100,
-        "fatigueModified":150
-      },
-      "equipment":[],
-      "inventory":[],
-      "deathState":40,
-      "killer":{
-        "playerName":"Fidgug"
-      }
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

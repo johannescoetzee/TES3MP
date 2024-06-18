@@ -5,7 +5,7 @@
     "cellChangeFrom":[],
     "cellChangeTo":[],
     "container":["67301-0","67304-0","67314-0","252170-0","252171-0","252200-0","252212-0","252213-0","252218-0","252219-0","252220-0","252222-0","252223-0","252224-0","252225-0","34121-0","476456-0","476461-0","476463-0","476468-0","476473-0","476474-0","476475-0","476476-0","476477-0","480590-0","0-119","0-109"],
-    "death":["480590-0","0-119"],
+    "death":["480590-0"],
     "delete":[],
     "doorState":[],
     "equipment":["0-119"],
@@ -17,20 +17,127 @@
     "state":[],
     "statsDynamic":["480590-0","0-119","0-109"],
     "trap":[],
-    "miscellaneous":["0-119"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["0-119"]
   },
   "entry":{
     "creationTime":1714761404,
     "description":"-4, -3"
   },
   "lastVisit":{
-    "Fidgug":1715975227,
-    "Benoit":1715975224
+    "Benoit":1718737125,
+    "Fidgug":1718737025
   },
   "recordLinks":[],
   "objectData":{
+    "476473-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "476474-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "476475-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[]
+    },
+    "476476-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[]
+    },
+    "476477-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[]
+    },
+    "480590-0":{
+      "refId":"scrib",
+      "location":{
+        "posX":-28197.939453125,
+        "posY":-23446.65625,
+        "posZ":705.77502441406,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":0,
+        "magickaBase":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueCurrent":298.66925048828,
+        "fatigueModified":300,
+        "magickaCurrent":0,
+        "fatigueBase":300
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-119":{
+      "refId":"db_assassin1b",
+      "location":{
+        "posX":-27655.01953125,
+        "posY":-21766.30859375,
+        "posZ":892.20611572266,
+        "rotX":-0.21208350360394,
+        "rotZ":-0.58716630935669,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":100,
+        "healthModified":40,
+        "magickaModified":100,
+        "fatigueCurrent":150,
+        "fatigueModified":150,
+        "magickaCurrent":100,
+        "fatigueBase":150
+      },
+      "equipment":[],
+      "inventory":[],
+      "deathState":42,
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "lastGoldRestockHour":17.381175994873,
+      "goldPool":0,
+      "lastGoldRestockDay":4
+    },
+    "0-109":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-30965.419921875,
+        "posY":-17874.853515625,
+        "posZ":726.39318847656,
+        "rotX":-0.040977831929922,
+        "rotZ":0.16300082206726,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "67301-0":{
       "refId":"flora_corkbulb",
       "inventory":[]
@@ -182,113 +289,6 @@
     "476468-0":{
       "refId":"flora_heather_01",
       "inventory":[]
-    },
-    "476473-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "476474-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "476475-0":{
-      "refId":"flora_gold_kanet_02",
-      "inventory":[]
-    },
-    "476476-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[]
-    },
-    "476477-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[]
-    },
-    "480590-0":{
-      "refId":"scrib",
-      "location":{
-        "posX":-28197.939453125,
-        "posY":-23446.65625,
-        "posZ":705.77502441406,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":0,
-        "magickaBase":12,
-        "magickaCurrent":0,
-        "fatigueBase":300,
-        "fatigueCurrent":298.66925048828,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300
-      },
-      "inventory":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-119":{
-      "refId":"db_assassin1b",
-      "location":{
-        "posX":-27576.697265625,
-        "posY":-21889.451171875,
-        "posZ":841.29949951172,
-        "rotX":0.15643285214901,
-        "rotZ":-0.53520560264587,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":40,
-        "healthCurrent":0,
-        "magickaBase":100,
-        "magickaCurrent":100,
-        "fatigueBase":150,
-        "fatigueCurrent":149.69734191895,
-        "healthModified":40,
-        "magickaModified":100,
-        "fatigueModified":150
-      },
-      "equipment":[],
-      "inventory":[],
-      "lastGoldRestockHour":17.381175994873,
-      "lastGoldRestockDay":4,
-      "goldPool":0,
-      "deathState":42,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-109":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-31577.416015625,
-        "posY":-19447.091796875,
-        "posZ":503.6701965332,
-        "rotX":0.29456561803818,
-        "rotZ":-0.58586311340332,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{

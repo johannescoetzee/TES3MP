@@ -17,26 +17,26 @@
     "state":[],
     "statsDynamic":["132059-0"],
     "trap":[],
+    "spellsActive":[],
     "miscellaneous":["132059-0"],
-    "clientScriptLocal":[],
-    "spellsActive":[]
+    "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1714767180,
-    "description":"Balmora, Ra'Virr: Trader"
+    "description":"Balmora, Ra'Virr: Trader",
+    "creationTime":1714767180
   },
   "lastVisit":{
-    "Benoit":1715364051,
-    "Fidgug":1715973932
+    "Benoit":1718733747,
+    "Fidgug":1718731337
   },
   "recordLinks":{
     "potion":{
+      "$custom_potion_7":["132059-0"],
       "$custom_potion_8":["132059-0"],
-      "$custom_potion_15":["132059-0"],
-      "$custom_potion_13":["132059-0"],
       "$custom_potion_5":["132059-0"],
       "$custom_potion_14":["132059-0"],
-      "$custom_potion_7":["132059-0"]
+      "$custom_potion_13":["132059-0"],
+      "$custom_potion_15":["132059-0"]
     }
   },
   "objectData":{
@@ -92,227 +92,15 @@
           "soul":""
         }]
     },
-    "132044-0":{
-      "refId":"barrel_01_cheapfood5",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132045-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132046-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132047-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132048-0":{
-      "refId":"com_sack_01_saltrice_10",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132049-0":{
-      "refId":"com_sack_02_ingred",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_ash_yam_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132050-0":{
-      "refId":"com_sack_02_ingred",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"food_kwama_egg_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132051-0":{
-      "refId":"crate_01_de_fclothes",
-      "inventory":[{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_skirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "132052-0":{
-      "refId":"crate_01_de_mclothes",
-      "inventory":[{
-          "refId":"expensive_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_amulet_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "311258-0":{
-      "refId":"urn_05_ingred",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "332062-0":{
-      "refId":"com_chest_02_v_weapon02",
-      "inventory":[{
-          "refId":"chitin arrow",
-          "count":200,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin short bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin shortsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron wakizashi",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "132059-0":{
       "refId":"ra'virr",
       "location":{
-        "posX":-300.43203735352,
-        "posY":-353.01309204102,
+        "rotY":0,
+        "posX":-301.04977416992,
+        "posY":-352.96792602539,
         "posZ":5.999626159668,
         "rotX":0,
-        "rotZ":0.098297357559204,
-        "rotY":0
+        "rotZ":0.18642830848694
       },
       "stats":{
         "healthBase":64,
@@ -320,55 +108,52 @@
         "magickaBase":92,
         "magickaCurrent":92,
         "fatigueBase":182,
-        "fatigueCurrent":182,
         "healthModified":64,
         "magickaModified":92,
-        "fatigueModified":182
+        "fatigueModified":182,
+        "fatigueCurrent":182
       },
-      "equipment":{
-        "2":{
+      "equipment":[null,{
           "refId":"darkbrotherhood greaves",
           "count":1,
-          "charge":247,
+          "charge":-1,
           "enchantmentCharge":-1
-        },
-        "5":{
+        },null,{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
           "refId":"darkbrotherhood gauntlet_l",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },
-        "6":{
+        },{
           "refId":"darkbrotherhood gauntlet_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },
-        "8":{
+        },null,{
           "refId":"common_shirt_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },
-        "9":{
+        },{
           "refId":"common_pants_03_c",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },
-        "15":{
+        },null,null,null,null,null,{
           "refId":"common_belt_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        },
-        "16":{
+        },{
           "refId":"steel warhammer",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
-        }
-      },
+        }],
       "inventory":[{
           "refId":"common_belt_03",
           "count":1,
@@ -567,14 +352,232 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        },{
+          "refId":"darkbrotherhood pauldron_r",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }],
-      "lastGoldRestockHour":10.432854652405,
-      "goldPool":274,
-      "lastGoldRestockDay":13
+      "lastGoldRestockHour":13.80025100708,
+      "lastGoldRestockDay":27,
+      "goldPool":0
+    },
+    "132044-0":{
+      "refId":"barrel_01_cheapfood5",
+      "inventory":[{
+          "refId":"ingred_hackle-lo_leaf_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132049-0":{
+      "refId":"com_sack_02_ingred",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_ash_yam_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132045-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132046-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132047-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132050-0":{
+      "refId":"com_sack_02_ingred",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"food_kwama_egg_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132051-0":{
+      "refId":"crate_01_de_fclothes",
+      "inventory":[{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132052-0":{
+      "refId":"crate_01_de_mclothes",
+      "inventory":[{
+          "refId":"expensive_belt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_amulet_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "132048-0":{
+      "refId":"com_sack_01_saltrice_10",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "332062-0":{
+      "refId":"com_chest_02_v_weapon02",
+      "inventory":[{
+          "refId":"chitin arrow",
+          "count":200,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin short bow",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin war axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin shortsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron wakizashi",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "311258-0":{
+      "refId":"urn_05_ingred",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

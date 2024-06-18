@@ -26,33 +26,33 @@
     "description":"-1, -8"
   },
   "lastVisit":{
-    "Benoit":1714758407,
-    "Fidgug":1714758405,
+    "Benoit":1718735764,
+    "asdf":1713904733,
     "qwer":1713904731,
-    "asdf":1713904733
+    "Fidgug":1718735761
   },
   "recordLinks":[],
   "objectData":{
     "3821-0":{
       "refId":"guar",
       "location":{
-        "rotY":0,
-        "posX":-3161.7199707031,
-        "posY":-61313.80859375,
-        "posZ":494.74328613281,
-        "rotX":0.74233818054199,
-        "rotZ":-2.1437485218048
+        "posX":-2669.6826171875,
+        "posY":-61403.66015625,
+        "posZ":511.17791748047,
+        "rotX":0.41562110185623,
+        "rotZ":3.0053255558014,
+        "rotY":0
       },
       "stats":{
         "healthBase":38,
         "healthCurrent":38,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":38,
         "magickaModified":5,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_guar_hide_01",
@@ -210,7 +210,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

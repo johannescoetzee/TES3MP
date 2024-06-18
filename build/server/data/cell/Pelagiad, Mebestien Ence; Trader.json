@@ -6,7 +6,7 @@
     "cellChangeTo":[],
     "container":["368079-0","368084-0","368130-0","368131-0","368132-0","368133-0","368134-0","368199-0","368200-0","368255-0","368256-0","368257-0","368258-0","368259-0","368260-0","368264-0","368265-0","368266-0","368267-0","368268-0","368275-0","368276-0","368096-0","368078-0","389017-0"],
     "death":[],
-    "delete":[],
+    "delete":["368272-0"],
     "doorState":[],
     "equipment":["368078-0","389017-0"],
     "lock":[],
@@ -26,161 +26,11 @@
     "description":"Pelagiad, Mebestien Ence: Trader"
   },
   "lastVisit":{
-    "Benoit":1714757743,
+    "Benoit":1718735050,
     "Fidgug":1714757729
   },
   "recordLinks":[],
   "objectData":{
-    "368134-0":{
-      "refId":"com_basket_01_ingredien",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_alit_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bloat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368199-0":{
-      "refId":"crate_01_armor_fur",
-      "inventory":[{
-          "refId":"fur_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368200-0":{
-      "refId":"crate_01_armor_steel",
-      "inventory":[{
-          "refId":"steel_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel_gauntlet_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368255-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"iron sparkmace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368256-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_metal_goblet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368257-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368258-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368259-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "368260-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "368264-0":{
-      "refId":"urn_03_ingred",
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "368265-0":{
-      "refId":"urn_01_ingred",
-      "inventory":[]
-    },
-    "368266-0":{
-      "refId":"urn_04_ingred",
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "368267-0":{
       "refId":"com_sack_02_chpfood3",
       "inventory":[{
@@ -489,26 +339,29 @@
           "soul":""
         }]
     },
+    "368272-0":{
+      "refId":"ingred_ash_yam_01"
+    },
     "368078-0":{
       "refId":"mebestian ence",
       "location":{
-        "rotY":0,
-        "posX":522.90765380859,
-        "posY":-336.23968505859,
-        "posZ":759.87097167969,
+        "posX":524.05853271484,
+        "posY":-338.34747314453,
+        "posZ":759.87091064453,
         "rotX":0,
-        "rotZ":0.43836808204651
+        "rotZ":0.20019364356995,
+        "rotY":0
       },
       "stats":{
         "healthBase":94,
         "healthCurrent":94,
         "magickaBase":160,
-        "magickaCurrent":160,
-        "fatigueBase":210,
-        "fatigueCurrent":210,
         "healthModified":94,
         "magickaModified":160,
-        "fatigueModified":210
+        "fatigueCurrent":210,
+        "fatigueModified":210,
+        "magickaCurrent":160,
+        "fatigueBase":210
       },
       "equipment":{
         "7":{
@@ -579,12 +432,6 @@
           "enchantmentCharge":-1,
           "soul":""
         },{
-          "refId":"silver staff",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
           "refId":"steel warhammer",
           "count":1,
           "charge":-1,
@@ -627,30 +474,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":1,
-      "goldPool":449,
-      "lastGoldRestockHour":23.528823852539
+      "lastGoldRestockHour":22.531833648682,
+      "lastGoldRestockDay":28,
+      "goldPool":505
     },
     "389017-0":{
       "refId":"imperial guard",
       "location":{
-        "rotY":0,
-        "posX":715.48974609375,
-        "posY":-251.26452636719,
-        "posZ":759.87097167969,
-        "rotX":-0.13508553802967,
-        "rotZ":3.1083643436432
+        "posX":715.474609375,
+        "posY":-251.22662353516,
+        "posZ":759.87084960938,
+        "rotX":0,
+        "rotZ":4.8831868171692,
+        "rotY":0
       },
       "stats":{
         "healthBase":285,
         "healthCurrent":285,
         "magickaBase":110,
-        "magickaCurrent":110,
-        "fatigueBase":309,
-        "fatigueCurrent":309,
         "healthModified":285,
         "magickaModified":110,
-        "fatigueModified":309
+        "fatigueCurrent":309,
+        "fatigueModified":309,
+        "magickaCurrent":110,
+        "fatigueBase":309
       },
       "equipment":{
         "0":{
@@ -901,10 +748,160 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "368134-0":{
+      "refId":"com_basket_01_ingredien",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_alit_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_bloat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368199-0":{
+      "refId":"crate_01_armor_fur",
+      "inventory":[{
+          "refId":"fur_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"fur_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368200-0":{
+      "refId":"crate_01_armor_steel",
+      "inventory":[{
+          "refId":"steel_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel_gauntlet_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368255-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"iron sparkmace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368256-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_metal_goblet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368257-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368258-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368259-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "368260-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "368264-0":{
+      "refId":"urn_03_ingred",
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "368265-0":{
+      "refId":"urn_01_ingred",
+      "inventory":[]
+    },
+    "368266-0":{
+      "refId":"urn_04_ingred",
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

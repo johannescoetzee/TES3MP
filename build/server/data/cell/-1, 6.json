@@ -17,9 +17,9 @@
     "state":[],
     "statsDynamic":["40124-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "clientScriptLocal":[]
   },
   "entry":{
     "description":"-1, 6",
@@ -27,11 +27,102 @@
   },
   "lastVisit":{
     "Benoit":1717189941,
-    "Fidgug":1717189943
+    "Fidgug":1718733551
   },
   "recordLinks":[],
   "objectData":{
-    "17491-0":{
+    "17497-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "40124-0":{
+      "refId":"braynas hlervu",
+      "location":{
+        "rotY":0,
+        "posX":-7329.923828125,
+        "posY":53123.76171875,
+        "posZ":2375.0126953125,
+        "rotX":-0.0066856918856502,
+        "rotZ":1.1790673732758
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":86,
+        "magickaCurrent":86,
+        "fatigueBase":179,
+        "healthModified":60,
+        "magickaModified":86,
+        "fatigueModified":179,
+        "fatigueCurrent":179
+      },
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "17485-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "17486-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "17488-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
+    },
+    "17489-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
@@ -41,10 +132,24 @@
           "soul":""
         }]
     },
-    "17492-0":{
+    "17490-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "146704-0":{
+      "refId":"flora_bittergreen_pod_01",
+      "inventory":[]
+    },
+    "146705-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -81,10 +186,10 @@
           "soul":""
         }]
     },
-    "17497-0":{
-      "refId":"tramaroot_02",
+    "146709-0":{
+      "refId":"flora_bittergreen_05",
       "inventory":[{
-          "refId":"ingred_trama_root_01",
+          "refId":"ingred_bittergreen_petals_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -177,20 +282,6 @@
           "soul":""
         }]
     },
-    "146704-0":{
-      "refId":"flora_bittergreen_pod_01",
-      "inventory":[]
-    },
-    "146705-0":{
-      "refId":"flora_bittergreen_01",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "146706-0":{
       "refId":"flora_bittergreen_02",
       "inventory":[{
@@ -216,16 +307,6 @@
       "inventory":[{
           "refId":"ingred_bittergreen_petals_01",
           "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "146709-0":{
-      "refId":"flora_bittergreen_05",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -277,93 +358,6 @@
           "soul":""
         }]
     },
-    "17490-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "40124-0":{
-      "refId":"braynas hlervu",
-      "location":{
-        "posX":-7376.689453125,
-        "posY":53101.41796875,
-        "posZ":2370.953125,
-        "rotX":-0.1014933437109,
-        "rotZ":0.86441445350647,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":86,
-        "fatigueBase":179,
-        "fatigueCurrent":179,
-        "fatigueModified":179,
-        "magickaBase":86,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":86
-      },
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "17485-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "17486-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "17487-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -374,12 +368,18 @@
           "soul":""
         }]
     },
-    "17488-0":{
+    "17491-0":{
       "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "17489-0":{
-      "refId":"flora_rm_scathecraw_02",
+    "17492-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
           "count":1,

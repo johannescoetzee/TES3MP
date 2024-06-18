@@ -1,85 +1,56 @@
 {
   "packets":{
-    "actorList":["0-1069","0-1070","193704-0","399159-0","363340-0","193702-0","193703-0","476733-0"],
+    "actorList":["0-1069","0-1070","193704-0","399159-0","363340-0","476733-0","194011-0"],
     "ai":[],
-    "cellChangeFrom":[],
-    "cellChangeTo":[],
-    "container":["318800-0","318801-0","318802-0","318803-0","318804-0","318805-0","318806-0","318807-0","318808-0","460737-0","478107-0","478111-0","478112-0","478114-0","478118-0","478122-0","193704-0","363340-0","399159-0","193702-0","193703-0","476733-0","0-1069","0-1070"],
+    "cellChangeFrom":["194011-0"],
+    "cellChangeTo":["193702-0","193703-0"],
+    "container":["318800-0","318801-0","318802-0","318803-0","318804-0","318805-0","318806-0","318807-0","318808-0","460737-0","478107-0","478111-0","478112-0","478114-0","478118-0","478122-0","193704-0","363340-0","399159-0","476733-0","0-1069","0-1070","194011-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["193704-0","363340-0"],
     "lock":[],
     "place":[],
-    "position":["193702-0","193703-0","193704-0","363340-0","476733-0","0-1069","0-1070"],
+    "position":["193704-0","363340-0","476733-0","0-1069","0-1070","194011-0"],
     "scale":[],
     "spawn":["0-1069","0-1070"],
     "state":["399159-0"],
-    "statsDynamic":["193702-0","193703-0","193704-0","363340-0","476733-0","0-1069","0-1070"],
+    "statsDynamic":["193704-0","363340-0","476733-0","0-1069","0-1070","194011-0"],
     "trap":[],
     "spellsActive":[],
-    "miscellaneous":[],
+    "miscellaneous":["363340-0"],
     "clientScriptLocal":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"3, -9"
+    "description":"3, -9",
+    "creationTime":1713904668
   },
   "lastVisit":{
-    "Benoit":1717785965,
-    "Fidgug":1717785966
+    "Benoit":1718730813,
+    "Fidgug":1718730814
   },
   "recordLinks":[],
   "objectData":{
-    "0-1069":{
-      "refId":"kagouti",
-      "location":{
-        "posX":30128.88671875,
-        "posY":-66673.5390625,
-        "posZ":658.69000244141,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_kagouti_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-1070":{
       "refId":"guar_feral",
       "location":{
-        "posX":29911.60546875,
-        "posY":-66431.34375,
-        "posZ":709.03698730469,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "posX":30487.013671875,
+        "posY":-67030.2421875,
+        "posZ":639.44781494141,
+        "rotX":0.17997446656227,
+        "rotZ":1.4072988033295
       },
       "stats":{
         "healthBase":38,
         "healthCurrent":38,
         "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
         "healthModified":38,
         "magickaModified":5,
-        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":5,
-        "fatigueBase":400
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_guar_hide_01",
@@ -92,23 +63,23 @@
     "193704-0":{
       "refId":"fevasa saryon",
       "location":{
-        "posX":27556.396484375,
-        "posY":-65846.6640625,
-        "posZ":729.82464599609,
-        "rotX":0,
-        "rotZ":0.20000000298023,
-        "rotY":0
+        "rotY":0,
+        "posX":27229.685546875,
+        "posY":-66222.546875,
+        "posZ":681.57788085938,
+        "rotX":-0.093872301280499,
+        "rotZ":-3.0962073802948
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":84,
+        "magickaCurrent":84,
+        "fatigueBase":184,
         "healthModified":60,
         "magickaModified":84,
-        "fatigueCurrent":184,
         "fatigueModified":184,
-        "magickaCurrent":84,
-        "fatigueBase":184
+        "fatigueCurrent":184
       },
       "equipment":[{
           "refId":"netch_leather_boiled_cuirass",
@@ -275,23 +246,23 @@
     "363340-0":{
       "refId":"adondasi sadalvel",
       "location":{
-        "posX":32318.943359375,
-        "posY":-72129.859375,
-        "posZ":913.12628173828,
+        "rotY":0,
+        "posX":32311.650390625,
+        "posY":-72124.609375,
+        "posZ":913.12622070313,
         "rotX":0,
-        "rotZ":4.7123889923096,
-        "rotY":0
+        "rotZ":-1.7060034275055
       },
       "stats":{
         "healthBase":67,
         "healthCurrent":67,
         "magickaBase":110,
+        "magickaCurrent":110,
+        "fatigueBase":177,
         "healthModified":67,
         "magickaModified":110,
-        "fatigueCurrent":177,
         "fatigueModified":177,
-        "magickaCurrent":110,
-        "fatigueBase":177
+        "fatigueCurrent":177
       },
       "equipment":{
         "7":{
@@ -349,86 +320,37 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":8.2227058410645,
+      "lastGoldRestockDay":27,
+      "goldPool":0
     },
     "193702-0":{
-      "refId":"netch_betty_ranched",
-      "location":{
-        "posX":26822.068359375,
-        "posY":-65733.9453125,
-        "posZ":964.15521240234,
-        "rotX":0,
-        "rotZ":-0.46169281005859,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":113,
-        "healthCurrent":113,
-        "magickaBase":75,
-        "healthModified":113,
-        "magickaModified":75,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "cellChangeTo":"3, -8"
     },
     "193703-0":{
-      "refId":"netch_betty_ranched",
-      "location":{
-        "posX":25726.0234375,
-        "posY":-65687.7421875,
-        "posZ":1131.0557861328,
-        "rotX":0,
-        "rotZ":0.69999998807907,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":113,
-        "healthCurrent":113,
-        "magickaBase":75,
-        "healthModified":113,
-        "magickaModified":75,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "cellChangeTo":"3, -8"
     },
     "476733-0":{
       "refId":"kwama worker entrance",
       "location":{
-        "posX":29423.921875,
-        "posY":-69581.1640625,
-        "posZ":609.86096191406,
-        "rotX":0.053483482450247,
-        "rotZ":2.298088312149,
-        "rotY":0
+        "rotY":0,
+        "posX":29441.09765625,
+        "posY":-69053.828125,
+        "posZ":719.92639160156,
+        "rotX":-0.20201817154884,
+        "rotZ":-0.036078929901123
       },
       "stats":{
         "healthBase":30,
         "healthCurrent":30,
         "magickaBase":8,
+        "magickaCurrent":8,
+        "fatigueBase":300,
         "healthModified":30,
         "magickaModified":8,
-        "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":8,
-        "fatigueBase":300
+        "fatigueCurrent":300
       },
       "inventory":[]
     },
@@ -552,21 +474,11 @@
           "soul":""
         }]
     },
-    "478122-0":{
+    "478112-0":{
       "refId":"flora_comberry_01",
       "inventory":[{
           "refId":"ingred_comberry_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478118-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -582,7 +494,17 @@
           "soul":""
         }]
     },
-    "478112-0":{
+    "478118-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478122-0":{
       "refId":"flora_comberry_01",
       "inventory":[{
           "refId":"ingred_comberry_01",
@@ -591,10 +513,69 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "194011-0":{
+      "refId":"netch_betty_ranched",
+      "location":{
+        "rotY":0,
+        "posX":24822.919921875,
+        "posY":-65732.421875,
+        "posZ":1043.6711425781,
+        "rotX":0,
+        "rotZ":-0.48833274841309
+      },
+      "stats":{
+        "healthBase":113,
+        "healthCurrent":113,
+        "magickaBase":75,
+        "magickaCurrent":75,
+        "fatigueBase":400,
+        "healthModified":113,
+        "magickaModified":75,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "cellChangeFrom":"2, -9",
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1069":{
+      "refId":"kagouti",
+      "location":{
+        "rotY":0,
+        "posX":30432.9921875,
+        "posY":-65687.2578125,
+        "posZ":338.0246887207,
+        "rotX":-0.18604931235313,
+        "rotZ":-2.1437094211578
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_kagouti_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

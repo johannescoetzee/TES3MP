@@ -17,144 +17,43 @@
     "state":[],
     "statsDynamic":["0-60","0-61"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1714758405,
     "description":"-1, -5"
   },
   "lastVisit":{
-    "Benoit":1715971026,
-    "Fidgug":1715971022
+    "Benoit":1718736142,
+    "Fidgug":1718736143
   },
   "recordLinks":[],
   "objectData":{
-    "477256-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477257-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477259-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477260-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477261-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477265-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "477266-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "477268-0":{
-      "refId":"flora_gold_kanet_02",
-      "inventory":[]
-    },
-    "477269-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
     "0-60":{
       "refId":"mudcrab",
       "location":{
-        "posX":-5925.1625976563,
-        "posY":-38222.41015625,
-        "posZ":90.647720336914,
-        "rotX":0.001816556788981,
-        "rotZ":-1.50798869133,
+        "posX":-6341.7592773438,
+        "posY":-39756.984375,
+        "posZ":453.21765136719,
+        "rotX":0.4003112912178,
+        "rotZ":0.44769358634949,
         "rotY":0
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-61":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-474.89916992188,
-        "posY":-34756.984375,
-        "posZ":-343.48141479492,
-        "rotX":0.0079865409061313,
-        "rotZ":1.9622480869293,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":15,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -237,6 +136,107 @@
       "refId":"flora_willow_flower_02",
       "inventory":[{
           "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477256-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477257-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477259-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477260-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477261-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477265-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "477266-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "477268-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[]
+    },
+    "477269-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "0-61":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-583.43383789063,
+        "posY":-34947.87890625,
+        "posZ":-343.09014892578,
+        "rotX":-0.00057236291468143,
+        "rotZ":-1.372385263443,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueCurrent":299.99166870117,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

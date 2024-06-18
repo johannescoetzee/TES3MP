@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-1093","0-1094","0-1090","0-1091","0-1092","259445-0","259446-0"],
+    "actorList":["0-1094","0-1091","259445-0","259446-0","0-1090","0-1092","0-1093"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["478062-0","478064-0","478065-0","478066-0","478067-0","478068-0","478069-0","478070-0","478071-0","478073-0","259445-0","259446-0","0-1093","0-1094","0-1090","0-1091","0-1092"],
+    "container":["478062-0","478064-0","478065-0","478066-0","478067-0","478068-0","478069-0","478070-0","478071-0","478073-0","259445-0","259446-0","0-1094","0-1091","0-1090","0-1092","0-1093"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["259445-0","259446-0"],
     "lock":[],
     "place":[],
-    "position":["259445-0","259446-0","0-1090","0-1091","0-1092","0-1093","0-1094"],
+    "position":["259445-0","259446-0","0-1091","0-1090","0-1094","0-1093"],
     "scale":[],
-    "spawn":["0-1093","0-1094","0-1090","0-1091","0-1092"],
+    "spawn":["0-1094","0-1091","0-1090","0-1092","0-1093"],
     "state":[],
-    "statsDynamic":["259445-0","259446-0","0-1090","0-1091","0-1092","0-1093","0-1094"],
+    "statsDynamic":["259445-0","259446-0","0-1091","0-1090","0-1094","0-1093"],
     "trap":[],
     "spellsActive":[],
     "miscellaneous":[],
@@ -26,11 +26,61 @@
     "creationTime":1717787461
   },
   "lastVisit":{
-    "Benoit":1717790717,
-    "Fidgug":1717790703
+    "Benoit":1718730642,
+    "Fidgug":1718730632
   },
   "recordLinks":[],
   "objectData":{
+    "478066-0":{
+      "refId":"flora_black_anther_02",
+      "inventory":[{
+          "refId":"ingred_black_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478067-0":{
+      "refId":"flora_black_anther_01",
+      "inventory":[{
+          "refId":"ingred_black_anther_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478068-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478069-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478070-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "478071-0":{
       "refId":"flora_willow_flower_02",
       "inventory":[{
@@ -54,23 +104,23 @@
     "0-1093":{
       "refId":"rat_diseased",
       "location":{
-        "posX":47005.5078125,
-        "posY":-74623.3125,
-        "posZ":978.68286132813,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "posX":45572.41796875,
+        "posY":-74889.640625,
+        "posZ":1128.7465820313,
+        "rotX":-0.0072044562548399,
+        "rotZ":-2.2419655323029
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":123,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueCurrent":101,
-        "fatigueModified":101,
-        "magickaCurrent":10,
-        "fatigueBase":101
+        "fatigueModified":123,
+        "fatigueCurrent":123
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -83,127 +133,69 @@
     "0-1094":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":41923.82421875,
-        "posY":-75358.9921875,
-        "posZ":238.4052734375,
-        "rotX":-0.094085931777954,
-        "rotZ":1.8453357219696,
-        "rotY":0
+        "rotY":0,
+        "posX":42417.66015625,
+        "posY":-76267.4453125,
+        "posZ":510.43859863281,
+        "rotX":0.23753777146339,
+        "rotZ":-3.0387742519379
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":33,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueCurrent":25,
-        "fatigueModified":25,
-        "magickaCurrent":5,
-        "fatigueBase":25
+        "fatigueModified":33,
+        "fatigueCurrent":33
       },
       "inventory":[]
-    },
-    "0-1090":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":48306.8828125,
-        "posY":-80157.25,
-        "posZ":238.09962463379,
-        "rotX":0.23403003811836,
-        "rotZ":-2.0477039813995,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":5,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     },
     "0-1091":{
       "refId":"kwama forager",
       "location":{
-        "posX":48646.87109375,
-        "posY":-76641.90625,
-        "posZ":976.23858642578,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "posX":49009.02734375,
+        "posY":-76609.5859375,
+        "posZ":1052.5002441406,
+        "rotX":-0.25637874007225,
+        "rotZ":2.0482165813446
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":15,
-        "fatigueBase":300
+        "fatigueCurrent":300
       },
       "inventory":[]
-    },
-    "0-1092":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":44438.66015625,
-        "posY":-74781.4765625,
-        "posZ":1200.3193359375,
-        "rotX":0.0043283998966217,
-        "rotZ":-1.5009286403656,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":100,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     },
     "259445-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":44731.23828125,
-        "posY":-81389.375,
-        "posZ":577,
-        "rotX":0.009517839178443,
-        "rotZ":-1.519270658493,
-        "rotY":0
+        "rotY":0,
+        "posX":44587.46875,
+        "posY":-81381.578125,
+        "posZ":-128.23107910156,
+        "rotX":-1.4174237251282,
+        "rotZ":1.9737155437469
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -267,7 +259,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"torch_infinite_time",
+          "refId":"indoril shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -350,23 +342,23 @@
     "259446-0":{
       "refId":"ordinator wander",
       "location":{
-        "posX":42640.93359375,
-        "posY":-81713.9609375,
-        "posZ":1792.9996337891,
-        "rotX":-0.017963495105505,
-        "rotZ":-1.5817234516144,
-        "rotY":0
+        "rotY":0,
+        "posX":43833.2890625,
+        "posY":-81482.8046875,
+        "posZ":-127.51482391357,
+        "rotX":-1.4204306602478,
+        "rotZ":-2.5103604793549
       },
       "stats":{
         "healthBase":181,
         "healthCurrent":181,
         "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":318,
         "healthModified":181,
         "magickaModified":122,
-        "fatigueCurrent":318,
         "fatigueModified":318,
-        "magickaCurrent":122,
-        "fatigueBase":318
+        "fatigueCurrent":318
       },
       "equipment":{
         "0":{
@@ -430,7 +422,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"torch_infinite_time",
+          "refId":"indoril shield",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -510,6 +502,35 @@
           "soul":""
         }]
     },
+    "0-1090":{
+      "refId":"mudcrab",
+      "location":{
+        "rotY":0,
+        "posX":48099.3203125,
+        "posY":-80411.8671875,
+        "posZ":317.11791992188,
+        "rotX":0.038789100944996,
+        "rotZ":1.7365725040436
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "478062-0":{
       "refId":"flora_corkbulb",
       "inventory":[{
@@ -539,60 +560,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "478066-0":{
-      "refId":"flora_black_anther_02",
-      "inventory":[{
-          "refId":"ingred_black_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478067-0":{
-      "refId":"flora_black_anther_01",
-      "inventory":[{
-          "refId":"ingred_black_anther_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478068-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478069-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478070-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

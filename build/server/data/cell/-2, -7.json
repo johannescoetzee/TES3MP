@@ -17,63 +17,63 @@
     "state":[],
     "statsDynamic":["0-44","0-45","0-46"],
     "trap":[],
-    "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713905672,
     "description":"-2, -7"
   },
   "lastVisit":{
-    "Fidgug":1714759024,
-    "Benoit":1714759025
+    "Fidgug":1718736047,
+    "Benoit":1718736047
   },
   "recordLinks":[],
   "objectData":{
     "0-44":{
       "refId":"rat",
       "location":{
-        "rotY":0,
-        "posX":-11809.338867188,
-        "posY":-51968.41796875,
-        "posZ":1456.4291992188,
-        "rotX":-0.5681711435318,
-        "rotZ":0.17372679710388
+        "posX":-11399.54296875,
+        "posY":-51329.8984375,
+        "posZ":2056.9558105469,
+        "rotX":-0.018341111019254,
+        "rotZ":1.8467080593109,
+        "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
       },
       "inventory":[]
     },
     "0-45":{
       "refId":"rat",
       "location":{
-        "rotY":0,
-        "posX":-10683.513671875,
-        "posY":-56158.53125,
-        "posZ":2137.5522460938,
-        "rotX":0.55073916912079,
-        "rotZ":-2.2019169330597
+        "posX":-9969.77734375,
+        "posY":-56468.1171875,
+        "posZ":2245.5969238281,
+        "rotX":-0.12392064929008,
+        "rotZ":-0.34201788902283,
+        "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -86,23 +86,23 @@
     "0-46":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
-        "posX":-13930.719726563,
-        "posY":-54488.6171875,
-        "posZ":1083.0795898438,
-        "rotX":0.0072973780333996,
-        "rotZ":0.86336159706116
+        "posX":-14109.77734375,
+        "posY":-53622.4375,
+        "posZ":1363.6733398438,
+        "rotX":-0.40044820308685,
+        "rotZ":-0.41127109527588,
+        "rotY":0
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -264,7 +264,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }
