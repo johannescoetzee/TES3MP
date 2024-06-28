@@ -1,50 +1,1664 @@
 {
-  "time":{
-    "year":427,
-    "month":8,
-    "day":14,
-    "hour":10.000799999998,
-    "daysPassed":30,
-    "dayTimeScale":30,
-    "nightTimeScale":40
+  "topicInfo":[["background","1089120605269088053","chargen captain"],["morrowind","3253423749290424070","chargen captain"],["duties","1729913769476329813","chargen captain"],["latest rumors","6923112947019593","chargen captain"],["little advice","259942865635092117","chargen captain"],["little secret","197689157159159184","chargen captain"],["my trade","177149370184959643","chargen captain"],["solstheim","1169922125955110917","chargen captain"],["uriel septim","2769862822480624623","chargen captain"],["the empire","2124530673720831903","chargen captain"],["solstheim","2278720479126556737","chargen captain"],["little secret","73905396517031350","chargen captain"],["latest rumors","1469412633283572447","chargen captain"],["imperial","35532057162868574","chargen captain"],["duties","28358841968027303","chargen captain"],["caius cosades","23291351271929511","chargen captain"],["balmora","38488615252471229","chargen captain"],["silt strider","1086792951001923252","chargen captain"],["little advice","1248319992938512979","arrille"],["practice your skills","156561723920015386","arrille"],["latest rumors","411922311605125893","arrille"],["popular potions","1576720351886129646","arrille"],["popular scrolls","16746157653118729443","arrille"],["recover some gold","160419339116357473","hrisskar flat-foot"],["fargoth's hiding place","2971935711263120030","hrisskar flat-foot"],["fargoth's hiding place","281291800472392465","hrisskar flat-foot"],["solstheim","2278720479126556737","hrisskar flat-foot"],["balmora","170572976442710089","elone"],["balmora","2067855472544022067","elone"],["pelagiad","185841235121794463","elone"],["vivec","13484212942199514461","elone"],["vvardenfell","24056302241227929304","elone"],["vvardenfell","1464514820141361376","elone"],["little advice","124735414790028426","eldafire"],["services","23586308352637424733","kunthar"],["imperial cult","277993601409727340","kunthar"],["latest rumors","241431210126613909","kunthar"],["pelagiad","1357713235254665178","mebestian ence"],["little advice","101514412024626925","mebestian ence"],["little advice","3154228361751410315","mebestian ence"],["little secret","892231101795131411","mebestian ence"],["little secret","31437326142699821404","mebestian ence"],["pelagiad","1357713235254665178","samia"],["background","666731499111789993","samia"],["my trade","154162341695366723","samia"],["services","6576280624618253","samia"],["bandit nearby","3081131253116599307","maurrie aurmine"],["jewels","31393271201148415693","maurrie aurmine"],["jewels","3246023492512728471","maurrie aurmine"],["jewels","13796202762465024877","maurrie aurmine"],["dark brotherhood","1153953981787613029","imperial guard"],["apelles matius","3163273781849611460","imperial guard"],["background","206847122036726324","urfing"],["background","206847122036726324","radd hard-heart"],["latest rumors","2555865252055214313","radd hard-heart"],["lay member","25806171273028127740","crulius pontanian"],["little secret","16531102192603444","crulius pontanian"],["latest rumors","2555865252055214313","crulius pontanian"],["imperial legion","296337998138675185","solea nuccusius"],["imperial","695915437478015666","solea nuccusius"],["balmora","939423851316845892","sottilde"],["background","97825085396813756","sottilde"],["caius cosades","20372057273332064","sottilde"],["bacola closcius","30042181531958815481","sottilde"],["little advice","125096360577018710","sottilde"],["little advice","17222130182467313190","arathor"],["little advice","8100251862925913988","arathor"],["specific place","1360165051119330796","arathor"],["specific place","2243026128182671076","arathor"],["ghostgate","21398155651429213465","arathor"],["red mountain","20442283151632821171","arathor"],["the blight","7260286562296329474","arathor"],["fighters guild","26291148261399015653","arathor"],["guild guide","19662212742792024698","arathor"],["balmora mages guild","27028129091479724559","arathor"],["join the thieves guild","2739375643256517662","habasi"],["join the thieves guild","2498952861388531122","habasi"],["join the thieves guild","2255723662294042287","habasi"],["someone in particular","1947411886858921680","phane rielle"],["south wall","964732811306020441","phane rielle"],["caius cosades","325672321573330","chirranirr"],["caius cosades","1608213686254611471","onlyhestandsthere"],["caius cosades","322224292305216631","tappius esdrecus"],["caius cosades","3186332121516221787","bacola closcius"],["report to caius cosades","26751152351377319357","caius cosades"],["report to caius cosades","15425327421904220202","caius cosades"],["report to caius cosades","43741759216181215","caius cosades"],["orders","1506122032762213967","caius cosades"],["report to caius cosades","1987530856903725209","caius cosades"],["blades trainers","2820632185475114180","caius cosades"],["rithleen","1169687611517710353","caius cosades"],["tyermaillin","29756244422232211876","caius cosades"],["nine-toes","30183198372594919477","caius cosades"],["surane leoriane","20811492412079275","caius cosades"],["gildan","963216702824014293","caius cosades"],["sjorvar horse-mouth","185161417613490273","caius cosades"],["elone","8189320552006926953","caius cosades"],["orders","2090431221919117613","caius cosades"],["orders","16539151961972116834","caius cosades"],["orders","14520215453172227671","caius cosades"],["orders","1490057142559718427","caius cosades"],["freelance work","24506143413272312924","caius cosades"],["join the mages guild","1585629843039518751","ranis athrys"],["join the mages guild","19816109801401511688","ranis athrys"],["join the mages guild","1733911399141146687","ranis athrys"],["advancement","4019180222525518104","ranis athrys"],["duties","8815193872095518737","ranis athrys"],["duties","866180402770723651","ajira"],["mushrooms","20728261851736471","ajira"],["mushrooms","52027510518312690","ajira"],["mushrooms","2529516170625112058","ajira"],["fighters guild","24498209033079022986","fasile charascel"],["join the fighters guild","2739375643256517662","eydis fire-eye"],["join the fighters guild","2498952861388531122","eydis fire-eye"],["join the fighters guild","292531804432634565","eydis fire-eye"],["orders","31266152841557531935","eydis fire-eye"],["cave rat","234178531192911823","eydis fire-eye"],["cave rat","19239116422101919048","drarayne thelas"],["cave rat","60812724252421585","drarayne thelas"],["cave rat","1373217258705328919","drarayne thelas"],["cave rat","11147124732626816250","drarayne thelas"],["cave rat","298932640111666","eydis fire-eye"],["orders","152062574112057155","eydis fire-eye"],["egg poachers","125817805126429526","eydis fire-eye"],["egg poachers","28231161621266572","eydis fire-eye"],["shulk egg mine","3009916962322256274","eydis fire-eye"],["latest rumors","2122632088405013352","db_assassin1b"],["little advice","1587830284221866331","db_assassin1b"],["egg poachers","182171606016063117","findulain"],["background","14236281672144830895","findulain"],["solstheim","2278720479126556737","findulain"],["egg poachers","21238266671847019550","dinok"],["kwama forager","14531235512898629738","miner juillen"],["egg poachers","2741031530359710727","miner kati"],["egg poachers","2690280382603610702","miner gor"],["murderous outlaws","1915129571230053201","fjol"],["murderous outlaws","178153472462823046","fjol"],["egg poachers","6773155293010824296","eydis fire-eye"],["orders","78553157274318817","eydis fire-eye"],["telvanni agents","2938412444569225844","eydis fire-eye"],["thefts and disappearances","53021332468925824","eydis fire-eye"],["caldera ebony mines","50642333173479357","eydis fire-eye"],["alynu aralen","32151288652735420451","eydis fire-eye"],["telvanni agents","31478163532504625740","eydis fire-eye"],["sathasa nerothren","295625688999824997","eydis fire-eye"],["fothyna herothran","76339929791520410","eydis fire-eye"],["alveleg","32291249471031030301","eydis fire-eye"],["advancement","2083432752205215749","eydis fire-eye"],["advancement","1378729702645021565","eydis fire-eye"],["advancement","1056415252841031382","eydis fire-eye"],["advancement","3175629439143964105","eydis fire-eye"],["advancement","107193086989225800","ranis athrys"],["requirements","83172224776130996","ranis athrys"],["mushrooms","2599357752391912393","ajira"],["mushrooms","14103132243013728405","ajira"],["duties","1479817701996308","ajira"],["bet with galbedir","970052703132825174","ajira"],["fake soul gem","4976244511819622984","ajira"],["fake soul gem","170417393123681890","ajira"],["fake soul gem","22427136292098827401","ajira"],["duties","1833615801749422119","ajira"],["flowers","21449235312183423290","ajira"],["flowers","7746196512579424772","ajira"],["flowers","15190141021775821033","ajira"],["duties","31535256745725028","ajira"],["ceramic bowl","143602792842043915","ajira"],["daedric","23066325801462131675","ra'virr"],["ceramic bowl","20707151382527018432","ra'virr"],["stolen reports","2878922371139488232","ajira"],["ceramic bowl","613315248260022426","ajira"],["ceramic bowl","3491100221847319077","ajira"],["stolen reports","21708303161485031644","ajira"],["stolen reports","23785184912757320359","ajira"],["stolen reports","7300276011471223511","ajira"],["advancement","13223869023728562","ranis athrys"],["duties","25546219352335011233","ranis athrys"],["guild dues","8733205942846520537","ranis athrys"],["join us","3003717348232614795","ranis athrys"],["sulipund","3845179161180515818","ranis athrys"],["punabi","32575315881347928","ranis athrys"],["specific place","6544108722961513000","shenk"],["caldera ebony mines","10287309621206803","imperial guard"],["telvanni agents","166911728719181894","alveleg"],["telvanni agents","105593384169091353","eydis fire-eye"],["orders","26982206593134019391","eydis fire-eye"],["code book","27800257903207427840","eydis fire-eye"],["sottilde","3180238972510928605","eydis fire-eye"],["favor","266351095457551500","hasphat antabolis"],["favor","3236710700194205911","hasphat antabolis"],["dwemer puzzle box","77156629161556592","hasphat antabolis"],["arkngthand","2954619207288647086","hasphat antabolis"],["foyada","26041281803176431059","hasphat antabolis"],["disappearance of the dwarves","1238822619170744418","hasphat antabolis"],["code book","44036011015630500","sottilde"],["code book","19824177531142629010","sottilde"],["code book","23811170001381413375","eydis fire-eye"],["code book","1903183792713931014","eydis fire-eye"],["orders","584514766536817770","eydis fire-eye"],["debt money","1902598261730910628","eydis fire-eye"],["bacola closcius","29514217721477624569","fasile charascel"],["guild dues","1575816178192723028","manwe"],["guild dues","243031030209198541","manwe"],["guild dues","14927152532648817997","manwe"],["join us","2537827818679425227","llarar bereloth"],["latest rumors","49172112360667706","heddvild"],["specific place","1360165051119330796","heddvild"],["specific place","2243026128182671076","heddvild"],["join us","8250144001140626936","ranis athrys"],["guild dues","16847177657230130","ranis athrys"],["guild dues","5554327322441623692","ranis athrys"],["advancement","286572939837899986","ranis athrys"],["advancement","2796421667402826914","ranis athrys"],["duties","20738173711112513020","ranis athrys"],["unsanctioned training","270324897533920607","ranis athrys"],["guild dues","177783598283630258","ranis athrys"],["join us","16358314611572827549","ranis athrys"],["little secret","7132116371291122145","ranis athrys"],["molag amur","1456024547177886622","ranis athrys"],["unsanctioned training","27235232011974230740","ranis athrys"],["unsanctioned training","1691914151264425750","ranis athrys"],["little advice","17545243371364211941","estirdalin"],["unsanctioned training","32145121708808265","onlyhestandsthere"],["unsanctioned training","26643204422300016894","onlyhestandsthere"],["unsanctioned training","205511909430229634","ranis athrys"],["duties","85628342963020403","ranis athrys"],["itermerel's notes","12070206672109722296","ranis athrys"],["itermerel's notes","249245418882816112","itermerel"],["travel together","3064612252858131527","itermerel"],["travel together","12984269792024714940","itermerel"],["itermerel's notes","25219264602223818737","ranis athrys"],["itermerel's notes","205323496148075561","ranis athrys"],["duties","4809295512037720930","ranis athrys"],["tashpi ashibael","3018330021466621808","ranis athrys"],["necromancy","2207819035236046612","ranis athrys"],["necromancy","29691119164287107","ranis athrys"],["unsanctioned training","218910126617710148","ranis athrys"],["itermerel's notes","10664175682632725433","ranis athrys"],["join the mages guild","6525111911556514201","ranis athrys"],["specific place","1360165051119330796","masalinie merian"],["specific place","2243026128182671076","masalinie merian"],["alveleg","1344215414716128830","eydis fire-eye"],["alynu aralen","1612031367699421152","eydis fire-eye"],["code book","591129612770112113","eydis fire-eye"],["thefts and disappearances","21304294832552322477","eydis fire-eye"],["telvanni agents","1827940543214918372","eydis fire-eye"],["egg poachers","10950204911061327418","eydis fire-eye"],["thieves guild job","18465187652110829356","eydis fire-eye"],["equipment chest","2082310230136691931","eydis fire-eye"],["shulk egg mine","311454704584212432","eydis fire-eye"],["fighters guild","208882328010498750","eydis fire-eye"],["sathasa nerothren","6681302771504224740","eydis fire-eye"],["fothyna herothran","148541727271510","eydis fire-eye"],["join the fighters guild","31641126011843119037","eydis fire-eye"],["requirements","824626281811019302","eydis fire-eye"],["rules","31394300072970130495","eydis fire-eye"],["favor","17006234403263719357","hasphat antabolis"],["specific place","1360165051119330796","selvil sareloth"],["specific place","2243026128182671076","selvil sareloth"],["services","238503076378412623","selvil sareloth"],["destination","313835329247419093","selvil sareloth"],["little advice","3075413332454929067","helviane desele"],["my trade","311292777396029520","helviane desele"],["telvanni bug musk","3079389991393522945","helviane desele"],["specific place","5371200022006114700","helviane desele"],["stupid slaves","68263808293265924","daric bielle"],["stupid slaves","15470315913196615548","daric bielle"],["suran","2263148461362419329","garothmuk gro-muzgub"],["daedric","175141918339729660","garothmuk gro-muzgub"],["someone in particular","207417064473517776","garothmuk gro-muzgub"],["debt money","700411741835323230","helviane desele"],["debt money","393113866159579372","helviane desele"],["nevena ules","2966303031317239","fruscia abitius"],["my trade","28174217073020031061","fruscia abitius"],["nerevarine","52912644057432601","nevena ules"],["rules","384018574277275746","nevena ules"],["house hlaalu","20376130592873026600","nevena ules"],["morag tong","32230108502425828335","nevena ules"],["dunmer","2383529902280815725","nevena ules"],["morag tong","6448282103172722102","nevena ules"],["my friend","1785523218103341654","edras oril"],["my friend","535518496471122057","edras oril"],["my friend","2338596852561320415","thoronor"],["my friend","3178719032449412014","edras oril"],["kagouti","371643611115519171","edras oril"],["my friend","1209127929138019572","thoronor"],["debt money","2069178102422725560","eydis fire-eye"],["debt money","23282114771894816170","eydis fire-eye"],["orders","21189208202122430882","eydis fire-eye"],["dura gra-bol","22810386257729208","eydis fire-eye"],["latest rumors","21368251661447918574","nine_toes"],["hla oad","7569178393189816245","habasi"],["dura gra-bol","173965674313098995","phane rielle"],["dura gra-bol","56015168105932404","dura gra-bol"],["guard","2248215152682921955","dura gra-bol"],["fighters guild","26291148261399015653","dura gra-bol"],["dura gra-bol","1315817146980114093","eydis fire-eye"],["orders","250831784289567444","eydis fire-eye"],["specific place","1360165051119330796","fasile charascel"],["specific place","2243026128182671076","fasile charascel"],["south wall","31493116962731018960","fasile charascel"],["silt strider service","837022954349221071","fasile charascel"],["dagoth ur","11010311511205318175","rararyn radarys"],["sixth house","4189101232490916222","rararyn radarys"],["latest rumors","1756498392973324954","rararyn radarys"],["latest rumors","2688103662767828598","traven marvos"],["little secret","960625077141739030","traven marvos"],["imperial cult","922820412283385536","traven marvos"],["odai","32241292111148011934","traven marvos"],["outlander","18674239372517031452","traven marvos"],["background","2381350761026300","meril hlaano"],["specific place","1360165051119330796","chirranirr"],["someone in particular","1947411886858921680","sottilde"],["specific place","2243026128182671076","chirranirr"],["foreigners","188656986213454511","tappius esdrecus"],["balmora","113821967852672072","edd theman"],["background","310466084315123903","thanelen velas"],["services","18464205812393025930","thanelen velas"],["background","206847122036726324","banor seran"],["background","514912771514927782","sovor trandel"],["background","3274427414239830699","vadusa sathryon"],["morag tong","61998298165115129","angahran"],["join the morag tong","20248233211637824614","angahran"],["caldera","2109116831571521025","imperial guard"],["services","26241148101455412669","shenk"],["fatigue","1393941781607927279","eraamion"],["festering witch","2763820566258111868","hlormar wine-sot"],["festering witch","30533140152978823634","hlormar wine-sot"],["making a deal","27049231571584021920","pemenie"],["making a deal","6620313491186629988","pemenie"],["making a deal","13701219872279110392","pemenie"],["boots of blinding speed","743628527306374240","pemenie"],["pemenie the trader","2008725182668013970","pemenie"],["cloudcleaver","58882709432450534","sosia caristiana"],["sosia's offer","25615172011894832380","sosia caristiana"],["hlormar","326737999315098061","sosia caristiana"],["sosia's offer","13867582706920928","hlormar wine-sot"],["sosia's offer","2239543419732420","hlormar wine-sot"],["hlormar","12731155921335122607","sosia caristiana"],["cloudcleaver","75769062165320288","sosia caristiana"],["enchantment","2062532424175718236","hisin deep-raed"],["enchantment","311899330412314427","hisin deep-raed"],["potion of cure common disease","21209161715322239","hisin deep-raed"],["enchantment","202642100038582712","hisin deep-raed"],["wild nix hounds","275542387028617392","falanu indaren"],["wild nix hounds","81527746255832217","falanu indaren"],["my airship","43758722053027926","louis beauchamp"],["hrothmund's barrow","7023137071009331559","louis beauchamp"],["recover the amulet","285822254288808510","louis beauchamp"],["crew has failed me","12795611575879682","louis beauchamp"],["crew has failed me","1543524373184712036","louis beauchamp"],["solstheim","2278720479126556737","louis beauchamp"],["duties","2847734082225514753","edwinna elbert"],["chronicles of nchuleft","2946918012419552","edwinna elbert"],["chronicles of nchuleft","1786816122756313471","edwinna elbert"],["chronicles of nchuleft","16493505187536318","edwinna elbert"],["my trade","15382100702495829733","tremona maren"],["my trade","15878199043072027956","movis darys"],["orders","6986172382590219429","persius mercius"],["vas","4945190022030522086","persius mercius"],["ulyne henim","22972101933199022379","persius mercius"],["potion of cure common disease","452815464805220363","hisin deep-raed"],["enchantment","234261118832512224","hisin deep-raed"],["potion of cure common disease","30054265372752523561","hisin deep-raed"],["chronicles of nchuleft","2861191472954228655","codus callonus"],["latest rumors","2122632088405013352","rasamsi esunarnat"],["help a poor pilgrim","2672126521573514293","fonus rathryon"],["help a poor pilgrim","309231431952022127","fonus rathryon"],["koal cave","1205014970468028476","fonus rathryon"],["taken by cultists","12283819899019726","sason"],["unholy ritual","1059827279277047471","sason"],["unholy ritual","2905825901273472750","sason"],["travel together","133827980219148669","malexa"],["travel together","63751901886132503","malexa"],["travel together","14658326922789722315","malexa"],["ald velothi","492167021401522768","orero omothan"],["ald velothi","3273610796110562094","lledsea relas"],["madura seran","1066924253930228699","lledsea relas"],["ald velothi","3273610796110562094","ganus lloryn"],["dagoth ur","1723931364115259907","vireveri darethran"],["sixth house","2708525712178928293","vireveri darethran"],["madura seran","2142583812286213357","rawia ashirbibi"],["little secret","703916010385010941","rawia ashirbibi"],["madura seran","17311293131827315369","abassel asserbassalit"],["madura seran","24046923714138937","madura seran"],["travel together","18759323652624525743","madura seran"],["travel together","478057122101314892","madura seran"],["travel together","8358278053261011575","madura seran"],["travel together","91475302620620366","madura seran"],["ald velothi","25775321811386017905","madura seran"],["travel together","329142301511915266","madura seran"],["duties","4403263073208014571","theldyn virith"],["khuul","1118213657263763003","seldus nerendus"],["latest rumors","3909221290721675","thongar"],["talk","1441631215305195630","shallath-piremus"],["talk","1441631215305195630","tussurradad"],["little secret","452027941264710687","thunmund"],["little advice","1830425214167636072","tasellis burtilius"],["my trade","32043143222863424022","thunmund"],["fight together","20346204972850912813","ulyne henim"],["specific place","21565221076732445","abishpulu shand"],["specific place","2178813722674328789","abishpulu shand"],["specific place","276761092870272018","arvso tharen"],["maar gan","31295116372823213211","arvso tharen"],["dagoth ur","3268218621158529590","assi serimilk"],["sixth house","21752199521701717760","assi serimilk"],["my trade","2406622006460811801","assi serimilk"],["tashpi ashibael","1775829563413826370","aerin"],["thieves guild","1066711799333026687","aerin"],["tashpi ashibael","2727318211217426015","manse andus"],["necromancy","3590166513109528514","tashpi ashibael"],["necromancy","28261116062223115087","tashpi ashibael"],["necromancy","16663465355749005","tashpi ashibael"],["necromancy","2455129817137921511","tashpi ashibael"],["latest rumors","2065883581584229515","orrent geontene"],["vas","24316949269837966","persius mercius"],["ulyne henim","29119286528783419","persius mercius"],["orders","32664295793242122409","persius mercius"],["nerer beneran","2064631212418219601","persius mercius"],["advancement","3175629439143964105","persius mercius"],["sargon","22856209292233315718","persius mercius"],["nerer beneran","17581244982911615223","persius mercius"],["duties","2443309481099132366","malven romori"],["competition","2258216575441922351","alusaron"],["big orders","26082316113499788","alusaron"],["get that contract","217772183310916781","alusaron"],["get that contract","613825782528379","alusaron"],["fighters guild","2544328329273407542","lorbumol gro-aglakh"],["advancement","3175629439143964105","lorbumol gro-aglakh"],["orders","1937259083260119688","lorbumol gro-aglakh"],["juicedaw feather ring","90852076372625148","lorbumol gro-aglakh"],["advancement","3175629439143964105","sjoring hard-heart"],["orders","29657168112870911070","sjoring hard-heart"],["trebonius","8556272091103422420","tiram gadar"],["duties","2797322333266853427","trebonius artorius"],["disappearance of the dwarves","656726236698214733","trebonius artorius"],["mages guild","299029351187425023","trebonius artorius"],["dunmer","2383529902280815725","tiram gadar"],["trebonius","2970028742938323990","craeita jullalian"],["duties","2443309481099132366","craeita jullalian"],["trebonius","145448221388318435","sirilonwe"],["latest rumors","146312481502513753","sirilonwe"],["vivec","309163173141058809","sevyni saryon"],["cantons","9740210791387731892","sevyni saryon"],["arena","15738326681536917819","sevyni saryon"],["ministry of truth","815714571607919905","sevyni saryon"],["high fane","981920252127013607","sevyni saryon"],["guild guide","4680305161975130","seryn othralen"],["chronicles of nchuleft","26081231041180118731","jobasha"],["run of bad luck","159201367111539668","balen andrano"],["change her luck","26332456098521435","balen andrano"],["change her luck","19137596875425415","balen andrano"],["skooma","19239314151101228532","balen andrano"],["cantons","9740210791387731892","savard"],["someone in particular","13951271023028232135","elms llervu"],["someone in particular","13951271023028232135","savard"],["st. olms canton","7890181971676018509","rathyne thirano"],["st. delyn canton","47352361552226768","rathyne thirano"],["jeanne","27200148753134314027","ordinator wander"],["someone in particular","13951271023028232135","rathyne thirano"],["join the morag tong","1299818518383812323","elms llervu"],["duties","299811150295725409","faral retheran"],["slander","155052801931297952","faral retheran"],["dagoth ur","159970802852018576","alvura othrenim"],["sixth house","22527109181135525191","alvura othrenim"],["join the morag tong","246652254123626288","alvura othrenim"],["fighters guild","30111303293006120973","seanwen"],["join the morag tong","176203207021511884","ulmesi baryon"],["join the morag tong","23163320921639027638","eno hlaalu"],["join the morag tong","205646955323927419","eno hlaalu"],["writ","5846291832033724696","eno hlaalu"],["feruren oran","15871201801537426826","eno hlaalu"],["join the morag tong","825911412645628441","eno hlaalu"],["sensitive matters","1053123401240582096","taros dral"],["sensitive matters","640110986418626260","taros dral"],["sensitive matters","27538310523058411201","taros dral"],["latest rumors","1805929061172984264","daroso sethri"],["juicedaw feather ring","23042181156722337","nar gro-shagramph"],["juicedaw feather ring","2978729673242626386","nar gro-shagramph"],["feruren oran","685137928821210","eno hlaalu"],["join the morag tong","1709420591376330367","eno hlaalu"],["advancement","65412813424900431","eno hlaalu"],["writ","190506052217578651","eno hlaalu"],["odaishah yasalmibaal","29811176652328127737","eno hlaalu"],["toris saren","13937285692277523983","eno hlaalu"],["background","2210121278655515631","mudcrab_unique"],["talking mudcrab merchant","513418333128849698","mudcrab_unique"],["my trade","27418283354703857","nathala herendas"],["skooma","2200231351129827390","tinos drothan"],["telvanni bug musk","55221964563426958","tinos drothan"],["duties","43954461769727259","trebonius artorius"],["bet with galbedir","23328247495332087","ajira"],["gold kanet","26330244293053115327","ajira"],["necromancy","22613110382082613249","ranis athrys"],["necromancy","19887164801415920631","ranis athrys"],["duties","2140577593079311095","ranis athrys"],["telvanni spy","6641320912711730266","ranis athrys"],["hasphat antabolis","2229819456779925303","caius cosades"],["fighters guild","18502216051288618427","caius cosades"],["blades","21911249873129121827","caius cosades"],["caius cosades","14360221701800729047","caius cosades"],["dwemer puzzle box","19882142971327022854","hasphat antabolis"],["disturbing dreams","141846805108466748","caius cosades"],["fort moonmoth","1153428585136591628","caius cosades"],["guild guide","391531752249938332","caius cosades"],["guilds and factions","24896141572776219752","caius cosades"],["camonna tong","22726317182703524416","caius cosades"],["ashlanders","8131445829855882","caius cosades"],["house hlaalu","1895417279972315126","caius cosades"],["house redoran","299011057147519792","caius cosades"],["house telvanni","22177255061131127667","caius cosades"],["imperial cult","218051894382021198","caius cosades"],["imperial legion","23791295661104930157","caius cosades"],["lay servant","2003118829227269455","caius cosades"],["little advice","19139287163203512660","caius cosades"],["mages guild","1468412484186589768","caius cosades"],["morag tong","6355199152927027935","caius cosades"],["morrowind history","31831207152653332496","caius cosades"],["morrowind history","2824215751328330834","caius cosades"],["nerevarine","104163541438428395","caius cosades"],["rules","182829917719530449","caius cosades"],["services","1814954861644214188","caius cosades"],["sixth house","257479584316253426","caius cosades"],["nerevarine prophecies","13499525251056137","caius cosades"],["temple","25042165042180828560","caius cosades"],["thieves guild","22801224281918912297","caius cosades"],["dwemer","1958550751691917436","hasphat antabolis"],["dagoth ur","645884282651816915","hasphat antabolis"],["balmora fighters guild","3221813379886029541","hasphat antabolis"],["dwemer artifacts","3263126373777822635","hasphat antabolis"],["dwemer sites","4043106792242311853","hasphat antabolis"],["favor","23066108981558011850","hasphat antabolis"],["fighters guild","30398182271296118430","hasphat antabolis"],["house dagoth","1103510489254713755","hasphat antabolis"],["morrowind history","26641290942936731915","hasphat antabolis"],["nerevarine","264921745751934754","hasphat antabolis"],["current events","32030551020854759","hasphat antabolis"],["morrowind history","12474147772691111755","hasphat antabolis"],["sixth house","24786265931023614933","hasphat antabolis"],["sixth house references","19063204104714531","hasphat antabolis"],["sixth house","1202754631379422532","hasphat antabolis"],["morrowind history","63175153281099139","hasphat antabolis"],["nchuleftingth","30149342957665081","hasphat antabolis"],["nchuleftingth","3377130542535119081","hasphat antabolis"],["dwemer language","123355137493514497","hasphat antabolis"],["orders","2012622432489029727","caius cosades"],["orders","23588256493054024115","caius cosades"],["errand","288918185757411443","sharn gra-muzgob"],["errand","16293234062747712419","sharn gra-muzgob"],["andrano ancestral tomb","1091431135261045346","sharn gra-muzgob"],["trebonius","3004030161723721058","edwinna elbert"],["ald velothi","1504219359159859529","edwinna elbert"],["nchuleftingth","3034714944355910117","edwinna elbert"],["telvanni spy","3249931226303674502","edwinna elbert"],["advancement","19832237922992719418","edwinna elbert"],["chronicles of nchuleft","946247231264014642","edwinna elbert"],["chronicles of nchuleft","2641885042222313163","edwinna elbert"],["chronicles of nchuleft","21806256833173112664","edwinna elbert"],["duties","159220191805528908","edwinna elbert"],["detect creatures potion","3131105322833827259","edwinna elbert"],["detect creatures potion","18023171252229020242","edwinna elbert"],["advancement","471231169661325663","edwinna elbert"],["errand","2369241622602432340","sharn gra-muzgob"],["errand","92501845924729422","sharn gra-muzgob"],["nerevarine cult","2436419953283993854","sharn gra-muzgob"],["nerevarine prophecies","31349121562668227936","sharn gra-muzgob"],["telvanni spy","44072507191333341","ajira"],["orders","1769827919139593749","caius cosades"],["orders","297749082693230546","caius cosades"],["orders","140525241648531121","caius cosades"],["addhiranirr","1505014022672216914","caius cosades"],["huleeya","3136693961028632509","caius cosades"],["mehra milo","2492547921215315","caius cosades"],["blades apprentice","1010328727326818700","caius cosades"],["blades apprentice","32212141051164821657","caius cosades"],["sargon","1162966682928225468","arvso tharen"],["sargon","24441161152667522631","arvso tharen"],["sargon","1162966682928225468","sedris omalen"],["maar gan","31295116372823213211","nuleno tedas"],["sargon","29089101551222532221","nuleno tedas"],["sargon","29089101551222532221","bugdurash gra-gashel"]],
+  "clientVariables":{
+    "globals":{
+      "dbattack":{
+        "intValue":1,
+        "variableType":0
+      },
+      "madurarescued":{
+        "intValue":1,
+        "variableType":0
+      },
+      "mt_newcrimelevel":{
+        "intValue":40,
+        "variableType":0
+      }
+    }
   },
-  "topics":["specific place","background","morrowind","uriel septim","duties","caius cosades","south wall","someone in particular","services","my trade","little secret","latest rumors","little advice","balmora","solstheim","imperial","the empire","silt strider","popular potions","popular scrolls","practice your skills","recover some gold","fargoth's hiding place","pelagiad","caldera","ebonheart","vivec","vvardenfell","vvardenfell district","inner sea","padomaic ocean","sea of ghosts","imperial cult","bandit nearby","jewels","nelos onmar","maurrie's glove","dark brotherhood","apelles matius","imperial legion","nerevarine","lay member","citizens of the empire","bacola closcius","fighters guild","fort moonmoth","silt strider service","guild guide","hla oad","ghostgate","foyada mamaea","red mountain","the blight","balmora mages guild","join the thieves guild","price on your head","rules","house hlaalu","thieves guild","outlander","morrowind lore","beds","report to caius cosades","orders","blades trainers","blades","rithleen","tyermaillin","nine-toes","surane leoriane","gildan","sjorvar horse-mouth","elone","temple","mages guild","freelance work","hasphat antabolis","sixth house","morrowind history","disturbing dreams","imperial law","join the mages guild","advancement","requirements","local brews","help in a fight","telvanni bug musk","high places","mushrooms","luminous russula","violet coprinus","bungler's bane","hypha facia","odai","join the fighters guild","equipment chest","cave rat","shulk egg mine","egg poachers","morag tong","kwama forager","murderous outlaws","telvanni agents","thefts and disappearances","caldera ebony mines","alynu aralen","sathasa nerothren","fothyna herothran","alveleg","thieves guild job","bet with galbedir","fake soul gem","flowers","gold kanet","stoneflower petals","willow anther","heather","lake amaya","ceramic bowl","daedric","stolen reports","join us","guild dues","punabi","sulipund","molag amur","caldera mining company","guard","code book","sottilde","favor","arkngthand","dwemer puzzle box","disappearance of the dwarves","foyada","debt money","unsanctioned training","enchantments","health","fatigue","itermerel's notes","travel together","tashpi ashibael","necromancy","destination","dwemer","balmora temple","balmora fighters guild","ascadian isles","suran","stupid slaves","haj-ei","hides his eyes","avon oran","nevena ules","dunmer","house wars","my friend","kagouti","dura gra-bol","gnisis","dagoth ur","foreigners","join the morag tong","food","festering witch","cloudcleaver","help me","present","making a deal","pemenie the trader","boots of blinding speed","hlormar","sosia's offer","enchantment","potion of cure common disease","wild nix hounds","my airship","hrothmund's barrow","recover the amulet","crew has failed me","chronicles of nchuleft","ald'ruhn","ulyne henim","vas","house redoran","work","help a poor pilgrim","koal cave","taken by cultists","unholy ritual","escape from cultists","mask of vivec","gnisis temple","skooma","ald velothi","theldyn virith","madura seran","khuul","talk","fight together","eggmine","barracks","fort darius","hetman abelmawia","maar gan","moon sugar","nerer beneran","sargon","trebonius","competition","big orders","get that contract","juicedaw feather ring","egg of time","divine metaphysics","foreign quarter","cantons","arena","st. olms canton","ministry of truth","high fane","redoran compound","telvanni compound","palace of vivec","run of bad luck","jeanne","change her luck","hlaalu compound","hall of wisdom","hall of justice","st. delyn canton","slander","sensitive matters","writ","feruren oran","special duties","sanguine balanced armor","sanguine deep biting","sanguine denial","sanguine enterprise","sanguine fleetness","sanguine fluid evasion","sanguine glib speech","sanguine golden wisdom","sanguine green wisdom","sanguine hewing","sanguine horny fist","sanguine impaling thrust","sanguine leaping","sanguine martial craft","sanguine nimble armor","sanguine red wisdom","sanguine safekeeping","sanguine silver wisdom","sanguine smiting","sanguine stalking","sanguine stolid armor","sanguine sublime wisdom","sanguine sureflight","sanguine swiftblade","sanguine transcendence","sanguine transfiguring","sanguine unseen wisdom","odaishah yasalmibaal","toris saren","talking mudcrab merchant","fines and compensation","telvanni spy","join the temple","guilds and factions","house telvanni","camonna tong","ashlanders","lay servant","nerevarine prophecies","dwemer sites","dwemer artifacts","house dagoth","nchuleftingth","current events","sixth house references","dwemer language","sharn gra-muzgob","errand","necromancers","llevule andrano","andrano ancestral tomb","detect creatures potion","nerevarine cult","nerevar","blades apprentice","addhiranirr","huleeya","mehra milo","ashlands"],
+  "journal":[{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"chargen captain",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"bm_rumors",
+      "actorRefId":"chargen captain",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"bm_rumors",
+      "actorRefId":"chargen captain",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"elone",
+      "index":2,
+      "timestamp":{
+        "month":7,
+        "day":16,
+        "daysPassed":1
+      },
+      "type":0
+    },{
+      "quest":"mv_victimromance",
+      "actorRefId":"maurrie aurmine",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":17,
+        "daysPassed":2
+      },
+      "type":0
+    },{
+      "quest":"mv_victimromance",
+      "actorRefId":"maurrie aurmine",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":17,
+        "daysPassed":2
+      },
+      "type":0
+    },{
+      "quest":"mv_victimromance",
+      "actorRefId":"maurrie aurmine",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":17,
+        "daysPassed":2
+      },
+      "type":0
+    },{
+      "quest":"mv_victimromance",
+      "actorRefId":"maurrie aurmine",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":17,
+        "daysPassed":2
+      },
+      "type":0
+    },{
+      "quest":"tr_dbattack",
+      "actorRefId":"imperial guard",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":17,
+        "daysPassed":2
+      },
+      "type":0
+    },{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"sottilde",
+      "index":5,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"bacola closcius",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"caius cosades",
+      "index":14,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_rithleen2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_tyermaillin2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_nine_toes2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_surane2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_gildan2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_sjorvar2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"blades_elone2",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"caius cosades",
+      "index":18,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":18,
+        "daysPassed":3
+      },
+      "type":0
+    },{
+      "quest":"mg_bcshrooms",
+      "actorRefId":"ajira",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_rathunt",
+      "actorRefId":"eydis fire-eye",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_rathunt",
+      "actorRefId":"drarayne thelas",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_rathunt",
+      "actorRefId":"drarayne thelas",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_rathunt",
+      "actorRefId":"eydis fire-eye",
+      "index":105,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":19,
+        "daysPassed":4
+      },
+      "type":0
+    },{
+      "quest":"mv_bastard",
+      "actorRefId":"fjol",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"fg_telvanni_agents",
+      "actorRefId":"eydis fire-eye",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_bcshrooms",
+      "actorRefId":"ajira",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_sabotage",
+      "actorRefId":"ajira",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_sabotage",
+      "actorRefId":"ajira",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_flowers",
+      "actorRefId":"ajira",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_flowers",
+      "actorRefId":"ajira",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_bowl",
+      "actorRefId":"ajira",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_stolenreport",
+      "actorRefId":"ajira",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_bowl",
+      "actorRefId":"ajira",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_stolenreport",
+      "actorRefId":"ajira",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_paydues",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"mg_joinus",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":20,
+        "daysPassed":5
+      },
+      "type":0
+    },{
+      "quest":"fg_telvanni_agents",
+      "actorRefId":"eydis fire-eye",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":22,
+        "daysPassed":7
+      },
+      "type":0
+    },{
+      "quest":"fg_sottilde",
+      "actorRefId":"eydis fire-eye",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":22,
+        "daysPassed":7
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"hasphat antabolis",
+      "index":5,
+      "timestamp":{
+        "month":7,
+        "day":22,
+        "daysPassed":7
+      },
+      "type":0
+    },{
+      "quest":"fg_sottilde",
+      "actorRefId":"sottilde",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":22,
+        "daysPassed":7
+      },
+      "type":0
+    },{
+      "quest":"fg_sottilde",
+      "actorRefId":"eydis fire-eye",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":23,
+        "daysPassed":8
+      },
+      "type":0
+    },{
+      "quest":"fg_deseledebt",
+      "actorRefId":"eydis fire-eye",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":23,
+        "daysPassed":8
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"misc_dwrv_ark_cube00",
+      "index":7,
+      "timestamp":{
+        "month":7,
+        "day":23,
+        "daysPassed":8
+      },
+      "type":0
+    },{
+      "quest":"mg_paydues",
+      "actorRefId":"manwe",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":24,
+        "daysPassed":9
+      },
+      "type":0
+    },{
+      "quest":"mg_paydues",
+      "actorRefId":"manwe",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":24,
+        "daysPassed":9
+      },
+      "type":0
+    },{
+      "quest":"mg_joinus",
+      "actorRefId":"llarar bereloth",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":24,
+        "daysPassed":9
+      },
+      "type":0
+    },{
+      "quest":"mg_joinus",
+      "actorRefId":"ranis athrys",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"mg_paydues",
+      "actorRefId":"ranis athrys",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"mg_advancement",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"mg_advancement",
+      "actorRefId":"ranis athrys",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"mg_stopcompetition",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"town_balmora",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":25,
+        "daysPassed":10
+      },
+      "type":0
+    },{
+      "quest":"mg_stopcompetition",
+      "actorRefId":"onlyhestandsthere",
+      "index":70,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mg_stopcompetition",
+      "actorRefId":"ranis athrys",
+      "index":110,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mg_escortscholar2",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mg_escortscholar2",
+      "actorRefId":"itermerel",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mg_escortscholar2",
+      "actorRefId":"ranis athrys",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mg_killnecro2",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"rules_fighters",
+      "actorRefId":"eydis fire-eye",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"hasphat antabolis",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mv_bountyhunter",
+      "actorRefId":"daric bielle",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mv_bountyhunter",
+      "actorRefId":"daric bielle",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"mv_bountyhunter",
+      "actorRefId":"daric bielle",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":26,
+        "daysPassed":11
+      },
+      "type":0
+    },{
+      "quest":"fg_deseledebt",
+      "actorRefId":"helviane desele",
+      "index":70,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"rules_hlaalu",
+      "actorRefId":"nevena ules",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"edras oril",
+      "index":15,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"edras oril",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"edras oril",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"edras oril",
+      "index":25,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"edras oril",
+      "index":90,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"mv_strayedpilgrim",
+      "actorRefId":"thoronor",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":27,
+        "daysPassed":12
+      },
+      "type":0
+    },{
+      "quest":"fg_deseledebt",
+      "actorRefId":"eydis fire-eye",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":28,
+        "daysPassed":13
+      },
+      "type":0
+    },{
+      "quest":"fg_orcbounty",
+      "actorRefId":"eydis fire-eye",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":28,
+        "daysPassed":13
+      },
+      "type":0
+    },{
+      "quest":"fg_orcbounty",
+      "actorRefId":"eydis fire-eye",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":28,
+        "daysPassed":13
+      },
+      "type":0
+    },{
+      "quest":"a1_sleepersawake",
+      "actorRefId":"rararyn radarys",
+      "index":1,
+      "timestamp":{
+        "month":7,
+        "day":29,
+        "daysPassed":14
+      },
+      "type":0
+    },{
+      "quest":"mv_abusedhealer",
+      "actorRefId":"hlormar wine-sot",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_abusedhealer",
+      "actorRefId":"hlormar wine-sot",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_bugrol",
+      "actorRefId":"bugrol gro-bagul",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_traderabandoned",
+      "actorRefId":"pemenie",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_traderabandoned",
+      "actorRefId":"pemenie",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_traderabandoned",
+      "actorRefId":"pemenie",
+      "index":110,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_abusedhealer",
+      "actorRefId":"sosia caristiana",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_abusedhealer",
+      "actorRefId":"hlormar wine-sot",
+      "index":70,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_abusedhealer",
+      "actorRefId":"sosia caristiana",
+      "index":75,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_paralyzedbarbarian",
+      "actorRefId":"hisin deep-raed",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_paralyzedbarbarian",
+      "actorRefId":"hisin deep-raed",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_paralyzedbarbarian",
+      "actorRefId":"hisin deep-raed",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"falanu indaren",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"falanu indaren",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"falanu indaren",
+      "index":30,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"drerel indaren",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"drerel indaren",
+      "index":50,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_missingcompanion",
+      "actorRefId":"drerel indaren",
+      "index":60,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"bm_airship",
+      "actorRefId":"louis beauchamp",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"bm_airship",
+      "actorRefId":"louis beauchamp",
+      "index":20,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"bm_airship",
+      "actorRefId":"louis beauchamp",
+      "index":40,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mg_nchuleftbook",
+      "actorRefId":"edwinna elbert",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"fg_vas",
+      "actorRefId":"persius mercius",
+      "index":10,
+      "timestamp":{
+        "month":7,
+        "day":30,
+        "daysPassed":15
+      },
+      "type":0
+    },{
+      "quest":"mv_paralyzedbarbarian",
+      "actorRefId":"hisin deep-raed",
+      "index":100,
+      "timestamp":{
+        "month":7,
+        "day":31,
+        "daysPassed":16
+      },
+      "type":0
+    },{
+      "quest":"mv_paralyzedbarbarian",
+      "actorRefId":"hisin deep-raed",
+      "index":110,
+      "timestamp":{
+        "month":7,
+        "day":31,
+        "daysPassed":16
+      },
+      "type":0
+    },{
+      "quest":"mv_poorpilgrim",
+      "actorRefId":"fonus rathryon",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_poorpilgrim",
+      "actorRefId":"fonus rathryon",
+      "index":20,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_poorpilgrim",
+      "actorRefId":"fonus rathryon",
+      "index":25,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"sason",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"sason",
+      "index":20,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"sason",
+      "index":30,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"sason",
+      "index":40,
+      "timestamp":{
+        "month":8,
+        "day":1,
+        "daysPassed":17
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"malexa",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":2,
+        "daysPassed":18
+      },
+      "type":0
+    },{
+      "quest":"mv_cultistvictim",
+      "actorRefId":"sason",
+      "index":100,
+      "timestamp":{
+        "month":8,
+        "day":2,
+        "daysPassed":18
+      },
+      "type":0
+    },{
+      "quest":"il_rescuepilgrim",
+      "actorRefId":"madura seran",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":3,
+        "daysPassed":19
+      },
+      "type":0
+    },{
+      "quest":"il_rescuepilgrim",
+      "actorRefId":"madura seran",
+      "index":70,
+      "timestamp":{
+        "month":8,
+        "day":3,
+        "daysPassed":19
+      },
+      "type":0
+    },{
+      "quest":"il_rescuepilgrim",
+      "actorRefId":"madura seran",
+      "index":70,
+      "timestamp":{
+        "month":8,
+        "day":3,
+        "daysPassed":19
+      },
+      "type":0
+    },{
+      "quest":"fg_vas",
+      "actorRefId":"ulyne henim",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":6,
+        "daysPassed":22
+      },
+      "type":0
+    },{
+      "quest":"fg_vas",
+      "actorRefId":"player",
+      "index":70,
+      "timestamp":{
+        "month":8,
+        "day":6,
+        "daysPassed":22
+      },
+      "type":0
+    },{
+      "quest":"mg_killnecro2",
+      "actorRefId":"tashpi ashibael",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":6,
+        "daysPassed":22
+      },
+      "type":0
+    },{
+      "quest":"fg_vas",
+      "actorRefId":"persius mercius",
+      "index":105,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"fg_beneranbounty",
+      "actorRefId":"persius mercius",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"eb_deed",
+      "actorRefId":"alusaron",
+      "index":15,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"eb_deed",
+      "actorRefId":"alusaron",
+      "index":20,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"eb_deed",
+      "actorRefId":"alusaron",
+      "index":40,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"fg_debtorc",
+      "actorRefId":"lorbumol gro-aglakh",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"mg_dwarves",
+      "actorRefId":"trebonius artorius",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":7,
+        "daysPassed":23
+      },
+      "type":0
+    },{
+      "quest":"eb_bone",
+      "actorRefId":"balen andrano",
+      "index":15,
+      "timestamp":{
+        "month":8,
+        "day":8,
+        "daysPassed":24
+      },
+      "type":0
+    },{
+      "quest":"eb_bone",
+      "actorRefId":"balen andrano",
+      "index":30,
+      "timestamp":{
+        "month":8,
+        "day":8,
+        "daysPassed":24
+      },
+      "type":0
+    },{
+      "quest":"hr_hlaanoslanders",
+      "actorRefId":"faral retheran",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":8,
+        "daysPassed":24
+      },
+      "type":0
+    },{
+      "quest":"mt_writoran",
+      "actorRefId":"eno hlaalu",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":8,
+        "daysPassed":24
+      },
+      "type":0
+    },{
+      "quest":"da_mephala",
+      "actorRefId":"taros dral",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"da_mephala",
+      "actorRefId":"taros dral",
+      "index":40,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"town_vivec",
+      "actorRefId":"daroso sethri",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"fg_debtorc",
+      "actorRefId":"nar gro-shagramph",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mt_writoran",
+      "actorRefId":"player",
+      "index":90,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mt_writoran",
+      "actorRefId":"player",
+      "index":80,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mt_writoran",
+      "actorRefId":"eno hlaalu",
+      "index":100,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mt_writyasalmibaal",
+      "actorRefId":"eno hlaalu",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mt_writsaren",
+      "actorRefId":"eno hlaalu",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":9,
+        "daysPassed":25
+      },
+      "type":0
+    },{
+      "quest":"mv_angrytrader",
+      "actorRefId":"tinos drothan",
+      "index":5,
+      "timestamp":{
+        "month":8,
+        "day":11,
+        "daysPassed":27
+      },
+      "type":0
+    },{
+      "quest":"mg_killnecro2",
+      "actorRefId":"ranis athrys",
+      "index":100,
+      "timestamp":{
+        "month":8,
+        "day":11,
+        "daysPassed":27
+      },
+      "type":0
+    },{
+      "quest":"mg_spycatch",
+      "actorRefId":"ranis athrys",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":11,
+        "daysPassed":27
+      },
+      "type":0
+    },{
+      "quest":"book_history",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"book_onmorrowind",
+      "actorRefId":"hasphat antabolis",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"hasphat antabolis",
+      "index":15,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"mg_excavation",
+      "actorRefId":"hasphat antabolis",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"caius cosades",
+      "index":20,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"sharn gra-muzgob",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"sharn gra-muzgob",
+      "index":12,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"mg_nchuleftbook",
+      "actorRefId":"edwinna elbert",
+      "index":100,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"mg_potion",
+      "actorRefId":"edwinna elbert",
+      "index":10,
+      "timestamp":{
+        "month":8,
+        "day":12,
+        "daysPassed":28
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"sharn gra-muzgob",
+      "index":15,
+      "timestamp":{
+        "month":8,
+        "day":13,
+        "daysPassed":29
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"sharn gra-muzgob",
+      "index":20,
+      "timestamp":{
+        "month":8,
+        "day":13,
+        "daysPassed":29
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"caius cosades",
+      "index":30,
+      "timestamp":{
+        "month":8,
+        "day":13,
+        "daysPassed":29
+      },
+      "type":0
+    },{
+      "quest":"a1_v_vivecinformants",
+      "actorRefId":"caius cosades",
+      "index":1,
+      "timestamp":{
+        "month":8,
+        "day":13,
+        "daysPassed":29
+      },
+      "type":0
+    },{
+      "quest":"a1_4_muzgobinformant",
+      "actorRefId":"caius cosades",
+      "index":55,
+      "timestamp":{
+        "month":8,
+        "day":13,
+        "daysPassed":29
+      },
+      "type":0
+    },{
+      "quest":"fg_beneranbounty",
+      "actorRefId":"nuleno tedas",
+      "index":50,
+      "timestamp":{
+        "month":8,
+        "day":14,
+        "daysPassed":30
+      },
+      "type":0
+    }],
+  "factionRanks":{
+    "blades":1,
+    "mages guild":5,
+    "morag tong":0,
+    "fighters guild":3
+  },
+  "factionReputation":{
+    "temple":5,
+    "mages guild":57,
+    "imperial legion":5,
+    "redoran":5,
+    "thieves guild":-10,
+    "fighters guild":30
+  },
+  "factionExpulsion":[],
+  "mapExplored":[],
+  "customVariables":{
+    "deliveredCaiusPackage":true
+  },
   "kills":{
-    "nix-hound blighted":1,
-    "abassel asserbassalit":1,
-    "ancestor_ghost_summon":1,
-    "duldresi senim":1,
-    "ash_slave":5,
-    "ash_zombie":2,
-    "kagouti_diseased":1,
-    "atronach_frost":1,
-    "centurion_steam":1,
-    "centurion_spider":1,
-    "dwarven ghost":3,
-    "godrod hairy-breeks":1,
-    "rerilie llandu":1,
-    "nix-hound":21,
-    "glannison":1,
-    "galam llendu":1,
-    "quarra vampire 5":1,
-    "mudcrab-diseased":4,
-    "itermerel":1,
-    "db_assassin1b":5,
-    "clannfear":3,
-    "bato veranius":1,
-    "skeleton warrior":6,
-    "hibaddar ilath-pal":1,
-    "rat_blighted":9,
-    "cristus lync":1,
-    "slaughterfish_small":13,
-    "dagoth fovon":1,
-    "dreamer_06":1,
-    "dreamer_02":1,
-    "guar_feral":9,
-    "trelam falvani":1,
-    "pemenie":1,
-    "sosia caristiana":1,
-    "alit_diseased":4,
+    "skeleton champ_sandas00":1,
+    "surus velvus":1,
     "elante":1,
     "kwama worker entrance":2,
     "ainab yassabisun":1,
@@ -53,43 +1667,83 @@
     "hlormar wine-sot":1,
     "guar":4,
     "db_assassin1":24,
-    "kwama forager":17,
-    "kagouti":3,
-    "alveleg":1,
-    "alynu aralen":1,
+    "skeleton champ_sandas10":1,
     "alvur hleran":1,
     "laire":1,
     "scrib":2,
+    "db_assassin1b":5,
+    "alit_diseased":4,
+    "sosia caristiana":1,
+    "rat":20,
+    "pemenie":1,
+    "trelam falvani":1,
+    "guar_feral":9,
+    "dreamer_02":1,
+    "kwama forager":17,
+    "dreamer_06":1,
+    "dagoth fovon":1,
+    "dremora":2,
+    "cristus lync":1,
+    "alynu aralen":1,
+    "sathasa nerothren":1,
+    "fothyna herothran":1,
+    "alveleg":1,
+    "scamp":15,
+    "red livia":1,
+    "ulyne henim":1,
+    "rat_blighted":9,
+    "hibaddar ilath-pal":1,
+    "boss crito":1,
+    "itermerel":1,
+    "feruren oran":1,
+    "quarra vampire 1":1,
+    "bato veranius":1,
+    "clannfear":3,
+    "kagouti":3,
+    "dura gra-bol":1,
+    "snowy granius":1,
+    "quarra vampire 2":1,
+    "duldresi senim":1,
+    "bonelord":1,
+    "galam llendu":1,
+    "glannison":1,
+    "felisi serano":1,
     "irbran kirbatha":1,
+    "nix-hound":21,
     "slaughterfish":26,
-    "cliff racer":27,
+    "rerilie llandu":1,
+    "godrod hairy-breeks":1,
+    "skeleton champion":2,
+    "cliff racer":28,
+    "dwarven ghost":3,
     "skeleton":4,
+    "centurion_spider":1,
     "daynila valas":1,
     "dathman mochtuis":1,
     "shanit ashar-don":1,
+    "ash_slave":5,
     "quarra vampire 4":1,
     "salmus kaushmamanu":1,
     "atronach_flame":1,
     "daris adram":1,
     "mudcrab":10,
-    "ulyne henim":1,
     "fanasa ienith":1,
-    "fothyna herothran":1,
     "bonewalker_greater":6,
-    "quarra vampire 2":1,
-    "quarra vampire 1":1,
-    "sathasa nerothren":1,
-    "dremora":2,
+    "atronach_frost":1,
+    "kagouti_diseased":1,
+    "ash_zombie":2,
+    "nix-hound blighted":1,
+    "lalaine essagan":1,
+    "abassel asserbassalit":1,
+    "ancestor_ghost_summon":1,
     "sevilo othan":1,
     "dreugh":4,
-    "skeleton champ_sandas10":1,
+    "shalk":1,
     "terenu uveran":1,
     "ancestor_ghost":2,
     "kagouti_mating":2,
     "bonewalker":16,
-    "scamp":15,
-    "red livia":1,
-    "boss crito":1,
+    "centurion_steam":1,
     "dandynea rothalen":1,
     "anit eramarellaku":1,
     "mamaea ularshanentus":1,
@@ -101,1698 +1755,44 @@
     "malay ranarbatus":1,
     "varasa dreloth":1,
     "rat_diseased":5,
+    "quarra vampire 5":1,
+    "mudcrab-diseased":4,
     "badama andarys":1,
     "coirtene liore":1,
     "idhdean tailas":1,
     "alit":6,
     "rat_cave_fgrh":3,
+    "skeleton warrior":6,
     "yassour hairshumusa":1,
     "hunger_fghl":1,
     "ogrim":1,
     "centurion_sphere":4,
     "dondir":1,
-    "dura gra-bol":1,
     "urnel relas":1,
     "daynasa tharen":1,
     "dremora_lord":1,
     "erns maren":1,
-    "feruren oran":1,
+    "slaughterfish_small":13,
     "zalabelk saladnius":1,
     "dreamer_f_01":1,
     "debentien sylbenitte":1,
     "frink ruuz":1,
     "cliff racer_diseased":5,
-    "quarra vampire 3":1,
-    "skeleton champ_sandas00":1,
-    "surus velvus":1,
-    "snowy granius":1,
-    "lalaine essagan":1,
-    "bonelord":1,
-    "felisi serano":1,
-    "skeleton champion":2,
-    "rat":20,
-    "shalk":1
+    "quarra vampire 3":1
   },
-  "journal":[{
-      "type":0,
-      "index":1,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"chargen captain",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"bm_rumors",
-      "actorRefId":"chargen captain",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"bm_rumors",
-      "actorRefId":"chargen captain",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"ms_lookout",
-      "actorRefId":"hrisskar flat-foot",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"ms_lookout",
-      "actorRefId":"hrisskar flat-foot",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":2,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"elone",
-      "timestamp":{
-        "month":7,
-        "day":16,
-        "daysPassed":1
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_victimromance",
-      "actorRefId":"maurrie aurmine",
-      "timestamp":{
-        "month":7,
-        "day":17,
-        "daysPassed":2
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_victimromance",
-      "actorRefId":"maurrie aurmine",
-      "timestamp":{
-        "month":7,
-        "day":17,
-        "daysPassed":2
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_victimromance",
-      "actorRefId":"maurrie aurmine",
-      "timestamp":{
-        "month":7,
-        "day":17,
-        "daysPassed":2
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_victimromance",
-      "actorRefId":"maurrie aurmine",
-      "timestamp":{
-        "month":7,
-        "day":17,
-        "daysPassed":2
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"tr_dbattack",
-      "actorRefId":"imperial guard",
-      "timestamp":{
-        "month":7,
-        "day":17,
-        "daysPassed":2
-      }
-    },{
-      "type":0,
-      "index":5,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"sottilde",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"bacola closcius",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":14,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_rithleen2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_tyermaillin2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_nine_toes2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_surane2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_gildan2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_sjorvar2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"blades_elone2",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":18,
-      "quest":"a1_1_findspymaster",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":7,
-        "day":18,
-        "daysPassed":3
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_bcshrooms",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_rathunt",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"fg_rathunt",
-      "actorRefId":"drarayne thelas",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_rathunt",
-      "actorRefId":"drarayne thelas",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":105,
-      "quest":"fg_rathunt",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"fg_egg_poachers",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_egg_poachers",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":19,
-        "daysPassed":4
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mv_bastard",
-      "actorRefId":"fjol",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_egg_poachers",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"fg_telvanni_agents",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_bcshrooms",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_sabotage",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_sabotage",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_flowers",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_flowers",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_bowl",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_stolenreport",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_bowl",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_stolenreport",
-      "actorRefId":"ajira",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_paydues",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_joinus",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":20,
-        "daysPassed":5
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_telvanni_agents",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":22,
-        "daysPassed":7
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_sottilde",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":22,
-        "daysPassed":7
-      }
-    },{
-      "type":0,
-      "index":5,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"hasphat antabolis",
-      "timestamp":{
-        "month":7,
-        "day":22,
-        "daysPassed":7
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"fg_sottilde",
-      "actorRefId":"sottilde",
-      "timestamp":{
-        "month":7,
-        "day":22,
-        "daysPassed":7
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_sottilde",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":23,
-        "daysPassed":8
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_deseledebt",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":23,
-        "daysPassed":8
-      }
-    },{
-      "type":0,
-      "index":7,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"misc_dwrv_ark_cube00",
-      "timestamp":{
-        "month":7,
-        "day":23,
-        "daysPassed":8
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mg_paydues",
-      "actorRefId":"manwe",
-      "timestamp":{
-        "month":7,
-        "day":24,
-        "daysPassed":9
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mg_paydues",
-      "actorRefId":"manwe",
-      "timestamp":{
-        "month":7,
-        "day":24,
-        "daysPassed":9
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mg_joinus",
-      "actorRefId":"llarar bereloth",
-      "timestamp":{
-        "month":7,
-        "day":24,
-        "daysPassed":9
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_joinus",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_paydues",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_advancement",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mg_advancement",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_stopcompetition",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"town_balmora",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":25,
-        "daysPassed":10
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"mg_stopcompetition",
-      "actorRefId":"onlyhestandsthere",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":110,
-      "quest":"mg_stopcompetition",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_escortscholar2",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mg_escortscholar2",
-      "actorRefId":"itermerel",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_escortscholar2",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_killnecro2",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"rules_fighters",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"hasphat antabolis",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_bountyhunter",
-      "actorRefId":"daric bielle",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_bountyhunter",
-      "actorRefId":"daric bielle",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_bountyhunter",
-      "actorRefId":"daric bielle",
-      "timestamp":{
-        "month":7,
-        "day":26,
-        "daysPassed":11
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"fg_deseledebt",
-      "actorRefId":"helviane desele",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"rules_hlaalu",
-      "actorRefId":"nevena ules",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":15,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"edras oril",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"edras oril",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"edras oril",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":25,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"edras oril",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":90,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"edras oril",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mv_strayedpilgrim",
-      "actorRefId":"thoronor",
-      "timestamp":{
-        "month":7,
-        "day":27,
-        "daysPassed":12
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_deseledebt",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":28,
-        "daysPassed":13
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_orcbounty",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":28,
-        "daysPassed":13
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"fg_orcbounty",
-      "actorRefId":"eydis fire-eye",
-      "timestamp":{
-        "month":7,
-        "day":28,
-        "daysPassed":13
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"a1_sleepersawake",
-      "actorRefId":"rararyn radarys",
-      "timestamp":{
-        "month":7,
-        "day":29,
-        "daysPassed":14
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_abusedhealer",
-      "actorRefId":"hlormar wine-sot",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_abusedhealer",
-      "actorRefId":"hlormar wine-sot",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_bugrol",
-      "actorRefId":"bugrol gro-bagul",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_traderabandoned",
-      "actorRefId":"pemenie",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_traderabandoned",
-      "actorRefId":"pemenie",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":110,
-      "quest":"mv_traderabandoned",
-      "actorRefId":"pemenie",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mv_abusedhealer",
-      "actorRefId":"sosia caristiana",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"mv_abusedhealer",
-      "actorRefId":"hlormar wine-sot",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":75,
-      "quest":"mv_abusedhealer",
-      "actorRefId":"sosia caristiana",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_paralyzedbarbarian",
-      "actorRefId":"hisin deep-raed",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_paralyzedbarbarian",
-      "actorRefId":"hisin deep-raed",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_paralyzedbarbarian",
-      "actorRefId":"hisin deep-raed",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"falanu indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"falanu indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"falanu indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"drerel indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"drerel indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":60,
-      "quest":"mv_missingcompanion",
-      "actorRefId":"drerel indaren",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"bm_airship",
-      "actorRefId":"louis beauchamp",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"bm_airship",
-      "actorRefId":"louis beauchamp",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"bm_airship",
-      "actorRefId":"louis beauchamp",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_nchuleftbook",
-      "actorRefId":"edwinna elbert",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_vas",
-      "actorRefId":"persius mercius",
-      "timestamp":{
-        "month":7,
-        "day":30,
-        "daysPassed":15
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mv_paralyzedbarbarian",
-      "actorRefId":"hisin deep-raed",
-      "timestamp":{
-        "month":7,
-        "day":31,
-        "daysPassed":16
-      }
-    },{
-      "type":0,
-      "index":110,
-      "quest":"mv_paralyzedbarbarian",
-      "actorRefId":"hisin deep-raed",
-      "timestamp":{
-        "month":7,
-        "day":31,
-        "daysPassed":16
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_poorpilgrim",
-      "actorRefId":"fonus rathryon",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_poorpilgrim",
-      "actorRefId":"fonus rathryon",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":25,
-      "quest":"mv_poorpilgrim",
-      "actorRefId":"fonus rathryon",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"sason",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"sason",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"sason",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"sason",
-      "timestamp":{
-        "month":8,
-        "day":1,
-        "daysPassed":17
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"malexa",
-      "timestamp":{
-        "month":8,
-        "day":2,
-        "daysPassed":18
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mv_cultistvictim",
-      "actorRefId":"sason",
-      "timestamp":{
-        "month":8,
-        "day":2,
-        "daysPassed":18
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"il_rescuepilgrim",
-      "actorRefId":"madura seran",
-      "timestamp":{
-        "month":8,
-        "day":3,
-        "daysPassed":19
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"il_rescuepilgrim",
-      "actorRefId":"madura seran",
-      "timestamp":{
-        "month":8,
-        "day":3,
-        "daysPassed":19
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"il_rescuepilgrim",
-      "actorRefId":"madura seran",
-      "timestamp":{
-        "month":8,
-        "day":3,
-        "daysPassed":19
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"fg_vas",
-      "actorRefId":"ulyne henim",
-      "timestamp":{
-        "month":8,
-        "day":6,
-        "daysPassed":22
-      }
-    },{
-      "type":0,
-      "index":70,
-      "quest":"fg_vas",
-      "actorRefId":"player",
-      "timestamp":{
-        "month":8,
-        "day":6,
-        "daysPassed":22
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"mg_killnecro2",
-      "actorRefId":"tashpi ashibael",
-      "timestamp":{
-        "month":8,
-        "day":6,
-        "daysPassed":22
-      }
-    },{
-      "type":0,
-      "index":105,
-      "quest":"fg_vas",
-      "actorRefId":"persius mercius",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_beneranbounty",
-      "actorRefId":"persius mercius",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":15,
-      "quest":"eb_deed",
-      "actorRefId":"alusaron",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"eb_deed",
-      "actorRefId":"alusaron",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"eb_deed",
-      "actorRefId":"alusaron",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"fg_debtorc",
-      "actorRefId":"lorbumol gro-aglakh",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_dwarves",
-      "actorRefId":"trebonius artorius",
-      "timestamp":{
-        "month":8,
-        "day":7,
-        "daysPassed":23
-      }
-    },{
-      "type":0,
-      "index":15,
-      "quest":"eb_bone",
-      "actorRefId":"balen andrano",
-      "timestamp":{
-        "month":8,
-        "day":8,
-        "daysPassed":24
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"eb_bone",
-      "actorRefId":"balen andrano",
-      "timestamp":{
-        "month":8,
-        "day":8,
-        "daysPassed":24
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"hr_hlaanoslanders",
-      "actorRefId":"faral retheran",
-      "timestamp":{
-        "month":8,
-        "day":8,
-        "daysPassed":24
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mt_writoran",
-      "actorRefId":"eno hlaalu",
-      "timestamp":{
-        "month":8,
-        "day":8,
-        "daysPassed":24
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"da_mephala",
-      "actorRefId":"taros dral",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":40,
-      "quest":"da_mephala",
-      "actorRefId":"taros dral",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"town_vivec",
-      "actorRefId":"daroso sethri",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"fg_debtorc",
-      "actorRefId":"nar gro-shagramph",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":90,
-      "quest":"mt_writoran",
-      "actorRefId":"player",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":80,
-      "quest":"mt_writoran",
-      "actorRefId":"player",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mt_writoran",
-      "actorRefId":"eno hlaalu",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mt_writyasalmibaal",
-      "actorRefId":"eno hlaalu",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mt_writsaren",
-      "actorRefId":"eno hlaalu",
-      "timestamp":{
-        "month":8,
-        "day":9,
-        "daysPassed":25
-      }
-    },{
-      "type":0,
-      "index":5,
-      "quest":"mv_angrytrader",
-      "actorRefId":"tinos drothan",
-      "timestamp":{
-        "month":8,
-        "day":11,
-        "daysPassed":27
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_killnecro2",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":8,
-        "day":11,
-        "daysPassed":27
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_spycatch",
-      "actorRefId":"ranis athrys",
-      "timestamp":{
-        "month":8,
-        "day":11,
-        "daysPassed":27
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"book_history",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"book_onmorrowind",
-      "actorRefId":"hasphat antabolis",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":15,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"hasphat antabolis",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"mg_excavation",
-      "actorRefId":"hasphat antabolis",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"a1_2_antabolisinformant",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"sharn gra-muzgob",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":12,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"sharn gra-muzgob",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":100,
-      "quest":"mg_nchuleftbook",
-      "actorRefId":"edwinna elbert",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":10,
-      "quest":"mg_potion",
-      "actorRefId":"edwinna elbert",
-      "timestamp":{
-        "month":8,
-        "day":12,
-        "daysPassed":28
-      }
-    },{
-      "type":0,
-      "index":15,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"sharn gra-muzgob",
-      "timestamp":{
-        "month":8,
-        "day":13,
-        "daysPassed":29
-      }
-    },{
-      "type":0,
-      "index":20,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"sharn gra-muzgob",
-      "timestamp":{
-        "month":8,
-        "day":13,
-        "daysPassed":29
-      }
-    },{
-      "type":0,
-      "index":30,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":13,
-        "daysPassed":29
-      }
-    },{
-      "type":0,
-      "index":1,
-      "quest":"a1_v_vivecinformants",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":13,
-        "daysPassed":29
-      }
-    },{
-      "type":0,
-      "index":55,
-      "quest":"a1_4_muzgobinformant",
-      "actorRefId":"caius cosades",
-      "timestamp":{
-        "month":8,
-        "day":13,
-        "daysPassed":29
-      }
-    },{
-      "type":0,
-      "index":50,
-      "quest":"fg_beneranbounty",
-      "actorRefId":"nuleno tedas",
-      "timestamp":{
-        "month":8,
-        "day":14,
-        "daysPassed":30
-      }
-    }],
-  "customVariables":{
-    "deliveredCaiusPackage":true
-  },
+  "topics":["specific place","background","morrowind","uriel septim","duties","caius cosades","south wall","someone in particular","services","my trade","little secret","latest rumors","little advice","balmora","solstheim","imperial","the empire","silt strider","popular potions","popular scrolls","practice your skills","recover some gold","fargoth's hiding place","pelagiad","caldera","ebonheart","vivec","vvardenfell","vvardenfell district","inner sea","padomaic ocean","sea of ghosts","imperial cult","bandit nearby","jewels","nelos onmar","maurrie's glove","dark brotherhood","apelles matius","imperial legion","nerevarine","lay member","citizens of the empire","bacola closcius","fighters guild","fort moonmoth","silt strider service","guild guide","hla oad","ghostgate","foyada mamaea","red mountain","the blight","balmora mages guild","join the thieves guild","price on your head","rules","house hlaalu","thieves guild","outlander","morrowind lore","beds","report to caius cosades","orders","blades trainers","blades","rithleen","tyermaillin","nine-toes","surane leoriane","gildan","sjorvar horse-mouth","elone","temple","mages guild","freelance work","hasphat antabolis","sixth house","morrowind history","disturbing dreams","imperial law","join the mages guild","advancement","requirements","local brews","help in a fight","telvanni bug musk","high places","mushrooms","luminous russula","violet coprinus","bungler's bane","hypha facia","odai","join the fighters guild","equipment chest","cave rat","shulk egg mine","egg poachers","morag tong","kwama forager","murderous outlaws","telvanni agents","thefts and disappearances","caldera ebony mines","alynu aralen","sathasa nerothren","fothyna herothran","alveleg","thieves guild job","bet with galbedir","fake soul gem","flowers","gold kanet","stoneflower petals","willow anther","heather","lake amaya","ceramic bowl","daedric","stolen reports","join us","guild dues","punabi","sulipund","molag amur","caldera mining company","guard","code book","sottilde","favor","arkngthand","dwemer puzzle box","disappearance of the dwarves","foyada","debt money","unsanctioned training","enchantments","health","fatigue","itermerel's notes","travel together","tashpi ashibael","necromancy","destination","dwemer","balmora temple","balmora fighters guild","ascadian isles","suran","stupid slaves","haj-ei","hides his eyes","avon oran","nevena ules","dunmer","house wars","my friend","kagouti","dura gra-bol","gnisis","dagoth ur","foreigners","join the morag tong","food","festering witch","cloudcleaver","help me","present","making a deal","pemenie the trader","boots of blinding speed","hlormar","sosia's offer","enchantment","potion of cure common disease","wild nix hounds","my airship","hrothmund's barrow","recover the amulet","crew has failed me","chronicles of nchuleft","ald'ruhn","ulyne henim","vas","house redoran","work","help a poor pilgrim","koal cave","taken by cultists","unholy ritual","escape from cultists","mask of vivec","gnisis temple","skooma","ald velothi","theldyn virith","madura seran","khuul","talk","fight together","eggmine","barracks","fort darius","hetman abelmawia","maar gan","moon sugar","nerer beneran","sargon","trebonius","competition","big orders","get that contract","juicedaw feather ring","egg of time","divine metaphysics","foreign quarter","cantons","arena","st. olms canton","ministry of truth","high fane","redoran compound","telvanni compound","palace of vivec","run of bad luck","jeanne","change her luck","hlaalu compound","hall of wisdom","hall of justice","st. delyn canton","slander","sensitive matters","writ","feruren oran","special duties","sanguine balanced armor","sanguine deep biting","sanguine denial","sanguine enterprise","sanguine fleetness","sanguine fluid evasion","sanguine glib speech","sanguine golden wisdom","sanguine green wisdom","sanguine hewing","sanguine horny fist","sanguine impaling thrust","sanguine leaping","sanguine martial craft","sanguine nimble armor","sanguine red wisdom","sanguine safekeeping","sanguine silver wisdom","sanguine smiting","sanguine stalking","sanguine stolid armor","sanguine sublime wisdom","sanguine sureflight","sanguine swiftblade","sanguine transcendence","sanguine transfiguring","sanguine unseen wisdom","odaishah yasalmibaal","toris saren","talking mudcrab merchant","fines and compensation","telvanni spy","join the temple","guilds and factions","house telvanni","camonna tong","ashlanders","lay servant","nerevarine prophecies","dwemer sites","dwemer artifacts","house dagoth","nchuleftingth","current events","sixth house references","dwemer language","sharn gra-muzgob","errand","necromancers","llevule andrano","andrano ancestral tomb","detect creatures potion","nerevarine cult","nerevar","blades apprentice","addhiranirr","huleeya","mehra milo","ashlands"],
+  "destinationOverrides":[],
   "fame":{
     "reputation":4,
     "bounty":0
   },
-  "destinationOverrides":[],
-  "clientVariables":{
-    "globals":{
-      "mt_newcrimelevel":{
-        "variableType":0,
-        "intValue":40
-      },
-      "dbattack":{
-        "variableType":0,
-        "intValue":1
-      },
-      "madurarescued":{
-        "variableType":0,
-        "intValue":1
-      }
-    }
-  },
-  "topicInfo":[["background","1089120605269088053","chargen captain"],["morrowind","3253423749290424070","chargen captain"],["duties","1729913769476329813","chargen captain"],["latest rumors","6923112947019593","chargen captain"],["little advice","259942865635092117","chargen captain"],["little secret","197689157159159184","chargen captain"],["my trade","177149370184959643","chargen captain"],["solstheim","1169922125955110917","chargen captain"],["uriel septim","2769862822480624623","chargen captain"],["the empire","2124530673720831903","chargen captain"],["solstheim","2278720479126556737","chargen captain"],["little secret","73905396517031350","chargen captain"],["latest rumors","1469412633283572447","chargen captain"],["imperial","35532057162868574","chargen captain"],["duties","28358841968027303","chargen captain"],["caius cosades","23291351271929511","chargen captain"],["balmora","38488615252471229","chargen captain"],["silt strider","1086792951001923252","chargen captain"],["little advice","1248319992938512979","arrille"],["practice your skills","156561723920015386","arrille"],["latest rumors","411922311605125893","arrille"],["popular potions","1576720351886129646","arrille"],["popular scrolls","16746157653118729443","arrille"],["recover some gold","160419339116357473","hrisskar flat-foot"],["fargoth's hiding place","2971935711263120030","hrisskar flat-foot"],["fargoth's hiding place","281291800472392465","hrisskar flat-foot"],["solstheim","2278720479126556737","hrisskar flat-foot"],["balmora","170572976442710089","elone"],["balmora","2067855472544022067","elone"],["pelagiad","185841235121794463","elone"],["vivec","13484212942199514461","elone"],["vvardenfell","24056302241227929304","elone"],["vvardenfell","1464514820141361376","elone"],["little advice","124735414790028426","eldafire"],["services","23586308352637424733","kunthar"],["imperial cult","277993601409727340","kunthar"],["latest rumors","241431210126613909","kunthar"],["pelagiad","1357713235254665178","mebestian ence"],["little advice","101514412024626925","mebestian ence"],["little advice","3154228361751410315","mebestian ence"],["little secret","892231101795131411","mebestian ence"],["little secret","31437326142699821404","mebestian ence"],["pelagiad","1357713235254665178","samia"],["background","666731499111789993","samia"],["my trade","154162341695366723","samia"],["services","6576280624618253","samia"],["bandit nearby","3081131253116599307","maurrie aurmine"],["jewels","31393271201148415693","maurrie aurmine"],["jewels","3246023492512728471","maurrie aurmine"],["jewels","13796202762465024877","maurrie aurmine"],["dark brotherhood","1153953981787613029","imperial guard"],["apelles matius","3163273781849611460","imperial guard"],["background","206847122036726324","urfing"],["background","206847122036726324","radd hard-heart"],["latest rumors","2555865252055214313","radd hard-heart"],["lay member","25806171273028127740","crulius pontanian"],["little secret","16531102192603444","crulius pontanian"],["latest rumors","2555865252055214313","crulius pontanian"],["imperial legion","296337998138675185","solea nuccusius"],["imperial","695915437478015666","solea nuccusius"],["balmora","939423851316845892","sottilde"],["background","97825085396813756","sottilde"],["caius cosades","20372057273332064","sottilde"],["bacola closcius","30042181531958815481","sottilde"],["little advice","125096360577018710","sottilde"],["little advice","17222130182467313190","arathor"],["little advice","8100251862925913988","arathor"],["specific place","1360165051119330796","arathor"],["specific place","2243026128182671076","arathor"],["ghostgate","21398155651429213465","arathor"],["red mountain","20442283151632821171","arathor"],["the blight","7260286562296329474","arathor"],["fighters guild","26291148261399015653","arathor"],["guild guide","19662212742792024698","arathor"],["balmora mages guild","27028129091479724559","arathor"],["join the thieves guild","2739375643256517662","habasi"],["join the thieves guild","2498952861388531122","habasi"],["join the thieves guild","2255723662294042287","habasi"],["someone in particular","1947411886858921680","phane rielle"],["south wall","964732811306020441","phane rielle"],["caius cosades","325672321573330","chirranirr"],["caius cosades","1608213686254611471","onlyhestandsthere"],["caius cosades","322224292305216631","tappius esdrecus"],["caius cosades","3186332121516221787","bacola closcius"],["report to caius cosades","26751152351377319357","caius cosades"],["report to caius cosades","15425327421904220202","caius cosades"],["report to caius cosades","43741759216181215","caius cosades"],["orders","1506122032762213967","caius cosades"],["report to caius cosades","1987530856903725209","caius cosades"],["blades trainers","2820632185475114180","caius cosades"],["rithleen","1169687611517710353","caius cosades"],["tyermaillin","29756244422232211876","caius cosades"],["nine-toes","30183198372594919477","caius cosades"],["surane leoriane","20811492412079275","caius cosades"],["gildan","963216702824014293","caius cosades"],["sjorvar horse-mouth","185161417613490273","caius cosades"],["elone","8189320552006926953","caius cosades"],["orders","2090431221919117613","caius cosades"],["orders","16539151961972116834","caius cosades"],["orders","14520215453172227671","caius cosades"],["orders","1490057142559718427","caius cosades"],["freelance work","24506143413272312924","caius cosades"],["join the mages guild","1585629843039518751","ranis athrys"],["join the mages guild","19816109801401511688","ranis athrys"],["join the mages guild","1733911399141146687","ranis athrys"],["advancement","4019180222525518104","ranis athrys"],["duties","8815193872095518737","ranis athrys"],["duties","866180402770723651","ajira"],["mushrooms","20728261851736471","ajira"],["mushrooms","52027510518312690","ajira"],["mushrooms","2529516170625112058","ajira"],["fighters guild","24498209033079022986","fasile charascel"],["join the fighters guild","2739375643256517662","eydis fire-eye"],["join the fighters guild","2498952861388531122","eydis fire-eye"],["join the fighters guild","292531804432634565","eydis fire-eye"],["orders","31266152841557531935","eydis fire-eye"],["cave rat","234178531192911823","eydis fire-eye"],["cave rat","19239116422101919048","drarayne thelas"],["cave rat","60812724252421585","drarayne thelas"],["cave rat","1373217258705328919","drarayne thelas"],["cave rat","11147124732626816250","drarayne thelas"],["cave rat","298932640111666","eydis fire-eye"],["orders","152062574112057155","eydis fire-eye"],["egg poachers","125817805126429526","eydis fire-eye"],["egg poachers","28231161621266572","eydis fire-eye"],["shulk egg mine","3009916962322256274","eydis fire-eye"],["latest rumors","2122632088405013352","db_assassin1b"],["little advice","1587830284221866331","db_assassin1b"],["egg poachers","182171606016063117","findulain"],["background","14236281672144830895","findulain"],["solstheim","2278720479126556737","findulain"],["egg poachers","21238266671847019550","dinok"],["kwama forager","14531235512898629738","miner juillen"],["egg poachers","2741031530359710727","miner kati"],["egg poachers","2690280382603610702","miner gor"],["murderous outlaws","1915129571230053201","fjol"],["murderous outlaws","178153472462823046","fjol"],["egg poachers","6773155293010824296","eydis fire-eye"],["orders","78553157274318817","eydis fire-eye"],["telvanni agents","2938412444569225844","eydis fire-eye"],["thefts and disappearances","53021332468925824","eydis fire-eye"],["caldera ebony mines","50642333173479357","eydis fire-eye"],["alynu aralen","32151288652735420451","eydis fire-eye"],["telvanni agents","31478163532504625740","eydis fire-eye"],["sathasa nerothren","295625688999824997","eydis fire-eye"],["fothyna herothran","76339929791520410","eydis fire-eye"],["alveleg","32291249471031030301","eydis fire-eye"],["advancement","2083432752205215749","eydis fire-eye"],["advancement","1378729702645021565","eydis fire-eye"],["advancement","1056415252841031382","eydis fire-eye"],["advancement","3175629439143964105","eydis fire-eye"],["advancement","107193086989225800","ranis athrys"],["requirements","83172224776130996","ranis athrys"],["mushrooms","2599357752391912393","ajira"],["mushrooms","14103132243013728405","ajira"],["duties","1479817701996308","ajira"],["bet with galbedir","970052703132825174","ajira"],["fake soul gem","4976244511819622984","ajira"],["fake soul gem","170417393123681890","ajira"],["fake soul gem","22427136292098827401","ajira"],["duties","1833615801749422119","ajira"],["flowers","21449235312183423290","ajira"],["flowers","7746196512579424772","ajira"],["flowers","15190141021775821033","ajira"],["duties","31535256745725028","ajira"],["ceramic bowl","143602792842043915","ajira"],["daedric","23066325801462131675","ra'virr"],["ceramic bowl","20707151382527018432","ra'virr"],["stolen reports","2878922371139488232","ajira"],["ceramic bowl","613315248260022426","ajira"],["ceramic bowl","3491100221847319077","ajira"],["stolen reports","21708303161485031644","ajira"],["stolen reports","23785184912757320359","ajira"],["stolen reports","7300276011471223511","ajira"],["advancement","13223869023728562","ranis athrys"],["duties","25546219352335011233","ranis athrys"],["guild dues","8733205942846520537","ranis athrys"],["join us","3003717348232614795","ranis athrys"],["sulipund","3845179161180515818","ranis athrys"],["punabi","32575315881347928","ranis athrys"],["specific place","6544108722961513000","shenk"],["caldera ebony mines","10287309621206803","imperial guard"],["telvanni agents","166911728719181894","alveleg"],["telvanni agents","105593384169091353","eydis fire-eye"],["orders","26982206593134019391","eydis fire-eye"],["code book","27800257903207427840","eydis fire-eye"],["sottilde","3180238972510928605","eydis fire-eye"],["favor","266351095457551500","hasphat antabolis"],["favor","3236710700194205911","hasphat antabolis"],["dwemer puzzle box","77156629161556592","hasphat antabolis"],["arkngthand","2954619207288647086","hasphat antabolis"],["foyada","26041281803176431059","hasphat antabolis"],["disappearance of the dwarves","1238822619170744418","hasphat antabolis"],["code book","44036011015630500","sottilde"],["code book","19824177531142629010","sottilde"],["code book","23811170001381413375","eydis fire-eye"],["code book","1903183792713931014","eydis fire-eye"],["orders","584514766536817770","eydis fire-eye"],["debt money","1902598261730910628","eydis fire-eye"],["bacola closcius","29514217721477624569","fasile charascel"],["guild dues","1575816178192723028","manwe"],["guild dues","243031030209198541","manwe"],["guild dues","14927152532648817997","manwe"],["join us","2537827818679425227","llarar bereloth"],["latest rumors","49172112360667706","heddvild"],["specific place","1360165051119330796","heddvild"],["specific place","2243026128182671076","heddvild"],["join us","8250144001140626936","ranis athrys"],["guild dues","16847177657230130","ranis athrys"],["guild dues","5554327322441623692","ranis athrys"],["advancement","286572939837899986","ranis athrys"],["advancement","2796421667402826914","ranis athrys"],["duties","20738173711112513020","ranis athrys"],["unsanctioned training","270324897533920607","ranis athrys"],["guild dues","177783598283630258","ranis athrys"],["join us","16358314611572827549","ranis athrys"],["little secret","7132116371291122145","ranis athrys"],["molag amur","1456024547177886622","ranis athrys"],["unsanctioned training","27235232011974230740","ranis athrys"],["unsanctioned training","1691914151264425750","ranis athrys"],["little advice","17545243371364211941","estirdalin"],["unsanctioned training","32145121708808265","onlyhestandsthere"],["unsanctioned training","26643204422300016894","onlyhestandsthere"],["unsanctioned training","205511909430229634","ranis athrys"],["duties","85628342963020403","ranis athrys"],["itermerel's notes","12070206672109722296","ranis athrys"],["itermerel's notes","249245418882816112","itermerel"],["travel together","3064612252858131527","itermerel"],["travel together","12984269792024714940","itermerel"],["itermerel's notes","25219264602223818737","ranis athrys"],["itermerel's notes","205323496148075561","ranis athrys"],["duties","4809295512037720930","ranis athrys"],["tashpi ashibael","3018330021466621808","ranis athrys"],["necromancy","2207819035236046612","ranis athrys"],["necromancy","29691119164287107","ranis athrys"],["unsanctioned training","218910126617710148","ranis athrys"],["itermerel's notes","10664175682632725433","ranis athrys"],["join the mages guild","6525111911556514201","ranis athrys"],["specific place","1360165051119330796","masalinie merian"],["specific place","2243026128182671076","masalinie merian"],["alveleg","1344215414716128830","eydis fire-eye"],["alynu aralen","1612031367699421152","eydis fire-eye"],["code book","591129612770112113","eydis fire-eye"],["thefts and disappearances","21304294832552322477","eydis fire-eye"],["telvanni agents","1827940543214918372","eydis fire-eye"],["egg poachers","10950204911061327418","eydis fire-eye"],["thieves guild job","18465187652110829356","eydis fire-eye"],["equipment chest","2082310230136691931","eydis fire-eye"],["shulk egg mine","311454704584212432","eydis fire-eye"],["fighters guild","208882328010498750","eydis fire-eye"],["sathasa nerothren","6681302771504224740","eydis fire-eye"],["fothyna herothran","148541727271510","eydis fire-eye"],["join the fighters guild","31641126011843119037","eydis fire-eye"],["requirements","824626281811019302","eydis fire-eye"],["rules","31394300072970130495","eydis fire-eye"],["favor","17006234403263719357","hasphat antabolis"],["specific place","1360165051119330796","selvil sareloth"],["specific place","2243026128182671076","selvil sareloth"],["services","238503076378412623","selvil sareloth"],["destination","313835329247419093","selvil sareloth"],["little advice","3075413332454929067","helviane desele"],["my trade","311292777396029520","helviane desele"],["telvanni bug musk","3079389991393522945","helviane desele"],["specific place","5371200022006114700","helviane desele"],["stupid slaves","68263808293265924","daric bielle"],["stupid slaves","15470315913196615548","daric bielle"],["suran","2263148461362419329","garothmuk gro-muzgub"],["daedric","175141918339729660","garothmuk gro-muzgub"],["someone in particular","207417064473517776","garothmuk gro-muzgub"],["debt money","700411741835323230","helviane desele"],["debt money","393113866159579372","helviane desele"],["nevena ules","2966303031317239","fruscia abitius"],["my trade","28174217073020031061","fruscia abitius"],["nerevarine","52912644057432601","nevena ules"],["rules","384018574277275746","nevena ules"],["house hlaalu","20376130592873026600","nevena ules"],["morag tong","32230108502425828335","nevena ules"],["dunmer","2383529902280815725","nevena ules"],["morag tong","6448282103172722102","nevena ules"],["my friend","1785523218103341654","edras oril"],["my friend","535518496471122057","edras oril"],["my friend","2338596852561320415","thoronor"],["my friend","3178719032449412014","edras oril"],["kagouti","371643611115519171","edras oril"],["my friend","1209127929138019572","thoronor"],["debt money","2069178102422725560","eydis fire-eye"],["debt money","23282114771894816170","eydis fire-eye"],["orders","21189208202122430882","eydis fire-eye"],["dura gra-bol","22810386257729208","eydis fire-eye"],["latest rumors","21368251661447918574","nine_toes"],["hla oad","7569178393189816245","habasi"],["dura gra-bol","173965674313098995","phane rielle"],["dura gra-bol","56015168105932404","dura gra-bol"],["guard","2248215152682921955","dura gra-bol"],["fighters guild","26291148261399015653","dura gra-bol"],["dura gra-bol","1315817146980114093","eydis fire-eye"],["orders","250831784289567444","eydis fire-eye"],["specific place","1360165051119330796","fasile charascel"],["specific place","2243026128182671076","fasile charascel"],["south wall","31493116962731018960","fasile charascel"],["silt strider service","837022954349221071","fasile charascel"],["dagoth ur","11010311511205318175","rararyn radarys"],["sixth house","4189101232490916222","rararyn radarys"],["latest rumors","1756498392973324954","rararyn radarys"],["latest rumors","2688103662767828598","traven marvos"],["little secret","960625077141739030","traven marvos"],["imperial cult","922820412283385536","traven marvos"],["odai","32241292111148011934","traven marvos"],["outlander","18674239372517031452","traven marvos"],["background","2381350761026300","meril hlaano"],["specific place","1360165051119330796","chirranirr"],["someone in particular","1947411886858921680","sottilde"],["specific place","2243026128182671076","chirranirr"],["foreigners","188656986213454511","tappius esdrecus"],["balmora","113821967852672072","edd theman"],["background","310466084315123903","thanelen velas"],["services","18464205812393025930","thanelen velas"],["background","206847122036726324","banor seran"],["background","514912771514927782","sovor trandel"],["background","3274427414239830699","vadusa sathryon"],["morag tong","61998298165115129","angahran"],["join the morag tong","20248233211637824614","angahran"],["caldera","2109116831571521025","imperial guard"],["services","26241148101455412669","shenk"],["fatigue","1393941781607927279","eraamion"],["festering witch","2763820566258111868","hlormar wine-sot"],["festering witch","30533140152978823634","hlormar wine-sot"],["making a deal","27049231571584021920","pemenie"],["making a deal","6620313491186629988","pemenie"],["making a deal","13701219872279110392","pemenie"],["boots of blinding speed","743628527306374240","pemenie"],["pemenie the trader","2008725182668013970","pemenie"],["cloudcleaver","58882709432450534","sosia caristiana"],["sosia's offer","25615172011894832380","sosia caristiana"],["hlormar","326737999315098061","sosia caristiana"],["sosia's offer","13867582706920928","hlormar wine-sot"],["sosia's offer","2239543419732420","hlormar wine-sot"],["hlormar","12731155921335122607","sosia caristiana"],["cloudcleaver","75769062165320288","sosia caristiana"],["enchantment","2062532424175718236","hisin deep-raed"],["enchantment","311899330412314427","hisin deep-raed"],["potion of cure common disease","21209161715322239","hisin deep-raed"],["enchantment","202642100038582712","hisin deep-raed"],["wild nix hounds","275542387028617392","falanu indaren"],["wild nix hounds","81527746255832217","falanu indaren"],["my airship","43758722053027926","louis beauchamp"],["hrothmund's barrow","7023137071009331559","louis beauchamp"],["recover the amulet","285822254288808510","louis beauchamp"],["crew has failed me","12795611575879682","louis beauchamp"],["crew has failed me","1543524373184712036","louis beauchamp"],["solstheim","2278720479126556737","louis beauchamp"],["duties","2847734082225514753","edwinna elbert"],["chronicles of nchuleft","2946918012419552","edwinna elbert"],["chronicles of nchuleft","1786816122756313471","edwinna elbert"],["chronicles of nchuleft","16493505187536318","edwinna elbert"],["my trade","15382100702495829733","tremona maren"],["my trade","15878199043072027956","movis darys"],["orders","6986172382590219429","persius mercius"],["vas","4945190022030522086","persius mercius"],["ulyne henim","22972101933199022379","persius mercius"],["potion of cure common disease","452815464805220363","hisin deep-raed"],["enchantment","234261118832512224","hisin deep-raed"],["potion of cure common disease","30054265372752523561","hisin deep-raed"],["chronicles of nchuleft","2861191472954228655","codus callonus"],["latest rumors","2122632088405013352","rasamsi esunarnat"],["help a poor pilgrim","2672126521573514293","fonus rathryon"],["help a poor pilgrim","309231431952022127","fonus rathryon"],["koal cave","1205014970468028476","fonus rathryon"],["taken by cultists","12283819899019726","sason"],["unholy ritual","1059827279277047471","sason"],["unholy ritual","2905825901273472750","sason"],["travel together","133827980219148669","malexa"],["travel together","63751901886132503","malexa"],["travel together","14658326922789722315","malexa"],["ald velothi","492167021401522768","orero omothan"],["ald velothi","3273610796110562094","lledsea relas"],["madura seran","1066924253930228699","lledsea relas"],["ald velothi","3273610796110562094","ganus lloryn"],["dagoth ur","1723931364115259907","vireveri darethran"],["sixth house","2708525712178928293","vireveri darethran"],["madura seran","2142583812286213357","rawia ashirbibi"],["little secret","703916010385010941","rawia ashirbibi"],["madura seran","17311293131827315369","abassel asserbassalit"],["madura seran","24046923714138937","madura seran"],["travel together","18759323652624525743","madura seran"],["travel together","478057122101314892","madura seran"],["travel together","8358278053261011575","madura seran"],["travel together","91475302620620366","madura seran"],["ald velothi","25775321811386017905","madura seran"],["travel together","329142301511915266","madura seran"],["duties","4403263073208014571","theldyn virith"],["khuul","1118213657263763003","seldus nerendus"],["latest rumors","3909221290721675","thongar"],["talk","1441631215305195630","shallath-piremus"],["talk","1441631215305195630","tussurradad"],["little secret","452027941264710687","thunmund"],["little advice","1830425214167636072","tasellis burtilius"],["my trade","32043143222863424022","thunmund"],["fight together","20346204972850912813","ulyne henim"],["specific place","21565221076732445","abishpulu shand"],["specific place","2178813722674328789","abishpulu shand"],["specific place","276761092870272018","arvso tharen"],["maar gan","31295116372823213211","arvso tharen"],["dagoth ur","3268218621158529590","assi serimilk"],["sixth house","21752199521701717760","assi serimilk"],["my trade","2406622006460811801","assi serimilk"],["tashpi ashibael","1775829563413826370","aerin"],["thieves guild","1066711799333026687","aerin"],["tashpi ashibael","2727318211217426015","manse andus"],["necromancy","3590166513109528514","tashpi ashibael"],["necromancy","28261116062223115087","tashpi ashibael"],["necromancy","16663465355749005","tashpi ashibael"],["necromancy","2455129817137921511","tashpi ashibael"],["latest rumors","2065883581584229515","orrent geontene"],["vas","24316949269837966","persius mercius"],["ulyne henim","29119286528783419","persius mercius"],["orders","32664295793242122409","persius mercius"],["nerer beneran","2064631212418219601","persius mercius"],["advancement","3175629439143964105","persius mercius"],["sargon","22856209292233315718","persius mercius"],["nerer beneran","17581244982911615223","persius mercius"],["duties","2443309481099132366","malven romori"],["competition","2258216575441922351","alusaron"],["big orders","26082316113499788","alusaron"],["get that contract","217772183310916781","alusaron"],["get that contract","613825782528379","alusaron"],["fighters guild","2544328329273407542","lorbumol gro-aglakh"],["advancement","3175629439143964105","lorbumol gro-aglakh"],["orders","1937259083260119688","lorbumol gro-aglakh"],["juicedaw feather ring","90852076372625148","lorbumol gro-aglakh"],["advancement","3175629439143964105","sjoring hard-heart"],["orders","29657168112870911070","sjoring hard-heart"],["trebonius","8556272091103422420","tiram gadar"],["duties","2797322333266853427","trebonius artorius"],["disappearance of the dwarves","656726236698214733","trebonius artorius"],["mages guild","299029351187425023","trebonius artorius"],["dunmer","2383529902280815725","tiram gadar"],["trebonius","2970028742938323990","craeita jullalian"],["duties","2443309481099132366","craeita jullalian"],["trebonius","145448221388318435","sirilonwe"],["latest rumors","146312481502513753","sirilonwe"],["vivec","309163173141058809","sevyni saryon"],["cantons","9740210791387731892","sevyni saryon"],["arena","15738326681536917819","sevyni saryon"],["ministry of truth","815714571607919905","sevyni saryon"],["high fane","981920252127013607","sevyni saryon"],["guild guide","4680305161975130","seryn othralen"],["chronicles of nchuleft","26081231041180118731","jobasha"],["run of bad luck","159201367111539668","balen andrano"],["change her luck","26332456098521435","balen andrano"],["change her luck","19137596875425415","balen andrano"],["skooma","19239314151101228532","balen andrano"],["cantons","9740210791387731892","savard"],["someone in particular","13951271023028232135","elms llervu"],["someone in particular","13951271023028232135","savard"],["st. olms canton","7890181971676018509","rathyne thirano"],["st. delyn canton","47352361552226768","rathyne thirano"],["jeanne","27200148753134314027","ordinator wander"],["someone in particular","13951271023028232135","rathyne thirano"],["join the morag tong","1299818518383812323","elms llervu"],["duties","299811150295725409","faral retheran"],["slander","155052801931297952","faral retheran"],["dagoth ur","159970802852018576","alvura othrenim"],["sixth house","22527109181135525191","alvura othrenim"],["join the morag tong","246652254123626288","alvura othrenim"],["fighters guild","30111303293006120973","seanwen"],["join the morag tong","176203207021511884","ulmesi baryon"],["join the morag tong","23163320921639027638","eno hlaalu"],["join the morag tong","205646955323927419","eno hlaalu"],["writ","5846291832033724696","eno hlaalu"],["feruren oran","15871201801537426826","eno hlaalu"],["join the morag tong","825911412645628441","eno hlaalu"],["sensitive matters","1053123401240582096","taros dral"],["sensitive matters","640110986418626260","taros dral"],["sensitive matters","27538310523058411201","taros dral"],["latest rumors","1805929061172984264","daroso sethri"],["juicedaw feather ring","23042181156722337","nar gro-shagramph"],["juicedaw feather ring","2978729673242626386","nar gro-shagramph"],["feruren oran","685137928821210","eno hlaalu"],["join the morag tong","1709420591376330367","eno hlaalu"],["advancement","65412813424900431","eno hlaalu"],["writ","190506052217578651","eno hlaalu"],["odaishah yasalmibaal","29811176652328127737","eno hlaalu"],["toris saren","13937285692277523983","eno hlaalu"],["background","2210121278655515631","mudcrab_unique"],["talking mudcrab merchant","513418333128849698","mudcrab_unique"],["my trade","27418283354703857","nathala herendas"],["skooma","2200231351129827390","tinos drothan"],["telvanni bug musk","55221964563426958","tinos drothan"],["duties","43954461769727259","trebonius artorius"],["bet with galbedir","23328247495332087","ajira"],["gold kanet","26330244293053115327","ajira"],["necromancy","22613110382082613249","ranis athrys"],["necromancy","19887164801415920631","ranis athrys"],["duties","2140577593079311095","ranis athrys"],["telvanni spy","6641320912711730266","ranis athrys"],["hasphat antabolis","2229819456779925303","caius cosades"],["fighters guild","18502216051288618427","caius cosades"],["blades","21911249873129121827","caius cosades"],["caius cosades","14360221701800729047","caius cosades"],["dwemer puzzle box","19882142971327022854","hasphat antabolis"],["disturbing dreams","141846805108466748","caius cosades"],["fort moonmoth","1153428585136591628","caius cosades"],["guild guide","391531752249938332","caius cosades"],["guilds and factions","24896141572776219752","caius cosades"],["camonna tong","22726317182703524416","caius cosades"],["ashlanders","8131445829855882","caius cosades"],["house hlaalu","1895417279972315126","caius cosades"],["house redoran","299011057147519792","caius cosades"],["house telvanni","22177255061131127667","caius cosades"],["imperial cult","218051894382021198","caius cosades"],["imperial legion","23791295661104930157","caius cosades"],["lay servant","2003118829227269455","caius cosades"],["little advice","19139287163203512660","caius cosades"],["mages guild","1468412484186589768","caius cosades"],["morag tong","6355199152927027935","caius cosades"],["morrowind history","31831207152653332496","caius cosades"],["morrowind history","2824215751328330834","caius cosades"],["nerevarine","104163541438428395","caius cosades"],["rules","182829917719530449","caius cosades"],["services","1814954861644214188","caius cosades"],["sixth house","257479584316253426","caius cosades"],["nerevarine prophecies","13499525251056137","caius cosades"],["temple","25042165042180828560","caius cosades"],["thieves guild","22801224281918912297","caius cosades"],["dwemer","1958550751691917436","hasphat antabolis"],["dagoth ur","645884282651816915","hasphat antabolis"],["balmora fighters guild","3221813379886029541","hasphat antabolis"],["dwemer artifacts","3263126373777822635","hasphat antabolis"],["dwemer sites","4043106792242311853","hasphat antabolis"],["favor","23066108981558011850","hasphat antabolis"],["fighters guild","30398182271296118430","hasphat antabolis"],["house dagoth","1103510489254713755","hasphat antabolis"],["morrowind history","26641290942936731915","hasphat antabolis"],["nerevarine","264921745751934754","hasphat antabolis"],["current events","32030551020854759","hasphat antabolis"],["morrowind history","12474147772691111755","hasphat antabolis"],["sixth house","24786265931023614933","hasphat antabolis"],["sixth house references","19063204104714531","hasphat antabolis"],["sixth house","1202754631379422532","hasphat antabolis"],["morrowind history","63175153281099139","hasphat antabolis"],["nchuleftingth","30149342957665081","hasphat antabolis"],["nchuleftingth","3377130542535119081","hasphat antabolis"],["dwemer language","123355137493514497","hasphat antabolis"],["orders","2012622432489029727","caius cosades"],["orders","23588256493054024115","caius cosades"],["errand","288918185757411443","sharn gra-muzgob"],["errand","16293234062747712419","sharn gra-muzgob"],["andrano ancestral tomb","1091431135261045346","sharn gra-muzgob"],["trebonius","3004030161723721058","edwinna elbert"],["ald velothi","1504219359159859529","edwinna elbert"],["nchuleftingth","3034714944355910117","edwinna elbert"],["telvanni spy","3249931226303674502","edwinna elbert"],["advancement","19832237922992719418","edwinna elbert"],["chronicles of nchuleft","946247231264014642","edwinna elbert"],["chronicles of nchuleft","2641885042222313163","edwinna elbert"],["chronicles of nchuleft","21806256833173112664","edwinna elbert"],["duties","159220191805528908","edwinna elbert"],["detect creatures potion","3131105322833827259","edwinna elbert"],["detect creatures potion","18023171252229020242","edwinna elbert"],["advancement","471231169661325663","edwinna elbert"],["errand","2369241622602432340","sharn gra-muzgob"],["errand","92501845924729422","sharn gra-muzgob"],["nerevarine cult","2436419953283993854","sharn gra-muzgob"],["nerevarine prophecies","31349121562668227936","sharn gra-muzgob"],["telvanni spy","44072507191333341","ajira"],["orders","1769827919139593749","caius cosades"],["orders","297749082693230546","caius cosades"],["orders","140525241648531121","caius cosades"],["addhiranirr","1505014022672216914","caius cosades"],["huleeya","3136693961028632509","caius cosades"],["mehra milo","2492547921215315","caius cosades"],["blades apprentice","1010328727326818700","caius cosades"],["blades apprentice","32212141051164821657","caius cosades"],["sargon","1162966682928225468","arvso tharen"],["sargon","24441161152667522631","arvso tharen"],["sargon","1162966682928225468","sedris omalen"],["maar gan","31295116372823213211","nuleno tedas"],["sargon","29089101551222532221","nuleno tedas"],["sargon","29089101551222532221","bugdurash gra-gashel"]],
-  "factionRanks":{
-    "blades":1,
-    "fighters guild":3,
-    "mages guild":5,
-    "morag tong":0
-  },
-  "factionReputation":{
-    "imperial legion":5,
-    "redoran":5,
-    "temple":5,
-    "mages guild":57,
-    "thieves guild":-10,
-    "fighters guild":30
-  },
-  "factionExpulsion":[],
-  "mapExplored":[]
+  "time":{
+    "dayTimeScale":30,
+    "nightTimeScale":40,
+    "hour":11.005099999998,
+    "year":427,
+    "month":8,
+    "day":14,
+    "daysPassed":30
+  }
 }

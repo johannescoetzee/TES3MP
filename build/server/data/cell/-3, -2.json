@@ -22,51 +22,17 @@
     "miscellaneous":["428718-0","41618-0","41619-0","41610-0"]
   },
   "entry":{
-    "creationTime":1714760461,
-    "description":"-3, -2"
+    "description":"-3, -2",
+    "creationTime":1714760461
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594202
   },
   "recordLinks":{
     "potion":[]
   },
   "objectData":{
-    "41393-0":{
-      "refId":"crate_01_random_pos",
-      "inventory":[{
-          "refId":"sc_paper plain",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_wood_cup_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_basket_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_com_bottle_15",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "41394-0":{
       "refId":"crate_02_random_pos",
       "inventory":[{
@@ -1288,23 +1254,23 @@
     "41610-0":{
       "refId":"rararyn radarys",
       "location":{
-        "rotY":0,
         "posX":-22915.666015625,
         "posY":-12805.876953125,
         "posZ":715.69903564453,
-        "rotX":-0.20269864797592,
-        "rotZ":-1.6126220226288
+        "rotX":0,
+        "rotZ":0.20000000298023,
+        "rotY":0
       },
       "stats":{
-        "healthModified":63,
-        "magickaModified":86,
-        "fatigueModified":172,
         "healthBase":63,
         "healthCurrent":63,
         "magickaBase":86,
         "magickaCurrent":86,
-        "fatigueBase":172,
-        "fatigueCurrent":172
+        "fatigueCurrent":172,
+        "healthModified":63,
+        "magickaModified":86,
+        "fatigueModified":172,
+        "fatigueBase":172
       },
       "equipment":{
         "7":{
@@ -1357,30 +1323,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":29,
       "lastGoldRestockHour":22.151773452759,
-      "goldPool":0,
-      "lastGoldRestockDay":29
+      "goldPool":0
     },
     "41611-0":{
       "refId":"dralosa athren",
       "location":{
-        "rotY":0,
-        "posX":-19154.087890625,
-        "posY":-11379.696289063,
-        "posZ":182.99993896484,
-        "rotX":-0.0021208375692368,
-        "rotZ":-2.5895445346832
+        "posX":-19070.109375,
+        "posY":-12964.850585938,
+        "posZ":275.60000610352,
+        "rotX":0.0060585476458073,
+        "rotZ":1.5727956295013,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":84,
-        "fatigueModified":160,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":84,
         "magickaCurrent":84,
-        "fatigueBase":160,
-        "fatigueCurrent":160
+        "fatigueCurrent":160,
+        "healthModified":45,
+        "magickaModified":84,
+        "fatigueModified":160,
+        "fatigueBase":160
       },
       "equipment":{
         "7":{
@@ -1425,23 +1391,23 @@
     "41618-0":{
       "refId":"shargam gro-shagdulg",
       "location":{
-        "rotY":0,
-        "posX":-22721.9296875,
-        "posY":-14594.07421875,
-        "posZ":505,
-        "rotX":0.010158029384911,
-        "rotZ":-2.5887224674225
+        "posX":-21244.3359375,
+        "posY":-14044.080078125,
+        "posZ":304.06524658203,
+        "rotX":0.20859242975712,
+        "rotZ":0.088505268096924,
+        "rotY":0
       },
       "stats":{
-        "healthModified":58,
-        "magickaModified":62,
-        "fatigueModified":194,
         "healthBase":58,
         "healthCurrent":58,
         "magickaBase":62,
         "magickaCurrent":62,
-        "fatigueBase":194,
-        "fatigueCurrent":194
+        "fatigueCurrent":194,
+        "healthModified":58,
+        "magickaModified":62,
+        "fatigueModified":194,
+        "fatigueBase":194
       },
       "equipment":{
         "5":{
@@ -1518,30 +1484,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":8,
       "lastGoldRestockHour":0.41010600328445,
-      "goldPool":0,
-      "lastGoldRestockDay":8
+      "goldPool":0
     },
     "41619-0":{
       "refId":"heddvild",
       "location":{
-        "rotY":0,
-        "posX":-23426.1328125,
-        "posY":-14560.544921875,
-        "posZ":759.65551757813,
-        "rotX":-0.32138407230377,
-        "rotZ":-0.75469827651978
+        "posX":-22106.2421875,
+        "posY":-14189.232421875,
+        "posZ":789.14587402344,
+        "rotX":0.48357594013214,
+        "rotZ":2.615660905838,
+        "rotY":0
       },
       "stats":{
-        "healthModified":64,
-        "magickaModified":64,
-        "fatigueModified":195,
         "healthBase":64,
         "healthCurrent":64,
         "magickaBase":64,
         "magickaCurrent":64,
-        "fatigueBase":195,
-        "fatigueCurrent":195
+        "fatigueCurrent":195,
+        "healthModified":64,
+        "magickaModified":64,
+        "fatigueModified":195,
+        "fatigueBase":195
       },
       "equipment":[{
           "refId":"fur_cuirass",
@@ -1633,30 +1599,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":14,
       "lastGoldRestockHour":8.1751585006714,
-      "goldPool":0,
-      "lastGoldRestockDay":14
+      "goldPool":0
     },
     "41609-0":{
       "refId":"balyn omavel",
       "location":{
-        "rotY":0,
-        "posX":-17055.00390625,
-        "posY":-11847.072265625,
+        "posX":-17120.595703125,
+        "posY":-11772.857421875,
         "posZ":161,
-        "rotX":0.0098827034235001,
-        "rotZ":-1.0171611309052
+        "rotX":0.0098245739936829,
+        "rotZ":1.3854830265045,
+        "rotY":0
       },
       "stats":{
-        "healthModified":88,
-        "magickaModified":126,
-        "fatigueModified":213,
         "healthBase":88,
         "healthCurrent":88,
         "magickaBase":126,
         "magickaCurrent":126,
-        "fatigueBase":213,
-        "fatigueCurrent":213
+        "fatigueCurrent":213,
+        "healthModified":88,
+        "magickaModified":126,
+        "fatigueModified":213,
+        "fatigueBase":213
       },
       "equipment":{
         "7":{
@@ -1719,23 +1685,23 @@
     "295995-0":{
       "refId":"llandras belaal",
       "location":{
-        "rotY":0,
-        "posX":-21394.2734375,
-        "posY":-15215.2109375,
-        "posZ":335.66760253906,
-        "rotX":-0.053637579083443,
-        "rotZ":-2.6241924762726
+        "posX":-20047.06640625,
+        "posY":-15461.97265625,
+        "posZ":182.99990844727,
+        "rotX":0.093367978930473,
+        "rotZ":-0.64427828788757,
+        "rotY":0
       },
       "stats":{
-        "healthModified":68,
-        "magickaModified":36,
-        "fatigueModified":193,
         "healthBase":68,
         "healthCurrent":68,
         "magickaBase":36,
         "magickaCurrent":36,
-        "fatigueBase":193,
-        "fatigueCurrent":193
+        "fatigueCurrent":193,
+        "healthModified":68,
+        "magickaModified":36,
+        "fatigueModified":193,
+        "fatigueBase":193
       },
       "equipment":{
         "5":{
@@ -1876,23 +1842,23 @@
     "428719-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotY":0,
-        "posX":-18207.080078125,
-        "posY":-13072.452148438,
-        "posZ":172.77008056641,
-        "rotX":-0.031489122658968,
-        "rotZ":-2.8239033222198
+        "posX":-17984.359375,
+        "posY":-13863.365234375,
+        "posZ":626.65881347656,
+        "rotX":0.0066692205145955,
+        "rotZ":-1.5010211467743,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -2039,23 +2005,23 @@
     "428718-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotY":0,
-        "posX":-17877.08203125,
-        "posY":-15392.001953125,
-        "posZ":469.78192138672,
-        "rotX":-0.0087147559970617,
-        "rotZ":-1.7477304935455
+        "posX":-19596.6171875,
+        "posY":-14887.25390625,
+        "posZ":273.00006103516,
+        "rotX":0.0087147727608681,
+        "rotZ":-1.5644094944,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -2198,9 +2164,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":3,
       "lastGoldRestockHour":18.891885757446,
-      "goldPool":0,
-      "lastGoldRestockDay":3
+      "goldPool":0
     },
     "428720-0":{
       "cellChangeTo":"-3, -3"
@@ -2426,6 +2392,40 @@
         },{
           "refId":"gold_001",
           "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "41393-0":{
+      "refId":"crate_01_random_pos",
+      "inventory":[{
+          "refId":"sc_paper plain",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_wood_cup_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_basket_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_com_bottle_15",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

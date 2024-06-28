@@ -31,6 +31,26 @@
   },
   "recordLinks":[],
   "objectData":{
+    "429232-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "434245-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "434250-0":{
       "refId":"kollop_01_pearl",
       "inventory":[]
@@ -75,17 +95,6 @@
           "soul":""
         }]
     },
-    "0-947":{
-      "refId":"ingred_red_lichen_01",
-      "location":{
-        "posX":10217.78125,
-        "posY":198186.125,
-        "posZ":-318.18927001953,
-        "rotX":0,
-        "rotZ":0.57320666313171,
-        "rotY":0
-      }
-    },
     "0-946":{
       "refId":"ingred_muck_01",
       "location":{
@@ -97,32 +106,27 @@
         "rotY":0
       }
     },
-    "0-895":{
-      "refId":"slaughterfish_small",
+    "0-947":{
+      "refId":"ingred_red_lichen_01",
       "location":{
-        "posX":10270.01953125,
-        "posY":198386.609375,
-        "posZ":-110.58773803711,
-        "rotX":0.14514911174774,
-        "rotZ":-1.9196274280548,
+        "posX":10217.78125,
+        "posY":198186.125,
+        "posZ":-318.18927001953,
+        "rotX":0,
+        "rotZ":0.57320666313171,
         "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaModified":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
+    },
+    "288976-0":{
+      "refId":"netch_giant_unique",
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":6,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
     },
     "0-911":{
       "refId":"mudcrab-diseased",
@@ -135,15 +139,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":55,
-        "fatigueCurrent":55,
-        "fatigueModified":55,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":0,
-        "magickaModified":5
+        "magickaBase":5,
+        "fatigueBase":55,
+        "fatigueCurrent":55,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":55,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -168,15 +172,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":398.93017578125,
-        "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":0,
-        "magickaModified":5
+        "magickaBase":5,
+        "fatigueBase":400,
+        "fatigueCurrent":398.93017578125,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -185,11 +189,11 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "spellsActive":[],
       "killer":{
         "playerName":"Benoit"
       },
-      "deathState":39,
-      "spellsActive":[]
+      "deathState":39
     },
     "0-913":{
       "refId":"mudcrab",
@@ -202,15 +206,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":395.84814453125,
-        "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":0,
-        "magickaModified":5
+        "magickaBase":5,
+        "fatigueBase":400,
+        "fatigueCurrent":395.84814453125,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -235,15 +239,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":55,
-        "fatigueCurrent":48.522254943848,
-        "fatigueModified":55,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":0,
-        "magickaModified":5
+        "magickaBase":5,
+        "fatigueBase":55,
+        "fatigueCurrent":48.522254943848,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":55,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -268,15 +272,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":399.18865966797,
-        "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":0,
-        "magickaModified":5
+        "magickaBase":5,
+        "fatigueBase":400,
+        "fatigueCurrent":399.18865966797,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -301,15 +305,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "magickaCurrent":10
       },
       "inventory":[]
     },
@@ -324,15 +328,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -357,15 +361,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":75,
-        "fatigueBase":400,
-        "fatigueCurrent":365.85516357422,
-        "fatigueModified":400,
-        "magickaBase":75,
-        "healthModified":60,
         "healthBase":60,
         "healthCurrent":44.368286132813,
-        "magickaModified":75
+        "magickaBase":75,
+        "fatigueBase":400,
+        "fatigueCurrent":365.85516357422,
+        "healthModified":60,
+        "magickaModified":75,
+        "fatigueModified":400,
+        "magickaCurrent":75
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -386,55 +390,17 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":10
+        "magickaBase":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "magickaCurrent":10
       },
       "inventory":[]
-    },
-    "0-925":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":10462.190429688,
-        "posY":198104.875,
-        "posZ":-111.01276397705,
-        "rotX":0.017042130231857,
-        "rotZ":-1.057904958725,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "288976-0":{
-      "refId":"netch_giant_unique",
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":6,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
     },
     "0-910":{
       "refId":"cliff racer",
@@ -447,15 +413,69 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
         "healthBase":45,
         "healthCurrent":0,
-        "magickaModified":20
+        "magickaBase":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "magickaCurrent":20
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-895":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":10270.01953125,
+        "posY":198386.609375,
+        "posZ":-110.58773803711,
+        "rotX":0.14514911174774,
+        "rotZ":-1.9196274280548,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "magickaCurrent":10
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-925":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":10462.190429688,
+        "posY":198104.875,
+        "posZ":-111.01276397705,
+        "rotX":0.017042130231857,
+        "rotZ":-1.057904958725,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "magickaCurrent":10
       },
       "inventory":[],
       "killer":{
@@ -476,30 +496,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "429232-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "434245-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -17,9 +17,9 @@
     "state":["31421-0","31423-0","31422-0","31424-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"Solstheim, Mortrag Glacier: Huntsman's Hall",
@@ -28,12 +28,12 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "31421-0":{
-      "refId":"bm_hircine_huntaspect",
-      "state":false
-    },
     "31423-0":{
       "refId":"bm_hircine_straspect",
+      "state":false
+    },
+    "31421-0":{
+      "refId":"bm_hircine_huntaspect",
       "state":false
     },
     "31424-0":{
@@ -46,7 +46,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

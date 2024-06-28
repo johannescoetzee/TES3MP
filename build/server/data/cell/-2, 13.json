@@ -1,66 +1,56 @@
 {
   "packets":{
-    "actorList":["276638-0","276637-0","0-1052"],
+    "actorList":["276638-0","276637-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["276640-0","276637-0","276638-0","0-1052"],
+    "container":["276640-0","276637-0","276638-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["276638-0","276637-0"],
     "lock":[],
     "place":[],
-    "position":["276637-0","276638-0","0-1052"],
+    "position":["276637-0","276638-0"],
     "scale":[],
-    "spawn":["0-1052"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["276637-0","276638-0","0-1052"],
+    "statsDynamic":["276637-0","276638-0"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1717188839,
-    "description":"-2, 13"
+    "description":"-2, 13",
+    "creationTime":1717188839
   },
   "lastVisit":{
     "Benoit":1719595152,
-    "Fidgug":1719595462
+    "Fidgug":1719596697
   },
   "recordLinks":[],
   "objectData":{
-    "276640-0":{
-      "refId":"de_p_chest_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "276638-0":{
       "refId":"kanat assalatammis",
       "location":{
-        "rotY":0,
         "posX":-12896.390625,
         "posY":111943.171875,
-        "posZ":1294.8323974609,
+        "posZ":1294.8322753906,
         "rotX":0,
-        "rotZ":3.7831864356995
+        "rotZ":3.7831864356995,
+        "rotY":0
       },
       "stats":{
-        "healthModified":83,
-        "magickaModified":92,
-        "fatigueModified":197,
         "healthBase":83,
         "healthCurrent":83,
         "magickaBase":92,
         "magickaCurrent":92,
-        "fatigueBase":197,
-        "fatigueCurrent":197
+        "fatigueCurrent":197,
+        "healthModified":83,
+        "magickaModified":92,
+        "fatigueModified":197,
+        "fatigueBase":197
       },
       "equipment":{
         "7":{
@@ -123,23 +113,23 @@
     "276637-0":{
       "refId":"nirait shin-ilu",
       "location":{
-        "rotY":0,
         "posX":-12353.5859375,
         "posY":111773.640625,
         "posZ":1474.2159423828,
-        "rotX":-0.50944620370865,
-        "rotZ":1.4608581066132
+        "rotX":0,
+        "rotZ":3.7831857204437,
+        "rotY":0
       },
       "stats":{
-        "healthModified":88,
-        "magickaModified":90,
-        "fatigueModified":205,
         "healthBase":88,
         "healthCurrent":88,
         "magickaBase":90,
         "magickaCurrent":90,
-        "fatigueBase":205,
-        "fatigueCurrent":205
+        "fatigueCurrent":205,
+        "healthModified":88,
+        "magickaModified":90,
+        "fatigueModified":205,
+        "fatigueBase":205
       },
       "equipment":{
         "1":{
@@ -199,30 +189,11 @@
           "soul":""
         }]
     },
-    "0-1052":{
-      "refId":"cliff racer",
-      "location":{
-        "rotY":0,
-        "posX":-9648.474609375,
-        "posY":106610.6484375,
-        "posZ":2557.1313476563,
-        "rotX":0.01798041164875,
-        "rotZ":-0.29406523704529
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
+    "276640-0":{
+      "refId":"de_p_chest_02_gold_25",
       "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
+          "refId":"gold_001",
+          "count":25,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

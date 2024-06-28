@@ -26,73 +26,11 @@
     "description":"-12, 11"
   },
   "lastVisit":{
-    "Fidgug":1717188839,
-    "Benoit":1717188856
+    "Benoit":1717188856,
+    "Fidgug":1717188839
   },
   "recordLinks":[],
   "objectData":{
-    "26681-0":{
-      "refId":"com_chest_11_k01",
-      "inventory":[]
-    },
-    "0-690":{
-      "refId":"rat_diseased",
-      "location":{
-        "posX":-93866.46875,
-        "posY":95394.1015625,
-        "posZ":1336.8679199219,
-        "rotX":0.58530378341675,
-        "rotZ":-1.5688383579254,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":110,
-        "fatigueCurrent":110,
-        "fatigueModified":110,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-686":{
-      "refId":"nix-hound blighted",
-      "location":{
-        "posX":-96557.515625,
-        "posY":91671.390625,
-        "posZ":1549.5773925781,
-        "rotX":-0.0086106387898326,
-        "rotZ":-2.6294386386871,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":137,
-        "fatigueCurrent":137,
-        "fatigueModified":137,
-        "magickaBase":10,
-        "healthModified":68,
-        "healthBase":68,
-        "healthCurrent":68,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-687":{
       "refId":"nix-hound blighted",
       "location":{
@@ -104,15 +42,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":129,
-        "fatigueCurrent":129,
-        "fatigueModified":129,
-        "magickaBase":10,
-        "healthModified":68,
         "healthBase":68,
         "healthCurrent":68,
-        "magickaModified":10
+        "magickaBase":10,
+        "fatigueBase":129,
+        "fatigueCurrent":129,
+        "healthModified":68,
+        "magickaModified":10,
+        "fatigueModified":129,
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -133,15 +71,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "magickaCurrent":12
       },
       "inventory":[]
     },
@@ -156,40 +94,17 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":12,
-        "healthModified":30,
         "healthBase":30,
         "healthCurrent":30,
-        "magickaModified":12
+        "magickaBase":12,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":30,
+        "magickaModified":12,
+        "fatigueModified":400,
+        "magickaCurrent":12
       },
       "inventory":[]
-    },
-    "297845-0":{
-      "refId":"dreamer_talker09",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
     },
     "0-695":{
       "refId":"scrib",
@@ -202,15 +117,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "magickaCurrent":12
       },
       "inventory":[]
     },
@@ -355,10 +270,95 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "26681-0":{
+      "refId":"com_chest_11_k01",
+      "inventory":[]
+    },
+    "0-690":{
+      "refId":"rat_diseased",
+      "location":{
+        "posX":-93866.46875,
+        "posY":95394.1015625,
+        "posZ":1336.8679199219,
+        "rotX":0.58530378341675,
+        "rotZ":-1.5688383579254,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "fatigueBase":110,
+        "fatigueCurrent":110,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":110,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297845-0":{
+      "refId":"dreamer_talker09",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
+    },
+    "0-686":{
+      "refId":"nix-hound blighted",
+      "location":{
+        "posX":-96557.515625,
+        "posY":91671.390625,
+        "posZ":1549.5773925781,
+        "rotX":-0.0086106387898326,
+        "rotZ":-2.6294386386871,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":68,
+        "healthCurrent":68,
+        "magickaBase":10,
+        "fatigueBase":137,
+        "fatigueCurrent":137,
+        "healthModified":68,
+        "magickaModified":10,
+        "fatigueModified":137,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

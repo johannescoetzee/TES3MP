@@ -17,9 +17,9 @@
     "state":["482626-0","288985-0","288983-0","288984-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-8, 2",
@@ -28,25 +28,25 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "288985-0":{
-      "refId":"farvyn oreyn",
-      "state":false
-    },
     "288983-0":{
       "refId":"dreynis nothro",
       "state":false
     },
-    "288984-0":{
-      "refId":"vala herennius",
+    "288985-0":{
+      "refId":"farvyn oreyn",
       "state":false
     },
     "482626-0":{
       "refId":"netch_bull_dead_2",
       "state":false
+    },
+    "288984-0":{
+      "refId":"vala herennius",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

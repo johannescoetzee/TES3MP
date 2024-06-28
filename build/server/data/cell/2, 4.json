@@ -17,9 +17,9 @@
     "state":["369112-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"2, 4",
@@ -34,7 +34,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

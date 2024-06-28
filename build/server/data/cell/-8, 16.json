@@ -31,91 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "474932-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "0-610":{
-      "refId":"scrib blighted",
-      "location":{
-        "posX":-61473.0234375,
-        "posY":135270.84375,
-        "posZ":1209.2194824219,
-        "rotX":-0.033001430332661,
-        "rotZ":1.4266717433929,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":12,
-        "healthModified":30,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaModified":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-608":{
-      "refId":"scrib",
-      "location":{
-        "posX":-64955.0625,
-        "posY":133177.71875,
-        "posZ":975.62536621094,
-        "rotX":-0.058838471770287,
-        "rotZ":-1.3347475528717,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
-      },
-      "inventory":[]
-    },
-    "0-609":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":-62051.390625,
-        "posY":135247.71875,
-        "posZ":1413.5618896484,
-        "rotX":0.51441586017609,
-        "rotZ":1.9268662929535,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "297843-0":{
       "refId":"dreamer_talker10",
       "inventory":[{
@@ -139,6 +54,87 @@
         }],
       "state":false
     },
+    "0-610":{
+      "refId":"scrib blighted",
+      "location":{
+        "posX":-61473.0234375,
+        "posY":135270.84375,
+        "posZ":1209.2194824219,
+        "rotX":-0.033001430332661,
+        "rotZ":1.4266717433929,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaBase":12,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":30,
+        "magickaModified":12,
+        "fatigueModified":400,
+        "magickaCurrent":12
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-608":{
+      "refId":"scrib",
+      "location":{
+        "posX":-64955.0625,
+        "posY":133177.71875,
+        "posZ":975.62536621094,
+        "rotX":-0.058838471770287,
+        "rotZ":-1.3347475528717,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "magickaCurrent":12
+      },
+      "inventory":[]
+    },
+    "0-609":{
+      "refId":"netch_bull",
+      "location":{
+        "posX":-62051.390625,
+        "posY":135247.71875,
+        "posZ":1413.5618896484,
+        "rotX":0.51441586017609,
+        "rotZ":1.9268662929535,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "magickaCurrent":100
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "476740-0":{
       "refId":"kwama worker entrance",
       "location":{
@@ -150,15 +146,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":8,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":8,
-        "healthModified":30,
         "healthBase":30,
         "healthCurrent":30,
-        "magickaModified":8
+        "magickaBase":8,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":30,
+        "magickaModified":8,
+        "fatigueModified":300,
+        "magickaCurrent":8
       },
       "inventory":[{
           "refId":"food_kwama_egg_01",
@@ -179,15 +175,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":395.8515625,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10,
+        "fatigueBase":400,
+        "fatigueCurrent":395.8515625,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -212,15 +208,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":76,
-        "fatigueCurrent":76,
-        "fatigueModified":76,
-        "magickaBase":12,
-        "healthModified":8,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12,
+        "fatigueBase":76,
+        "fatigueCurrent":76,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":76,
+        "magickaCurrent":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -479,10 +475,14 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "474932-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

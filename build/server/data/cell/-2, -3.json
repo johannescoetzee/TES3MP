@@ -22,35 +22,74 @@
     "miscellaneous":["377937-0"]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"-2, -3"
+    "description":"-2, -3",
+    "creationTime":1713904668
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
+    "476169-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "297839-0":{
+      "refId":"dreamer_talker01",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
+    },
+    "476171-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476173-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476174-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
     "0-321":{
       "refId":"nix-hound",
       "location":{
-        "rotY":0,
         "posX":-10935.690429688,
         "posY":-18641.525390625,
         "posZ":611.49633789063,
         "rotX":-0.19631138443947,
-        "rotZ":2.7574770450592
+        "rotZ":2.7574770450592,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":0,
         "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -64,26 +103,34 @@
       },
       "deathState":38
     },
+    "476170-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476166-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
     "377937-0":{
       "refId":"itermerel",
       "location":{
-        "rotY":0,
         "posX":-10746.5859375,
         "posY":-18873.55078125,
         "posZ":600.54046630859,
         "rotX":0,
-        "rotZ":-1.4400007724762
+        "rotZ":4.8431849479675,
+        "rotY":0
       },
       "stats":{
-        "healthModified":84,
-        "magickaModified":164,
-        "fatigueModified":241,
         "healthBase":84,
         "healthCurrent":0,
         "magickaBase":164,
         "magickaCurrent":132.5714263916,
-        "fatigueBase":241,
-        "fatigueCurrent":209.58851623535
+        "fatigueCurrent":209.58851623535,
+        "healthModified":84,
+        "magickaModified":164,
+        "fatigueModified":241,
+        "fatigueBase":241
       },
       "cellChangeFrom":"Balmora, Eight Plates",
       "equipment":{
@@ -119,88 +166,37 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":11,
       "state":false,
-      "goldPool":0,
-      "spellsActive":{
-      },
-      "lastGoldRestockHour":6.3862047195435,
       "killer":{
         "playerName":"Benoit"
       },
       "deathState":39,
-      "lastGoldRestockDay":11
-    },
-    "476170-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476171-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476173-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476174-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
-    "476175-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "297839-0":{
-      "refId":"dreamer_talker01",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
-    },
-    "476168-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476169-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
+      "lastGoldRestockHour":6.3862047195435,
+      "spellsActive":{
+      },
+      "goldPool":0
     },
     "0-72":{
       "refId":"kwama forager",
       "location":{
-        "rotY":0,
         "posX":-13005.225585938,
         "posY":-21983.716796875,
         "posZ":1856.3128662109,
         "rotX":-0.12267302721739,
-        "rotZ":0.74275016784668
+        "rotZ":0.74275016784668,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
         "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -222,12 +218,16 @@
       "refId":"flora_chokeweed_02",
       "inventory":[]
     },
-    "476166-0":{
+    "476175-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[]
     },
     "476167-0":{
       "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476168-0":{
+      "refId":"flora_chokeweed_02",
       "inventory":[]
     }
   },

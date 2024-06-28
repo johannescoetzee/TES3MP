@@ -17,9 +17,9 @@
     "state":["25965-0","29541-0","25964-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-25, 19",
@@ -28,10 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "25964-0":{
-      "refId":"garnas uvalen_guard",
-      "state":false
-    },
     "29541-0":{
       "refId":"afer flaccus_guard",
       "state":false
@@ -39,10 +35,14 @@
     "25965-0":{
       "refId":"gratian caerellius_guar",
       "state":false
+    },
+    "25964-0":{
+      "refId":"garnas uvalen_guard",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

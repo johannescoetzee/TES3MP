@@ -17,9 +17,9 @@
     "state":["18048-0","18047-0","18046-0","18045-0","18044-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"Solstheim, Gandrung Caverns",
@@ -28,14 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "18047-0":{
-      "refId":"sorian",
-      "state":false
-    },
-    "18044-0":{
-      "refId":"gualtierus spurius",
-      "state":false
-    },
     "18048-0":{
       "refId":"mus roscius",
       "state":false
@@ -44,13 +36,21 @@
       "refId":"mazorn gro-gar",
       "state":false
     },
+    "18044-0":{
+      "refId":"gualtierus spurius",
+      "state":false
+    },
     "18046-0":{
       "refId":"mol gro-shat",
+      "state":false
+    },
+    "18047-0":{
+      "refId":"sorian",
       "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

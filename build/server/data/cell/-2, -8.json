@@ -27,12 +27,22 @@
   },
   "lastVisit":{
     "Benoit":1718735764,
+    "Fidgug":1718735761,
     "asdf":1713904733,
-    "qwer":1713904730,
-    "Fidgug":1718735761
+    "qwer":1713904730
   },
   "recordLinks":[],
   "objectData":{
+    "266460-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "266461-0":{
       "refId":"flora_bc_podplant_01",
       "inventory":[{
@@ -309,20 +319,20 @@
         "posX":-13882.584960938,
         "posY":-65035.1796875,
         "posZ":376.29525756836,
-        "rotY":0,
+        "rotX":0,
         "rotZ":2.0831861495972,
-        "rotX":0
+        "rotY":0
       },
       "stats":{
         "healthBase":40,
         "healthCurrent":40,
         "magickaBase":80,
-        "magickaCurrent":80,
         "fatigueBase":160,
         "fatigueCurrent":160,
         "healthModified":40,
         "magickaModified":80,
-        "fatigueModified":160
+        "fatigueModified":160,
+        "magickaCurrent":80
       },
       "equipment":{
         "9":{
@@ -478,16 +488,6 @@
         }]
     },
     "266437-0":{
-      "refId":"flora_bc_podplant_03",
-      "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266460-0":{
       "refId":"flora_bc_podplant_03",
       "inventory":[{
           "refId":"ingred_bc_coda_flower",

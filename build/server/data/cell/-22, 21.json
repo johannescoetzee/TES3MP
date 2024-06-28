@@ -17,9 +17,9 @@
     "state":["29448-0","30767-0","29450-0","30531-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-22, 21",
@@ -28,16 +28,16 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "30531-0":{
-      "refId":"act_bm_tree_parts",
+    "30767-0":{
+      "refId":"act_bm_tree_02",
       "state":false
     },
     "29450-0":{
       "refId":"act_bm_tree_03",
       "state":false
     },
-    "30767-0":{
-      "refId":"act_bm_tree_02",
+    "30531-0":{
+      "refId":"act_bm_tree_parts",
       "state":false
     },
     "29448-0":{
@@ -46,7 +46,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

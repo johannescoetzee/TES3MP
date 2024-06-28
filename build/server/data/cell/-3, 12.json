@@ -27,139 +27,30 @@
   },
   "lastVisit":{
     "Benoit":1719595152,
-    "Fidgug":1719595462
+    "Fidgug":1719596697
   },
   "recordLinks":[],
   "objectData":{
-    "232725-0":{
-      "refId":"kind erushara",
-      "location":{
-        "rotY":0,
-        "posX":-17476.66015625,
-        "posY":101971.484375,
-        "posZ":2410.3618164063,
-        "rotX":0.073447376489639,
-        "rotZ":-3.1003015041351
-      },
-      "stats":{
-        "healthModified":106,
-        "magickaModified":92,
-        "fatigueModified":223,
-        "healthBase":106,
-        "healthCurrent":106,
-        "magickaBase":92,
-        "magickaCurrent":92,
-        "fatigueBase":223,
-        "fatigueCurrent":223
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"key_kind",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"miner's pick",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208125-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208126-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208127-0":{
-      "refId":"tramaroot_04",
-      "inventory":[]
-    },
     "481183-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotY":0,
-        "posX":-21777.828125,
-        "posY":103729.2578125,
-        "posZ":2097.7749023438,
-        "rotX":0.88277530670166,
-        "rotZ":3.0252811908722
+        "posX":-21759.21875,
+        "posY":102710.3515625,
+        "posZ":1977,
+        "rotX":-0.066059172153473,
+        "rotZ":-2.9041578769684,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -336,23 +227,23 @@
     "232730-0":{
       "refId":"daras aryon",
       "location":{
-        "rotY":0,
         "posX":-22291.388671875,
         "posY":100062,
         "posZ":2411.4609375,
         "rotX":0,
-        "rotZ":-0.25969958305359
+        "rotZ":6.1831855773926,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":160,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":100,
         "magickaCurrent":100,
-        "fatigueBase":160,
-        "fatigueCurrent":160
+        "fatigueCurrent":160,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":160,
+        "fatigueBase":160
       },
       "equipment":{
         "7":{
@@ -405,30 +296,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":30,
       "lastGoldRestockHour":8.3219022750854,
-      "goldPool":11,
-      "lastGoldRestockDay":30
+      "goldPool":11
     },
     "232729-0":{
       "refId":"assi serimilk",
       "location":{
-        "rotY":0,
-        "posX":-22234.8515625,
-        "posY":105094.59375,
-        "posZ":2161,
-        "rotX":-0.11475136131048,
-        "rotZ":-0.064690113067627
+        "posX":-22096.607421875,
+        "posY":105607.8125,
+        "posZ":2175.0788574219,
+        "rotX":0.38288342952728,
+        "rotZ":0.543949842453,
+        "rotY":0
       },
       "stats":{
-        "healthModified":93,
-        "magickaModified":90,
-        "fatigueModified":205,
         "healthBase":93,
         "healthCurrent":93,
         "magickaBase":90,
         "magickaCurrent":90,
-        "fatigueBase":205,
-        "fatigueCurrent":205
+        "fatigueCurrent":205,
+        "healthModified":93,
+        "magickaModified":90,
+        "fatigueModified":205,
+        "fatigueBase":205
       },
       "equipment":{
         "7":{
@@ -511,30 +402,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":30,
       "lastGoldRestockHour":4.9596815109253,
-      "goldPool":0,
-      "lastGoldRestockDay":30
+      "goldPool":0
     },
     "481182-0":{
       "refId":"redoran guard male",
       "location":{
-        "rotY":0,
-        "posX":-20810.521484375,
-        "posY":103175.65625,
+        "posX":-21023.48046875,
+        "posY":103198.1328125,
         "posZ":1977,
-        "rotX":-0.038903091102839,
-        "rotZ":1.6655023097992
+        "rotX":-0.087813191115856,
+        "rotZ":-1.5194566249847,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -711,23 +602,23 @@
     "232724-0":{
       "refId":"redoran guard female",
       "location":{
-        "rotY":0,
-        "posX":-20964.73828125,
-        "posY":103096.625,
-        "posZ":1977,
-        "rotX":-0.03115695156157,
-        "rotZ":2.9058291912079
+        "posX":-21486.94921875,
+        "posY":103759.59375,
+        "posZ":2107.3369140625,
+        "rotX":0.023416327312589,
+        "rotZ":0.52222084999084,
+        "rotY":0
       },
       "stats":{
-        "healthModified":205,
-        "magickaModified":122,
-        "fatigueModified":297,
         "healthBase":205,
         "healthCurrent":205,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":297,
-        "fatigueCurrent":297
+        "fatigueCurrent":297,
+        "healthModified":205,
+        "magickaModified":122,
+        "fatigueModified":297,
+        "fatigueBase":297
       },
       "equipment":{
         "0":{
@@ -892,23 +783,23 @@
     "232723-0":{
       "refId":"shilipuran zama-rasour",
       "location":{
-        "rotY":0,
-        "posX":-21587.974609375,
-        "posY":103558.78125,
-        "posZ":1984.9998779297,
-        "rotX":-0.074456751346588,
-        "rotZ":0.48461985588074
+        "posX":-23267.48046875,
+        "posY":104630.984375,
+        "posZ":2244.0231933594,
+        "rotX":-0.022965013980865,
+        "rotZ":-1.2639577388763,
+        "rotY":0
       },
       "stats":{
-        "healthModified":86,
-        "magickaModified":96,
-        "fatigueModified":189,
         "healthBase":86,
         "healthCurrent":86,
         "magickaBase":96,
         "magickaCurrent":96,
-        "fatigueBase":189,
-        "fatigueCurrent":189
+        "fatigueCurrent":189,
+        "healthModified":86,
+        "magickaModified":96,
+        "fatigueModified":189,
+        "fatigueBase":189
       },
       "equipment":[null,null,null,null,{
           "refId":"common_glove_left_01",
@@ -1006,6 +897,115 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "232725-0":{
+      "refId":"kind erushara",
+      "location":{
+        "posX":-18958.14453125,
+        "posY":103478.65625,
+        "posZ":2321,
+        "rotX":0.045316912233829,
+        "rotZ":0.68775987625122,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":106,
+        "healthCurrent":106,
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueCurrent":223,
+        "healthModified":106,
+        "magickaModified":92,
+        "fatigueModified":223,
+        "fatigueBase":223
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"key_kind",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"miner's pick",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208125-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208126-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208127-0":{
+      "refId":"tramaroot_04",
+      "inventory":[]
     }
   },
   "loadState":{

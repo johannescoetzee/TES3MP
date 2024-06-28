@@ -22,8 +22,8 @@
     "miscellaneous":["295111-0"]
   },
   "entry":{
-    "description":"-6, 16",
-    "creationTime":1716738149
+    "creationTime":1716738149,
+    "description":"-6, 16"
   },
   "lastVisit":{
     "Benoit":1717181995,
@@ -31,6 +31,29 @@
   },
   "recordLinks":[],
   "objectData":{
+    "0-601":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-42391.36328125,
+        "posY":138511.53125,
+        "posZ":3342.6442871094,
+        "rotX":-0.0083788689225912,
+        "rotZ":-2.1329329013824,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "fatigueBase":400
+      },
+      "inventory":[]
+    },
     "295111-0":{
       "refId":"fonus rathryon",
       "location":{
@@ -42,15 +65,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":195,
-        "fatigueCurrent":194.84367370605,
-        "fatigueModified":195,
-        "magickaBase":94,
-        "healthModified":82,
         "healthBase":82,
         "healthCurrent":82,
-        "magickaModified":94
+        "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueCurrent":194.84367370605,
+        "healthModified":82,
+        "magickaModified":94,
+        "fatigueModified":195,
+        "fatigueBase":195
       },
       "cellChangeFrom":"-5, 12",
       "equipment":[null,null,null,null,null,null,{
@@ -97,33 +120,10 @@
       "lastGoldRestockHour":5.8149480819702,
       "lastGoldRestockDay":17,
       "goldPool":0
-    },
-    "0-601":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-42391.36328125,
-        "posY":138511.53125,
-        "posZ":3342.6442871094,
-        "rotX":-0.0083788689225912,
-        "rotZ":-2.1329329013824,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
-      },
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

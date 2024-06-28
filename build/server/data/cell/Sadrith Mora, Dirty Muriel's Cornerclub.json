@@ -17,9 +17,9 @@
     "state":["288320-0","377941-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"Sadrith Mora, Dirty Muriel's Cornerclub",
@@ -28,17 +28,17 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "288320-0":{
-      "refId":"natalinus flavonius",
-      "state":false
-    },
     "377941-0":{
       "refId":"tenyeminwe",
+      "state":false
+    },
+    "288320-0":{
+      "refId":"natalinus flavonius",
       "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

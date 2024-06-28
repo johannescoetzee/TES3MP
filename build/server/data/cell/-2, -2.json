@@ -22,15 +22,76 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1714759398,
-    "description":"-2, -2"
+    "description":"-2, -2",
+    "creationTime":1714759398
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
+    "0-76":{
+      "refId":"rat",
+      "location":{
+        "posX":-11284.643554688,
+        "posY":-11039.145507813,
+        "posZ":1760.6624755859,
+        "rotX":-0.37869861721992,
+        "rotZ":-2.2247335910797,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "33998-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "33999-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34001-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34002-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34004-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34005-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34000-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
+    "34003-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
+    },
     "476158-0":{
       "refId":"flora_roobrush_02",
       "inventory":[{
@@ -54,23 +115,23 @@
     "41612-0":{
       "refId":"dralcea arethi",
       "location":{
-        "rotY":0,
-        "posX":-15820.83203125,
-        "posY":-13218.623046875,
-        "posZ":407.62957763672,
-        "rotX":-0.042923822999001,
-        "rotZ":0.21061682701111
+        "posX":-15503.75390625,
+        "posY":-14763.333984375,
+        "posZ":405.48593139648,
+        "rotX":0.027329653501511,
+        "rotZ":-0.018704891204834,
+        "rotY":0
       },
       "stats":{
-        "healthModified":58,
-        "magickaModified":86,
-        "fatigueModified":162,
         "healthBase":58,
         "healthCurrent":58,
         "magickaBase":86,
         "magickaCurrent":86,
-        "fatigueBase":162,
-        "fatigueCurrent":162
+        "fatigueCurrent":162,
+        "healthModified":58,
+        "magickaModified":86,
+        "fatigueModified":162,
+        "fatigueBase":162
       },
       "equipment":{
         "7":{
@@ -123,67 +184,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-76":{
-      "refId":"rat",
-      "location":{
-        "rotY":0,
-        "posX":-11255.3359375,
-        "posY":-11005.491210938,
-        "posZ":1714.0093994141,
-        "rotX":0.12222114950418,
-        "rotZ":-3.1255905628204
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "33998-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "33999-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34001-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34002-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34004-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34005-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34000-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
-    "34003-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
     }
   },
   "loadState":{

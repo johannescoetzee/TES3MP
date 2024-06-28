@@ -17,9 +17,9 @@
     "state":["251174-0","251178-0","251175-0","251177-0","251176-0","251173-0"],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
     "description":"Cavern of the Incarnate",
@@ -28,16 +28,16 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "251174-0":{
-      "refId":"ghost_npc_ane teria",
+    "251176-0":{
+      "refId":"ghost_npc_idrenie nerot",
       "state":false
     },
     "251173-0":{
       "refId":"ghost_npc_peakstar",
       "state":false
     },
-    "251177-0":{
-      "refId":"ghost_npc_hort_ledd",
+    "251174-0":{
+      "refId":"ghost_npc_ane teria",
       "state":false
     },
     "251178-0":{
@@ -48,13 +48,13 @@
       "refId":"ghost_npc_erur-dan",
       "state":false
     },
-    "251176-0":{
-      "refId":"ghost_npc_idrenie nerot",
+    "251177-0":{
+      "refId":"ghost_npc_hort_ledd",
       "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

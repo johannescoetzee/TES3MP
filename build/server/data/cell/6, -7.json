@@ -17,43 +17,42 @@
     "state":["297835-0"],
     "statsDynamic":["262181-0","262182-0","262183-0","428715-0","428716-0"],
     "trap":[],
-    "miscellaneous":["262181-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["262181-0"]
   },
   "entry":{
     "description":"6, -7",
     "creationTime":1713904668
   },
   "lastVisit":{
-    "Fidgug":1715365563,
-    "Benoit":1715365561
+    "Benoit":1715365561,
+    "Fidgug":1715365563
   },
   "recordLinks":[],
   "objectData":{
-    "262117-0":{
-      "refId":"flora_gold_kanet_01",
+    "297835-0":{
+      "refId":"dreamer_talker12",
       "inventory":[{
-          "refId":"ingred_gold_kanet_01",
+          "refId":"common_pants_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "262118-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "262119-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
     },
     "262182-0":{
       "refId":"bula gra-muk",
@@ -66,15 +65,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":108,
-        "fatigueBase":326,
-        "fatigueCurrent":326,
-        "fatigueModified":326,
-        "healthModified":202,
-        "magickaModified":108,
         "healthBase":202,
         "healthCurrent":202,
-        "magickaBase":108
+        "magickaBase":108,
+        "fatigueBase":326,
+        "fatigueCurrent":326,
+        "healthModified":202,
+        "magickaModified":108,
+        "fatigueModified":326,
+        "magickaCurrent":108
       },
       "equipment":[{
           "refId":"orcish_cuirass",
@@ -195,15 +194,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":164,
-        "fatigueBase":230,
-        "fatigueCurrent":230,
-        "fatigueModified":230,
-        "healthModified":95,
-        "magickaModified":164,
         "healthBase":95,
         "healthCurrent":95,
-        "magickaBase":164
+        "magickaBase":164,
+        "fatigueBase":230,
+        "fatigueCurrent":230,
+        "healthModified":95,
+        "magickaModified":164,
+        "fatigueModified":230,
+        "magickaCurrent":164
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -340,25 +339,19 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307,
-        "fatigueModified":307,
-        "healthModified":210,
-        "magickaModified":122,
         "healthBase":210,
         "healthCurrent":210,
-        "magickaBase":122
+        "magickaBase":122,
+        "fatigueBase":307,
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "magickaCurrent":122
       },
       "equipment":{
         "0":{
           "refId":"bonemold_armun-an_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_armun-an_cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -369,8 +362,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "3":{
-          "refId":"bonemold_armun-an_pauldron_l",
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -381,20 +380,8 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
+        "16":{
+          "refId":"steel longsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -405,14 +392,26 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel longsword",
+        "3":{
+          "refId":"bonemold_armun-an_pauldron_l",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_armun-an_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -503,25 +502,19 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307,
-        "fatigueModified":307,
-        "healthModified":210,
-        "magickaModified":122,
         "healthBase":210,
         "healthCurrent":210,
-        "magickaBase":122
+        "magickaBase":122,
+        "fatigueBase":307,
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "magickaCurrent":122
       },
       "equipment":{
         "0":{
           "refId":"bonemold_armun-an_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_armun-an_cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -532,8 +525,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "3":{
-          "refId":"bonemold_armun-an_pauldron_l",
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -544,20 +543,8 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
+        "16":{
+          "refId":"steel longsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -568,14 +555,26 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel longsword",
+        "3":{
+          "refId":"bonemold_armun-an_pauldron_l",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_armun-an_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -666,15 +665,15 @@
         "rotY":0
       },
       "stats":{
-        "magickaCurrent":80,
-        "fatigueBase":160,
-        "fatigueCurrent":160,
-        "fatigueModified":160,
-        "healthModified":45,
-        "magickaModified":80,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":80
+        "magickaBase":80,
+        "fatigueBase":160,
+        "fatigueCurrent":160,
+        "healthModified":45,
+        "magickaModified":80,
+        "fatigueModified":160,
+        "magickaCurrent":80
       },
       "equipment":{
         "14":{
@@ -745,32 +744,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":12,
       "lastGoldRestockHour":2.9606232643127,
-      "goldPool":0,
-      "lastGoldRestockDay":12
-    },
-    "297835-0":{
-      "refId":"dreamer_talker12",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
+      "goldPool":0
     },
     "262115-0":{
       "refId":"flora_gold_kanet_01",
@@ -781,10 +757,34 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "262117-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[{
+          "refId":"ingred_gold_kanet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "262118-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "262119-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

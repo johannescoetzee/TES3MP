@@ -22,75 +22,35 @@
     "miscellaneous":["41643-0"]
   },
   "entry":{
-    "creationTime":1714761404,
-    "description":"-4, -2"
+    "description":"-4, -2",
+    "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
-    "252164-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252165-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252166-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "34115-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "41643-0":{
       "refId":"stargel",
       "location":{
-        "rotY":0,
-        "posX":-25373.9765625,
-        "posY":-12656.138671875,
+        "posX":-25435.400390625,
+        "posY":-12304.21875,
         "posZ":961,
-        "rotX":0.0014925096184015,
-        "rotZ":-2.8527414798737
+        "rotX":0.012396825477481,
+        "rotZ":-1.9975807666779,
+        "rotY":0
       },
       "stats":{
-        "healthModified":67,
-        "magickaModified":64,
-        "fatigueModified":189,
         "healthBase":67,
         "healthCurrent":67,
         "magickaBase":64,
         "magickaCurrent":64,
-        "fatigueBase":189,
-        "fatigueCurrent":189
+        "fatigueCurrent":189,
+        "healthModified":67,
+        "magickaModified":64,
+        "fatigueModified":189,
+        "fatigueBase":189
       },
       "equipment":{
         "5":{
@@ -167,30 +127,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":14,
       "lastGoldRestockHour":15.609610557556,
-      "goldPool":0,
-      "lastGoldRestockDay":14
+      "goldPool":0
     },
     "428721-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotY":0,
-        "posX":-26069.935546875,
-        "posY":-11639.104492188,
+        "posX":-24619.083984375,
+        "posY":-12435.8515625,
         "posZ":961,
-        "rotX":0.0018571279942989,
-        "rotZ":-1.0781457424164
+        "rotX":0.010393013246357,
+        "rotZ":-3.1374499797821,
+        "rotY":0
       },
       "stats":{
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307
+        "fatigueCurrent":307,
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "fatigueBase":307
       },
       "equipment":{
         "0":{
@@ -381,6 +341,46 @@
     "252150-0":{
       "refId":"flora_bc_shelffungus_02",
       "inventory":[]
+    },
+    "252164-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252165-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252166-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "34115-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

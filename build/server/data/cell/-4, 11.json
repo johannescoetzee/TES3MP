@@ -27,53 +27,83 @@
   },
   "lastVisit":{
     "Benoit":1719595152,
-    "Fidgug":1719595462
+    "Fidgug":1719596697
   },
   "recordLinks":[],
   "objectData":{
+    "300435-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300437-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300441-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-524":{
       "refId":"kagouti",
       "location":{
-        "rotY":0,
-        "posX":-24961.37890625,
-        "posY":93611.265625,
-        "posZ":1622.5791015625,
-        "rotX":-0.053742833435535,
-        "rotZ":1.1966326236725
+        "posX":-25771.89453125,
+        "posY":93915.2578125,
+        "posZ":1757.0665283203,
+        "rotX":-0.0088567184284329,
+        "rotZ":-1.3812701702118,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueBase":400
       },
       "inventory":[]
     },
     "0-525":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-27654.494140625,
-        "posY":93931.546875,
-        "posZ":3078.8444824219,
-        "rotX":2.2953376173973e-05,
-        "rotZ":-1.360889673233
+        "posX":-26643.419921875,
+        "posY":91884.984375,
+        "posZ":3078.1528320313,
+        "rotX":5.1991082727909e-05,
+        "rotZ":-2.5245411396027,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":20,
         "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "fatigueBase":400
       },
       "inventory":[]
     },
@@ -127,36 +157,6 @@
     },
     "300430-0":{
       "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300435-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300437-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300441-0":{
-      "refId":"flora_rm_scathecraw_02",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
           "count":1,

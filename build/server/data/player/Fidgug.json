@@ -5,11 +5,11 @@
     "passwordSalt":"FMq0swpChePyqnQzrh65XHGVESdQlKLMyFYOEV3ramJNDfDWEdpd8UIIi6bo288I"
   },
   "timestamps":{
-    "lastDisconnect":1719595462,
-    "creation":1713904744,
     "lastFixMe":0,
-    "lastSessionDuration":1575,
-    "lastLogin":1719593887
+    "creation":1713904744,
+    "lastDisconnect":1719596697,
+    "lastSessionDuration":180,
+    "lastLogin":1719596517
   },
   "settings":{
     "difficulty":"default",
@@ -32,218 +32,218 @@
   },
   "customClass":{
     "name":"WAAAAGGGGGGHHHHH!!!",
+    "specialization":0,
     "majorAttributes":"Strength, Endurance",
     "majorSkills":"Heavyarmor, Axe, Longblade, Bluntweapon, Armorer",
     "minorSkills":"Block, Mediumarmor, Spear, Athletics, Acrobatics",
-    "description":"",
-    "specialization":0
+    "description":""
   },
   "location":{
     "cell":"-3, 12",
-    "posX":-21566.30078125,
-    "posY":103188.3359375,
-    "posZ":1977,
-    "rotX":0.1640625,
-    "rotZ":2.3765170574188,
+    "posX":-22202.1484375,
+    "posY":102152.640625,
+    "posZ":1978.2374267578,
+    "rotX":0.0625,
+    "rotZ":0.68355822563171,
     "regionName":"ashlands region"
   },
   "stats":{
-    "healthBase":109.79999542236,
-    "healthCurrent":108.79999542236,
+    "healthBase":117.19999694824,
+    "healthCurrent":115.81761169434,
     "magickaBase":30,
     "magickaCurrent":30,
-    "fatigueBase":241,
-    "fatigueCurrent":169.14184570313,
-    "level":9,
-    "levelProgress":12
+    "fatigueBase":248,
+    "fatigueCurrent":217.06706237793,
+    "levelProgress":3,
+    "level":10
   },
   "fame":{
     "reputation":0,
     "bounty":0
   },
   "shapeshift":{
-    "displayCreatureName":false,
-    "creatureRefId":"",
     "isWerewolf":false,
-    "scale":1
+    "scale":1,
+    "displayCreatureName":false,
+    "creatureRefId":""
   },
   "attributes":{
+    "Personality":{
+      "skillIncrease":0,
+      "base":32,
+      "damage":0
+    },
     "Luck":{
       "skillIncrease":0,
-      "damage":0,
-      "base":40
+      "base":40,
+      "damage":0
     },
     "Speed":{
-      "skillIncrease":2,
-      "damage":0,
-      "base":46
+      "skillIncrease":0,
+      "base":48,
+      "damage":0
     },
     "Strength":{
-      "skillIncrease":9,
-      "damage":0,
-      "base":82
+      "skillIncrease":0,
+      "base":87,
+      "damage":0
     },
     "Intelligence":{
       "skillIncrease":0,
-      "damage":0,
-      "base":30
+      "base":30,
+      "damage":0
     },
     "Willpower":{
-      "skillIncrease":1,
-      "damage":0,
-      "base":51
+      "skillIncrease":0,
+      "base":51,
+      "damage":0
     },
     "Agility":{
       "skillIncrease":0,
-      "damage":0,
-      "base":36
+      "base":36,
+      "damage":0
     },
     "Endurance":{
-      "skillIncrease":2,
-      "damage":0,
-      "base":72
-    },
-    "Personality":{
-      "skillIncrease":2,
-      "damage":0,
-      "base":32
+      "skillIncrease":0,
+      "base":74,
+      "damage":0
     }
   },
   "skills":{
+    "Axe":{
+      "progress":19.200000762939,
+      "base":77,
+      "damage":0
+    },
     "Spear":{
       "progress":0,
-      "damage":0,
-      "base":20
+      "base":20,
+      "damage":0
     },
     "Athletics":{
-      "progress":21.280296325684,
-      "damage":0,
-      "base":31
+      "progress":22.040313720703,
+      "base":31,
+      "damage":0
     },
     "Enchant":{
       "progress":0,
-      "damage":0,
-      "base":2
+      "base":2,
+      "damage":0
     },
     "Destruction":{
       "progress":0,
-      "damage":0,
-      "base":2
+      "base":2,
+      "damage":0
     },
     "Alteration":{
       "progress":0,
-      "damage":0,
-      "base":1
+      "base":1,
+      "damage":0
     },
     "Illusion":{
       "progress":0,
-      "damage":0,
-      "base":1
+      "base":1,
+      "damage":0
     },
     "Conjuration":{
       "progress":0,
-      "damage":0,
-      "base":1
+      "base":1,
+      "damage":0
     },
     "Mysticism":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Restoration":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Alchemy":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Unarmored":{
       "progress":0,
-      "damage":0,
-      "base":16
+      "base":16,
+      "damage":0
     },
     "Security":{
       "progress":0,
-      "damage":0,
-      "base":5
+      "base":5,
+      "damage":0
     },
     "Sneak":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Lightarmor":{
       "progress":0,
-      "damage":0,
-      "base":3
+      "base":3,
+      "damage":0
     },
     "Shortblade":{
       "progress":0,
-      "damage":0,
-      "base":5
+      "base":5,
+      "damage":0
     },
     "Marksman":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Mercantile":{
       "progress":0,
-      "damage":0,
-      "base":4
+      "base":4,
+      "damage":0
     },
     "Speechcraft":{
       "progress":2,
-      "damage":0,
-      "base":6
+      "base":6,
+      "damage":0
     },
     "Handtohand":{
       "progress":0,
-      "damage":0,
-      "base":5
+      "base":5,
+      "damage":0
     },
     "Acrobatics":{
-      "progress":34.349967956543,
-      "damage":0,
-      "base":34
+      "progress":2.5500001907349,
+      "base":35,
+      "damage":0
     },
     "Block":{
       "progress":0,
-      "damage":0,
-      "base":29
+      "base":29,
+      "damage":0
     },
     "Armorer":{
       "progress":14.399994850159,
-      "damage":0,
-      "base":45
+      "base":45,
+      "damage":0
     },
     "Mediumarmor":{
       "progress":16,
-      "damage":0,
-      "base":34
+      "base":34,
+      "damage":0
     },
     "Heavyarmor":{
-      "progress":16,
-      "damage":0,
-      "base":53
+      "progress":17,
+      "base":53,
+      "damage":0
     },
     "Bluntweapon":{
-      "progress":14,
-      "damage":0,
-      "base":40
+      "progress":15,
+      "base":40,
+      "damage":0
     },
     "Longblade":{
       "progress":0,
-      "damage":0,
-      "base":35
-    },
-    "Axe":{
-      "progress":19.200000762939,
-      "damage":0,
-      "base":77
+      "base":35,
+      "damage":0
     }
   },
   "recordLinks":{
@@ -251,74 +251,74 @@
   },
   "equipment":{
     "0":{
-      "refId":"ebony_closed_helm_fghl",
       "enchantmentCharge":-1,
+      "refId":"ebony_closed_helm_fghl",
       "count":1,
       "charge":590
     },
     "1":{
-      "refId":"orcish_cuirass",
       "enchantmentCharge":-1,
+      "refId":"orcish_cuirass",
       "count":1,
       "charge":859
     },
     "2":{
-      "refId":"imperial_greaves",
       "enchantmentCharge":-1,
+      "refId":"imperial_greaves",
       "count":1,
       "charge":167
     },
     "3":{
-      "refId":"steel_pauldron_left",
       "enchantmentCharge":-1,
+      "refId":"steel_pauldron_left",
       "count":1,
       "charge":133
     },
     "4":{
-      "refId":"steel_pauldron_right",
       "enchantmentCharge":-1,
+      "refId":"steel_pauldron_right",
       "count":1,
       "charge":139
     },
     "5":{
-      "refId":"dwemer_bracer_left",
       "enchantmentCharge":-1,
+      "refId":"dwemer_bracer_left",
       "count":1,
       "charge":97
     },
     "6":{
-      "refId":"orcish_bracer_right",
       "enchantmentCharge":-1,
+      "refId":"orcish_bracer_right",
       "count":1,
       "charge":148
     },
     "7":{
-      "enchantmentCharge":-1,
       "refId":"steel_boots",
+      "enchantmentCharge":-1,
       "count":1,
       "charge":150
     },
     "8":{
-      "refId":"",
       "enchantmentCharge":-1,
+      "refId":"",
       "count":0,
       "charge":-1
     },
     "9":{
-      "refId":"",
       "enchantmentCharge":-1,
+      "refId":"",
       "count":0,
       "charge":-1
     },
     "12":{
-      "enchantmentCharge":-1,
       "refId":"fighter_ring",
+      "enchantmentCharge":-1,
       "count":1,
       "charge":-1
     },
     "14":{
-      "refId":"amulet of mighty blows",
       "enchantmentCharge":95,
+      "refId":"amulet of mighty blows",
       "count":1,
       "charge":1
     },
@@ -326,7 +326,7 @@
       "refId":"6th bell hammer",
       "enchantmentCharge":-1,
       "count":1,
-      "charge":3930
+      "charge":3924
     }
   },
   "inventory":[{
@@ -593,7 +593,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"$custom_potion_85",
       "count":4,
       "charge":-1,
@@ -617,7 +617,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"$custom_potion_76",
       "count":1,
       "charge":-1,
@@ -665,7 +665,7 @@
       "charge":139,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"writ_yasalmibaal",
       "count":1,
       "charge":-1,
@@ -683,7 +683,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,null,null,{
+    },{
       "refId":"expensive_amulet_01",
       "count":1,
       "charge":-1,
@@ -719,7 +719,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,null,null,null,null,null,{
+    },{
       "refId":"dwemer_bracer_left",
       "count":1,
       "charge":97,
@@ -731,10 +731,10 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,null,{
+    },{
       "refId":"6th bell hammer",
       "count":1,
-      "charge":3930,
+      "charge":3924,
       "enchantmentCharge":-1,
       "soul":""
     },{
@@ -749,7 +749,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,null,{
+    },{
       "refId":"darkbrotherhood gauntlet_r",
       "count":6,
       "charge":-1,
@@ -761,7 +761,7 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"darkbrotherhood greaves",
       "count":1,
       "charge":249,
@@ -797,13 +797,13 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"dagger of judgement",
       "count":1,
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
-    },null,{
+    },{
       "refId":"darkbrotherhood greaves",
       "count":4,
       "charge":-1,
@@ -875,7 +875,7 @@
       "charge":76,
       "enchantmentCharge":-1,
       "soul":""
-    },null,null,{
+    },{
       "refId":"sc_divineintervention",
       "count":1,
       "charge":-1,
@@ -887,20 +887,21 @@
       "charge":-1,
       "enchantmentCharge":-1,
       "soul":""
+    },{
+      "refId":"ingred_racer_plumes_01",
+      "count":1,
+      "charge":-1,
+      "enchantmentCharge":-1,
+      "soul":""
     }],
   "spellbook":["mark","recall"],
   "books":["bookskill_acrobatics3","bookskill_mercantile2","bookskill_security5","bookskill_security4","bookskill_mysticism4","bookskill_unarmored4"],
   "factionRanks":[],
   "factionReputation":[],
   "factionExpulsion":[],
-  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7","-1, -6","-2, -6","-2, -5","-1, -5","-1, -4","-1, -3","-2, -3","-3, -3","-3, -2","-2, -2","-4, -2","-4, -3","-4, -4","-4, -5","-5, -5","-6, -5","-5, -4","-6, -4","-1, -2","-1, -1","-2, -1","-2, 0","-2, 1","-2, 2","-3, 2","-3, 1","-3, -1","0, -4","0, -2","0, -3","1, -2","0, -1","1, -1","2, -1","2, -2","3, -2","4, -2","4, -3","4, -1","4, 0","3, 0","3, -1","6, -6","6, -7","5, -6","5, -7","4, -6","4, -5","3, -5","3, -4","2, -4","2, -5","1, -4","1, -5","-1, 0","-1, 1","-2, 3","-3, 3","-4, 3","-5, 3","-5, 4","-6, 4","-4, 4","-4, 5","-5, 5","-5, 6","-5, 7","-4, 7","-4, 6","-3, 6","-3, 7","-2, 6","-2, 7","-5, 8","-5, 9","-5, 10","-6, 10","-6, 11","-5, 11","-5, 12","-5, 13","-5, 14","-6, 14","-6, 15","-7, 15","-7, 16","-6, 16","-8, 16","-8, 15","-9, 15","-10, 15","-10, 11","-11, 11","-11, 12","-12, 12","-11, 13","-12, 13","-11, 14","-10, 14","-10, 13","-9, 14","-8, 14","-7, 14","-8, 17","-7, 17","-6, 17","-6, 18","-11, 15","-9, 16","-9, 17","-7, 18","-5, 18","-4, 18","-3, 18","-2, 18","-2, 19","-2, 20","-2, 21","-1, 21","-1, 22","-1, 23","-2, 23","-2, 24","-1, 24","0, 24","1, 24","1, 23","0, 23","1, 22","0, 22","-11, 10","-3, 12","3, -10","3, -11","4, -10","4, -11","4, -12","3, -12","2, -11","2, -10","5, -11","6, -11","6, -10","7, -10","7, -11","8, -11","9, -11","9, -10","9, -9","8, -10","8, -9","7, -9","6, -9","5, -9","4, -9","3, -9","-2, -4","-3, -5","-3, -6"],
+  "mapExplored":["-2, -9","-1, -9","0, -9","0, -8","-1, -8","-1, -7","0, -7","-1, -6","-2, -6","-2, -5","-1, -5","-1, -4","-1, -3","-2, -3","-3, -3","-3, -2","-2, -2","-4, -2","-4, -3","-4, -4","-4, -5","-5, -5","-6, -5","-5, -4","-6, -4","-1, -2","-1, -1","-2, -1","-2, 0","-2, 1","-2, 2","-3, 2","-3, 1","-3, -1","0, -4","0, -2","0, -3","1, -2","0, -1","1, -1","2, -1","2, -2","3, -2","4, -2","4, -3","4, -1","4, 0","3, 0","3, -1","6, -6","6, -7","5, -6","5, -7","4, -6","4, -5","3, -5","3, -4","2, -4","2, -5","1, -4","1, -5","-1, 0","-1, 1","-2, 3","-3, 3","-4, 3","-5, 3","-5, 4","-6, 4","-4, 4","-4, 5","-5, 5","-5, 6","-5, 7","-4, 7","-4, 6","-3, 6","-3, 7","-2, 6","-2, 7","-5, 8","-5, 9","-5, 10","-6, 10","-6, 11","-5, 11","-5, 12","-5, 13","-5, 14","-6, 14","-6, 15","-7, 15","-7, 16","-6, 16","-8, 16","-8, 15","-9, 15","-10, 15","-10, 11","-11, 11","-11, 12","-12, 12","-11, 13","-12, 13","-11, 14","-10, 14","-10, 13","-9, 14","-8, 14","-7, 14","-8, 17","-7, 17","-6, 17","-6, 18","-11, 15","-9, 16","-9, 17","-7, 18","-5, 18","-4, 18","-3, 18","-2, 18","-2, 19","-2, 20","-2, 21","-1, 21","-1, 22","-1, 23","-2, 23","-2, 24","-1, 24","0, 24","1, 24","1, 23","0, 23","1, 22","0, 22","-11, 10","-3, 12","3, -10","3, -11","4, -10","4, -11","4, -12","3, -12","2, -11","2, -10","5, -11","6, -11","6, -10","7, -10","7, -11","8, -11","9, -11","9, -10","9, -9","8, -10","8, -9","7, -9","6, -9","5, -9","4, -9","3, -9","-2, -4","-3, -5","-3, -6","-4, 12"],
   "ipAddresses":["127.0.0.1"],
   "customVariables":[],
-  "destinationOverrides":[],
-  "clientVariables":{
-    "globals":[]
-  },
-  "spellsActive":[],
   "miscellaneous":{
     "selectedSpell":"orc_beserk",
     "markLocation":{
@@ -912,42 +913,47 @@
       "rotZ":0
     }
   },
-  "topics":[],
-  "cooldowns":[{
-      "spellId":"orc_beserk",
-      "startDay":2,
-      "startHour":12.697022438049
-    },{
-      "spellId":"orc_beserk",
-      "startDay":4,
-      "startHour":23.504425048828
-    },{
-      "spellId":"orc_beserk",
-      "startDay":6,
-      "startHour":21.009965896606
-    }],
+  "spellsActive":[],
+  "clientVariables":{
+    "globals":[]
+  },
   "journal":[],
-  "alliedPlayers":[],
+  "topics":[],
   "quickKeys":[{
-      "keyType":0,
-      "itemId":"p_restore_health_s"
+      "itemId":"p_restore_health_s",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_3"
+      "itemId":"$custom_potion_3",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"p_restore_fatigue_s"
+      "itemId":"p_restore_fatigue_s",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"p_fortify_health_q"
+      "itemId":"p_fortify_health_q",
+      "keyType":0
     },null,null,{
-      "keyType":0,
-      "itemId":"$custom_potion_109"
+      "itemId":"$custom_potion_109",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_43"
+      "itemId":"$custom_potion_43",
+      "keyType":0
     },{
-      "keyType":0,
-      "itemId":"$custom_potion_42"
-    }]
+      "itemId":"$custom_potion_42",
+      "keyType":0
+    }],
+  "cooldowns":[{
+      "startHour":12.697022438049,
+      "spellId":"orc_beserk",
+      "startDay":2
+    },{
+      "startHour":23.504425048828,
+      "spellId":"orc_beserk",
+      "startDay":4
+    },{
+      "startHour":21.009965896606,
+      "spellId":"orc_beserk",
+      "startDay":6
+    }],
+  "destinationOverrides":[],
+  "alliedPlayers":[]
 }

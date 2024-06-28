@@ -22,35 +22,85 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1714761404,
-    "description":"-2, -1"
+    "description":"-2, -1",
+    "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
+    "476141-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476142-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476143-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476146-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "0-99":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-10320.54296875,
+        "posY":-2311.7075195313,
+        "posZ":818.70977783203,
+        "rotX":0.20115715265274,
+        "rotZ":1.7502911090851,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueCurrent":399.83822631836,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueBase":400
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "spellsActive":[]
+    },
     "261829-0":{
       "refId":"ernil omoran",
       "location":{
-        "rotY":0,
         "posX":-8542.5400390625,
         "posY":-2343.779296875,
         "posZ":1135.0556640625,
         "rotX":0,
-        "rotZ":2.783186674118
+        "rotZ":2.783186674118,
+        "rotY":0
       },
       "stats":{
-        "healthModified":0,
-        "magickaModified":88,
-        "fatigueModified":188,
         "healthBase":0,
         "healthCurrent":0,
         "magickaBase":88,
         "magickaCurrent":88,
-        "fatigueBase":188,
-        "fatigueCurrent":188
+        "fatigueCurrent":188,
+        "healthModified":0,
+        "magickaModified":88,
+        "fatigueModified":188,
+        "fatigueBase":188
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -91,23 +141,23 @@
     "0-98":{
       "refId":"rat",
       "location":{
-        "rotY":0,
-        "posX":-14663.83203125,
-        "posY":-5706.6484375,
+        "posX":-15035.857421875,
+        "posY":-6068.603515625,
         "posZ":353.00006103516,
-        "rotX":0.011082748882473,
-        "rotZ":0.80146741867065
+        "rotX":-0.035973738878965,
+        "rotZ":-2.3634464740753,
+        "rotY":0
       },
       "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "fatigueBase":300
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -200,56 +250,6 @@
     "476140-0":{
       "refId":"flora_kreshweed_03",
       "inventory":[]
-    },
-    "476141-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476142-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476143-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476146-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "0-99":{
-      "refId":"nix-hound",
-      "location":{
-        "rotY":0,
-        "posX":-10320.54296875,
-        "posY":-2311.7075195313,
-        "posZ":818.70977783203,
-        "rotX":0.20115715265274,
-        "rotZ":1.7502911090851
-      },
-      "stats":{
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.83822631836
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "spellsActive":[],
-      "deathState":38
     }
   },
   "loadState":{

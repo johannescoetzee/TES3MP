@@ -22,72 +22,28 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1714761404,
-    "description":"-3, -1"
+    "description":"-3, -1",
+    "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719595452,
+    "Benoit":1719596655,
     "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
-    "41642-0":{
-      "refId":"hul",
-      "location":{
-        "rotY":0,
-        "posX":-22065.39453125,
-        "posY":-7879.2587890625,
-        "posZ":775.74108886719,
-        "rotX":0,
-        "rotZ":2.0000021457672
-      },
-      "stats":{
-        "healthModified":40,
-        "magickaModified":102,
-        "fatigueModified":166,
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":102,
-        "magickaCurrent":102,
-        "fatigueBase":166,
-        "fatigueCurrent":166
-      },
-      "cellChangeFrom":"-3, -3",
-      "equipment":{
-        "8":{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
+    "476308-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476309-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "476307-0":{
+      "refId":"flora_bittergreen_04",
       "inventory":[{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01",
-          "count":1,
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -151,23 +107,67 @@
           "soul":""
         }]
     },
-    "476307-0":{
-      "refId":"flora_bittergreen_04",
+    "41642-0":{
+      "refId":"hul",
+      "location":{
+        "posX":-22065.39453125,
+        "posY":-7879.2587890625,
+        "posZ":775.74108886719,
+        "rotX":0,
+        "rotZ":2.0000021457672,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":102,
+        "magickaCurrent":102,
+        "fatigueCurrent":166,
+        "healthModified":40,
+        "magickaModified":102,
+        "fatigueModified":166,
+        "fatigueBase":166
+      },
+      "cellChangeFrom":"-3, -3",
+      "equipment":{
+        "8":{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
       "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "476308-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476309-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
     }
   },
   "loadState":{

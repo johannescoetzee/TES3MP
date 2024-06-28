@@ -1,56 +1,56 @@
 {
   "packets":{
-    "actorList":["0-1045"],
+    "actorList":["0-1045","0-1051"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1045"],
+    "container":["0-1045","0-1051"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1045"],
+    "position":["0-1045","0-1051"],
     "scale":[],
-    "spawn":["0-1045"],
+    "spawn":["0-1045","0-1051"],
     "state":[],
-    "statsDynamic":["0-1045"],
+    "statsDynamic":["0-1045","0-1051"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1717188839,
-    "description":"-2, 12"
+    "description":"-2, 12",
+    "creationTime":1717188839
   },
   "lastVisit":{
     "Benoit":1719595152,
-    "Fidgug":1719595462
+    "Fidgug":1719596697
   },
   "recordLinks":[],
   "objectData":{
     "0-1045":{
       "refId":"cliff racer",
       "location":{
-        "rotY":0,
-        "posX":-8384.591796875,
-        "posY":103467.375,
-        "posZ":2856.9721679688,
+        "posX":-8383.8388671875,
+        "posY":103510.125,
+        "posZ":2856.9780273438,
         "rotX":0.0014302600175142,
-        "rotZ":-3.1171486377716
+        "rotZ":-3.1171486377716,
+        "rotY":0
       },
       "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":20,
         "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -59,6 +59,29 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1051":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-12181.231445313,
+        "posY":98950.8125,
+        "posZ":4785.31640625,
+        "rotX":-9.0552493929863e-06,
+        "rotZ":1.7347509860992,
+        "rotY":0
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "fatigueBase":400
+      },
+      "inventory":[]
     }
   },
   "loadState":{
