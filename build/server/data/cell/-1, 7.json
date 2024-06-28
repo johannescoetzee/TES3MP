@@ -1,63 +1,36 @@
 {
   "packets":{
-    "actorList":["0-481"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["273536-0","273537-0","273538-0","0-481"],
+    "container":["273536-0","273537-0","273538-0"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-481"],
+    "position":[],
     "scale":[],
-    "spawn":["0-481"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-481"],
+    "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-1, 7",
-    "creationTime":1715978154
+    "creationTime":1715978154,
+    "description":"-1, 7"
   },
   "lastVisit":{
-    "Benoit":1717189941,
-    "Fidgug":1718733551
+    "Benoit":1719595170,
+    "Fidgug":1719594467
   },
   "recordLinks":[],
   "objectData":{
-    "273538-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[]
-    },
-    "0-481":{
-      "refId":"cliff racer",
-      "location":{
-        "rotY":0,
-        "posX":-3532.3090820313,
-        "posY":57392.796875,
-        "posZ":6196.4970703125,
-        "rotX":-2.2277235984802e-06,
-        "rotZ":2.5951044559479
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[]
-    },
     "273536-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -77,10 +50,14 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "273538-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

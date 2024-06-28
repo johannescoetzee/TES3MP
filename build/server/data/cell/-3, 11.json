@@ -1,56 +1,125 @@
 {
   "packets":{
-    "actorList":["0-1043","0-1041","0-1042"],
+    "actorList":["0-1043","0-1041","0-1042","0-523"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1043","0-1041","0-1042"],
+    "container":["0-1043","0-1041","0-1042","0-523"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1041","0-1042","0-1043"],
+    "position":["0-1041","0-1042","0-1043","0-523"],
     "scale":[],
-    "spawn":["0-1043","0-1041","0-1042"],
+    "spawn":["0-1043","0-1041","0-1042","0-523"],
     "state":[],
-    "statsDynamic":["0-1041","0-1042","0-1043"],
+    "statsDynamic":["0-1041","0-1042","0-1043","0-523"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-3, 11",
-    "creationTime":1717188839
+    "creationTime":1717188839,
+    "description":"-3, 11"
   },
   "lastVisit":{
-    "Benoit":1717189216,
-    "Fidgug":1717189221
+    "Benoit":1719595152,
+    "Fidgug":1719595462
   },
   "recordLinks":[],
   "objectData":{
+    "0-523":{
+      "refId":"kagouti",
+      "location":{
+        "rotY":0,
+        "posX":-24564.5078125,
+        "posY":96090.421875,
+        "posZ":3495.0173339844,
+        "rotX":0.44286933541298,
+        "rotZ":-0.81370902061462
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[]
+    },
+    "0-1043":{
+      "refId":"kwama forager",
+      "location":{
+        "rotY":0,
+        "posX":-22787.96484375,
+        "posY":95494.28125,
+        "posZ":3782.0581054688,
+        "rotX":-0.24142836034298,
+        "rotZ":-2.8242495059967
+      },
+      "stats":{
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300
+      },
+      "inventory":[]
+    },
+    "0-1041":{
+      "refId":"rat_blighted",
+      "location":{
+        "rotY":0,
+        "posX":-17383.71484375,
+        "posY":93149.1875,
+        "posZ":3525.1796875,
+        "rotX":0.026179114356637,
+        "rotZ":1.2851793766022
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":70,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":70,
+        "fatigueCurrent":70
+      },
+      "inventory":[]
+    },
     "0-1042":{
       "refId":"cliff racer",
       "location":{
-        "posX":-19433.419921875,
-        "posY":90301.6796875,
-        "posZ":4936.6948242188,
+        "rotY":0,
+        "posX":-19307.857421875,
+        "posY":90298.4765625,
+        "posZ":4936.1865234375,
         "rotX":0.0033667823299766,
-        "rotZ":2.4872381687164,
-        "rotY":0
+        "rotZ":2.6550657749176
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
         "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -59,56 +128,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-1043":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-22961.3359375,
-        "posY":95614.7109375,
-        "posZ":3786.3469238281,
-        "rotX":-0.1784473657608,
-        "rotZ":-0.94783234596252,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":15,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":15
-      },
-      "inventory":[]
-    },
-    "0-1041":{
-      "refId":"rat_blighted",
-      "location":{
-        "posX":-17208.919921875,
-        "posY":92659.84375,
-        "posZ":3539.5432128906,
-        "rotX":0.51133549213409,
-        "rotZ":2.3279039859772,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":70,
-        "fatigueCurrent":70,
-        "fatigueModified":70,
-        "magickaBase":10,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":10
-      },
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

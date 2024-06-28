@@ -26,51 +26,51 @@
     "description":"-4, -3"
   },
   "lastVisit":{
-    "Benoit":1718737125,
-    "Fidgug":1718737025
+    "Benoit":1719595452,
+    "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
-    "476473-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
+    "252220-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "476474-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "476475-0":{
-      "refId":"flora_gold_kanet_02",
-      "inventory":[]
-    },
-    "476476-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[]
-    },
-    "476477-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[]
+    "252223-0":{
+      "refId":"flora_bc_shelffungus_02",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "480590-0":{
       "refId":"scrib",
       "location":{
+        "rotY":0,
         "posX":-28197.939453125,
         "posY":-23446.65625,
         "posZ":705.77502441406,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":0,
         "magickaBase":12,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueCurrent":298.66925048828,
-        "fatigueModified":300,
         "magickaCurrent":0,
-        "fatigueBase":300
+        "fatigueBase":300,
+        "fatigueCurrent":298.66925048828
       },
       "inventory":[],
       "killer":{
@@ -78,57 +78,30 @@
       },
       "deathState":38
     },
-    "0-119":{
-      "refId":"db_assassin1b",
-      "location":{
-        "posX":-27655.01953125,
-        "posY":-21766.30859375,
-        "posZ":892.20611572266,
-        "rotX":-0.21208350360394,
-        "rotZ":-0.58716630935669,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":100,
-        "healthModified":40,
-        "magickaModified":100,
-        "fatigueCurrent":150,
-        "fatigueModified":150,
-        "magickaCurrent":100,
-        "fatigueBase":150
-      },
-      "equipment":[],
-      "inventory":[],
-      "deathState":42,
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "lastGoldRestockHour":17.381175994873,
-      "goldPool":0,
-      "lastGoldRestockDay":4
+    "34121-0":{
+      "refId":"com_basket_01_empty",
+      "inventory":[]
     },
     "0-109":{
       "refId":"kwama forager",
       "location":{
-        "posX":-30965.419921875,
-        "posY":-17874.853515625,
-        "posZ":726.39318847656,
-        "rotX":-0.040977831929922,
-        "rotZ":0.16300082206726,
-        "rotY":0
+        "rotY":0,
+        "posX":-30616.87890625,
+        "posY":-17279.84765625,
+        "posZ":730.51446533203,
+        "rotX":-0.015310199931264,
+        "rotZ":1.2791492938995
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":15,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
         "magickaCurrent":15,
-        "fatigueBase":300
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -142,11 +115,11 @@
       "refId":"flora_corkbulb",
       "inventory":[]
     },
-    "67304-0":{
-      "refId":"flora_corkbulb",
+    "476463-0":{
+      "refId":"flora_heather_01",
       "inventory":[]
     },
-    "67314-0":{
+    "476468-0":{
       "refId":"flora_heather_01",
       "inventory":[]
     },
@@ -190,37 +163,7 @@
           "soul":""
         }]
     },
-    "252213-0":{
-      "refId":"flora_bc_shelffungus_04",
-      "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "252218-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252219-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252220-0":{
       "refId":"flora_bc_mushroom_06",
       "inventory":[{
           "refId":"ingred_coprinus_01",
@@ -232,16 +175,6 @@
     },
     "252222-0":{
       "refId":"flora_bc_shelffungus_01",
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252223-0":{
-      "refId":"flora_bc_shelffungus_02",
       "inventory":[{
           "refId":"ingred_bc_bungler's_bane",
           "count":1,
@@ -270,10 +203,6 @@
           "soul":""
         }]
     },
-    "34121-0":{
-      "refId":"com_basket_01_empty",
-      "inventory":[]
-    },
     "476456-0":{
       "refId":"flora_heather_01",
       "inventory":[]
@@ -282,13 +211,84 @@
       "refId":"flora_comberry_01",
       "inventory":[]
     },
-    "476463-0":{
+    "476473-0":{
       "refId":"flora_heather_01",
       "inventory":[]
     },
-    "476468-0":{
+    "476474-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[]
+    },
+    "476475-0":{
+      "refId":"flora_gold_kanet_02",
+      "inventory":[]
+    },
+    "476476-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[]
+    },
+    "476477-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[]
+    },
+    "0-119":{
+      "refId":"db_assassin1b",
+      "location":{
+        "rotY":0,
+        "posX":-27634.3515625,
+        "posY":-21844.984375,
+        "posZ":876.70202636719,
+        "rotX":0.38567870855331,
+        "rotZ":2.7424895763397
+      },
+      "stats":{
+        "healthModified":40,
+        "magickaModified":100,
+        "fatigueModified":150,
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":150,
+        "fatigueCurrent":150
+      },
+      "equipment":[],
+      "inventory":[],
+      "goldPool":0,
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":42,
+      "lastGoldRestockHour":17.381175994873,
+      "lastGoldRestockDay":4
+    },
+    "67314-0":{
       "refId":"flora_heather_01",
       "inventory":[]
+    },
+    "252213-0":{
+      "refId":"flora_bc_shelffungus_04",
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "67304-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    },
+    "252219-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

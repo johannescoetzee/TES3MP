@@ -26,11 +26,21 @@
     "description":"-4, -1"
   },
   "lastVisit":{
-    "Benoit":1718737125,
-    "Fidgug":1718737025
+    "Benoit":1719595452,
+    "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
+    "252047-0":{
+      "refId":"flora_bc_mushroom_04",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "252048-0":{
       "refId":"flora_bc_shelffungus_01",
       "inventory":[{
@@ -284,16 +294,6 @@
       "inventory":[{
           "refId":"ingred_coprinus_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252047-0":{
-      "refId":"flora_bc_mushroom_04",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

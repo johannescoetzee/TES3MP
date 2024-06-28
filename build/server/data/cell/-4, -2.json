@@ -26,11 +26,21 @@
     "description":"-4, -2"
   },
   "lastVisit":{
-    "Benoit":1718737125,
-    "Fidgug":1718737025
+    "Benoit":1719595452,
+    "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
+    "252164-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "252165-0":{
       "refId":"flora_bc_mushroom_08",
       "inventory":[{
@@ -64,23 +74,23 @@
     "41643-0":{
       "refId":"stargel",
       "location":{
-        "posX":-25985.453125,
-        "posY":-11682.860351563,
+        "rotY":0,
+        "posX":-25373.9765625,
+        "posY":-12656.138671875,
         "posZ":961,
-        "rotX":0.011542895808816,
-        "rotZ":-1.1329944133759,
-        "rotY":0
+        "rotX":0.0014925096184015,
+        "rotZ":-2.8527414798737
       },
       "stats":{
+        "healthModified":67,
+        "magickaModified":64,
+        "fatigueModified":189,
         "healthBase":67,
         "healthCurrent":67,
         "magickaBase":64,
-        "healthModified":67,
-        "magickaModified":64,
-        "fatigueCurrent":189,
-        "fatigueModified":189,
         "magickaCurrent":64,
-        "fatigueBase":189
+        "fatigueBase":189,
+        "fatigueCurrent":189
       },
       "equipment":{
         "5":{
@@ -158,29 +168,29 @@
           "soul":""
         }],
       "lastGoldRestockHour":15.609610557556,
-      "lastGoldRestockDay":14,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":14
     },
     "428721-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "posX":-24836.8671875,
-        "posY":-10438.515625,
+        "rotY":0,
+        "posX":-26069.935546875,
+        "posY":-11639.104492188,
         "posZ":961,
-        "rotX":0.0099776014685631,
-        "rotZ":0.52367854118347,
-        "rotY":0
+        "rotX":0.0018571279942989,
+        "rotZ":-1.0781457424164
       },
       "stats":{
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
         "magickaBase":122,
-        "healthModified":210,
-        "magickaModified":122,
-        "fatigueCurrent":307,
-        "fatigueModified":307,
         "magickaCurrent":122,
-        "fatigueBase":307
+        "fatigueBase":307,
+        "fatigueCurrent":307
       },
       "equipment":{
         "0":{
@@ -371,16 +381,6 @@
     "252150-0":{
       "refId":"flora_bc_shelffungus_02",
       "inventory":[]
-    },
-    "252164-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{

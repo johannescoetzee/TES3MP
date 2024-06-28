@@ -26,31 +26,31 @@
     "description":"-1, -2"
   },
   "lastVisit":{
-    "Benoit":1718737289,
-    "Fidgug":1718737288
+    "Benoit":1719594075,
+    "Fidgug":1719594108
   },
   "recordLinks":[],
   "objectData":{
     "0-77":{
       "refId":"rat",
       "location":{
+        "rotY":0,
         "posX":-7839.5126953125,
         "posY":-8317.349609375,
         "posZ":678.93017578125,
         "rotX":-0.083587825298309,
-        "rotZ":-2.3087432384491,
-        "rotY":0
+        "rotZ":-2.3087432384491
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":0,
         "magickaBase":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueCurrent":299.43206787109,
-        "fatigueModified":300,
         "magickaCurrent":10,
-        "fatigueBase":300
+        "fatigueBase":300,
+        "fatigueCurrent":299.43206787109
       },
       "inventory":[],
       "killer":{
@@ -62,23 +62,23 @@
     "83144-0":{
       "refId":"snowy granius",
       "location":{
+        "rotY":0,
         "posX":-1234.4572753906,
         "posY":-13657.96484375,
         "posZ":2496.9985351563,
         "rotX":0,
-        "rotZ":-1.2999985218048,
-        "rotY":0
+        "rotZ":4.9831867218018
       },
       "stats":{
+        "healthModified":54,
+        "magickaModified":108,
+        "fatigueModified":164,
         "healthBase":54,
         "healthCurrent":0,
         "magickaBase":108,
-        "healthModified":54,
-        "magickaModified":108,
-        "fatigueCurrent":164,
-        "fatigueModified":164,
         "magickaCurrent":73,
-        "fatigueBase":164
+        "fatigueBase":164,
+        "fatigueCurrent":164
       },
       "cellChangeFrom":"0, -2",
       "equipment":{
@@ -133,31 +133,31 @@
           "soul":""
         }],
       "spellsActive":[],
-      "deathState":39,
       "killer":{
         "playerName":"Benoit"
-      }
+      },
+      "deathState":39
     },
     "0-75":{
       "refId":"cliff racer",
       "location":{
+        "rotY":0,
         "posX":-183.3968963623,
         "posY":-13331.96875,
         "posZ":2496.9982910156,
         "rotX":0.89317011833191,
-        "rotZ":-2.6191198825836,
-        "rotY":0
+        "rotZ":-2.6191198825836
       },
       "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":0,
         "magickaBase":20,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
         "magickaCurrent":20,
-        "fatigueBase":400
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[],
       "killer":{

@@ -22,35 +22,337 @@
     "miscellaneous":["232729-0","232730-0"]
   },
   "entry":{
-    "description":"-3, 12",
-    "creationTime":1717188839
+    "creationTime":1717188839,
+    "description":"-3, 12"
   },
   "lastVisit":{
-    "Benoit":1717189216,
-    "Fidgug":1717189221
+    "Benoit":1719595152,
+    "Fidgug":1719595462
   },
   "recordLinks":[],
   "objectData":{
+    "232725-0":{
+      "refId":"kind erushara",
+      "location":{
+        "rotY":0,
+        "posX":-17476.66015625,
+        "posY":101971.484375,
+        "posZ":2410.3618164063,
+        "rotX":0.073447376489639,
+        "rotZ":-3.1003015041351
+      },
+      "stats":{
+        "healthModified":106,
+        "magickaModified":92,
+        "fatigueModified":223,
+        "healthBase":106,
+        "healthCurrent":106,
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueBase":223,
+        "fatigueCurrent":223
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"key_kind",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"miner's pick",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208125-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208126-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208127-0":{
+      "refId":"tramaroot_04",
+      "inventory":[]
+    },
+    "481183-0":{
+      "refId":"redoran guard male",
+      "location":{
+        "rotY":0,
+        "posX":-21777.828125,
+        "posY":103729.2578125,
+        "posZ":2097.7749023438,
+        "rotX":0.88277530670166,
+        "rotZ":3.0252811908722
+      },
+      "stats":{
+        "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":307,
+        "fatigueCurrent":307
+      },
+      "equipment":{
+        "0":{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"extravagant_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"extravagant_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "14":{
+          "refId":"expensive_amulet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bonemold_gah-julan_helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_amulet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_glove_left_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_glove_right_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"extravagant_pants_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "232730-0":{
       "refId":"daras aryon",
       "location":{
-        "posX":-22294.525390625,
-        "posY":100055.796875,
+        "rotY":0,
+        "posX":-22291.388671875,
+        "posY":100062,
         "posZ":2411.4609375,
         "rotX":0,
-        "rotZ":-0.22878336906433,
-        "rotY":0
+        "rotZ":-0.25969958305359
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":160,
-        "fatigueCurrent":160,
-        "fatigueModified":160,
-        "magickaBase":100,
         "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":160,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":100
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":160,
+        "fatigueCurrent":160
       },
       "equipment":{
         "7":{
@@ -103,30 +405,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":24,
-      "lastGoldRestockHour":21.862493515015,
-      "lastGoldRestockDay":22
+      "lastGoldRestockHour":8.3219022750854,
+      "goldPool":11,
+      "lastGoldRestockDay":30
     },
     "232729-0":{
       "refId":"assi serimilk",
       "location":{
-        "posX":-22109.12890625,
-        "posY":105878.6328125,
-        "posZ":2121.3742675781,
-        "rotX":0.35726392269135,
-        "rotZ":-0.095197200775146,
-        "rotY":0
+        "rotY":0,
+        "posX":-22234.8515625,
+        "posY":105094.59375,
+        "posZ":2161,
+        "rotX":-0.11475136131048,
+        "rotZ":-0.064690113067627
       },
       "stats":{
-        "magickaCurrent":90,
-        "fatigueBase":205,
-        "fatigueCurrent":205,
-        "fatigueModified":205,
-        "magickaBase":90,
         "healthModified":93,
+        "magickaModified":90,
+        "fatigueModified":205,
         "healthBase":93,
         "healthCurrent":93,
-        "magickaModified":90
+        "magickaBase":90,
+        "magickaCurrent":90,
+        "fatigueBase":205,
+        "fatigueCurrent":205
       },
       "equipment":{
         "7":{
@@ -209,30 +511,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockHour":4.9596815109253,
       "goldPool":0,
-      "lastGoldRestockHour":18.986726760864,
-      "lastGoldRestockDay":22
+      "lastGoldRestockDay":30
     },
     "481182-0":{
       "refId":"redoran guard male",
       "location":{
-        "posX":-21745.62109375,
-        "posY":103465.25,
-        "posZ":1979.7263183594,
-        "rotX":-0.095156602561474,
-        "rotZ":2.1956236362457,
-        "rotY":0
+        "rotY":0,
+        "posX":-20810.521484375,
+        "posY":103175.65625,
+        "posZ":1977,
+        "rotX":-0.038903091102839,
+        "rotZ":1.6655023097992
       },
       "stats":{
-        "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307,
-        "fatigueModified":307,
-        "magickaBase":122,
         "healthModified":210,
+        "magickaModified":122,
+        "fatigueModified":307,
         "healthBase":210,
         "healthCurrent":210,
-        "magickaModified":122
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":307,
+        "fatigueCurrent":307
       },
       "equipment":{
         "0":{
@@ -303,12 +605,6 @@
         },
         "16":{
           "refId":"steel mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -415,23 +711,23 @@
     "232724-0":{
       "refId":"redoran guard female",
       "location":{
-        "posX":-21969.845703125,
-        "posY":102497.5390625,
+        "rotY":0,
+        "posX":-20964.73828125,
+        "posY":103096.625,
         "posZ":1977,
-        "rotX":-0.029236864298582,
-        "rotZ":-2.6411783695221,
-        "rotY":0
+        "rotX":-0.03115695156157,
+        "rotZ":2.9058291912079
       },
       "stats":{
-        "magickaCurrent":122,
-        "fatigueBase":297,
-        "fatigueCurrent":297,
-        "fatigueModified":297,
-        "magickaBase":122,
         "healthModified":205,
+        "magickaModified":122,
+        "fatigueModified":297,
         "healthBase":205,
         "healthCurrent":205,
-        "magickaModified":122
+        "magickaBase":122,
+        "magickaCurrent":122,
+        "fatigueBase":297,
+        "fatigueCurrent":297
       },
       "equipment":{
         "0":{
@@ -502,12 +798,6 @@
         },
         "16":{
           "refId":"silver longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -602,23 +892,23 @@
     "232723-0":{
       "refId":"shilipuran zama-rasour",
       "location":{
-        "posX":-20274.44140625,
-        "posY":103254.2890625,
-        "posZ":1989.5207519531,
-        "rotX":-0.12500183284283,
-        "rotZ":1.3018906116486,
-        "rotY":0
+        "rotY":0,
+        "posX":-21587.974609375,
+        "posY":103558.78125,
+        "posZ":1984.9998779297,
+        "rotX":-0.074456751346588,
+        "rotZ":0.48461985588074
       },
       "stats":{
-        "magickaCurrent":96,
-        "fatigueBase":189,
-        "fatigueCurrent":189,
-        "fatigueModified":189,
-        "magickaBase":96,
         "healthModified":86,
+        "magickaModified":96,
+        "fatigueModified":189,
         "healthBase":86,
         "healthCurrent":86,
-        "magickaModified":96
+        "magickaBase":96,
+        "magickaCurrent":96,
+        "fatigueBase":189,
+        "fatigueCurrent":189
       },
       "equipment":[null,null,null,null,{
           "refId":"common_glove_left_01",
@@ -716,324 +1006,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "232725-0":{
-      "refId":"kind erushara",
-      "location":{
-        "posX":-18884.69921875,
-        "posY":102969.9609375,
-        "posZ":2321,
-        "rotX":-0.07735625654459,
-        "rotZ":-0.60833883285522,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":92,
-        "fatigueBase":223,
-        "fatigueCurrent":223,
-        "fatigueModified":223,
-        "magickaBase":92,
-        "healthModified":106,
-        "healthBase":106,
-        "healthCurrent":106,
-        "magickaModified":92
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"key_kind",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"miner's pick",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208125-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208126-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208127-0":{
-      "refId":"tramaroot_04",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "481183-0":{
-      "refId":"redoran guard male",
-      "location":{
-        "posX":-21825.693359375,
-        "posY":103945.0234375,
-        "posZ":2201.9428710938,
-        "rotX":-0.17402133345604,
-        "rotZ":2.8230755329132,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":122,
-        "fatigueBase":307,
-        "fatigueCurrent":307,
-        "fatigueModified":307,
-        "magickaBase":122,
-        "healthModified":210,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaModified":122
-      },
-      "equipment":{
-        "0":{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"extravagant_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"extravagant_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "14":{
-          "refId":"expensive_amulet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_amulet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_glove_left_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_glove_right_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"extravagant_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"torch_infinite_time",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"steel mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

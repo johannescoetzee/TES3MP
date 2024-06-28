@@ -17,20 +17,40 @@
     "state":[],
     "statsDynamic":[],
     "trap":[],
+    "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[],
-    "clientScriptLocal":[]
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-2, 7",
-    "creationTime":1715977880
+    "creationTime":1715977880,
+    "description":"-2, 7"
   },
   "lastVisit":{
-    "Benoit":1717189941,
-    "Fidgug":1718733551
+    "Benoit":1719595170,
+    "Fidgug":1719594474
   },
   "recordLinks":[],
   "objectData":{
+    "49152-0":{
+      "refId":"crate_01_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_02",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49153-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "49154-0":{
       "refId":"com_basket_01_food",
       "inventory":[{
@@ -325,30 +345,10 @@
     },
     "82808-0":{
       "cellChangeTo":"-2, 6"
-    },
-    "49152-0":{
-      "refId":"crate_01_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49153-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

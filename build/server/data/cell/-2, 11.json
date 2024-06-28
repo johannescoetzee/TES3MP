@@ -22,35 +22,129 @@
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-2, 11",
-    "creationTime":1717188839
+    "creationTime":1717188839,
+    "description":"-2, 11"
   },
   "lastVisit":{
-    "Benoit":1717189216,
-    "Fidgug":1717189221
+    "Benoit":1719595152,
+    "Fidgug":1719595462
   },
   "recordLinks":[],
   "objectData":{
+    "276646-0":{
+      "refId":"de_p_chest_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "276647-0":{
+      "refId":"com_sack_02_chpfood3",
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "276648-0":{
+      "refId":"com_sack_01_ingred",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_scamp_skin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1044":{
+      "refId":"cliff racer",
+      "location":{
+        "rotY":0,
+        "posX":-16211.583984375,
+        "posY":93586.203125,
+        "posZ":3252.2983398438,
+        "rotX":0.0002818563953042,
+        "rotZ":0.32875514030457
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1047":{
+      "refId":"ash_slave",
+      "location":{
+        "rotY":0,
+        "posX":-9424.869140625,
+        "posY":91604.125,
+        "posZ":4434.423828125,
+        "rotX":0,
+        "rotZ":0
+      },
+      "stats":{
+        "healthModified":60,
+        "magickaModified":160,
+        "fatigueModified":360,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":160,
+        "magickaCurrent":160,
+        "fatigueBase":360,
+        "fatigueCurrent":360
+      },
+      "inventory":[{
+          "refId":"ingred_ash_salts_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-1048":{
       "refId":"corprus_stalker",
       "location":{
-        "posX":-9215.912109375,
-        "posY":94175.84375,
-        "posZ":4464.9580078125,
+        "rotY":0,
+        "posX":-9216.111328125,
+        "posY":94175.640625,
+        "posZ":4464.93359375,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
-        "magickaCurrent":50,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":50,
         "healthModified":60,
+        "magickaModified":50,
+        "fatigueModified":300,
         "healthBase":60,
         "healthCurrent":60,
-        "magickaModified":50
+        "magickaBase":50,
+        "magickaCurrent":50,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_corprus_weepings_01",
@@ -63,46 +157,46 @@
     "0-1049":{
       "refId":"corprus_stalker",
       "location":{
-        "posX":-11240.255859375,
-        "posY":93951.546875,
-        "posZ":3131.224609375,
+        "rotY":0,
+        "posX":-11240.197265625,
+        "posY":93951.625,
+        "posZ":3131.2651367188,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
-        "magickaCurrent":50,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":50,
         "healthModified":60,
+        "magickaModified":50,
+        "fatigueModified":300,
         "healthBase":60,
         "healthCurrent":60,
-        "magickaModified":50
+        "magickaBase":50,
+        "magickaCurrent":50,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[]
     },
     "0-1050":{
       "refId":"cliff racer",
       "location":{
-        "posX":-14944.377929688,
-        "posY":90308.40625,
-        "posZ":3859.6960449219,
+        "rotY":0,
+        "posX":-14931.814453125,
+        "posY":90309.53125,
+        "posZ":3856.6708984375,
         "rotX":0.0087480703368783,
-        "rotZ":-1.6032230854034,
-        "rotY":0
+        "rotZ":-1.6032230854034
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
         "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -115,23 +209,23 @@
     "276644-0":{
       "refId":"dakin kuntarnammu",
       "location":{
-        "posX":-15259.776367188,
-        "posY":96667.5625,
-        "posZ":881.90313720703,
-        "rotX":-0.3808810710907,
-        "rotZ":1.582937002182,
-        "rotY":0
+        "rotY":0,
+        "posX":-15226.5390625,
+        "posY":96753.6640625,
+        "posZ":887.70251464844,
+        "rotX":0.29739072918892,
+        "rotZ":-2.3473560810089
       },
       "stats":{
-        "magickaCurrent":92,
-        "fatigueBase":213,
-        "fatigueCurrent":213,
-        "fatigueModified":213,
-        "magickaBase":92,
         "healthModified":96,
+        "magickaModified":92,
+        "fatigueModified":213,
         "healthBase":96,
         "healthCurrent":96,
-        "magickaModified":92
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "fatigueBase":213,
+        "fatigueCurrent":213
       },
       "equipment":{
         "1":{
@@ -212,23 +306,23 @@
     "276643-0":{
       "refId":"zanat assarnuridan",
       "location":{
-        "posX":-16155.263671875,
-        "posY":97245.28125,
-        "posZ":822.49481201172,
-        "rotX":-0.021039579063654,
-        "rotZ":-1.8919064998627,
-        "rotY":0
+        "rotY":0,
+        "posX":-16003.112304688,
+        "posY":97089.375,
+        "posZ":766.75006103516,
+        "rotX":0.013000098988414,
+        "rotZ":1.3379242420197
       },
       "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":204,
-        "fatigueCurrent":204,
-        "fatigueModified":204,
-        "magickaBase":94,
         "healthModified":90,
+        "magickaModified":94,
+        "fatigueModified":204,
         "healthBase":90,
         "healthCurrent":90,
-        "magickaModified":94
+        "magickaBase":94,
+        "magickaCurrent":94,
+        "fatigueBase":204,
+        "fatigueCurrent":204
       },
       "equipment":{
         "7":{
@@ -288,126 +382,32 @@
           "soul":""
         }]
     },
-    "276646-0":{
-      "refId":"de_p_chest_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "276647-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "276648-0":{
-      "refId":"com_sack_01_ingred",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_scamp_skin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1044":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-16225.629882813,
-        "posY":93878.40625,
-        "posZ":3248.1560058594,
-        "rotX":0.00035647675395012,
-        "rotZ":-0.57810401916504,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1047":{
-      "refId":"ash_slave",
-      "location":{
-        "posX":-9424.869140625,
-        "posY":91604.125,
-        "posZ":4434.423828125,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":154,
-        "fatigueBase":346,
-        "fatigueCurrent":346,
-        "fatigueModified":346,
-        "magickaBase":154,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":154
-      },
-      "inventory":[{
-          "refId":"ingred_ash_salts_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-1051":{
       "refId":"cliff racer",
       "location":{
-        "posX":-11555.348632813,
-        "posY":97910.421875,
-        "posZ":4785.5439453125,
-        "rotX":0.00088455621153116,
-        "rotZ":-1.5967915058136,
-        "rotY":0
+        "rotY":0,
+        "posX":-11101.602539063,
+        "posY":97979.09375,
+        "posZ":4785.8623046875,
+        "rotX":0.00042217038571835,
+        "rotZ":1.6748020648956
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
         "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

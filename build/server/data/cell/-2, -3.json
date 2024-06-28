@@ -26,67 +26,109 @@
     "description":"-2, -3"
   },
   "lastVisit":{
-    "Benoit":1718737289,
-    "Fidgug":1718737288
+    "Benoit":1719595452,
+    "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
-    "0-72":{
-      "refId":"kwama forager",
+    "0-321":{
+      "refId":"nix-hound",
       "location":{
-        "posX":-13418.421875,
-        "posY":-23419.890625,
-        "posZ":2216.197265625,
-        "rotX":-0.29964739084244,
-        "rotZ":-0.99759650230408,
-        "rotY":0
+        "rotY":0,
+        "posX":-10935.690429688,
+        "posY":-18641.525390625,
+        "posZ":611.49633789063,
+        "rotX":-0.19631138443947,
+        "rotZ":2.7574770450592
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
         "healthModified":23,
-        "magickaModified":15,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":15,
-        "fatigueBase":300
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
+          "refId":"ingred_hound_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
-    "323908-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
-    "476164-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476165-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476166-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476167-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476168-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476169-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
+    "377937-0":{
+      "refId":"itermerel",
+      "location":{
+        "rotY":0,
+        "posX":-10746.5859375,
+        "posY":-18873.55078125,
+        "posZ":600.54046630859,
+        "rotX":0,
+        "rotZ":-1.4400007724762
+      },
+      "stats":{
+        "healthModified":84,
+        "magickaModified":164,
+        "fatigueModified":241,
+        "healthBase":84,
+        "healthCurrent":0,
+        "magickaBase":164,
+        "magickaCurrent":132.5714263916,
+        "fatigueBase":241,
+        "fatigueCurrent":209.58851623535
+      },
+      "cellChangeFrom":"Balmora, Eight Plates",
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"silver sparkblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false,
+      "goldPool":0,
+      "spellsActive":{
+      },
+      "lastGoldRestockHour":6.3862047195435,
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "deathState":39,
+      "lastGoldRestockDay":11
     },
     "476170-0":{
       "refId":"flora_chokeweed_02",
@@ -131,104 +173,62 @@
         }],
       "state":false
     },
-    "0-321":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-10935.690429688,
-        "posY":-18641.525390625,
-        "posZ":611.49633789063,
-        "rotX":-0.19631138443947,
-        "rotZ":2.7574770450592,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
+    "476168-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
     },
-    "377937-0":{
-      "refId":"itermerel",
+    "476169-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "0-72":{
+      "refId":"kwama forager",
       "location":{
-        "posX":-10746.5859375,
-        "posY":-18873.55078125,
-        "posZ":600.54046630859,
-        "rotX":0,
-        "rotZ":-1.4400007724762,
-        "rotY":0
+        "rotY":0,
+        "posX":-13005.225585938,
+        "posY":-21983.716796875,
+        "posZ":1856.3128662109,
+        "rotX":-0.12267302721739,
+        "rotZ":0.74275016784668
       },
       "stats":{
-        "healthBase":84,
-        "healthCurrent":0,
-        "magickaBase":164,
-        "healthModified":84,
-        "magickaModified":164,
-        "fatigueCurrent":209.58851623535,
-        "fatigueModified":241,
-        "magickaCurrent":132.5714263916,
-        "fatigueBase":241
-      },
-      "cellChangeFrom":"Balmora, Eight Plates",
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"silver sparkblade",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[{
-          "refId":"common_robe_05",
+          "refId":"ingred_kwama_cuttle_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        },{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "spellsActive":{
-      },
-      "deathState":39,
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "lastGoldRestockHour":6.3862047195435,
-      "lastGoldRestockDay":11,
-      "goldPool":0,
-      "state":false
+        }]
+    },
+    "323908-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "476164-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476165-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476166-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476167-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
     }
   },
   "loadState":{

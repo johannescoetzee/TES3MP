@@ -26,59 +26,31 @@
     "description":"-2, -1"
   },
   "lastVisit":{
-    "Benoit":1718737289,
-    "Fidgug":1718737288
+    "Benoit":1719595452,
+    "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
-    "0-99":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-10320.54296875,
-        "posY":-2311.7075195313,
-        "posZ":818.70977783203,
-        "rotX":0.20115715265274,
-        "rotZ":1.7502911090851,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueCurrent":399.83822631836,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "fatigueBase":400
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "spellsActive":[],
-      "deathState":38
-    },
     "261829-0":{
       "refId":"ernil omoran",
       "location":{
+        "rotY":0,
         "posX":-8542.5400390625,
         "posY":-2343.779296875,
         "posZ":1135.0556640625,
         "rotX":0,
-        "rotZ":2.783186674118,
-        "rotY":0
+        "rotZ":2.783186674118
       },
       "stats":{
+        "healthModified":0,
+        "magickaModified":88,
+        "fatigueModified":188,
         "healthBase":0,
         "healthCurrent":0,
         "magickaBase":88,
-        "healthModified":0,
-        "magickaModified":88,
-        "fatigueCurrent":188,
-        "fatigueModified":188,
         "magickaCurrent":88,
-        "fatigueBase":188
+        "fatigueBase":188,
+        "fatigueCurrent":188
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -119,23 +91,23 @@
     "0-98":{
       "refId":"rat",
       "location":{
-        "posX":-14365.837890625,
-        "posY":-5425.8134765625,
+        "rotY":0,
+        "posX":-14663.83203125,
+        "posY":-5706.6484375,
         "posZ":353.00006103516,
-        "rotX":-0.094455368816853,
-        "rotZ":0.94307112693787,
-        "rotY":0
+        "rotX":0.011082748882473,
+        "rotZ":0.80146741867065
       },
       "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
         "magickaCurrent":10,
-        "fatigueBase":300
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -250,6 +222,34 @@
     "476146-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
+    },
+    "0-99":{
+      "refId":"nix-hound",
+      "location":{
+        "rotY":0,
+        "posX":-10320.54296875,
+        "posY":-2311.7075195313,
+        "posZ":818.70977783203,
+        "rotX":0.20115715265274,
+        "rotZ":1.7502911090851
+      },
+      "stats":{
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":399.83822631836
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "spellsActive":[],
+      "deathState":38
     }
   },
   "loadState":{

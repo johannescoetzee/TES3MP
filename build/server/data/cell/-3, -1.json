@@ -26,89 +26,31 @@
     "description":"-3, -1"
   },
   "lastVisit":{
-    "Benoit":1718737289,
-    "Fidgug":1718737288
+    "Benoit":1719595452,
+    "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
-    "476300-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476301-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476302-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476303-0":{
-      "refId":"flora_bittergreen_pod_01",
-      "inventory":[]
-    },
-    "476304-0":{
-      "refId":"flora_bittergreen_01",
-      "inventory":[]
-    },
-    "476305-0":{
-      "refId":"flora_bittergreen_02",
-      "inventory":[]
-    },
-    "476306-0":{
-      "refId":"flora_bittergreen_03",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476307-0":{
-      "refId":"flora_bittergreen_04",
-      "inventory":[{
-          "refId":"ingred_bittergreen_petals_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476308-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "476309-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
     "41642-0":{
       "refId":"hul",
       "location":{
-        "posX":-22065.376953125,
-        "posY":-7879.2236328125,
-        "posZ":775.74151611328,
+        "rotY":0,
+        "posX":-22065.39453125,
+        "posY":-7879.2587890625,
+        "posZ":775.74108886719,
         "rotX":0,
-        "rotZ":2.0000021457672,
-        "rotY":0
+        "rotZ":2.0000021457672
       },
       "stats":{
+        "healthModified":40,
+        "magickaModified":102,
+        "fatigueModified":166,
         "healthBase":40,
         "healthCurrent":40,
         "magickaBase":102,
-        "healthModified":40,
-        "magickaModified":102,
-        "fatigueCurrent":166,
-        "fatigueModified":166,
         "magickaCurrent":102,
-        "fatigueBase":166
+        "fatigueBase":166,
+        "fatigueCurrent":166
       },
       "cellChangeFrom":"-3, -3",
       "equipment":{
@@ -167,6 +109,64 @@
     },
     "476299-0":{
       "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476300-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476301-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476302-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476303-0":{
+      "refId":"flora_bittergreen_pod_01",
+      "inventory":[]
+    },
+    "476304-0":{
+      "refId":"flora_bittergreen_01",
+      "inventory":[]
+    },
+    "476305-0":{
+      "refId":"flora_bittergreen_02",
+      "inventory":[]
+    },
+    "476306-0":{
+      "refId":"flora_bittergreen_03",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476307-0":{
+      "refId":"flora_bittergreen_04",
+      "inventory":[{
+          "refId":"ingred_bittergreen_petals_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "476308-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
+    "476309-0":{
+      "refId":"flora_roobrush_02",
       "inventory":[]
     }
   },

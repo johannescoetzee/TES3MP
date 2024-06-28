@@ -26,31 +26,31 @@
     "description":"-4, -4"
   },
   "lastVisit":{
-    "Benoit":1718736231,
-    "Fidgug":1718736249
+    "Benoit":1719594208,
+    "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
     "268907-0":{
       "refId":"findulain",
       "location":{
+        "rotY":0,
         "posX":-30644.3671875,
         "posY":-26954.44140625,
         "posZ":725.98486328125,
         "rotX":0,
-        "rotZ":3.0999999046326,
-        "rotY":0
+        "rotZ":3.099999666214
       },
       "stats":{
+        "healthModified":72,
+        "magickaModified":86,
+        "fatigueModified":191,
         "healthBase":72,
         "healthCurrent":72,
         "magickaBase":86,
-        "healthModified":72,
-        "magickaModified":86,
-        "fatigueCurrent":191,
-        "fatigueModified":191,
         "magickaCurrent":86,
-        "fatigueBase":191
+        "fatigueBase":191,
+        "fatigueCurrent":191
       },
       "equipment":{
         "7":{
@@ -128,29 +128,29 @@
           "soul":""
         }],
       "lastGoldRestockHour":19.883905410767,
-      "lastGoldRestockDay":4,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":4
     },
     "480591-0":{
       "refId":"scrib",
       "location":{
+        "rotY":0,
         "posX":-29131.0390625,
         "posY":-25756.29296875,
         "posZ":568.84930419922,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotZ":0
       },
       "stats":{
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":0,
         "magickaBase":12,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
         "magickaCurrent":0,
-        "fatigueBase":300
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[],
       "killer":{
@@ -162,23 +162,23 @@
     "268906-0":{
       "refId":"dinok",
       "location":{
-        "posX":-30817.646484375,
-        "posY":-27035.34765625,
-        "posZ":734.80627441406,
+        "rotY":0,
+        "posX":-30817.63671875,
+        "posY":-27035.361328125,
+        "posZ":734.81030273438,
         "rotX":0,
-        "rotZ":1.5707963705063,
-        "rotY":0
+        "rotZ":1.570796251297
       },
       "stats":{
+        "healthModified":92,
+        "magickaModified":66,
+        "fatigueModified":221,
         "healthBase":92,
         "healthCurrent":92,
         "magickaBase":66,
-        "healthModified":92,
-        "magickaModified":66,
-        "fatigueCurrent":221,
-        "fatigueModified":221,
         "magickaCurrent":66,
-        "fatigueBase":221
+        "fatigueBase":221,
+        "fatigueCurrent":221
       },
       "equipment":{
         "7":{
@@ -244,8 +244,8 @@
           "soul":""
         }],
       "lastGoldRestockHour":20.220499038696,
-      "lastGoldRestockDay":4,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":4
     },
     "67344-0":{
       "refId":"flora_heather_01",

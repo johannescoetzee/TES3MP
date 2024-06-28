@@ -22,35 +22,35 @@
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-2, 12",
-    "creationTime":1717188839
+    "creationTime":1717188839,
+    "description":"-2, 12"
   },
   "lastVisit":{
-    "Benoit":1717189216,
-    "Fidgug":1717189221
+    "Benoit":1719595152,
+    "Fidgug":1719595462
   },
   "recordLinks":[],
   "objectData":{
     "0-1045":{
       "refId":"cliff racer",
       "location":{
-        "posX":-8391.0771484375,
-        "posY":103434.71875,
-        "posZ":2856.98046875,
+        "rotY":0,
+        "posX":-8384.591796875,
+        "posY":103467.375,
+        "posZ":2856.9721679688,
         "rotX":0.0014302600175142,
-        "rotZ":2.4163420200348,
-        "rotY":0
+        "rotZ":-3.1171486377716
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
         "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -62,7 +62,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -7,8 +7,8 @@
     "$custom_weapon_1":{
       "baseId":"silver staff",
       "name":"Staff of Dubious Regeneration",
-      "enchantmentId":"$custom_enchantment_1",
-      "enchantmentCharge":100
+      "enchantmentCharge":100,
+      "enchantmentId":"$custom_enchantment_1"
     }
   },
   "recordLinks":{

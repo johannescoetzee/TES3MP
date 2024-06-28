@@ -22,39 +22,60 @@
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-4, 13",
-    "creationTime":1716737402
+    "creationTime":1716737402,
+    "description":"-4, 13"
   },
   "lastVisit":{
-    "Fidgug":1717189221,
-    "Benoit":1717189216
+    "Benoit":1719595152,
+    "Fidgug":1719595462
   },
   "recordLinks":[],
   "objectData":{
-    "0-567":{
-      "refId":"rat",
-      "location":{
-        "posX":-28150.642578125,
-        "posY":110300.7265625,
-        "posZ":1468.4918212891,
-        "rotX":-0.333133071661,
-        "rotZ":1.2813079357147,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
+    "300354-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[]
     },
+    "300355-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300361-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300362-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "300363-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300365-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
@@ -78,7 +99,7 @@
       "refId":"flora_rm_scathecraw_02",
       "inventory":[]
     },
-    "300361-0":{
+    "300370-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
           "refId":"ingred_scathecraw_01",
@@ -98,89 +119,49 @@
           "soul":""
         }]
     },
-    "300365-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300370-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300355-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-570":{
-      "refId":"netch_bull",
+    "0-567":{
+      "refId":"rat",
       "location":{
-        "posX":-29319.634765625,
-        "posY":106806.71875,
-        "posZ":1608.38671875,
-        "rotX":0.0047233439981937,
-        "rotZ":-1.8438756465912,
-        "rotY":0
+        "rotY":0,
+        "posX":-28919.7578125,
+        "posY":110591.34375,
+        "posZ":1063.7152099609,
+        "rotX":0.3279872238636,
+        "rotZ":2.6309359073639
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300354-0":{
-      "refId":"flora_rm_scathecraw_01",
       "inventory":[]
     },
     "0-568":{
       "refId":"rat",
       "location":{
-        "posX":-28123.544921875,
-        "posY":110891.0546875,
-        "posZ":1613.248046875,
-        "rotX":0.98579978942871,
-        "rotZ":-1.5366961956024,
-        "rotY":0
+        "rotY":0,
+        "posX":-29114.8203125,
+        "posY":110863.3125,
+        "posZ":1145.2172851563,
+        "rotX":0.54801708459854,
+        "rotZ":-3.0126526355743
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
         "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -190,11 +171,30 @@
           "soul":""
         }]
     },
-    "300362-0":{
-      "refId":"flora_rm_scathecraw_01",
+    "0-570":{
+      "refId":"netch_bull",
+      "location":{
+        "rotY":0,
+        "posX":-27525.771484375,
+        "posY":106782.46875,
+        "posZ":1604.9412841797,
+        "rotX":0.00069926679134369,
+        "rotZ":-0.73154830932617
+      },
+      "stats":{
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400
+      },
       "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
+          "refId":"ingred_netch_leather_01",
+          "count":4,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -202,7 +202,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }
