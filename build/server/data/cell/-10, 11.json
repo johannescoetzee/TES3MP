@@ -26,25 +26,11 @@
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1717188856,
-    "Fidgug":1717188839
+    "Benoit":1719603303,
+    "Fidgug":1719603964
   },
   "recordLinks":[],
   "objectData":{
-    "367653-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472284-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
     "472285-0":{
       "refId":"flora_roobrush_02",
       "inventory":[{
@@ -79,6 +65,29 @@
           "soul":""
         }]
     },
+    "0-666":{
+      "refId":"scrib blighted",
+      "location":{
+        "posX":-78361.4296875,
+        "posY":94100.5625,
+        "posZ":1740.0819091797,
+        "rotX":-0.1221696138382,
+        "rotY":0,
+        "rotZ":-0.41964101791382
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":30,
+        "magickaModified":12,
+        "fatigueModified":400,
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaBase":12
+      },
+      "inventory":[]
+    },
     "0-667":{
       "refId":"scrib",
       "location":{
@@ -86,42 +95,42 @@
         "posY":95706.125,
         "posZ":1527.2318115234,
         "rotX":0.13427191972733,
-        "rotZ":1.4777047634125,
-        "rotY":0
+        "rotY":0,
+        "rotZ":1.4777047634125
       },
       "stats":{
         "magickaCurrent":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
         "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12
       },
       "inventory":[]
     },
     "37833-0":{
       "refId":"dul gro-dush",
       "location":{
-        "posX":-80483.4453125,
-        "posY":90204.09375,
-        "posZ":1012.8316650391,
-        "rotX":-0.091062299907207,
-        "rotZ":-1.6390306949615,
-        "rotY":0
+        "posX":-80508.671875,
+        "posY":90535.2109375,
+        "posZ":1061.3276367188,
+        "rotX":0.26117834448814,
+        "rotY":0,
+        "rotZ":1.3722670078278
       },
       "stats":{
         "magickaCurrent":16,
         "fatigueBase":199,
         "fatigueCurrent":199,
-        "fatigueModified":199,
-        "magickaBase":16,
         "healthModified":71,
+        "magickaModified":16,
+        "fatigueModified":199,
         "healthBase":71,
         "healthCurrent":71,
-        "magickaModified":16
+        "magickaBase":16
       },
       "equipment":{
         "1":{
@@ -190,49 +199,26 @@
       "lastGoldRestockHour":1.6359602212906,
       "lastGoldRestockDay":19
     },
-    "0-666":{
-      "refId":"scrib blighted",
-      "location":{
-        "posX":-78361.4375,
-        "posY":94100.5703125,
-        "posZ":1740.0822753906,
-        "rotX":-0.1221696138382,
-        "rotZ":-0.41964101791382,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":12,
-        "healthModified":30,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaModified":12
-      },
-      "inventory":[]
-    },
     "11920-0":{
       "refId":"vatollia apo",
       "location":{
-        "posX":-80893.1171875,
-        "posY":93161.890625,
-        "posZ":2219.0402832031,
-        "rotX":0.058359056711197,
-        "rotZ":-1.5990464687347,
-        "rotY":0
+        "posX":-80875.8125,
+        "posY":93144.171875,
+        "posZ":2224.4506835938,
+        "rotX":0.18254309892654,
+        "rotY":0,
+        "rotZ":-1.3805010318756
       },
       "stats":{
         "magickaCurrent":86,
         "fatigueBase":193,
         "fatigueCurrent":193,
-        "fatigueModified":193,
-        "magickaBase":86,
         "healthModified":76,
+        "magickaModified":86,
+        "fatigueModified":193,
         "healthBase":76,
         "healthCurrent":76,
-        "magickaModified":86
+        "magickaBase":86
       },
       "equipment":{
         "0":{
@@ -315,6 +301,20 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "367653-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472284-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
     }
   },
   "loadState":{

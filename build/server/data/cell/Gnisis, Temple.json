@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
+  },
+  "entry":{
+    "description":"Gnisis, Temple",
+    "creationTime":1719601714
+  },
+  "lastVisit":{
+    "Benoit":1719602463,
+    "Fidgug":1719602458
+  },
+  "recordLinks":{
+    "potion":{
+    }
+  },
+  "objectData":[],
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

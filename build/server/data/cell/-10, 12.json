@@ -22,75 +22,35 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716739229,
-    "description":"-10, 12"
+    "description":"-10, 12",
+    "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1717188856,
-    "Fidgug":1717188839
+    "Benoit":1719603303,
+    "Fidgug":1719603964
   },
   "recordLinks":[],
   "objectData":{
-    "472278-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472279-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472280-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472281-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-673":{
       "refId":"netch_bull",
       "location":{
-        "posX":-75217.453125,
-        "posY":101836.4140625,
-        "posZ":431.71875,
-        "rotX":0.0016686636954546,
-        "rotZ":0.47438859939575,
-        "rotY":0
+        "posX":-75614.8984375,
+        "posY":100371.046875,
+        "posZ":456.80883789063,
+        "rotX":0.36869782209396,
+        "rotY":0,
+        "rotZ":-0.97002339363098
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
         "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":100
+        "magickaBase":100
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -104,22 +64,22 @@
       "refId":"scrib",
       "location":{
         "posX":-77492.6875,
-        "posY":98451.5390625,
+        "posY":98451.53125,
         "posZ":993,
         "rotX":-0.038194112479687,
-        "rotZ":-0.30328798294067,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-0.30328798294067
       },
       "stats":{
         "magickaCurrent":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
         "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -132,23 +92,23 @@
     "0-682":{
       "refId":"alit_diseased",
       "location":{
-        "posX":-81279.0546875,
-        "posY":100322.953125,
-        "posZ":737.01232910156,
-        "rotX":0.30728247761726,
-        "rotZ":3.0573132038116,
-        "rotY":0
+        "posX":-80773.890625,
+        "posY":100476.328125,
+        "posZ":918.65570068359,
+        "rotX":0.1980254650116,
+        "rotY":0,
+        "rotZ":-0.5888774394989
       },
       "stats":{
         "magickaCurrent":75,
         "fatigueBase":170,
         "fatigueCurrent":170,
-        "fatigueModified":170,
-        "magickaBase":75,
         "healthModified":30,
+        "magickaModified":75,
+        "fatigueModified":170,
         "healthBase":30,
         "healthCurrent":30,
-        "magickaModified":75
+        "magickaBase":75
       },
       "inventory":[]
     },
@@ -235,6 +195,46 @@
     "472274-0":{
       "refId":"flora_muckspunge_06",
       "inventory":[]
+    },
+    "472278-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472279-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472280-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472281-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

@@ -1,0 +1,37 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
+  },
+  "entry":{
+    "description":"Sadrith Mora, Wolverine Hall: Mage's Guild",
+    "creationTime":1719597501
+  },
+  "lastVisit":{
+    "Benoit":1719597581
+  },
+  "recordLinks":[],
+  "objectData":[],
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

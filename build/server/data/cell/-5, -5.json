@@ -22,8 +22,8 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"-5, -5"
+    "description":"-5, -5",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1714766185,
@@ -31,6 +31,192 @@
   },
   "recordLinks":[],
   "objectData":{
+    "253856-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[]
+    },
+    "253857-0":{
+      "refId":"flora_bc_mushroom_07",
+      "inventory":[]
+    },
+    "253878-0":{
+      "refId":"flora_bc_mushroom_05",
+      "inventory":[]
+    },
+    "253882-0":{
+      "refId":"flora_bc_fern_01",
+      "inventory":[]
+    },
+    "271901-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    },
+    "271902-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271903-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271904-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271905-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271906-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271907-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271908-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271909-0":{
+      "refId":"flora_heather_01",
+      "inventory":[]
+    },
+    "271910-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[]
+    },
+    "271886-0":{
+      "refId":"ex_h_pcfort_02",
+      "state":false
+    },
+    "271887-0":{
+      "refId":"ex_h_pcfort_wg_01",
+      "state":false
+    },
+    "271888-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271889-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271890-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271891-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271892-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271893-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271894-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
+    "271895-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
+    "271896-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
+    "271897-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
+    "271898-0":{
+      "refId":"ex_h_pcfort_01",
+      "state":false
+    },
+    "271899-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271900-0":{
+      "refId":"ex_h_pcfort_bal_01",
+      "state":false
+    },
+    "271913-0":{
+      "refId":"ex_h_pcfort_wu_02",
+      "state":false
+    },
+    "271914-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271915-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271916-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271917-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271918-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271919-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271920-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271921-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271922-0":{
+      "refId":"ex_h_pcfort_wc_01",
+      "state":false
+    },
+    "271923-0":{
+      "refId":"ex_h_pcfort_wu_02",
+      "state":false
+    },
+    "271924-0":{
+      "refId":"ex_h_pcfort_w_01",
+      "state":false
+    },
+    "271925-0":{
+      "refId":"ex_h_pcfort_w_02",
+      "state":false
+    },
+    "271926-0":{
+      "refId":"ex_h_pcfort_w_02",
+      "state":false
+    },
+    "271927-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
+    "271928-0":{
+      "refId":"ex_h_pcfort_bt_01",
+      "state":false
+    },
     "271929-0":{
       "refId":"ex_h_pcfort_bt_01",
       "state":false
@@ -535,15 +721,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":88,
-        "healthCurrent":88,
-        "magickaBase":74,
+        "magickaCurrent":74,
         "fatigueBase":215,
         "fatigueCurrent":215,
         "healthModified":88,
         "magickaModified":74,
         "fatigueModified":215,
-        "magickaCurrent":74
+        "healthBase":88,
+        "healthCurrent":88,
+        "magickaBase":74
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_04",
@@ -599,15 +785,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5
       },
       "inventory":[]
     },
@@ -704,196 +890,10 @@
     "253855-0":{
       "refId":"flora_bc_mushroom_05",
       "inventory":[]
-    },
-    "253856-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[]
-    },
-    "253857-0":{
-      "refId":"flora_bc_mushroom_07",
-      "inventory":[]
-    },
-    "253878-0":{
-      "refId":"flora_bc_mushroom_05",
-      "inventory":[]
-    },
-    "253882-0":{
-      "refId":"flora_bc_fern_01",
-      "inventory":[]
-    },
-    "271901-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[]
-    },
-    "271902-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271903-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271904-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271905-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271906-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271907-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271908-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271909-0":{
-      "refId":"flora_heather_01",
-      "inventory":[]
-    },
-    "271910-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[]
-    },
-    "271886-0":{
-      "refId":"ex_h_pcfort_02",
-      "state":false
-    },
-    "271887-0":{
-      "refId":"ex_h_pcfort_wg_01",
-      "state":false
-    },
-    "271888-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271889-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271890-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271891-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271892-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271893-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271894-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
-    },
-    "271895-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
-    },
-    "271896-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
-    },
-    "271897-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
-    },
-    "271898-0":{
-      "refId":"ex_h_pcfort_01",
-      "state":false
-    },
-    "271899-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271900-0":{
-      "refId":"ex_h_pcfort_bal_01",
-      "state":false
-    },
-    "271913-0":{
-      "refId":"ex_h_pcfort_wu_02",
-      "state":false
-    },
-    "271914-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271915-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271916-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271917-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271918-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271919-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271920-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271921-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271922-0":{
-      "refId":"ex_h_pcfort_wc_01",
-      "state":false
-    },
-    "271923-0":{
-      "refId":"ex_h_pcfort_wu_02",
-      "state":false
-    },
-    "271924-0":{
-      "refId":"ex_h_pcfort_w_01",
-      "state":false
-    },
-    "271925-0":{
-      "refId":"ex_h_pcfort_w_02",
-      "state":false
-    },
-    "271926-0":{
-      "refId":"ex_h_pcfort_w_02",
-      "state":false
-    },
-    "271927-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
-    },
-    "271928-0":{
-      "refId":"ex_h_pcfort_bt_01",
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

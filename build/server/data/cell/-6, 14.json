@@ -18,23 +18,19 @@
     "statsDynamic":["0-587","0-586","0-592"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716737828,
-    "description":"-6, 14"
+    "description":"-6, 14",
+    "creationTime":1716737828
   },
   "lastVisit":{
-    "Fidgug":1716741180,
-    "Benoit":1716741190
+    "Benoit":1719599748,
+    "Fidgug":1719599742
   },
   "recordLinks":[],
   "objectData":{
-    "300667-0":{
-      "refId":"tramaroot_02",
-      "inventory":[]
-    },
     "300668-0":{
       "refId":"tramaroot_05",
       "inventory":[{
@@ -78,23 +74,23 @@
     "0-587":{
       "refId":"cliff racer",
       "location":{
-        "rotZ":-1.5323674678802,
+        "posX":-41797.828125,
+        "posY":118894.015625,
+        "posZ":4261.7583007813,
+        "rotX":-0.008159545250237,
         "rotY":0,
-        "posX":-42757.28125,
-        "posY":118290.078125,
-        "posZ":4262.3486328125,
-        "rotX":0.00058131944388151
+        "rotZ":2.3852150440216
       },
       "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "magickaBase":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -107,51 +103,51 @@
     "0-586":{
       "refId":"rat",
       "location":{
-        "rotZ":2.1938946247101,
-        "rotY":0,
         "posX":-42341.0078125,
         "posY":122345.5078125,
         "posZ":1197.8681640625,
-        "rotX":-0.13625374436378
+        "rotX":-0.13625374436378,
+        "rotY":0,
+        "rotZ":2.1938946247101
       },
       "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":298.40744018555,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":298.40744018555
+        "magickaBase":10
       },
       "inventory":[],
       "killer":{
         "playerName":"Benoit"
       },
-      "deathState":38,
-      "spellsActive":[]
+      "spellsActive":[],
+      "deathState":38
     },
     "0-592":{
       "refId":"cliff racer",
       "location":{
-        "rotZ":-2.559002161026,
+        "posX":-48961.921875,
+        "posY":121505.5390625,
+        "posZ":4815.4990234375,
+        "rotX":-0.0032322686165571,
         "rotY":0,
-        "posX":-48013.39453125,
-        "posY":121831.4921875,
-        "posZ":4811.2651367188,
-        "rotX":-0.0032322686165571
+        "rotZ":-1.4823043346405
       },
       "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "magickaBase":20
       },
       "inventory":[]
     },
@@ -212,10 +208,14 @@
     "300665-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[]
+    },
+    "300667-0":{
+      "refId":"tramaroot_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

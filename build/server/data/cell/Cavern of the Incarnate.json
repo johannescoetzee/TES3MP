@@ -28,10 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "251176-0":{
-      "refId":"ghost_npc_idrenie nerot",
-      "state":false
-    },
     "251173-0":{
       "refId":"ghost_npc_peakstar",
       "state":false
@@ -51,10 +47,14 @@
     "251177-0":{
       "refId":"ghost_npc_hort_ledd",
       "state":false
+    },
+    "251176-0":{
+      "refId":"ghost_npc_idrenie nerot",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

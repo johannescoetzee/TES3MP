@@ -22,25 +22,15 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1715976815,
-    "description":"-4, 5"
+    "description":"-4, 5",
+    "creationTime":1715976815
   },
   "lastVisit":{
-    "Benoit":1719595166,
+    "Benoit":1719598889,
     "Fidgug":1719594474
   },
   "recordLinks":[],
   "objectData":{
-    "183192-0":{
-      "refId":"flora_fire_fern_02",
-      "inventory":[{
-          "refId":"ingred_fire_petal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "183193-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -142,23 +132,23 @@
     "0-437":{
       "refId":"rat",
       "location":{
-        "rotY":0,
         "posX":-25535.8828125,
         "posY":47657.3828125,
         "posZ":816.60363769531,
         "rotX":0.62694883346558,
+        "rotY":0,
         "rotZ":2.0445673465729
       },
       "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -191,10 +181,20 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "183192-0":{
+      "refId":"flora_fire_fern_02",
+      "inventory":[{
+          "refId":"ingred_fire_petal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

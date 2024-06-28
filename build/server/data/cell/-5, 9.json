@@ -31,380 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "271737-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "271738-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271739-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271740-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271741-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271742-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271743-0":{
-      "refId":"tramaroot_04",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271744-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
-    },
-    "300600-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271812-0":{
-      "refId":"ex_r_pcfort_lockedd_01",
-      "state":false
-    },
-    "271813-0":{
-      "refId":"ex_r_pcfort_lockedd_02",
-      "state":false
-    },
-    "271814-0":{
-      "refId":"ex_r_pcfort_lockedd_03",
-      "state":false
-    },
-    "271815-0":{
-      "refId":"ex_r_pcfort_01",
-      "state":false
-    },
-    "271816-0":{
-      "refId":"ex_h_pcfort_bucket_01",
-      "state":false
-    },
-    "271817-0":{
-      "refId":"ex_r_pcfort_wa_01",
-      "state":false
-    },
-    "271686-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271687-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271688-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271689-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271690-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271691-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271692-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271693-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271694-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271695-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271696-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271697-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271698-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271699-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271700-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271701-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271702-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271703-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271704-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271705-0":{
-      "refId":"ex_r_pcfort_wu_01",
-      "state":false
-    },
-    "271706-0":{
-      "refId":"ex_r_pcfort_wu_01",
-      "state":false
-    },
-    "271707-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271708-0":{
-      "refId":"ex_r_pcfort_wu_01",
-      "state":false
-    },
-    "271709-0":{
-      "refId":"ex_r_pcfort_wu_01",
-      "state":false
-    },
-    "271710-0":{
-      "refId":"ex_r_pcfort_wu_01",
-      "state":false
-    },
-    "271711-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271712-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271748-0":{
-      "refId":"ex_h_pcfort_bucket_01",
-      "state":false
-    },
-    "271749-0":{
-      "refId":"ex_de_constr_02",
-      "state":false
-    },
-    "271750-0":{
-      "refId":"ex_de_constr_02",
-      "state":false
-    },
-    "271751-0":{
-      "refId":"ex_de_constr_04",
-      "state":false
-    },
-    "271752-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271753-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271754-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271755-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271756-0":{
-      "refId":"ex_de_scaffold_03",
-      "state":false
-    },
-    "271757-0":{
-      "refId":"ex_de_constr_01",
-      "state":false
-    },
-    "271758-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271759-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271760-0":{
-      "refId":"ex_de_constr_06",
-      "state":false
-    },
-    "271761-0":{
-      "refId":"ex_de_scaffold_01-2",
-      "state":false
-    },
-    "271762-0":{
-      "refId":"ex_de_scaffold_01-2",
-      "state":false
-    },
-    "271763-0":{
-      "refId":"ex_de_scaffold_03-2",
-      "state":false
-    },
-    "271764-0":{
-      "refId":"ex_de_constr_01-2",
-      "state":false
-    },
-    "271765-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271766-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271767-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271768-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271769-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271770-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271771-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271772-0":{
-      "refId":"ex_de_constr_05-2",
-      "state":false
-    },
-    "271773-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271774-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271775-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271776-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271777-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271778-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271779-0":{
-      "refId":"ex_de_constr_03-2",
-      "state":false
-    },
-    "271780-0":{
-      "refId":"ex_de_constr_04",
-      "state":false
-    },
-    "271781-0":{
-      "refId":"ex_de_scaffold_03-2",
-      "state":false
-    },
-    "271782-0":{
-      "refId":"ex_de_constr_01-2",
-      "state":false
-    },
-    "271783-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271784-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271785-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
-    "271786-0":{
-      "refId":"ex_h_pcfort_bucket_01-2",
-      "state":false
-    },
-    "271787-0":{
-      "refId":"ex_de_constr_05-2",
-      "state":false
-    },
-    "271788-0":{
-      "refId":"ex_de_constr_06-2",
-      "state":false
-    },
     "271789-0":{
       "refId":"ex_de_constr_06-2",
       "state":false
@@ -441,12 +67,80 @@
       "refId":"ex_de_constr_06-3",
       "state":false
     },
-    "271818-0":{
-      "refId":"ex_r_pcfort_wu_01",
+    "271798-0":{
+      "refId":"ex_de_constr_06-3",
       "state":false
     },
     "271799-0":{
       "refId":"ex_h_pcfort_bucket_01-3",
+      "state":false
+    },
+    "271800-0":{
+      "refId":"ex_de_scaffold_01-3",
+      "state":false
+    },
+    "271801-0":{
+      "refId":"ex_h_pcfort_bucket_01-3",
+      "state":false
+    },
+    "271802-0":{
+      "refId":"ex_h_pcfort_bucket_01-3",
+      "state":false
+    },
+    "271803-0":{
+      "refId":"ex_de_scaffold_03-3",
+      "state":false
+    },
+    "271804-0":{
+      "refId":"ex_de_constr_06-3",
+      "state":false
+    },
+    "271805-0":{
+      "refId":"ex_de_constr_06-3",
+      "state":false
+    },
+    "271806-0":{
+      "refId":"ex_de_constr_06-3",
+      "state":false
+    },
+    "271807-0":{
+      "refId":"ex_de_constr_06-3",
+      "state":false
+    },
+    "271811-0":{
+      "refId":"ex_r_pcfort_lockedd_03",
+      "state":false
+    },
+    "271812-0":{
+      "refId":"ex_r_pcfort_lockedd_01",
+      "state":false
+    },
+    "271813-0":{
+      "refId":"ex_r_pcfort_lockedd_02",
+      "state":false
+    },
+    "271814-0":{
+      "refId":"ex_r_pcfort_lockedd_03",
+      "state":false
+    },
+    "271815-0":{
+      "refId":"ex_r_pcfort_01",
+      "state":false
+    },
+    "271816-0":{
+      "refId":"ex_h_pcfort_bucket_01",
+      "state":false
+    },
+    "271817-0":{
+      "refId":"ex_r_pcfort_wa_01",
+      "state":false
+    },
+    "271818-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271727-0":{
+      "refId":"ex_r_pcfort_d_01-3",
       "state":false
     },
     "271728-0":{
@@ -463,106 +157,6 @@
     },
     "271810-0":{
       "refId":"ex_r_pcfort_d_01",
-      "state":false
-    },
-    "271811-0":{
-      "refId":"ex_r_pcfort_lockedd_03",
-      "state":false
-    },
-    "271807-0":{
-      "refId":"ex_de_constr_06-3",
-      "state":false
-    },
-    "271806-0":{
-      "refId":"ex_de_constr_06-3",
-      "state":false
-    },
-    "271805-0":{
-      "refId":"ex_de_constr_06-3",
-      "state":false
-    },
-    "271804-0":{
-      "refId":"ex_de_constr_06-3",
-      "state":false
-    },
-    "271803-0":{
-      "refId":"ex_de_scaffold_03-3",
-      "state":false
-    },
-    "271802-0":{
-      "refId":"ex_h_pcfort_bucket_01-3",
-      "state":false
-    },
-    "271801-0":{
-      "refId":"ex_h_pcfort_bucket_01-3",
-      "state":false
-    },
-    "271800-0":{
-      "refId":"ex_de_scaffold_01-3",
-      "state":false
-    },
-    "271798-0":{
-      "refId":"ex_de_constr_06-3",
-      "state":false
-    },
-    "271747-0":{
-      "refId":"ex_h_pcfort_bucket_01",
-      "state":false
-    },
-    "271746-0":{
-      "refId":"ex_h_pcfort_bucket_01",
-      "state":false
-    },
-    "271745-0":{
-      "refId":"ex_de_scaffold_01",
-      "state":false
-    },
-    "271726-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271725-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271724-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271723-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271722-0":{
-      "refId":"ex_r_pcfort_02",
-      "state":false
-    },
-    "271717-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271716-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271715-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271714-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271713-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271685-0":{
-      "refId":"ex_r_pcfort_wc_01",
-      "state":false
-    },
-    "271684-0":{
-      "refId":"ex_r_pcfort_ws_01",
       "state":false
     },
     "450955-0":{
@@ -582,32 +176,6 @@
         }],
       "state":false
     },
-    "271683-0":{
-      "refId":"ex_r_pcfort_ws_01",
-      "state":false
-    },
-    "271682-0":{
-      "refId":"ex_r_pcfort_03",
-      "state":false
-    },
-    "271681-0":{
-      "refId":"ex_r_pcfort_02",
-      "state":false
-    },
-    "367399-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "271727-0":{
-      "refId":"ex_r_pcfort_d_01-3",
-      "state":false
-    },
     "0-495":{
       "refId":"guar_feral",
       "location":{
@@ -619,21 +187,21 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":38,
-        "healthCurrent":0,
-        "magickaBase":5,
         "magickaCurrent":5,
+        "fatigueBase":400,
         "fatigueCurrent":394.99826049805,
         "healthModified":38,
         "magickaModified":5,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":38,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[],
-      "spellsActive":[],
       "killer":{
         "playerName":"Fidgug"
       },
+      "spellsActive":[],
       "deathState":38
     },
     "278935-0":{
@@ -647,19 +215,25 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":124,
-        "healthCurrent":124,
-        "magickaBase":120,
         "magickaCurrent":120,
+        "fatigueBase":284,
         "fatigueCurrent":284,
         "healthModified":124,
         "magickaModified":120,
         "fatigueModified":284,
-        "fatigueBase":284
+        "healthBase":124,
+        "healthCurrent":124,
+        "magickaBase":120
       },
       "equipment":{
         "0":{
           "refId":"storm helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"foeburner",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -676,18 +250,6 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"foeburner",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "14":{
-          "refId":"summon ancestor amulet",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
         "9":{
           "refId":"extravagant_pants_01",
           "count":1,
@@ -696,6 +258,12 @@
         },
         "8":{
           "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "14":{
+          "refId":"summon ancestor amulet",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -835,15 +403,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":88,
-        "healthCurrent":88,
-        "magickaBase":74,
         "magickaCurrent":74,
+        "fatigueBase":215,
         "fatigueCurrent":215,
         "healthModified":88,
         "magickaModified":74,
         "fatigueModified":215,
-        "fatigueBase":215
+        "healthBase":88,
+        "healthCurrent":88,
+        "magickaBase":74
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_04",
@@ -899,15 +467,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":127,
-        "healthCurrent":127,
-        "magickaBase":98,
         "magickaCurrent":98,
+        "fatigueBase":214,
         "fatigueCurrent":214,
         "healthModified":127,
         "magickaModified":98,
         "fatigueModified":214,
-        "fatigueBase":214
+        "healthBase":127,
+        "healthCurrent":127,
+        "magickaBase":98
       },
       "equipment":{
         "7":{
@@ -916,14 +484,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "8":{
-          "refId":"common_shirt_02_r",
+        "16":{
+          "refId":"daunting mace",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"daunting mace",
+        "8":{
+          "refId":"common_shirt_02_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -973,15 +541,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":197,
-        "healthCurrent":197,
-        "magickaBase":102,
         "magickaCurrent":102,
+        "fatigueBase":287,
         "fatigueCurrent":287,
         "healthModified":197,
         "magickaModified":102,
         "fatigueModified":287,
-        "fatigueBase":287
+        "healthBase":197,
+        "healthCurrent":197,
+        "magickaBase":102
       },
       "equipment":[{
           "refId":"chitin cuirass",
@@ -1119,36 +687,36 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
         "magickaCurrent":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":30,
         "magickaModified":75,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75
       },
       "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
       "spellsActive":{
         "$custom_spell_6":[{
             "displayName":"Flare",
-            "stackingState":false,
+            "startTime":1716737053,
             "caster":{
               "playerName":"Benoit"
             },
-            "startTime":1716737053,
+            "stackingState":false,
             "effects":[{
-                "id":14,
                 "magnitude":21,
-                "timeLeft":1,
+                "arg":-1,
                 "duration":1,
-                "arg":-1
+                "id":14,
+                "timeLeft":1
               }]
           }]
-      },
-      "killer":{
-        "playerName":"Fidgug"
       },
       "deathState":38
     },
@@ -1163,15 +731,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
         "magickaCurrent":75,
+        "fatigueBase":400,
         "fatigueCurrent":396.23858642578,
         "healthModified":30,
         "magickaModified":75,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75
       },
       "inventory":[{
           "refId":"ingred_alit_hide_01",
@@ -1196,36 +764,36 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
         "magickaCurrent":75,
+        "fatigueBase":400,
         "fatigueCurrent":391.66387939453,
         "healthModified":30,
         "magickaModified":75,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75
       },
       "inventory":[],
+      "killer":{
+        "playerName":"Benoit"
+      },
       "spellsActive":{
         "$custom_spell_6":[{
             "displayName":"Flare",
-            "stackingState":false,
+            "startTime":1716737080,
             "caster":{
               "playerName":"Benoit"
             },
-            "startTime":1716737080,
+            "stackingState":false,
             "effects":[{
-                "id":14,
                 "magnitude":30,
-                "timeLeft":1,
+                "arg":-1,
                 "duration":1,
-                "arg":-1
+                "id":14,
+                "timeLeft":1
               }]
           }]
-      },
-      "killer":{
-        "playerName":"Benoit"
       },
       "deathState":38
     },
@@ -1438,10 +1006,442 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "271737-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "271738-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271739-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271740-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271741-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271742-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271743-0":{
+      "refId":"tramaroot_04",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271744-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "300600-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "367399-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "271681-0":{
+      "refId":"ex_r_pcfort_02",
+      "state":false
+    },
+    "271682-0":{
+      "refId":"ex_r_pcfort_03",
+      "state":false
+    },
+    "271683-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271684-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271685-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271686-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271687-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271688-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271689-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271690-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271691-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271692-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271693-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271694-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271695-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271696-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271697-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271698-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271699-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271700-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271701-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271702-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271703-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271704-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271705-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271706-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271707-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271708-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271709-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271710-0":{
+      "refId":"ex_r_pcfort_wu_01",
+      "state":false
+    },
+    "271711-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271712-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271713-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271714-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271715-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271716-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271717-0":{
+      "refId":"ex_r_pcfort_wc_01",
+      "state":false
+    },
+    "271722-0":{
+      "refId":"ex_r_pcfort_02",
+      "state":false
+    },
+    "271723-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271724-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271725-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271726-0":{
+      "refId":"ex_r_pcfort_ws_01",
+      "state":false
+    },
+    "271745-0":{
+      "refId":"ex_de_scaffold_01",
+      "state":false
+    },
+    "271746-0":{
+      "refId":"ex_h_pcfort_bucket_01",
+      "state":false
+    },
+    "271747-0":{
+      "refId":"ex_h_pcfort_bucket_01",
+      "state":false
+    },
+    "271748-0":{
+      "refId":"ex_h_pcfort_bucket_01",
+      "state":false
+    },
+    "271749-0":{
+      "refId":"ex_de_constr_02",
+      "state":false
+    },
+    "271750-0":{
+      "refId":"ex_de_constr_02",
+      "state":false
+    },
+    "271751-0":{
+      "refId":"ex_de_constr_04",
+      "state":false
+    },
+    "271752-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271753-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271754-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271755-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271756-0":{
+      "refId":"ex_de_scaffold_03",
+      "state":false
+    },
+    "271757-0":{
+      "refId":"ex_de_constr_01",
+      "state":false
+    },
+    "271758-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271759-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271760-0":{
+      "refId":"ex_de_constr_06",
+      "state":false
+    },
+    "271761-0":{
+      "refId":"ex_de_scaffold_01-2",
+      "state":false
+    },
+    "271762-0":{
+      "refId":"ex_de_scaffold_01-2",
+      "state":false
+    },
+    "271763-0":{
+      "refId":"ex_de_scaffold_03-2",
+      "state":false
+    },
+    "271764-0":{
+      "refId":"ex_de_constr_01-2",
+      "state":false
+    },
+    "271765-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271766-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271767-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271768-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271769-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271770-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271771-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271772-0":{
+      "refId":"ex_de_constr_05-2",
+      "state":false
+    },
+    "271773-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271774-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271775-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271776-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271777-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271778-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271779-0":{
+      "refId":"ex_de_constr_03-2",
+      "state":false
+    },
+    "271780-0":{
+      "refId":"ex_de_constr_04",
+      "state":false
+    },
+    "271781-0":{
+      "refId":"ex_de_scaffold_03-2",
+      "state":false
+    },
+    "271782-0":{
+      "refId":"ex_de_constr_01-2",
+      "state":false
+    },
+    "271783-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271784-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271785-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
+    },
+    "271786-0":{
+      "refId":"ex_h_pcfort_bucket_01-2",
+      "state":false
+    },
+    "271787-0":{
+      "refId":"ex_de_constr_05-2",
+      "state":false
+    },
+    "271788-0":{
+      "refId":"ex_de_constr_06-2",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

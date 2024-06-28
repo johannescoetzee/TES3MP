@@ -26,83 +26,54 @@
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1717188705,
-    "Fidgug":1717188741
+    "Benoit":1719602895,
+    "Fidgug":1719603964
   },
   "recordLinks":[],
   "objectData":{
-    "25479-0":{
-      "refId":"kagouti",
-      "location":{
-        "posX":-66310.28125,
-        "posY":85119.046875,
-        "posZ":807.64117431641,
-        "rotX":0,
-        "rotZ":0.40000000596046,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_kagouti_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "25481-0":{
       "refId":"kagouti",
       "location":{
-        "posX":-66574.53125,
-        "posY":85221.765625,
-        "posZ":840.14929199219,
+        "posX":-66571.078125,
+        "posY":85224.6796875,
+        "posZ":840.15063476563,
         "rotX":0,
-        "rotZ":5.5831861495972,
-        "rotY":0
+        "rotY":0,
+        "rotZ":5.5831861495972
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[]
     },
     "25477-0":{
       "refId":"kagouti",
       "location":{
-        "posX":-66410.625,
-        "posY":84914.71875,
-        "posZ":789.01879882813,
+        "posX":-66388.625,
+        "posY":84900.390625,
+        "posZ":790.87249755859,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_kagouti_hide_01",
@@ -412,6 +383,35 @@
       "refId":"flora_green_lichen_01",
       "inventory":[{
           "refId":"ingred_green_lichen_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "25479-0":{
+      "refId":"kagouti",
+      "location":{
+        "posX":-66310.28125,
+        "posY":85119.046875,
+        "posZ":807.64117431641,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0.40000000596046
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_kagouti_hide_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

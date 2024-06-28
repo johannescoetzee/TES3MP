@@ -1,79 +1,106 @@
 {
   "packets":{
-    "actorList":["0-741","0-737","0-739","0-740","355312-0","355313-0","0-738","355332-0","0-742"],
+    "actorList":["0-741","0-737","0-739","0-740","355312-0","355313-0","0-742","0-738"],
     "ai":[],
-    "cellChangeFrom":["355332-0"],
+    "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["313078-0","389546-0","389547-0","402465-0","402466-0","402467-0","402494-0","402495-0","402496-0","0-741","0-737","0-739","0-740","355313-0","355312-0","0-738","355332-0","0-742"],
+    "container":["313078-0","389546-0","389547-0","402465-0","402466-0","402467-0","402494-0","402495-0","402496-0","0-741","0-737","0-739","0-740","355313-0","355312-0","0-738","0-742"],
     "death":["0-741","355312-0"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":["225430-0"],
     "place":[],
-    "position":["0-737","0-739","0-740","0-741","355312-0","355313-0","0-738","355332-0","0-742"],
+    "position":["0-737","0-739","0-740","0-741","355312-0","355313-0","0-742","0-738"],
     "scale":[],
-    "spawn":["0-741","0-737","0-739","0-740","0-738","0-742"],
+    "spawn":["0-741","0-737","0-739","0-740","0-742","0-738"],
     "state":[],
-    "statsDynamic":["0-737","0-739","0-740","0-741","355312-0","355313-0","0-738","355332-0","0-742"],
+    "statsDynamic":["0-737","0-739","0-740","0-741","355312-0","355313-0","0-742","0-738"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716741264,
-    "description":"-7, 18"
+    "description":"-7, 18",
+    "creationTime":1716741264
   },
   "lastVisit":{
-    "Benoit":1717182358,
-    "Fidgug":1717182361
+    "Benoit":1719601117,
+    "Fidgug":1719601119
   },
   "recordLinks":[],
   "objectData":{
+    "0-741":{
+      "refId":"rat",
+      "location":{
+        "posX":-50768.01953125,
+        "posY":150392.578125,
+        "posZ":768.66687011719,
+        "rotX":-0.61010324954987,
+        "rotY":0,
+        "rotZ":-2.6502110958099
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.06604003906,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
     "0-737":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":-53672.16796875,
-        "posY":154066.234375,
-        "posZ":-528.02996826172,
-        "rotX":0.00075529981404543,
-        "rotZ":-1.3157651424408,
-        "rotY":0
+        "posX":-53449.1484375,
+        "posY":153796.546875,
+        "posZ":-528.35345458984,
+        "rotX":0.00040113460272551,
+        "rotY":0,
+        "rotZ":0.91867899894714
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
         "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[]
     },
     "0-739":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":-55082.08984375,
-        "posY":150738.9375,
-        "posZ":201.77510070801,
-        "rotX":0.20503997802734,
-        "rotZ":-2.1347010135651,
-        "rotY":0
+        "posX":-55880.14453125,
+        "posY":150283.25,
+        "posZ":100.65428161621,
+        "rotX":0.59932959079742,
+        "rotY":0,
+        "rotZ":-2.0894510746002
       },
       "stats":{
         "magickaCurrent":5,
         "fatigueBase":30,
         "fatigueCurrent":30,
-        "fatigueModified":30,
-        "magickaBase":5,
         "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":30,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":5
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -86,23 +113,23 @@
     "0-740":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":-55495.27734375,
-        "posY":150942.015625,
-        "posZ":60.988674163818,
-        "rotX":-0.10502026230097,
-        "rotZ":-3.0069258213043,
-        "rotY":0
+        "posX":-55496.5234375,
+        "posY":150943.6875,
+        "posZ":59.051361083984,
+        "rotX":-0.1649316996336,
+        "rotY":0,
+        "rotZ":2.8948938846588
       },
       "stats":{
         "magickaCurrent":5,
         "fatigueBase":25,
         "fatigueCurrent":25,
-        "fatigueModified":25,
-        "magickaBase":5,
         "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":25,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":5
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -112,26 +139,60 @@
           "soul":""
         }]
     },
-    "355313-0":{
+    "355312-0":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-50787.8046875,
-        "posY":153486.359375,
-        "posZ":-37.642868041992,
-        "rotX":0.007896576076746,
-        "rotZ":1.7479288578033,
-        "rotY":0
+        "posX":-51201.91015625,
+        "posY":152391.390625,
+        "posZ":-37.717914581299,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":393.87866210938,
-        "fatigueModified":400,
-        "magickaBase":10,
+        "fatigueCurrent":400,
         "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Benoit"
+      },
+      "spellsActive":[],
+      "deathState":38
+    },
+    "355313-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posX":-51096.3828125,
+        "posY":153048.578125,
+        "posZ":-38.024181365967,
+        "rotX":-0.0053693717345595,
+        "rotY":0,
+        "rotZ":2.4480578899384
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":393.88427734375,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -141,50 +202,55 @@
           "soul":""
         }]
     },
-    "355332-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-57226.6796875,
-        "posY":152325.859375,
-        "posZ":-229.41802978516,
-        "rotX":0,
-        "rotZ":2.4286587238312,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "cellChangeFrom":"-8, 18",
-      "inventory":[]
-    },
-    "0-738":{
+    "0-742":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":-57146.1640625,
-        "posY":149811.84375,
-        "posZ":-206.70776367188,
-        "rotX":0.0020917933434248,
-        "rotZ":-2.3310558795929,
-        "rotY":0
+        "posX":-55083.55859375,
+        "posY":155448.765625,
+        "posZ":-350.26867675781,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":-0.91061186790466
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":300,
-        "fatigueCurrent":299.99166870117,
-        "fatigueModified":300,
-        "magickaBase":10,
+        "fatigueCurrent":300,
         "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":10
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-738":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posX":-57146.9609375,
+        "posY":150058.90625,
+        "posZ":-204.7566986084,
+        "rotX":0.0017176801338792,
+        "rotY":0,
+        "rotZ":-2.4969170093536
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":15,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -257,96 +323,6 @@
     "225430-0":{
       "refId":"ex_de_ship_cabindoor",
       "lockLevel":0
-    },
-    "0-741":{
-      "refId":"rat",
-      "location":{
-        "posX":-50768.01953125,
-        "posY":150392.578125,
-        "posZ":768.66687011719,
-        "rotX":-0.61010324954987,
-        "rotZ":-2.6502110958099,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":299.06604003906,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
-      },
-      "inventory":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-742":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-55158.5,
-        "posY":155005.359375,
-        "posZ":-350.26867675781,
-        "rotX":0,
-        "rotZ":-2.5121419429779,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":299.99166870117,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "355312-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-51201.91015625,
-        "posY":152391.390625,
-        "posZ":-37.717914581299,
-        "rotX":-0.42475122213364,
-        "rotZ":-2.9561865329742,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "spellsActive":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Benoit"
-      }
     }
   },
   "loadState":{

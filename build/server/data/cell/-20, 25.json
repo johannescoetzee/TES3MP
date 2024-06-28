@@ -42,7 +42,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

@@ -5,7 +5,7 @@
     "cellChangeFrom":[],
     "cellChangeTo":[],
     "container":["274678-0","474635-0","474636-0","474637-0","474638-0","474639-0","474640-0","474641-0","474642-0","474643-0","474644-0","274674-0","274675-0","274676-0","0-606"],
-    "death":["274676-0","274675-0","274674-0"],
+    "death":["274676-0","274675-0","274674-0","0-606"],
     "delete":[],
     "doorState":[],
     "equipment":["274675-0","274676-0","274674-0"],
@@ -26,59 +26,11 @@
     "creationTime":1716738226
   },
   "lastVisit":{
-    "Benoit":1717182358,
-    "Fidgug":1717182361
+    "Benoit":1719601117,
+    "Fidgug":1719601119
   },
   "recordLinks":[],
   "objectData":{
-    "474635-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474636-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474637-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "474638-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474639-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474640-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
     "474641-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -119,55 +71,26 @@
           "soul":""
         }]
     },
-    "0-606":{
-      "refId":"rat",
-      "location":{
-        "posX":-49754.5859375,
-        "posY":144807.296875,
-        "posZ":1987.0102539063,
-        "rotX":-0.045357912778854,
-        "rotZ":1.1917054653168,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "274675-0":{
       "refId":"ainat maessabibi",
       "location":{
-        "posX":-57144.76171875,
+        "posX":-57144.7578125,
         "posY":139916.25,
-        "posZ":1022.3753051758,
+        "posZ":1022.3752441406,
         "rotX":0,
-        "rotZ":3.9249997138977,
-        "rotY":0
+        "rotY":0,
+        "rotZ":3.9249997138977
       },
       "stats":{
         "magickaCurrent":96,
         "fatigueBase":212,
         "fatigueCurrent":206.52638244629,
-        "fatigueModified":212,
-        "magickaBase":96,
         "healthModified":98,
+        "magickaModified":96,
+        "fatigueModified":212,
         "healthBase":98,
         "healthCurrent":0,
-        "magickaModified":96
+        "magickaBase":96
       },
       "equipment":{
         "1":{
@@ -238,31 +161,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     },
     "274676-0":{
       "refId":"ainab yassabisun",
       "location":{
-        "posX":-57322.96875,
+        "posX":-57322.96484375,
         "posY":139340.09375,
-        "posZ":1065.6569824219,
+        "posZ":1065.6568603516,
         "rotX":0,
-        "rotZ":4.6000003814697,
-        "rotY":0
+        "rotY":0,
+        "rotZ":4.6000003814697
       },
       "stats":{
         "magickaCurrent":92,
         "fatigueBase":221,
         "fatigueCurrent":221,
-        "fatigueModified":221,
-        "magickaBase":92,
         "healthModified":103,
+        "magickaModified":92,
+        "fatigueModified":221,
         "healthBase":103,
         "healthCurrent":0,
-        "magickaModified":92
+        "magickaBase":92
       },
       "equipment":{
         "1":{
@@ -357,31 +280,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":46,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":46
     },
     "274674-0":{
       "refId":"malay ranarbatus",
       "location":{
         "posX":-57108.28125,
         "posY":140366.3125,
-        "posZ":1080.2321777344,
+        "posZ":1080.2320556641,
         "rotX":0,
-        "rotZ":3.1499996185303,
-        "rotY":0
+        "rotY":0,
+        "rotZ":3.1499996185303
       },
       "stats":{
         "magickaCurrent":88,
         "fatigueBase":209,
         "fatigueCurrent":209,
-        "fatigueModified":209,
-        "magickaBase":88,
         "healthModified":77,
+        "magickaModified":88,
+        "fatigueModified":209,
         "healthBase":77,
         "healthCurrent":0,
-        "magickaModified":88
+        "magickaBase":88
       },
       "equipment":{
         "5":{
@@ -482,14 +405,95 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "spellsActive":[],
-      "deathState":42,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "spellsActive":[],
+      "deathState":42
+    },
+    "0-606":{
+      "refId":"rat",
+      "location":{
+        "posX":-49543.8359375,
+        "posY":144957.984375,
+        "posZ":2019.6754150391,
+        "rotX":-0.18646720051765,
+        "rotY":0,
+        "rotZ":-2.3031761646271
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
     "274678-0":{
       "refId":"de_p_chest_02_gold_50",
+      "inventory":[]
+    },
+    "474635-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474636-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474637-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "474638-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474639-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474640-0":{
+      "refId":"flora_chokeweed_02",
       "inventory":[]
     }
   },

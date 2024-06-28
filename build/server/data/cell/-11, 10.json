@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-678","0-677","11931-0","11930-0","0-676"],
+    "actorList":["0-678","0-677","11931-0","11930-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["13677-0","13678-0","13679-0","13680-0","18599-0","472406-0","472407-0","472411-0","472413-0","472414-0","11930-0","11931-0","0-678","0-676","0-677"],
+    "container":["13677-0","13678-0","13679-0","13680-0","18599-0","472406-0","472407-0","472411-0","472413-0","472414-0","11930-0","11931-0","0-678","0-677"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["11931-0","11930-0"],
     "lock":[],
     "place":[],
-    "position":["11930-0","11931-0","0-677","0-678","0-676"],
+    "position":["11930-0","11931-0","0-677","0-678"],
     "scale":[],
-    "spawn":["0-678","0-676","0-677"],
+    "spawn":["0-678","0-677"],
     "state":[],
-    "statsDynamic":["11930-0","11931-0","0-677","0-678","0-676"],
+    "statsDynamic":["11930-0","11931-0","0-677","0-678"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,31 +26,31 @@
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1717188856,
-    "Fidgug":1717188839
+    "Benoit":1719603303,
+    "Fidgug":1719603964
   },
   "recordLinks":[],
   "objectData":{
     "0-678":{
       "refId":"rat_diseased",
       "location":{
-        "posX":-86062.859375,
-        "posY":83123.8125,
-        "posZ":1448.2102050781,
-        "rotX":0.27225595712662,
-        "rotZ":2.394430398941,
-        "rotY":0
+        "posX":-85822.28125,
+        "posY":82568.0703125,
+        "posZ":1324.9213867188,
+        "rotX":0.28754529356956,
+        "rotY":0,
+        "rotZ":-1.2318589687347
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":99,
         "fatigueCurrent":99,
-        "fatigueModified":99,
-        "magickaBase":10,
         "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":99,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -64,45 +64,45 @@
       "refId":"rat_blighted",
       "location":{
         "posX":-84117.640625,
-        "posY":84449.1796875,
-        "posZ":800.99981689453,
+        "posY":84449.171875,
+        "posZ":801,
         "rotX":-0.025862887501717,
-        "rotZ":-0.94024348258972,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-0.94024348258972
       },
       "stats":{
         "magickaCurrent":10,
-        "fatigueBase":74,
-        "fatigueCurrent":74,
-        "fatigueModified":74,
-        "magickaBase":10,
+        "fatigueBase":60,
+        "fatigueCurrent":60,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":60,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[]
     },
     "11931-0":{
       "refId":"hentus yansurnummu",
       "location":{
-        "posX":-84813.03125,
-        "posY":88050.6875,
-        "posZ":-83.213943481445,
+        "posX":-84813.015625,
+        "posY":88050.4765625,
+        "posZ":-83.269630432129,
         "rotX":0,
-        "rotZ":0.87079644203186,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0.87079620361328
       },
       "stats":{
         "magickaCurrent":22,
         "fatigueBase":223,
         "fatigueCurrent":223,
-        "fatigueModified":223,
-        "magickaBase":22,
         "healthModified":93,
+        "magickaModified":22,
+        "fatigueModified":223,
         "healthBase":93,
         "healthCurrent":93,
-        "magickaModified":22
+        "magickaBase":22
       },
       "equipment":[null,null,null,null,null,null,null,{
           "refId":"common_shirt_02",
@@ -121,23 +121,23 @@
     "11930-0":{
       "refId":"punibi yahaz",
       "location":{
-        "posX":-86641.5,
-        "posY":89361.3359375,
+        "posX":-86641.4921875,
+        "posY":89361.3515625,
         "posZ":1030.5090332031,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
         "magickaCurrent":104,
         "fatigueBase":166,
         "fatigueCurrent":166,
-        "fatigueModified":166,
-        "magickaBase":104,
         "healthModified":52,
+        "magickaModified":104,
+        "fatigueModified":166,
         "healthBase":52,
         "healthCurrent":52,
-        "magickaModified":104
+        "magickaBase":104
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_01",
@@ -178,56 +178,11 @@
       "lastGoldRestockHour":18.220573425293,
       "lastGoldRestockDay":22
     },
-    "0-676":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-89817.046875,
-        "posY":84923.4765625,
-        "posZ":1248.3298339844,
-        "rotX":-0.20514664053917,
-        "rotZ":0.93334746360779,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "13677-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
     },
-    "472413-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472414-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "13679-0":{
+    "13678-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
           "refId":"ingred_chokeweed_01",
@@ -237,21 +192,7 @@
           "soul":""
         }]
     },
-    "472407-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "472406-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "18599-0":{
+    "13679-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
           "refId":"ingred_chokeweed_01",
@@ -271,7 +212,7 @@
           "soul":""
         }]
     },
-    "13678-0":{
+    "18599-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
           "refId":"ingred_chokeweed_01",
@@ -281,12 +222,42 @@
           "soul":""
         }]
     },
-    "13677-0":{
-      "refId":"flora_chokeweed_02",
+    "472406-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472407-0":{
+      "refId":"flora_kreshweed_03",
       "inventory":[]
     },
     "472411-0":{
       "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472413-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472414-0":{
+      "refId":"flora_kreshweed_03",
       "inventory":[{
           "refId":"ingred_kresh_fiber_01",
           "count":1,

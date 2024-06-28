@@ -22,12 +22,12 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716737402,
-    "description":"-5, 13"
+    "description":"-5, 13",
+    "creationTime":1716737402
   },
   "lastVisit":{
-    "Benoit":1716738150,
-    "Fidgug":1719596688
+    "Benoit":1719599192,
+    "Fidgug":1719599191
   },
   "recordLinks":[],
   "objectData":{
@@ -36,21 +36,21 @@
       "location":{
         "posX":-36591.59375,
         "posY":109427.1484375,
-        "posZ":1711.2037353516,
+        "posZ":1711.1967773438,
         "rotX":0.43213880062103,
-        "rotZ":2.7170403003693,
-        "rotY":0
+        "rotY":0,
+        "rotZ":2.7170403003693
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
         "magickaCurrent":20,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20
       },
       "inventory":[],
       "killer":{
@@ -62,28 +62,28 @@
       "refId":"kwama worker entrance",
       "location":{
         "posX":-36911.3671875,
-        "posY":110401.078125,
-        "posZ":936.92016601563,
+        "posY":110401.0703125,
+        "posZ":936.6552734375,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":8,
         "magickaCurrent":8,
+        "fatigueBase":300,
         "fatigueCurrent":299.96780395508,
         "healthModified":30,
         "magickaModified":8,
         "fatigueModified":300,
-        "fatigueBase":300
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":8
       },
       "inventory":[],
-      "spellsActive":[],
       "killer":{
         "playerName":"Fidgug"
       },
+      "spellsActive":[],
       "deathState":38
     },
     "300489-0":{
@@ -224,7 +224,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

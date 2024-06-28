@@ -31,40 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "429232-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "434245-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "434250-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "434270-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "434293-0":{
       "refId":"kollop_03_pearl",
       "inventory":[{
@@ -139,15 +105,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":55,
         "fatigueCurrent":55,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":55,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -172,15 +138,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":398.93017578125,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -189,10 +155,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "spellsActive":[],
       "killer":{
         "playerName":"Benoit"
       },
+      "spellsActive":[],
       "deathState":39
     },
     "0-913":{
@@ -206,15 +172,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":395.84814453125,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -239,15 +205,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":55,
         "fatigueCurrent":48.522254943848,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":55,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -272,15 +238,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":399.18865966797,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -305,15 +271,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "magickaCurrent":10
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
       },
       "inventory":[]
     },
@@ -328,15 +294,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "magickaCurrent":10
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -361,15 +327,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":44.368286132813,
-        "magickaBase":75,
+        "magickaCurrent":75,
         "fatigueBase":400,
         "fatigueCurrent":365.85516357422,
         "healthModified":60,
         "magickaModified":75,
         "fatigueModified":400,
-        "magickaCurrent":75
+        "healthBase":60,
+        "healthCurrent":44.368286132813,
+        "magickaBase":75
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -390,15 +356,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":15,
         "magickaModified":10,
         "fatigueModified":300,
-        "magickaCurrent":10
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10
       },
       "inventory":[]
     },
@@ -413,15 +379,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
+        "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
-        "magickaCurrent":20
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20
       },
       "inventory":[],
       "killer":{
@@ -440,15 +406,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":15,
         "magickaModified":10,
         "fatigueModified":300,
-        "magickaCurrent":10
+        "healthBase":15,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[],
       "killer":{
@@ -467,15 +433,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "magickaCurrent":10
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[],
       "killer":{
@@ -496,10 +462,44 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "429232-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "434245-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "434250-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "434270-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

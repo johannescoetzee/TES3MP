@@ -19,38 +19,62 @@
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":["232729-0","232730-0"]
+    "miscellaneous":["232729-0","232730-0","481183-0"]
   },
   "entry":{
-    "creationTime":1717188839,
-    "description":"-3, 12"
+    "description":"-3, 12",
+    "creationTime":1717188839
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719599068,
+    "Fidgug":1719599069
   },
   "recordLinks":[],
   "objectData":{
+    "208125-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208126-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "208127-0":{
+      "refId":"tramaroot_04",
+      "inventory":[]
+    },
     "481183-0":{
       "refId":"redoran guard male",
       "location":{
-        "posX":-21759.21875,
-        "posY":102710.3515625,
-        "posZ":1977,
-        "rotX":-0.066059172153473,
-        "rotZ":-2.9041578769684,
-        "rotY":0
+        "posX":-22442.98828125,
+        "posY":101654.546875,
+        "posZ":1930.4685058594,
+        "rotX":0.27363076806068,
+        "rotY":0,
+        "rotZ":-2.7946565151215
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
+        "fatigueBase":307,
         "fatigueCurrent":307,
         "healthModified":210,
         "magickaModified":122,
         "fatigueModified":307,
-        "fatigueBase":307
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -222,28 +246,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "goldPool":0,
+      "lastGoldRestockHour":12.045495986938,
+      "lastGoldRestockDay":30
     },
     "232730-0":{
       "refId":"daras aryon",
       "location":{
-        "posX":-22291.388671875,
-        "posY":100062,
-        "posZ":2411.4609375,
+        "posX":-22297.3828125,
+        "posY":100124.6640625,
+        "posZ":2411.4611816406,
         "rotX":0,
-        "rotZ":6.1831855773926,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-0.50238633155823
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
         "magickaCurrent":100,
+        "fatigueBase":160,
         "fatigueCurrent":160,
         "healthModified":45,
         "magickaModified":100,
         "fatigueModified":160,
-        "fatigueBase":160
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
       },
       "equipment":{
         "7":{
@@ -296,30 +323,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":30,
+      "goldPool":11,
       "lastGoldRestockHour":8.3219022750854,
-      "goldPool":11
+      "lastGoldRestockDay":30
     },
     "232729-0":{
       "refId":"assi serimilk",
       "location":{
-        "posX":-22096.607421875,
-        "posY":105607.8125,
-        "posZ":2175.0788574219,
-        "rotX":0.38288342952728,
-        "rotZ":0.543949842453,
-        "rotY":0
+        "posX":-22103.724609375,
+        "posY":105842.046875,
+        "posZ":2125.6098632813,
+        "rotX":-0.1276785582304,
+        "rotY":0,
+        "rotZ":2.9391338825226
       },
       "stats":{
-        "healthBase":93,
-        "healthCurrent":93,
-        "magickaBase":90,
         "magickaCurrent":90,
+        "fatigueBase":205,
         "fatigueCurrent":205,
         "healthModified":93,
         "magickaModified":90,
         "fatigueModified":205,
-        "fatigueBase":205
+        "healthBase":93,
+        "healthCurrent":93,
+        "magickaBase":90
       },
       "equipment":{
         "7":{
@@ -402,30 +429,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":30,
+      "goldPool":0,
       "lastGoldRestockHour":4.9596815109253,
-      "goldPool":0
+      "lastGoldRestockDay":30
     },
     "481182-0":{
       "refId":"redoran guard male",
       "location":{
-        "posX":-21023.48046875,
-        "posY":103198.1328125,
+        "posX":-20778.5703125,
+        "posY":103168.84375,
         "posZ":1977,
-        "rotX":-0.087813191115856,
-        "rotZ":-1.5194566249847,
-        "rotY":0
+        "rotX":-0.04790062084794,
+        "rotY":0,
+        "rotZ":-0.069079637527466
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
+        "fatigueBase":307,
         "fatigueCurrent":307,
         "healthModified":210,
         "magickaModified":122,
         "fatigueModified":307,
-        "fatigueBase":307
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -602,23 +629,23 @@
     "232724-0":{
       "refId":"redoran guard female",
       "location":{
-        "posX":-21486.94921875,
-        "posY":103759.59375,
-        "posZ":2107.3369140625,
-        "rotX":0.023416327312589,
-        "rotZ":0.52222084999084,
-        "rotY":0
+        "posX":-22256.01171875,
+        "posY":104666.65625,
+        "posZ":2163.8269042969,
+        "rotX":-0.037584830075502,
+        "rotY":0,
+        "rotZ":1.2880480289459
       },
       "stats":{
-        "healthBase":205,
-        "healthCurrent":205,
-        "magickaBase":122,
         "magickaCurrent":122,
+        "fatigueBase":297,
         "fatigueCurrent":297,
         "healthModified":205,
         "magickaModified":122,
         "fatigueModified":297,
-        "fatigueBase":297
+        "healthBase":205,
+        "healthCurrent":205,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -783,23 +810,23 @@
     "232723-0":{
       "refId":"shilipuran zama-rasour",
       "location":{
-        "posX":-23267.48046875,
-        "posY":104630.984375,
-        "posZ":2244.0231933594,
-        "rotX":-0.022965013980865,
-        "rotZ":-1.2639577388763,
-        "rotY":0
+        "posX":-22156.30078125,
+        "posY":104667.5625,
+        "posZ":2169,
+        "rotX":0.023644721135497,
+        "rotY":0,
+        "rotZ":-0.20249366760254
       },
       "stats":{
-        "healthBase":86,
-        "healthCurrent":86,
-        "magickaBase":96,
         "magickaCurrent":96,
+        "fatigueBase":189,
         "fatigueCurrent":189,
         "healthModified":86,
         "magickaModified":96,
         "fatigueModified":189,
-        "fatigueBase":189
+        "healthBase":86,
+        "healthCurrent":86,
+        "magickaBase":96
       },
       "equipment":[null,null,null,null,{
           "refId":"common_glove_left_01",
@@ -901,23 +928,23 @@
     "232725-0":{
       "refId":"kind erushara",
       "location":{
-        "posX":-18958.14453125,
-        "posY":103478.65625,
-        "posZ":2321,
-        "rotX":0.045316912233829,
-        "rotZ":0.68775987625122,
-        "rotY":0
+        "posX":-20825.224609375,
+        "posY":103155.8828125,
+        "posZ":1977,
+        "rotX":0.0043000802397728,
+        "rotY":0,
+        "rotZ":1.5744225978851
       },
       "stats":{
-        "healthBase":106,
-        "healthCurrent":106,
-        "magickaBase":92,
         "magickaCurrent":92,
+        "fatigueBase":223,
         "fatigueCurrent":223,
         "healthModified":106,
         "magickaModified":92,
         "fatigueModified":223,
-        "fatigueBase":223
+        "healthBase":106,
+        "healthCurrent":106,
+        "magickaBase":92
       },
       "equipment":{
         "7":{
@@ -982,34 +1009,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "208125-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208126-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "208127-0":{
-      "refId":"tramaroot_04",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

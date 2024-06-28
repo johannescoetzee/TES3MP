@@ -22,65 +22,15 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716739275,
-    "description":"-12, 12"
+    "description":"-12, 12",
+    "creationTime":1716739275
   },
   "lastVisit":{
-    "Benoit":1717188856,
-    "Fidgug":1717188839
+    "Benoit":1719603409,
+    "Fidgug":1719603402
   },
   "recordLinks":[],
   "objectData":{
-    "19488-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "19489-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "24155-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "24156-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "24157-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "25635-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -140,46 +90,46 @@
     "0-693":{
       "refId":"kagouti_diseased",
       "location":{
-        "posX":-92102.9921875,
-        "posY":105009.2734375,
-        "posZ":1997.2358398438,
-        "rotX":0.089206770062447,
-        "rotZ":0.35831952095032,
-        "rotY":0
+        "posX":-92105.4296875,
+        "posY":105009.65625,
+        "posZ":1997.2357177734,
+        "rotX":0.096236661076546,
+        "rotY":0,
+        "rotZ":0.35411286354065
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":272,
         "fatigueCurrent":272,
-        "fatigueModified":272,
-        "magickaBase":10,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":272,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[]
     },
     "364217-0":{
       "refId":"guar",
       "location":{
-        "posX":-95341.328125,
-        "posY":100192.9296875,
-        "posZ":2250.6252441406,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posX":-95211,
+        "posY":100025.96875,
+        "posZ":2312.5134277344,
+        "rotX":0.28546285629272,
+        "rotY":0,
+        "rotZ":-2.3130056858063
       },
       "stats":{
         "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":5,
         "healthModified":38,
+        "magickaModified":5,
+        "fatigueModified":400,
         "healthBase":38,
         "healthCurrent":38,
-        "magickaModified":5
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_guar_hide_01",
@@ -194,21 +144,21 @@
       "location":{
         "posX":-90350,
         "posY":105551.359375,
-        "posZ":1069.9544677734,
+        "posZ":1069.9396972656,
         "rotX":0.19781798124313,
-        "rotZ":0.4020688533783,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0.4020688533783
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":399.71926879883,
-        "fatigueModified":400,
-        "magickaBase":10,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_kagouti_hide_01",
@@ -217,31 +167,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     },
     "0-707":{
       "refId":"netch_bull",
       "location":{
-        "posX":-95645.671875,
-        "posY":106299.75,
-        "posZ":2231.9443359375,
-        "rotX":0.0017328532412648,
-        "rotZ":0.85789179801941,
-        "rotY":0
+        "posX":-96160.4375,
+        "posY":105121.953125,
+        "posZ":2251.7854003906,
+        "rotX":0.30933478474617,
+        "rotY":0,
+        "rotZ":2.9280436038971
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
         "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":100
+        "magickaBase":100
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -294,6 +244,56 @@
     "19487-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
+    },
+    "19488-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "19489-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "24155-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "24156-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "24157-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

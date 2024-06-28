@@ -22,18 +22,18 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1714759024,
-    "description":"-2, -4"
+    "description":"-2, -4",
+    "creationTime":1714759024
   },
   "lastVisit":{
-    "Benoit":1719594208,
+    "Benoit":1719598883,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

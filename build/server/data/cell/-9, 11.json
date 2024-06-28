@@ -26,60 +26,11 @@
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1717188705,
-    "Fidgug":1717188741
+    "Benoit":1719602895,
+    "Fidgug":1719603964
   },
   "recordLinks":[],
   "objectData":{
-    "0-670":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":-70797.21875,
-        "posY":95828.0390625,
-        "posZ":109.34754943848,
-        "rotX":0.53178453445435,
-        "rotZ":2.8129494190216,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "419146-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "419147-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "419151-0":{
       "refId":"kollop_03_pearl",
       "inventory":[]
@@ -234,23 +185,52 @@
           "soul":""
         }]
     },
+    "0-670":{
+      "refId":"mudcrab",
+      "location":{
+        "posX":-71604.8203125,
+        "posY":95609.3359375,
+        "posZ":427.6357421875,
+        "rotX":-0.10162609070539,
+        "rotY":0,
+        "rotZ":-2.6072475910187
+      },
+      "stats":{
+        "magickaCurrent":5,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueModified":400,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "355351-0":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-73507.265625,
-        "posY":91829.9375,
-        "posZ":-203.99542236328,
-        "rotX":0.00027887336909771,
-        "rotZ":-2.0284836292267,
-        "rotY":0
+        "posX":-72844.8828125,
+        "posY":90836.5546875,
+        "posZ":-203.99540710449,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":2.1181633472443
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":399.98834228516,
+        "fatigueCurrent":400,
+        "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10
@@ -258,6 +238,26 @@
       "inventory":[{
           "refId":"ingred_scales_01",
           "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "419146-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "419147-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

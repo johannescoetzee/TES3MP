@@ -22,15 +22,19 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1715976928,
-    "description":"-3, 5"
+    "description":"-3, 5",
+    "creationTime":1715976928
   },
   "lastVisit":{
-    "Benoit":1719595170,
+    "Benoit":1719598889,
     "Fidgug":1719594474
   },
   "recordLinks":[],
   "objectData":{
+    "82840-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
     "149203-0":{
       "refId":"flora_fire_fern_01",
       "inventory":[{
@@ -226,23 +230,23 @@
     "377933-0":{
       "refId":"viatrix petilia",
       "location":{
-        "rotY":0,
         "posX":-18653.91015625,
         "posY":48045.30078125,
         "posZ":978.1337890625,
         "rotX":0,
+        "rotY":0,
         "rotZ":0
       },
       "stats":{
+        "magickaCurrent":104,
+        "fatigueBase":225,
+        "fatigueCurrent":225,
         "healthModified":113,
         "magickaModified":104,
         "fatigueModified":225,
         "healthBase":113,
         "healthCurrent":113,
-        "magickaBase":104,
-        "magickaCurrent":104,
-        "fatigueBase":225,
-        "fatigueCurrent":225
+        "magickaBase":104
       },
       "equipment":[null,null,null,null,{
           "refId":"expensive_glove_left_01",
@@ -322,23 +326,23 @@
     "0-404":{
       "refId":"nix-hound",
       "location":{
-        "rotY":0,
         "posX":-18899.927734375,
         "posY":41041.05859375,
         "posZ":2952.2448730469,
         "rotX":0.26740181446075,
+        "rotY":0,
         "rotZ":-1.6327517032623
       },
       "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -357,14 +361,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "82840-0":{
-      "refId":"tramaroot_06",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

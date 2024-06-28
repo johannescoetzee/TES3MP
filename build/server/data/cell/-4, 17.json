@@ -26,8 +26,8 @@
     "creationTime":1717182378
   },
   "lastVisit":{
-    "Fidgug":1717182945,
-    "Benoit":1717182947
+    "Benoit":1719599764,
+    "Fidgug":1719599760
   },
   "recordLinks":[],
   "objectData":{
@@ -42,23 +42,23 @@
     "0-775":{
       "refId":"kagouti",
       "location":{
-        "posX":-28844.19921875,
-        "posY":143863.171875,
-        "posZ":712.99993896484,
+        "posX":-28844.263671875,
+        "posY":143863.125,
+        "posZ":713,
         "rotX":-0.092874713242054,
-        "rotZ":2.0580933094025,
-        "rotY":0
+        "rotY":0,
+        "rotZ":2.0580933094025
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
         "healthModified":45,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[]
     },

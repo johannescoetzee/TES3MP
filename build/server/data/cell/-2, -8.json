@@ -22,47 +22,17 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904313,
-    "description":"-2, -8"
+    "description":"-2, -8",
+    "creationTime":1713904313
   },
   "lastVisit":{
-    "Benoit":1718735764,
-    "Fidgug":1718735761,
     "asdf":1713904733,
+    "Fidgug":1718735761,
+    "Benoit":1718735764,
     "qwer":1713904730
   },
   "recordLinks":[],
   "objectData":{
-    "266460-0":{
-      "refId":"flora_bc_podplant_03",
-      "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266461-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266462-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "266491-0":{
       "refId":"flora_bc_podplant_01",
       "inventory":[{
@@ -324,25 +294,25 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":80,
+        "magickaCurrent":80,
         "fatigueBase":160,
         "fatigueCurrent":160,
         "healthModified":40,
         "magickaModified":80,
         "fatigueModified":160,
-        "magickaCurrent":80
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":80
       },
       "equipment":{
-        "9":{
-          "refId":"common_pants_03",
+        "16":{
+          "refId":"chitin club",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"chitin club",
+        "9":{
+          "refId":"common_pants_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -496,10 +466,40 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "266460-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266461-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266462-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

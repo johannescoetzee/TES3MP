@@ -1,469 +1,36 @@
 {
   "packets":{
-    "actorList":["0-705","0-706","323335-0","323336-0","261838-0"],
+    "actorList":["0-705","0-706","323335-0","323336-0","261838-0","0-690"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["24132-0","24133-0","25527-0","472454-0","472455-0","472456-0","472457-0","472458-0","472459-0","472461-0","472462-0","472463-0","472468-0","472469-0","472470-0","261838-0","323335-0","323336-0","0-705","0-706"],
-    "death":[],
-    "delete":[],
+    "container":["24132-0","24133-0","25527-0","472454-0","472455-0","472456-0","472457-0","472458-0","472459-0","472461-0","472462-0","472463-0","472468-0","472469-0","472470-0","261838-0","323335-0","323336-0","0-705","0-706","0-690"],
+    "death":["0-690","323336-0","323335-0"],
+    "delete":["323337-0"],
     "doorState":[],
     "equipment":["323335-0","323336-0","261838-0"],
     "lock":[],
     "place":[],
-    "position":["261838-0","323335-0","323336-0","0-705","0-706"],
+    "position":["261838-0","323335-0","323336-0","0-705","0-706","0-690"],
     "scale":[],
-    "spawn":["0-705","0-706"],
+    "spawn":["0-705","0-706","0-690"],
     "state":[],
-    "statsDynamic":["261838-0","323335-0","323336-0","0-705","0-706"],
+    "statsDynamic":["261838-0","323335-0","323336-0","0-705","0-706","0-690"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":["323336-0"]
   },
   "entry":{
-    "creationTime":1716739327,
-    "description":"-12, 13"
+    "description":"-12, 13",
+    "creationTime":1716739327
   },
   "lastVisit":{
-    "Fidgug":1717180746,
-    "Benoit":1717180739
+    "Benoit":1719603742,
+    "Fidgug":1719603731
   },
   "recordLinks":[],
   "objectData":{
-    "0-705":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-95239.5390625,
-        "posY":108878.9921875,
-        "posZ":2014.2595214844,
-        "rotX":-0.072058476507664,
-        "rotZ":1.6807639598846,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-706":{
-      "refId":"scrib diseased",
-      "location":{
-        "posX":-96960.4296875,
-        "posY":111273.296875,
-        "posZ":1813.1842041016,
-        "rotX":-0.038743123412132,
-        "rotZ":-0.069532155990601,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":68,
-        "fatigueCurrent":68,
-        "fatigueModified":68,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
-      },
-      "inventory":[]
-    },
-    "323335-0":{
-      "refId":"tavynu tedran",
-      "location":{
-        "posX":-94678.71875,
-        "posY":114351.7109375,
-        "posZ":757.67126464844,
-        "rotX":0,
-        "rotZ":1.3336266279221,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":40,
-        "fatigueBase":241,
-        "fatigueCurrent":241,
-        "fatigueModified":241,
-        "magickaBase":40,
-        "healthModified":97,
-        "healthBase":97,
-        "healthCurrent":97,
-        "magickaModified":40
-      },
-      "equipment":{
-        "0":{
-          "refId":"chitin helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"chitin cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"chitin greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"chitin guantlet - left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "6":{
-          "refId":"chitin guantlet - right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"chitin boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "14":{
-          "refId":"amulet of shadows",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"chitin short bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "18":{
-          "refId":"iron arrow",
-          "count":40,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"chitin guantlet - right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin guantlet - left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"amulet of shadows",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":170,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron arrow",
-          "count":40,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin short bow",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron longsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323336-0":{
-      "refId":"synette jeline",
-      "location":{
-        "posX":-96158.390625,
-        "posY":113520.5703125,
-        "posZ":592.36267089844,
-        "rotX":0.2881660759449,
-        "rotZ":1.54319024086,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":152,
-        "fatigueBase":202,
-        "fatigueCurrent":202,
-        "fatigueModified":202,
-        "magickaBase":152,
-        "healthModified":61,
-        "healthBase":61,
-        "healthCurrent":61,
-        "magickaModified":152
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"common_skirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "12":{
-          "refId":"cruel viperbolt ring",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"cruel viperstar",
-          "count":12,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"cruel viperbolt ring",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_skirt_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_belt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":130,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"cruel viperstar",
-          "count":12,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"dire viperblade",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "261838-0":{
-      "refId":"din",
-      "location":{
-        "posX":-93475.6796875,
-        "posY":108419.90625,
-        "posZ":2113.7272949219,
-        "rotX":0.068136878311634,
-        "rotZ":-1.4566180706024,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":90,
-        "fatigueBase":225,
-        "fatigueCurrent":225,
-        "fatigueModified":225,
-        "magickaBase":90,
-        "healthModified":109,
-        "healthBase":109,
-        "healthCurrent":109,
-        "magickaModified":90
-      },
-      "equipment":{
-        "1":{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"imperial cuirass_armor",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":30,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"misc_de_fishing_pole",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "24132-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "24133-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "25527-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "472454-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[{
@@ -579,6 +146,464 @@
       "inventory":[{
           "refId":"ingred_bittergreen_petals_01",
           "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323337-0":{
+      "refId":"expensive_ring_01_bill"
+    },
+    "0-705":{
+      "refId":"nix-hound",
+      "location":{
+        "posX":-96317.2109375,
+        "posY":108482.15625,
+        "posZ":2104.9753417969,
+        "rotX":1.2415537834167,
+        "rotY":0,
+        "rotZ":-1.022097826004
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-706":{
+      "refId":"scrib diseased",
+      "location":{
+        "posX":-96960.4296875,
+        "posY":111273.296875,
+        "posZ":1813.1842041016,
+        "rotX":-0.038743123412132,
+        "rotY":0,
+        "rotZ":-0.069532155990601
+      },
+      "stats":{
+        "magickaCurrent":12,
+        "fatigueBase":68,
+        "fatigueCurrent":68,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":68,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12
+      },
+      "inventory":[]
+    },
+    "323335-0":{
+      "refId":"tavynu tedran",
+      "location":{
+        "posX":-95963.171875,
+        "posY":114211.0390625,
+        "posZ":54.343391418457,
+        "rotX":0.39545953273773,
+        "rotY":0,
+        "rotZ":0.18036127090454
+      },
+      "stats":{
+        "magickaCurrent":40,
+        "fatigueBase":241,
+        "fatigueCurrent":220.13594055176,
+        "healthModified":97,
+        "magickaModified":40,
+        "fatigueModified":241,
+        "healthBase":97,
+        "healthCurrent":0,
+        "magickaBase":40
+      },
+      "equipment":{
+        "0":{
+          "refId":"chitin helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"chitin cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"chitin greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"chitin guantlet - left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"chitin guantlet - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"chitin boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"chitin short bow",
+          "count":1,
+          "charge":498,
+          "enchantmentCharge":-1
+        },
+        "18":{
+          "refId":"iron arrow",
+          "count":38,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"chitin guantlet - right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin guantlet - left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin helm",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron arrow",
+          "count":38,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin short bow",
+          "count":1,
+          "charge":498,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron longsword",
+          "count":1,
+          "charge":789,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "spellsActive":[],
+      "deathState":38
+    },
+    "323336-0":{
+      "refId":"synette jeline",
+      "location":{
+        "posX":-95961.0390625,
+        "posY":114436.671875,
+        "posZ":-43.537582397461,
+        "rotX":0.31705698370934,
+        "rotY":0,
+        "rotZ":-0.10526251792908
+      },
+      "stats":{
+        "magickaCurrent":122,
+        "fatigueBase":202,
+        "fatigueCurrent":181.94589233398,
+        "healthModified":61,
+        "magickaModified":122,
+        "fatigueModified":202,
+        "healthBase":61,
+        "healthCurrent":0,
+        "magickaBase":122
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"common_skirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "12":{
+          "refId":"cruel viperbolt ring",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"cruel viperstar",
+          "count":12,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"cruel viperbolt ring",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_skirt_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"cruel viperstar",
+          "count":12,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"dire viperblade",
+          "count":1,
+          "charge":394,
+          "enchantmentCharge":28,
+          "soul":""
+        }],
+      "deathState":41,
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "goldPool":0,
+      "lastGoldRestockHour":19.220998764038,
+      "lastGoldRestockDay":32,
+      "spellsActive":[]
+    },
+    "261838-0":{
+      "refId":"din",
+      "location":{
+        "posX":-93749.046875,
+        "posY":108091.421875,
+        "posZ":2132.7924804688,
+        "rotX":0.16185143589973,
+        "rotY":0,
+        "rotZ":-2.5455067157745
+      },
+      "stats":{
+        "magickaCurrent":90,
+        "fatigueBase":225,
+        "fatigueCurrent":225,
+        "healthModified":109,
+        "magickaModified":90,
+        "fatigueModified":225,
+        "healthBase":109,
+        "healthCurrent":109,
+        "magickaBase":90
+      },
+      "equipment":{
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":30,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"misc_de_fishing_pole",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-690":{
+      "refId":"rat_diseased",
+      "location":{
+        "posX":-96296.3359375,
+        "posY":113289.5390625,
+        "posZ":677.63488769531,
+        "rotX":-0.05642994120717,
+        "rotY":0,
+        "rotZ":0.69430112838745
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":135,
+        "fatigueCurrent":98.978050231934,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":135,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "24132-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "24133-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "25527-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

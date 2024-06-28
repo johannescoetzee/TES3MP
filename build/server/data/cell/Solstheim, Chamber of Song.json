@@ -28,6 +28,14 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "32716-0":{
+      "refId":"act_bm_steam_02",
+      "state":false
+    },
+    "32717-0":{
+      "refId":"act_bm_steam_03",
+      "state":false
+    },
     "32715-0":{
       "refId":"act_bm_steam_01",
       "state":false
@@ -43,18 +51,10 @@
     "32718-0":{
       "refId":"act_bm_steam_04",
       "state":false
-    },
-    "32716-0":{
-      "refId":"act_bm_steam_02",
-      "state":false
-    },
-    "32717-0":{
-      "refId":"act_bm_steam_03",
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

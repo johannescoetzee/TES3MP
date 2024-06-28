@@ -1,36 +1,139 @@
 {
   "packets":{
-    "actorList":["0-567","0-568"],
+    "actorList":["0-567","0-568","0-569"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["300354-0","300355-0","300361-0","300362-0","300363-0","300365-0","300366-0","300368-0","300370-0","300373-0","0-567","0-568"],
-    "death":[],
+    "container":["300354-0","300355-0","300361-0","300362-0","300363-0","300365-0","300366-0","300368-0","300370-0","300373-0","0-567","0-568","0-569"],
+    "death":["0-569"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-567","0-568"],
+    "position":["0-567","0-568","0-569"],
     "scale":[],
-    "spawn":["0-567","0-568"],
+    "spawn":["0-567","0-568","0-569"],
     "state":[],
-    "statsDynamic":["0-567","0-568"],
+    "statsDynamic":["0-567","0-568","0-569"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716737402,
-    "description":"-4, 13"
+    "description":"-4, 13",
+    "creationTime":1716737402
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719599192,
+    "Fidgug":1719599191
   },
   "recordLinks":[],
   "objectData":{
+    "0-569":{
+      "refId":"cliff racer",
+      "location":{
+        "posX":-32356.8046875,
+        "posY":112272.3359375,
+        "posZ":1058.5208740234,
+        "rotX":1.4805201292038,
+        "rotY":0,
+        "rotZ":-2.4221699237823
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-567":{
+      "refId":"rat",
+      "location":{
+        "posX":-29777.951171875,
+        "posY":110119.34375,
+        "posZ":749.86773681641,
+        "rotX":-0.044221706688404,
+        "rotY":0,
+        "rotZ":2.2862703800201
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
+      },
+      "inventory":[]
+    },
+    "0-568":{
+      "refId":"rat",
+      "location":{
+        "posX":-30817.50390625,
+        "posY":109460.5703125,
+        "posZ":1006.2979125977,
+        "rotX":0.028920132666826,
+        "rotY":0,
+        "rotZ":-2.1963617801666
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300354-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
+    "300355-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300361-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "300362-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -94,86 +197,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-567":{
-      "refId":"rat",
-      "location":{
-        "posX":-29223.322265625,
-        "posY":109847.8046875,
-        "posZ":850.08660888672,
-        "rotX":-0.14076139032841,
-        "rotZ":-2.984849691391,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "fatigueBase":300
-      },
-      "inventory":[]
-    },
-    "0-568":{
-      "refId":"rat",
-      "location":{
-        "posX":-30115.546875,
-        "posY":110404.6953125,
-        "posZ":879.03173828125,
-        "rotX":0.30573484301567,
-        "rotZ":1.8723409175873,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "fatigueBase":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300354-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[]
-    },
-    "300355-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300361-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

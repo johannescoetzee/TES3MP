@@ -26,11 +26,75 @@
     "creationTime":1716737106
   },
   "lastVisit":{
-    "Benoit":1716737828,
-    "Fidgug":1719596688
+    "Benoit":1719598982,
+    "Fidgug":1719598980
   },
   "recordLinks":[],
   "objectData":{
+    "300540-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300541-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300545-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300548-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300549-0":{
+      "refId":"tramaroot_02",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300550-0":{
+      "refId":"tramaroot_05",
+      "inventory":[]
+    },
+    "300551-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "300552-0":{
       "refId":"tramaroot_02",
       "inventory":[{
@@ -72,19 +136,19 @@
         "posY":94651.015625,
         "posZ":1079.9049072266,
         "rotX":0.0040657036006451,
-        "rotZ":-2.5110967159271,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-2.5110967159271
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
         "magickaCurrent":72,
+        "fatigueBase":190,
         "fatigueCurrent":182.6849822998,
         "healthModified":30,
         "magickaModified":75,
         "fatigueModified":190,
-        "fatigueBase":190
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75
       },
       "inventory":[],
       "killer":{
@@ -99,19 +163,19 @@
         "posY":94870.0078125,
         "posZ":1171.4345703125,
         "rotX":0.27947103977203,
-        "rotZ":-1.9691622257233,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-1.9691622257233
       },
       "stats":{
-        "healthBase":38,
-        "healthCurrent":0,
-        "magickaBase":5,
         "magickaCurrent":5,
+        "fatigueBase":400,
         "fatigueCurrent":395.79782104492,
         "healthModified":38,
         "magickaModified":5,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":38,
+        "healthCurrent":0,
+        "magickaBase":5
       },
       "inventory":[],
       "killer":{
@@ -126,47 +190,47 @@
         "posY":94211.421875,
         "posZ":1289.5598144531,
         "rotX":-0.067875728011131,
-        "rotZ":0.95931792259216,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0.95931792259216
       },
       "stats":{
-        "healthBase":30,
-        "healthCurrent":0,
-        "magickaBase":75,
         "magickaCurrent":72,
+        "fatigueBase":190,
         "fatigueCurrent":186.20892333984,
         "healthModified":30,
         "magickaModified":75,
         "fatigueModified":190,
-        "fatigueBase":190
+        "healthBase":30,
+        "healthCurrent":0,
+        "magickaBase":75
       },
       "inventory":[],
-      "spellsActive":[],
       "killer":{
         "playerName":"Fidgug"
       },
+      "spellsActive":[],
       "deathState":38
     },
     "0-519":{
       "refId":"nix-hound",
       "location":{
-        "posX":-33408.6953125,
-        "posY":97104.5234375,
-        "posZ":2058.2600097656,
-        "rotX":-0.16225557029247,
-        "rotZ":1.3047511577606,
-        "rotY":0
+        "posX":-33209.921875,
+        "posY":97031.1796875,
+        "posZ":2201.3205566406,
+        "rotX":0.69162791967392,
+        "rotY":0,
+        "rotZ":-2.8044464588165
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -273,74 +337,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "300540-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300541-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300545-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300548-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300549-0":{
-      "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300550-0":{
-      "refId":"tramaroot_05",
-      "inventory":[]
-    },
-    "300551-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

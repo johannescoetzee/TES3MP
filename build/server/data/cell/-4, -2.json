@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["41643-0","428721-0"],
+    "actorList":["41643-0","428721-0","0-109"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["252140-0","252141-0","252146-0","252147-0","252148-0","252150-0","252164-0","252165-0","252166-0","34115-0","41643-0","428721-0"],
+    "container":["252140-0","252141-0","252146-0","252147-0","252148-0","252150-0","252164-0","252165-0","252166-0","34115-0","41643-0","428721-0","0-109"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["41643-0","428721-0"],
     "lock":[],
     "place":[],
-    "position":["41643-0","428721-0"],
+    "position":["41643-0","428721-0","0-109"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-109"],
     "state":[],
-    "statsDynamic":["41643-0","428721-0"],
+    "statsDynamic":["41643-0","428721-0","0-109"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,31 +26,100 @@
     "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719596655,
+    "Benoit":1719598883,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
+    "252164-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252165-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "252166-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "34115-0":{
+      "refId":"urn_04_food",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-109":{
+      "refId":"kwama forager",
+      "location":{
+        "posX":-31452.5390625,
+        "posY":-16374.115234375,
+        "posZ":609,
+        "rotX":-0.068628706037998,
+        "rotY":0,
+        "rotZ":2.0720770359039
+      },
+      "stats":{
+        "magickaCurrent":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "41643-0":{
       "refId":"stargel",
       "location":{
-        "posX":-25435.400390625,
-        "posY":-12304.21875,
-        "posZ":961,
-        "rotX":0.012396825477481,
-        "rotZ":-1.9975807666779,
-        "rotY":0
+        "posX":-25695.50390625,
+        "posY":-11820.951171875,
+        "posZ":961.00006103516,
+        "rotX":0.020498014986515,
+        "rotY":0,
+        "rotZ":-1.5716979503632
       },
       "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":64,
         "magickaCurrent":64,
+        "fatigueBase":189,
         "fatigueCurrent":189,
         "healthModified":67,
         "magickaModified":64,
         "fatigueModified":189,
-        "fatigueBase":189
+        "healthBase":67,
+        "healthCurrent":67,
+        "magickaBase":64
       },
       "equipment":{
         "5":{
@@ -127,30 +196,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":14,
+      "goldPool":0,
       "lastGoldRestockHour":15.609610557556,
-      "goldPool":0
+      "lastGoldRestockDay":14
     },
     "428721-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "posX":-24619.083984375,
-        "posY":-12435.8515625,
-        "posZ":961,
-        "rotX":0.010393013246357,
-        "rotZ":-3.1374499797821,
-        "rotY":0
+        "posX":-25754.1328125,
+        "posY":-11805.7890625,
+        "posZ":961.00006103516,
+        "rotX":-0.015984039753675,
+        "rotY":0,
+        "rotZ":1.5777761936188
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaBase":122,
         "magickaCurrent":122,
+        "fatigueBase":307,
         "fatigueCurrent":307,
         "healthModified":210,
         "magickaModified":122,
         "fatigueModified":307,
-        "fatigueBase":307
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122
       },
       "equipment":{
         "0":{
@@ -214,7 +283,7 @@
           "enchantmentCharge":-1
         },
         "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
+          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -341,50 +410,10 @@
     "252150-0":{
       "refId":"flora_bc_shelffungus_02",
       "inventory":[]
-    },
-    "252164-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252165-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "252166-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "34115-0":{
-      "refId":"urn_04_food",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

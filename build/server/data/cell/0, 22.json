@@ -31,10 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "429887-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
     "429895-0":{
       "refId":"kollop_01_pearl",
       "inventory":[{
@@ -93,15 +89,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":399.9885559082,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "magickaCurrent":10
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
       },
       "inventory":[]
     },
@@ -116,15 +112,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
+        "magickaCurrent":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
-        "magickaCurrent":20
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -145,15 +141,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
+        "magickaCurrent":20,
         "fatigueBase":170,
         "fatigueCurrent":170,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":170,
-        "magickaCurrent":20
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[]
     },
@@ -168,15 +164,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":50,
-        "healthCurrent":0,
-        "magickaBase":106,
+        "magickaCurrent":106,
         "fatigueBase":164,
         "fatigueCurrent":163.69525146484,
         "healthModified":50,
         "magickaModified":106,
         "fatigueModified":164,
-        "magickaCurrent":106
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaBase":106
       },
       "equipment":{
         "0":{
@@ -229,11 +225,11 @@
           "enchantmentCharge":36,
           "soul":""
         }],
-      "spellsActive":[],
-      "deathState":42,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "spellsActive":[],
+      "deathState":42
     },
     "0-854":{
       "refId":"cliff racer_diseased",
@@ -246,15 +242,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
+        "magickaCurrent":20,
         "fatigueBase":170,
         "fatigueCurrent":170,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":170,
-        "magickaCurrent":20
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -381,10 +377,14 @@
     "429874-0":{
       "refId":"kollop_01_pearl",
       "inventory":[]
+    },
+    "429887-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

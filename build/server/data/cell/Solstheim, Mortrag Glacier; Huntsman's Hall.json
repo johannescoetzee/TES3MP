@@ -28,16 +28,16 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "31423-0":{
-      "refId":"bm_hircine_straspect",
+    "31424-0":{
+      "refId":"bm_hircine2",
       "state":false
     },
     "31421-0":{
       "refId":"bm_hircine_huntaspect",
       "state":false
     },
-    "31424-0":{
-      "refId":"bm_hircine2",
+    "31423-0":{
+      "refId":"bm_hircine_straspect",
       "state":false
     },
     "31422-0":{
@@ -46,7 +46,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

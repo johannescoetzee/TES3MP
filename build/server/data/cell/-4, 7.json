@@ -22,39 +22,15 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1715977421,
-    "description":"-4, 7"
+    "description":"-4, 7",
+    "creationTime":1715977421
   },
   "lastVisit":{
-    "Benoit":1719595166,
+    "Benoit":1719598889,
     "Fidgug":1719594474
   },
   "recordLinks":[],
   "objectData":{
-    "183068-0":{
-      "refId":"tramaroot_04",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "183069-0":{
-      "refId":"tramaroot_05",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "183070-0":{
-      "refId":"tramaroot_02",
-      "inventory":[]
-    },
     "183076-0":{
       "refId":"tramaroot_06",
       "inventory":[]
@@ -159,9 +135,6 @@
           "soul":""
         }]
     },
-    "261836-0":{
-      "cellChangeTo":"-3, 7"
-    },
     "300457-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[{
@@ -240,26 +213,29 @@
           "soul":""
         }]
     },
+    "261836-0":{
+      "cellChangeTo":"-3, 7"
+    },
     "0-477":{
       "refId":"db_assassin1",
       "location":{
-        "rotY":0,
         "posX":-29672.3125,
         "posY":58047.3203125,
         "posZ":1922.0417480469,
         "rotX":0.030335497111082,
+        "rotY":0,
         "rotZ":2.7102892398834
       },
       "stats":{
+        "magickaCurrent":106,
+        "fatigueBase":164,
+        "fatigueCurrent":164,
         "healthModified":50,
         "magickaModified":106,
         "fatigueModified":164,
         "healthBase":50,
         "healthCurrent":0,
-        "magickaBase":106,
-        "magickaCurrent":106,
-        "fatigueBase":164,
-        "fatigueCurrent":164
+        "magickaBase":106
       },
       "equipment":{
         "4":{
@@ -338,10 +314,34 @@
     "183067-0":{
       "refId":"tramaroot_06",
       "inventory":[]
+    },
+    "183068-0":{
+      "refId":"tramaroot_04",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "183069-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "183070-0":{
+      "refId":"tramaroot_02",
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

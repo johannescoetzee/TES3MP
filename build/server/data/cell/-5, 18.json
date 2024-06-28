@@ -18,252 +18,19 @@
     "statsDynamic":["0-750","0-751","0-752","0-753","0-754","0-755","0-756","0-757","0-758","0-777","0-778","0-779"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":["0-753","0-750"],
+    "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716741429,
-    "description":"-5, 18"
+    "description":"-5, 18",
+    "creationTime":1716741429
   },
   "lastVisit":{
-    "Fidgug":1717182877,
-    "Benoit":1717182875
+    "Benoit":1719601117,
+    "Fidgug":1719601119
   },
   "recordLinks":[],
   "objectData":{
-    "0-777":{
-      "refId":"rat",
-      "location":{
-        "posX":-34892.41796875,
-        "posY":152401.078125,
-        "posZ":828.66198730469,
-        "rotX":0.18877094984055,
-        "rotZ":-0.91516757011414,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":298.48101806641,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-750":{
-      "refId":"scamp",
-      "location":{
-        "posX":-35955.96484375,
-        "posY":152301.015625,
-        "posZ":658.69079589844,
-        "rotX":-0.31605204939842,
-        "rotZ":-2.0264842510223,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":392.38491821289,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaModified":100
-      },
-      "inventory":[],
-      "spellsActive":{
-        "cloudcleaver_unique":[{
-            "displayName":"Cloudcleaver",
-            "stackingState":false,
-            "startTime":1717182459,
-            "caster":{
-              "playerName":"Fidgug"
-            },
-            "effects":[{
-                "arg":-1,
-                "duration":1,
-                "id":15,
-                "timeLeft":1,
-                "magnitude":10
-              }]
-          }]
-      },
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-751":{
-      "refId":"scamp",
-      "location":{
-        "posX":-33730.734375,
-        "posY":148437.09375,
-        "posZ":597.53076171875,
-        "rotX":0.093602865934372,
-        "rotZ":-1.4339482784271,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
-      },
-      "inventory":[{
-          "refId":"ingred_scamp_skin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-752":{
-      "refId":"scamp",
-      "location":{
-        "posX":-33404.265625,
-        "posY":149033.921875,
-        "posZ":694.12359619141,
-        "rotX":0.15850646793842,
-        "rotZ":-2.410787820816,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
-      },
-      "inventory":[{
-          "refId":"ingred_scamp_skin_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-753":{
-      "refId":"scamp",
-      "location":{
-        "posX":-38146.265625,
-        "posY":152004.625,
-        "posZ":829.50177001953,
-        "rotX":0.042777694761753,
-        "rotZ":-1.8541882038116,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":393.72827148438,
-        "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaModified":100
-      },
-      "inventory":[],
-      "spellsActive":{
-        "cloudcleaver_unique":[{
-            "caster":{
-              "playerName":"Fidgug"
-            },
-            "stackingState":false,
-            "displayName":"Cloudcleaver",
-            "startTime":1717182437,
-            "effects":[{
-                "arg":-1,
-                "duration":1,
-                "id":15,
-                "timeLeft":1,
-                "magnitude":1.5
-              }]
-          }]
-      },
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-754":{
-      "refId":"clannfear",
-      "location":{
-        "posX":-40356.125,
-        "posY":150369.25,
-        "posZ":705.00067138672,
-        "rotX":0.001000814139843,
-        "rotZ":-2.3351442813873,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":500,
-        "fatigueCurrent":498.20263671875,
-        "fatigueModified":500,
-        "magickaBase":100,
-        "healthModified":113,
-        "healthBase":113,
-        "healthCurrent":0,
-        "magickaModified":100
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-755":{
-      "refId":"clannfear",
-      "location":{
-        "posX":-40805.3984375,
-        "posY":150263.875,
-        "posZ":689.00067138672,
-        "rotX":0.011928432621062,
-        "rotZ":1.725964307785,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":500,
-        "fatigueCurrent":498.73455810547,
-        "fatigueModified":500,
-        "magickaBase":100,
-        "healthModified":113,
-        "healthBase":113,
-        "healthCurrent":0,
-        "magickaModified":100
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
     "0-756":{
       "refId":"nix-hound blighted",
       "location":{
@@ -271,19 +38,19 @@
         "posY":152330.46875,
         "posZ":727.20916748047,
         "rotX":0.12424778938293,
-        "rotZ":-1.6068012714386,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-1.6068012714386
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":190,
         "fatigueCurrent":190,
-        "fatigueModified":190,
-        "magickaBase":10,
         "healthModified":68,
+        "magickaModified":10,
+        "fatigueModified":190,
         "healthBase":68,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -292,11 +59,11 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "spellsActive":[],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "spellsActive":[],
+      "deathState":38
     },
     "0-757":{
       "refId":"nix-hound",
@@ -305,19 +72,19 @@
         "posY":152448.984375,
         "posZ":746.51501464844,
         "rotX":0.18791487812996,
-        "rotZ":-1.8218948841095,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-1.8218948841095
       },
       "stats":{
         "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":395.92391967773,
-        "fatigueModified":400,
-        "magickaBase":10,
         "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -326,31 +93,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "deathState":38
     },
     "0-758":{
       "refId":"scamp",
       "location":{
-        "posX":-36685.82421875,
-        "posY":149140.8125,
+        "posX":-36685.18359375,
+        "posY":149142.140625,
         "posZ":1206.4288330078,
-        "rotX":0.029519425705075,
-        "rotZ":2.9964330196381,
-        "rotY":0
+        "rotX":0.062852755188942,
+        "rotY":0,
+        "rotZ":2.9964330196381
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":100,
         "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":100
+        "magickaBase":100
       },
       "inventory":[{
           "refId":"ingred_scamp_skin_01",
@@ -359,6 +126,94 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-777":{
+      "refId":"rat",
+      "location":{
+        "posX":-34892.41796875,
+        "posY":152401.078125,
+        "posZ":828.66198730469,
+        "rotX":0.18877094984055,
+        "rotY":0,
+        "rotZ":-0.91516757011414
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":298.48101806641,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-778":{
+      "refId":"db_assassin1",
+      "location":{
+        "posX":-34691.1015625,
+        "posY":152587.84375,
+        "posZ":726.21148681641,
+        "rotX":0.33896633982658,
+        "rotY":0,
+        "rotZ":0.6849148273468
+      },
+      "stats":{
+        "magickaCurrent":106,
+        "fatigueBase":164,
+        "fatigueCurrent":164,
+        "healthModified":50,
+        "magickaModified":106,
+        "fatigueModified":164,
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaBase":106
+      },
+      "equipment":[],
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":46
+    },
+    "0-779":{
+      "refId":"rat",
+      "location":{
+        "posX":-34501.90234375,
+        "posY":152823.75,
+        "posZ":573.67041015625,
+        "rotX":-0.52817302942276,
+        "rotY":0,
+        "rotZ":-2.9957821369171
+      },
+      "stats":{
+        "magickaCurrent":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":300,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     },
     "297266-0":{
       "refId":"flora_rm_scathecraw_01",
@@ -442,60 +297,175 @@
           "soul":""
         }]
     },
-    "0-778":{
-      "refId":"db_assassin1",
+    "0-752":{
+      "refId":"scamp",
       "location":{
-        "posX":-34691.1015625,
-        "posY":152587.84375,
-        "posZ":726.21148681641,
-        "rotX":0.33896633982658,
-        "rotZ":0.6849148273468,
-        "rotY":0
+        "posX":-33623.25,
+        "posY":149888.546875,
+        "posZ":705,
+        "rotX":0.0025799311697483,
+        "rotY":0,
+        "rotZ":2.3997957706451
       },
       "stats":{
-        "magickaCurrent":106,
-        "fatigueBase":164,
-        "fatigueCurrent":164,
-        "fatigueModified":164,
-        "magickaBase":106,
-        "healthModified":50,
-        "healthBase":50,
-        "healthCurrent":0,
-        "magickaModified":106
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
       },
-      "equipment":[],
-      "inventory":[],
-      "deathState":46,
-      "killer":{
-        "playerName":"Fidgug"
-      }
+      "inventory":[{
+          "refId":"ingred_scamp_skin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "0-779":{
-      "refId":"rat",
+    "0-751":{
+      "refId":"scamp",
       "location":{
-        "posX":-34501.90234375,
-        "posY":152823.75,
-        "posZ":573.67041015625,
-        "rotX":-0.52817302942276,
-        "rotZ":-2.9957821369171,
-        "rotY":0
+        "posX":-33349.2109375,
+        "posY":148558,
+        "posZ":635.09063720703,
+        "rotX":0.1130044683814,
+        "rotY":0,
+        "rotZ":-2.0003206729889
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100
+      },
+      "inventory":[{
+          "refId":"ingred_scamp_skin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-750":{
+      "refId":"scamp",
+      "location":{
+        "posX":-35955.96484375,
+        "posY":152301.015625,
+        "posZ":658.69079589844,
+        "rotX":-0.31605204939842,
+        "rotY":0,
+        "rotZ":-2.0264842510223
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":392.38491821289,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthBase":45,
         "healthCurrent":0,
-        "magickaModified":10
+        "magickaBase":100
       },
       "inventory":[],
-      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      }
+      },
+      "spellsActive":{
+      },
+      "deathState":38
+    },
+    "0-753":{
+      "refId":"scamp",
+      "location":{
+        "posX":-38146.265625,
+        "posY":152004.625,
+        "posZ":829.50177001953,
+        "rotX":0.042777694761753,
+        "rotY":0,
+        "rotZ":-1.8541882038116
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":400,
+        "fatigueCurrent":393.72827148438,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":100
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "spellsActive":{
+      },
+      "deathState":38
+    },
+    "0-754":{
+      "refId":"clannfear",
+      "location":{
+        "posX":-40356.125,
+        "posY":150369.25,
+        "posZ":705.00067138672,
+        "rotX":0.001000814139843,
+        "rotY":0,
+        "rotZ":-2.3351442813873
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":500,
+        "fatigueCurrent":498.20263671875,
+        "healthModified":113,
+        "magickaModified":100,
+        "fatigueModified":500,
+        "healthBase":113,
+        "healthCurrent":0,
+        "magickaBase":100
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "0-755":{
+      "refId":"clannfear",
+      "location":{
+        "posX":-40805.3984375,
+        "posY":150263.875,
+        "posZ":689.00067138672,
+        "rotX":0.011928432621062,
+        "rotY":0,
+        "rotZ":1.725964307785
+      },
+      "stats":{
+        "magickaCurrent":100,
+        "fatigueBase":500,
+        "fatigueCurrent":498.73455810547,
+        "healthModified":113,
+        "magickaModified":100,
+        "fatigueModified":500,
+        "healthBase":113,
+        "healthCurrent":0,
+        "magickaBase":100
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     }
   },
   "loadState":{

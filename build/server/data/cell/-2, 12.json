@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-1045","0-1051"],
+    "actorList":["0-1045"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1045","0-1051"],
+    "container":["0-1045"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1045","0-1051"],
+    "position":["0-1045"],
     "scale":[],
-    "spawn":["0-1045","0-1051"],
+    "spawn":["0-1045"],
     "state":[],
-    "statsDynamic":["0-1045","0-1051"],
+    "statsDynamic":["0-1045"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,31 +26,31 @@
     "creationTime":1717188839
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719598921,
+    "Fidgug":1719598919
   },
   "recordLinks":[],
   "objectData":{
     "0-1045":{
       "refId":"cliff racer",
       "location":{
-        "posX":-8383.8388671875,
-        "posY":103510.125,
-        "posZ":2856.9780273438,
+        "posX":-8372.2431640625,
+        "posY":103613.1953125,
+        "posZ":2856.986328125,
         "rotX":0.0014302600175142,
-        "rotZ":-3.1171486377716,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-3.1171486377716
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -59,33 +59,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-1051":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-12181.231445313,
-        "posY":98950.8125,
-        "posZ":4785.31640625,
-        "rotX":-9.0552493929863e-06,
-        "rotZ":1.7347509860992,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "fatigueBase":400
-      },
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

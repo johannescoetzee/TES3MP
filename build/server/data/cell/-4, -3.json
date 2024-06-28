@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["480590-0","0-119","0-109"],
+    "actorList":["480590-0","0-119"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["67301-0","67304-0","67314-0","252170-0","252171-0","252200-0","252212-0","252213-0","252218-0","252219-0","252220-0","252222-0","252223-0","252224-0","252225-0","34121-0","476456-0","476461-0","476463-0","476468-0","476473-0","476474-0","476475-0","476476-0","476477-0","480590-0","0-119","0-109"],
+    "container":["67301-0","67304-0","67314-0","252170-0","252171-0","252200-0","252212-0","252213-0","252218-0","252219-0","252220-0","252222-0","252223-0","252224-0","252225-0","34121-0","476456-0","476461-0","476463-0","476468-0","476473-0","476474-0","476475-0","476476-0","476477-0","480590-0","0-119"],
     "death":["480590-0"],
     "delete":[],
     "doorState":[],
     "equipment":["0-119"],
     "lock":[],
     "place":[],
-    "position":["480590-0","0-119","0-109"],
+    "position":["480590-0","0-119"],
     "scale":[],
-    "spawn":["0-119","0-109"],
+    "spawn":["0-119"],
     "state":[],
-    "statsDynamic":["480590-0","0-119","0-109"],
+    "statsDynamic":["480590-0","0-119"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,97 +26,41 @@
     "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719596655,
+    "Benoit":1719598883,
     "Fidgug":1719594202
   },
   "recordLinks":[],
   "objectData":{
-    "480590-0":{
-      "refId":"scrib",
-      "location":{
-        "posX":-28197.939453125,
-        "posY":-23446.65625,
-        "posZ":705.77502441406,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":0,
-        "magickaBase":12,
-        "magickaCurrent":0,
-        "fatigueCurrent":298.66925048828,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "fatigueBase":300
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
     "0-119":{
       "refId":"db_assassin1b",
       "location":{
-        "posX":-27624.08203125,
-        "posY":-21855.2265625,
-        "posZ":869.00146484375,
-        "rotX":0.62060540914536,
-        "rotZ":1.527396440506,
-        "rotY":0
+        "posX":-27581.224609375,
+        "posY":-21815.333984375,
+        "posZ":844.46618652344,
+        "rotX":0.58448988199234,
+        "rotY":0,
+        "rotZ":2.1637012958527
       },
       "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaBase":100,
         "magickaCurrent":100,
+        "fatigueBase":150,
         "fatigueCurrent":150,
         "healthModified":40,
         "magickaModified":100,
         "fatigueModified":150,
-        "fatigueBase":150
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":100
       },
       "equipment":[],
       "inventory":[],
-      "lastGoldRestockHour":17.381175994873,
-      "lastGoldRestockDay":4,
       "deathState":42,
       "killer":{
         "playerName":"Fidgug"
       },
-      "goldPool":0
-    },
-    "0-109":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-30793.5234375,
-        "posY":-17204.841796875,
-        "posZ":689.20166015625,
-        "rotX":0.13335831463337,
-        "rotZ":-1.1691172122955,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "fatigueBase":300
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "goldPool":0,
+      "lastGoldRestockHour":17.381175994873,
+      "lastGoldRestockDay":4
     },
     "67301-0":{
       "refId":"flora_corkbulb",
@@ -289,10 +233,37 @@
     "476477-0":{
       "refId":"flora_willow_flower_02",
       "inventory":[]
+    },
+    "480590-0":{
+      "refId":"scrib",
+      "location":{
+        "posX":-28197.939453125,
+        "posY":-23446.65625,
+        "posZ":705.77502441406,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "magickaCurrent":0,
+        "fatigueBase":300,
+        "fatigueCurrent":298.66925048828,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "healthBase":8,
+        "healthCurrent":0,
+        "magickaBase":12
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

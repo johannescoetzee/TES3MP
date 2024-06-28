@@ -26,11 +26,23 @@
     "creationTime":1714761404
   },
   "lastVisit":{
-    "Benoit":1719596655,
+    "Benoit":1719598877,
     "Fidgug":1719594189
   },
   "recordLinks":[],
   "objectData":{
+    "476138-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476139-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "476140-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[]
+    },
     "476141-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[]
@@ -60,26 +72,26 @@
         "posY":-2311.7075195313,
         "posZ":818.70977783203,
         "rotX":0.20115715265274,
-        "rotZ":1.7502911090851,
-        "rotY":0
+        "rotY":0,
+        "rotZ":1.7502911090851
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
         "magickaCurrent":10,
+        "fatigueBase":400,
         "fatigueCurrent":399.83822631836,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[],
-      "deathState":38,
       "killer":{
         "playerName":"Benoit"
       },
-      "spellsActive":[]
+      "spellsActive":[],
+      "deathState":38
     },
     "261829-0":{
       "refId":"ernil omoran",
@@ -88,19 +100,19 @@
         "posY":-2343.779296875,
         "posZ":1135.0556640625,
         "rotX":0,
-        "rotZ":2.783186674118,
-        "rotY":0
+        "rotY":0,
+        "rotZ":2.783186674118
       },
       "stats":{
-        "healthBase":0,
-        "healthCurrent":0,
-        "magickaBase":88,
         "magickaCurrent":88,
+        "fatigueBase":188,
         "fatigueCurrent":188,
         "healthModified":0,
         "magickaModified":88,
         "fatigueModified":188,
-        "fatigueBase":188
+        "healthBase":0,
+        "healthCurrent":0,
+        "magickaBase":88
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_02",
@@ -141,23 +153,23 @@
     "0-98":{
       "refId":"rat",
       "location":{
-        "posX":-15035.857421875,
-        "posY":-6068.603515625,
+        "posX":-15366.965820313,
+        "posY":-6400.7670898438,
         "posZ":353.00006103516,
-        "rotX":-0.035973738878965,
-        "rotZ":-2.3634464740753,
-        "rotY":0
+        "rotX":0.20520505309105,
+        "rotY":0,
+        "rotZ":-2.3545897006989
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
         "magickaCurrent":10,
+        "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":300,
-        "fatigueBase":300
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -238,22 +250,10 @@
     "476137-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
-    },
-    "476138-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476139-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476140-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

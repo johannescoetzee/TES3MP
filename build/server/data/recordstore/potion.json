@@ -1,9 +1,453 @@
 {
   "general":{
-    "currentGeneratedNum":152
+    "currentGeneratedNum":195
   },
   "permanentRecords":[],
   "generatedRecords":{
+    "$custom_potion_85":{
+      "name":"Fortify Strength",
+      "value":76,
+      "weight":0.3,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":79,
+          "magnitudeMax":28,
+          "magnitudeMin":28
+        }]
+    },
+    "$custom_potion_15":{
+      "name":"Drain Attribute",
+      "value":53,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":7,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":53,
+          "magnitudeMax":18,
+          "magnitudeMin":18
+        }]
+    },
+    "$custom_potion_67":{
+      "name":"Drain Attribute",
+      "value":73,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":4,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":21,
+          "magnitudeMax":7,
+          "magnitudeMin":7
+        }]
+    },
+    "$custom_potion_9":{
+      "name":"Drain Fatigue",
+      "value":51,
+      "weight":0.15,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":20,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":26,
+          "magnitudeMax":9,
+          "magnitudeMin":9
+        }]
+    },
+    "$custom_potion_6":{
+      "name":"Drain Attribute",
+      "value":50,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":4,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":50,
+          "magnitudeMax":17,
+          "magnitudeMin":17
+        }]
+    },
+    "$custom_potion_109":{
+      "name":"Uber-Restore",
+      "value":79,
+      "weight":0.12,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":75,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":19,
+          "magnitudeMax":9,
+          "magnitudeMin":9
+        },{
+          "id":77,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":83,
+          "magnitudeMax":30,
+          "magnitudeMin":30
+        },{
+          "id":82,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":162,
+          "magnitudeMax":56,
+          "magnitudeMin":56
+        }]
+    },
+    "$custom_potion_59":{
+      "name":"Drain Attribute",
+      "value":72,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":4,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":21,
+          "magnitudeMax":7,
+          "magnitudeMin":7
+        }]
+    },
+    "$custom_potion_123":{
+      "name":"Restore Strength",
+      "value":80,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":74,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":84,
+          "magnitudeMax":30,
+          "magnitudeMin":30
+        }]
+    },
+    "$custom_potion_83":{
+      "name":"Drain Attribute",
+      "value":76,
+      "weight":0.15,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":7,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":22,
+          "magnitudeMax":7,
+          "magnitudeMin":7
+        },{
+          "id":74,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":79,
+          "magnitudeMax":28,
+          "magnitudeMin":28
+        }]
+    },
+    "$custom_potion_44":{
+      "name":"Fortify Attribute",
+      "value":58,
+      "weight":0.34,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":61,
+          "magnitudeMax":22,
+          "magnitudeMin":22
+        }]
+    },
+    "$custom_potion_42":{
+      "name":"Levitate",
+      "value":58,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
+      "script":"",
+      "effects":[{
+          "id":10,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":22,
+          "magnitudeMax":9,
+          "magnitudeMin":9
+        }]
+    },
+    "$custom_potion_150":{
+      "name":"Fortify Attribute",
+      "value":111,
+      "weight":0.3,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
+        }]
+    },
+    "$custom_potion_5":{
+      "name":"Drain Attribute",
+      "value":50,
+      "weight":0.3,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":50,
+          "magnitudeMax":17,
+          "magnitudeMin":17
+        }]
+    },
+    "$custom_potion_61":{
+      "name":"Fortify Strength",
+      "value":72,
+      "weight":0.34,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":75,
+          "magnitudeMax":27,
+          "magnitudeMin":27
+        }]
+    },
+    "$custom_potion_119":{
+      "name":"Drain Attribute",
+      "value":80,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":4,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
+        }]
+    },
+    "$custom_potion_118":{
+      "name":"Drain Attribute",
+      "value":80,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
+        }]
+    },
+    "$custom_potion_140":{
+      "name":"Water Walking",
+      "value":84,
+      "weight":0.15,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":2,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":30,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
+    "$custom_potion_16":{
+      "name":"Cure Poison",
+      "value":53,
+      "weight":0.55,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":72,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":1,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
+    "$custom_potion_76":{
+      "name":"Water Walking",
+      "value":75,
+      "weight":0.3,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":2,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":27,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        },{
+          "id":20,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":11,
+          "magnitudeMax":4,
+          "magnitudeMin":4
+        }]
+    },
+    "$custom_potion_136":{
+      "name":"Drain Attribute",
+      "value":82,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":2,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":14,
+          "magnitudeMax":5,
+          "magnitudeMin":5
+        }]
+    },
+    "$custom_potion_58":{
+      "name":"Drain Attribute",
+      "value":72,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":7,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":21,
+          "magnitudeMax":7,
+          "magnitudeMin":7
+        },{
+          "id":74,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":75,
+          "magnitudeMax":27,
+          "magnitudeMin":27
+        }]
+    },
     "$custom_potion_134":{
       "name":"Drain Attribute",
       "value":82,
@@ -21,25 +465,6 @@
           "duration":14,
           "magnitudeMax":5,
           "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_95":{
-      "name":"Drain Attribute",
-      "value":76,
-      "weight":0.2,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
         }]
     },
     "$custom_potion_132":{
@@ -80,89 +505,135 @@
           "magnitudeMin":3
         }]
     },
-    "$custom_potion_148":{
-      "name":"Drain Attribute",
-      "value":106,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        }]
-    },
-    "$custom_potion_147":{
-      "name":"Drain Attribute",
-      "value":106,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":3,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        },{
-          "id":17,
-          "attribute":5,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        }]
-    },
-    "$custom_potion_144":{
-      "name":"Drain Attribute",
-      "value":85,
-      "weight":0.15,
+    "$custom_potion_194":{
+      "name":"Restore Willpower",
+      "value":111,
+      "weight":0.1,
       "autoCalc":0,
       "icon":"m\\tx_potion_exclusive_01.dds",
       "model":"m\\misc_potion_exclusive_01.nif",
       "script":"",
       "effects":[{
-          "id":17,
-          "attribute":6,
+          "id":72,
+          "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":14,
-          "magnitudeMax":5,
-          "magnitudeMin":5
+          "duration":1,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        },{
+          "id":74,
+          "attribute":2,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
         }]
     },
-    "$custom_potion_80":{
-      "name":"Restore Health",
-      "value":76,
+    "$custom_potion_122":{
+      "name":"Restore Strength",
+      "value":80,
       "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":17,
+          "attribute":7,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
+        },{
+          "id":74,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":84,
+          "magnitudeMax":30,
+          "magnitudeMin":30
+        }]
+    },
+    "$custom_potion_176":{
+      "name":"Water Walking",
+      "value":106,
+      "weight":0.15,
       "autoCalc":0,
       "icon":"m\\tx_potion_fresh_01.dds",
       "model":"m\\misc_potion_fresh_01.nif",
       "script":"",
       "effects":[{
-          "id":75,
+          "id":2,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":18,
-          "magnitudeMax":8,
-          "magnitudeMin":8
+          "duration":38,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
+    "$custom_potion_189":{
+      "name":"Combat Potion",
+      "value":111,
+      "weight":0.22,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
+        },{
+          "id":79,
+          "attribute":3,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
+        }]
+    },
+    "$custom_potion_188":{
+      "name":"Combat Potion",
+      "value":111,
+      "weight":0.22,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":0,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
+        },{
+          "id":79,
+          "attribute":3,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":115,
+          "magnitudeMax":41,
+          "magnitudeMin":41
         }]
     },
     "$custom_potion_86":{
@@ -184,6 +655,25 @@
           "magnitudeMin":28
         }]
     },
+    "$custom_potion_185":{
+      "name":"Fortify Attribute",
+      "value":124,
+      "weight":0.3,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
+      "script":"",
+      "effects":[{
+          "id":79,
+          "attribute":1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":129,
+          "magnitudeMax":45,
+          "magnitudeMin":45
+        }]
+    },
     "$custom_potion_127":{
       "name":"Restore Health",
       "value":81,
@@ -203,42 +693,60 @@
           "magnitudeMin":9
         }]
     },
-    "$custom_potion_106":{
-      "name":"Water Breathing",
-      "value":79,
-      "weight":0.15,
+    "$custom_potion_181":{
+      "name":"Fortify Attribute",
+      "value":125,
+      "weight":0.3,
       "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
       "script":"",
       "effects":[{
-          "id":0,
+          "id":79,
+          "attribute":1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":129,
+          "magnitudeMax":45,
+          "magnitudeMin":45
+        }]
+    },
+    "$custom_potion_159":{
+      "name":"Arcane Restore Fatigue",
+      "value":108,
+      "weight":0.32,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":75,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":28,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_143":{
-      "name":"Drain Attribute",
-      "value":84,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
+          "duration":25,
+          "magnitudeMax":11,
+          "magnitudeMin":11
+        },{
+          "id":77,
+          "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":14,
-          "magnitudeMax":5,
-          "magnitudeMin":5
+          "duration":112,
+          "magnitudeMax":40,
+          "magnitudeMin":40
+        },{
+          "id":81,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":112,
+          "magnitudeMax":40,
+          "magnitudeMin":40
         }]
     },
     "$custom_potion_11":{
@@ -288,25 +796,6 @@
           "magnitudeMin":17
         }]
     },
-    "$custom_potion_103":{
-      "name":"Drain Magicka",
-      "value":81,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":19,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":6,
-          "magnitudeMax":2,
-          "magnitudeMin":2
-        }]
-    },
     "$custom_potion_57":{
       "name":"Paralyze",
       "value":72,
@@ -324,356 +813,6 @@
           "duration":1,
           "magnitudeMax":1,
           "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_122":{
-      "name":"Restore Strength",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        },{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":84,
-          "magnitudeMax":30,
-          "magnitudeMin":30
-        }]
-    },
-    "$custom_potion_128":{
-      "name":"Fortify Agility",
-      "value":81,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":3,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":85,
-          "magnitudeMax":31,
-          "magnitudeMin":31
-        }]
-    },
-    "$custom_potion_82":{
-      "name":"Restore Fatigue",
-      "value":76,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":79,
-          "magnitudeMax":28,
-          "magnitudeMin":28
-        }]
-    },
-    "$custom_potion_72":{
-      "name":"Water Breathing",
-      "value":74,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":0,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":26,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_66":{
-      "name":"Drain Health",
-      "value":73,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":18,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":5,
-          "magnitudeMax":2,
-          "magnitudeMin":2
-        },{
-          "id":72,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":1,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_43":{
-      "name":"Fortify Attribute",
-      "value":58,
-      "weight":0.34,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":61,
-          "magnitudeMax":22,
-          "magnitudeMin":22
-        }]
-    },
-    "$custom_potion_52":{
-      "name":"Drain Fatigue",
-      "value":59,
-      "weight":0.34,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":8,
-          "magnitudeMax":3,
-          "magnitudeMin":3
-        }]
-    },
-    "$custom_potion_102":{
-      "name":"Restore Health",
-      "value":81,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":75,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":19,
-          "magnitudeMax":8,
-          "magnitudeMin":8
-        }]
-    },
-    "$custom_potion_101":{
-      "name":"Fortify Attribute",
-      "value":77,
-      "weight":0.75,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":80,
-          "magnitudeMax":28,
-          "magnitudeMin":28
-        }]
-    },
-    "$custom_potion_124":{
-      "name":"Restore Strength",
-      "value":81,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":85,
-          "magnitudeMax":31,
-          "magnitudeMin":31
-        }]
-    },
-    "$custom_potion_14":{
-      "name":"Drain Attribute",
-      "value":53,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":5,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":53,
-          "magnitudeMax":18,
-          "magnitudeMin":18
-        }]
-    },
-    "$custom_potion_121":{
-      "name":"Drain Attribute",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        }]
-    },
-    "$custom_potion_47":{
-      "name":"Drain Fatigue",
-      "value":58,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":8,
-          "magnitudeMax":3,
-          "magnitudeMin":3
-        }]
-    },
-    "$custom_potion_120":{
-      "name":"Restore Attribute",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":74,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":84,
-          "magnitudeMax":30,
-          "magnitudeMin":30
-        }]
-    },
-    "$custom_potion_112":{
-      "name":"Fortify Intelligence",
-      "value":82,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":86,
-          "magnitudeMax":31,
-          "magnitudeMin":31
-        }]
-    },
-    "$custom_potion_135":{
-      "name":"Drain Magicka",
-      "value":82,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":19,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":3,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_117":{
-      "name":"Drain Attribute",
-      "value":79,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        },{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
         }]
     },
     "$custom_potion_111":{
@@ -761,6 +900,25 @@
           "magnitudeMin":28
         }]
     },
+    "$custom_potion_163":{
+      "name":"Water Breathing",
+      "value":108,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
+      "script":"",
+      "effects":[{
+          "id":0,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":38,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
     "$custom_potion_20":{
       "name":"Drain Fatigue",
       "value":54,
@@ -809,23 +967,23 @@
           "magnitudeMin":7
         }]
     },
-    "$custom_potion_92":{
-      "name":"Drain Fatigue",
+    "$custom_potion_82":{
+      "name":"Restore Fatigue",
       "value":76,
-      "weight":0.2,
+      "weight":0.1,
       "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
       "script":"",
       "effects":[{
-          "id":20,
+          "id":77,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":11,
-          "magnitudeMax":4,
-          "magnitudeMin":4
+          "duration":79,
+          "magnitudeMax":28,
+          "magnitudeMin":28
         }]
     },
     "$custom_potion_81":{
@@ -847,23 +1005,89 @@
           "magnitudeMin":11
         }]
     },
-    "$custom_potion_114":{
-      "name":"Levitest",
-      "value":85,
-      "weight":0.1,
+    "$custom_potion_72":{
+      "name":"Water Breathing",
+      "value":74,
+      "weight":0.15,
       "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
       "script":"",
       "effects":[{
-          "id":10,
+          "id":0,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":32,
-          "magnitudeMax":13,
-          "magnitudeMin":13
+          "duration":26,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
+    "$custom_potion_66":{
+      "name":"Drain Health",
+      "value":73,
+      "weight":0.1,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
+      "script":"",
+      "effects":[{
+          "id":18,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":5,
+          "magnitudeMax":2,
+          "magnitudeMin":2
+        },{
+          "id":72,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":1,
+          "magnitudeMax":1,
+          "magnitudeMin":1
+        }]
+    },
+    "$custom_potion_166":{
+      "name":"Drain Fatigue",
+      "value":109,
+      "weight":0.6,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":20,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":9,
+          "magnitudeMax":3,
+          "magnitudeMin":3
+        }]
+    },
+    "$custom_potion_165":{
+      "name":"Drain Fatigue",
+      "value":108,
+      "weight":0.6,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_exclusive_01.dds",
+      "model":"m\\misc_potion_exclusive_01.nif",
+      "script":"",
+      "effects":[{
+          "id":20,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":9,
+          "magnitudeMax":3,
+          "magnitudeMin":3
         }]
     },
     "$custom_potion_99":{
@@ -885,80 +1109,42 @@
           "magnitudeMin":28
         }]
     },
-    "$custom_potion_63":{
-      "name":"Restore Fatigue",
-      "value":73,
-      "weight":0.75,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":76,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_113":{
-      "name":"Levitest",
-      "value":79,
+    "$custom_potion_164":{
+      "name":"Water Walking",
+      "value":108,
       "weight":0.1,
       "autoCalc":0,
       "icon":"m\\tx_potion_bargain_01.dds",
       "model":"m\\misc_potion_bargain_01.nif",
       "script":"",
       "effects":[{
-          "id":10,
+          "id":2,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":30,
-          "magnitudeMax":12,
-          "magnitudeMin":12
-        }]
-    },
-    "$custom_potion_137":{
-      "name":"Cure Poison",
-      "value":82,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":72,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":1,
+          "duration":38,
           "magnitudeMax":1,
           "magnitudeMin":1
         }]
     },
-    "$custom_potion_30":{
-      "name":"Drain Attribute",
-      "value":56,
-      "weight":0.15,
+    "$custom_potion_101":{
+      "name":"Fortify Attribute",
+      "value":77,
+      "weight":0.75,
       "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
+      "icon":"m\\tx_potion_fresh_01.dds",
+      "model":"m\\misc_potion_fresh_01.nif",
       "script":"",
       "effects":[{
-          "id":17,
-          "attribute":3,
+          "id":79,
+          "attribute":1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
+          "duration":80,
+          "magnitudeMax":28,
+          "magnitudeMin":28
         }]
     },
     "$custom_potion_53":{
@@ -999,136 +1185,51 @@
           "magnitudeMin":2
         }]
     },
-    "$custom_potion_75":{
-      "name":"Water Walking",
-      "value":75,
-      "weight":0.34,
+    "$custom_potion_161":{
+      "name":"Light",
+      "value":108,
+      "weight":0.1,
       "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
       "script":"",
       "effects":[{
-          "id":2,
+          "id":41,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":27,
-          "magnitudeMax":1,
-          "magnitudeMin":1
+          "duration":546,
+          "magnitudeMax":184,
+          "magnitudeMin":184
         }]
     },
-    "$custom_potion_125":{
-      "name":"Cure Poison",
-      "value":81,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":72,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":1,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_97":{
+    "$custom_potion_121":{
       "name":"Drain Attribute",
-      "value":77,
-      "weight":0.15,
+      "value":80,
+      "weight":0.1,
       "autoCalc":0,
       "icon":"m\\tx_potion_quality_01.dds",
       "model":"m\\misc_potion_quality_01.nif",
       "script":"",
       "effects":[{
           "id":17,
-          "attribute":6,
+          "attribute":7,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        },{
-          "id":74,
-          "attribute":3,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":80,
-          "magnitudeMax":28,
-          "magnitudeMin":28
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
         }]
     },
-    "$custom_potion_98":{
-      "name":"Drain Attribute",
-      "value":77,
-      "weight":0.15,
+    "$custom_potion_160":{
+      "name":"Arcane Restore Fatigue",
+      "value":108,
+      "weight":0.12,
       "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_71":{
-      "name":"Fortify Attribute",
-      "value":74,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":77,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_73":{
-      "name":"Telekinesis",
-      "value":74,
-      "weight":0.6,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":59,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":77,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_50":{
-      "name":"Restore Health",
-      "value":59,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
+      "icon":"m\\tx_potion_quality_01.dds",
+      "model":"m\\misc_potion_quality_01.nif",
       "script":"",
       "effects":[{
           "id":75,
@@ -1136,9 +1237,64 @@
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":14,
-          "magnitudeMax":6,
-          "magnitudeMin":6
+          "duration":25,
+          "magnitudeMax":11,
+          "magnitudeMin":11
+        },{
+          "id":77,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":112,
+          "magnitudeMax":40,
+          "magnitudeMin":40
+        },{
+          "id":81,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":112,
+          "magnitudeMax":40,
+          "magnitudeMin":40
+        }]
+    },
+    "$custom_potion_158":{
+      "name":"Arcane Restore Fatigue",
+      "value":106,
+      "weight":0.32,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_bargain_01.dds",
+      "model":"m\\misc_potion_bargain_01.nif",
+      "script":"",
+      "effects":[{
+          "id":75,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":25,
+          "magnitudeMax":11,
+          "magnitudeMin":11
+        },{
+          "id":77,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":111,
+          "magnitudeMax":39,
+          "magnitudeMin":39
+        },{
+          "id":81,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":111,
+          "magnitudeMax":39,
+          "magnitudeMin":39
         }]
     },
     "$custom_potion_13":{
@@ -1179,25 +1335,6 @@
           "magnitudeMin":1
         }]
     },
-    "$custom_potion_17":{
-      "name":"Levitate",
-      "value":54,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":10,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        }]
-    },
     "$custom_potion_133":{
       "name":"Drain Fatigue",
       "value":82,
@@ -1227,42 +1364,61 @@
       "script":"",
       "effects":[]
     },
-    "$custom_potion_48":{
-      "name":"Drain Fatigue",
-      "value":59,
-      "weight":0.6,
+    "$custom_potion_124":{
+      "name":"Restore Strength",
+      "value":81,
+      "weight":0.1,
       "autoCalc":0,
       "icon":"m\\tx_potion_exclusive_01.dds",
       "model":"m\\misc_potion_exclusive_01.nif",
       "script":"",
       "effects":[{
-          "id":20,
-          "attribute":-1,
+          "id":74,
+          "attribute":0,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":8,
-          "magnitudeMax":3,
-          "magnitudeMin":3
+          "duration":85,
+          "magnitudeMax":31,
+          "magnitudeMin":31
         }]
     },
-    "$custom_potion_93":{
-      "name":"Drain Fatigue",
-      "value":76,
-      "weight":0.34,
+    "$custom_potion_14":{
+      "name":"Drain Attribute",
+      "value":53,
+      "weight":0.1,
       "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
       "script":"",
       "effects":[{
-          "id":20,
+          "id":17,
+          "attribute":5,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":53,
+          "magnitudeMax":18,
+          "magnitudeMin":18
+        }]
+    },
+    "$custom_potion_125":{
+      "name":"Cure Poison",
+      "value":81,
+      "weight":0.55,
+      "autoCalc":0,
+      "icon":"m\\tx_potion_bargain_01.dds",
+      "model":"m\\misc_potion_bargain_01.nif",
+      "script":"",
+      "effects":[{
+          "id":72,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":11,
-          "magnitudeMax":4,
-          "magnitudeMin":4
+          "duration":1,
+          "magnitudeMax":1,
+          "magnitudeMin":1
         }]
     },
     "$custom_potion_84":{
@@ -1312,32 +1468,32 @@
           "magnitudeMin":22
         }]
     },
-    "$custom_potion_130":{
-      "name":"Restore Fatigue",
-      "value":82,
-      "weight":0.55,
+    "$custom_potion_117":{
+      "name":"Drain Attribute",
+      "value":79,
+      "weight":0.3,
       "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
+      "icon":"m\\tx_potion_standard_01.dds",
+      "model":"m\\misc_potion_standard_01.nif",
       "script":"",
       "effects":[{
-          "id":77,
-          "attribute":-1,
+          "id":17,
+          "attribute":0,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":86,
-          "magnitudeMax":31,
-          "magnitudeMin":31
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
         },{
-          "id":82,
-          "attribute":-1,
+          "id":17,
+          "attribute":4,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":169,
-          "magnitudeMax":59,
-          "magnitudeMin":59
+          "duration":13,
+          "magnitudeMax":4,
+          "magnitudeMin":4
         }]
     },
     "$custom_potion_10":{
@@ -1359,25 +1515,6 @@
           "magnitudeMin":9
         }]
     },
-    "$custom_potion_32":{
-      "name":"Drain Attribute",
-      "value":56,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":5,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
     "$custom_potion_68":{
       "name":"Drain Attribute",
       "value":73,
@@ -1395,25 +1532,6 @@
           "duration":21,
           "magnitudeMax":7,
           "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_38":{
-      "name":"Drain Attribute",
-      "value":57,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":2,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
         }]
     },
     "$custom_potion_12":{
@@ -1473,42 +1591,51 @@
           "magnitudeMin":7
         }]
     },
-    "$custom_potion_28":{
-      "name":"Feather",
-      "value":56,
+    "$custom_potion_191":{
+      "name":"Fire Shield",
+      "value":111,
       "weight":0.1,
       "autoCalc":0,
       "icon":"m\\tx_potion_bargain_01.dds",
       "model":"m\\misc_potion_bargain_01.nif",
       "script":"",
       "effects":[{
-          "id":8,
+          "id":4,
+          "attribute":-1,
+          "skill":-1,
+          "rangeType":0,
+          "area":0,
+          "duration":41,
+          "magnitudeMax":16,
+          "magnitudeMin":16
+        },{
+          "id":91,
           "attribute":-1,
           "skill":-1,
           "rangeType":0,
           "area":0,
           "duration":59,
-          "magnitudeMax":21,
-          "magnitudeMin":21
+          "magnitudeMax":22,
+          "magnitudeMin":22
         }]
     },
-    "$custom_potion_105":{
-      "name":"Restore Fatigue",
-      "value":78,
-      "weight":0.75,
+    "$custom_potion_43":{
+      "name":"Fortify Attribute",
+      "value":58,
+      "weight":0.34,
       "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
+      "icon":"m\\tx_potion_cheap_01.dds",
+      "model":"m\\misc_potion_cheap_01.nif",
       "script":"",
       "effects":[{
-          "id":77,
-          "attribute":-1,
+          "id":79,
+          "attribute":0,
           "skill":-1,
           "rangeType":0,
           "area":0,
-          "duration":81,
-          "magnitudeMax":29,
-          "magnitudeMin":29
+          "duration":61,
+          "magnitudeMax":22,
+          "magnitudeMin":22
         }]
     },
     "$custom_potion_8":{
@@ -1548,1086 +1675,92 @@
           "magnitudeMax":28,
           "magnitudeMin":28
         }]
-    },
-    "$custom_potion_62":{
-      "name":"Restore Health",
-      "value":73,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":75,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":17,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_85":{
-      "name":"Fortify Strength",
-      "value":76,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":79,
-          "magnitudeMax":28,
-          "magnitudeMin":28
-        }]
-    },
-    "$custom_potion_15":{
-      "name":"Drain Attribute",
-      "value":53,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":53,
-          "magnitudeMax":18,
-          "magnitudeMin":18
-        }]
-    },
-    "$custom_potion_19":{
-      "name":"Drain Fatigue",
-      "value":54,
-      "weight":0.75,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":27,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_67":{
-      "name":"Drain Attribute",
-      "value":73,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":21,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_21":{
-      "name":"Drain Attribute",
-      "value":54,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_18":{
-      "name":"Drain Fatigue",
-      "value":54,
-      "weight":0.34,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":27,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        },{
-          "id":27,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":6,
-          "magnitudeMax":2,
-          "magnitudeMin":2
-        }]
-    },
-    "$custom_potion_33":{
-      "name":"Drain Magicka",
-      "value":56,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":19,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":4,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_96":{
-      "name":"Drain Attribute",
-      "value":77,
-      "weight":0.2,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_24":{
-      "name":"Drain Attribute",
-      "value":55,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_9":{
-      "name":"Drain Fatigue",
-      "value":51,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":26,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_55":{
-      "name":"Restore Fatigue",
-      "value":72,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":75,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_31":{
-      "name":"Resist Fire",
-      "value":56,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":90,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":31,
-          "magnitudeMax":12,
-          "magnitudeMin":12
-        }]
-    },
-    "$custom_potion_36":{
-      "name":"Fire Shield",
-      "value":57,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":4,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_6":{
-      "name":"Drain Attribute",
-      "value":50,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":50,
-          "magnitudeMax":17,
-          "magnitudeMin":17
-        }]
-    },
-    "$custom_potion_94":{
-      "name":"Drain Attribute",
-      "value":76,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_29":{
-      "name":"Drain Attribute",
-      "value":56,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_109":{
-      "name":"Uber-Restore",
-      "value":79,
-      "weight":0.12,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":75,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":19,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        },{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":83,
-          "magnitudeMax":30,
-          "magnitudeMin":30
-        },{
-          "id":82,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":162,
-          "magnitudeMax":56,
-          "magnitudeMin":56
-        }]
-    },
-    "$custom_potion_146":{
-      "name":"Drain Attribute",
-      "value":106,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":3,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        }]
-    },
-    "$custom_potion_138":{
-      "name":"Restore Magicka",
-      "value":82,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":76,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":20,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_23":{
-      "name":"Drain Attribute",
-      "value":54,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_131":{
-      "name":"Restore Health",
-      "value":82,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":75,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":20,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_35":{
-      "name":"Resist Common Disease",
-      "value":57,
-      "weight":0.75,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":94,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":31,
-          "magnitudeMax":12,
-          "magnitudeMin":12
-        }]
-    },
-    "$custom_potion_59":{
-      "name":"Drain Attribute",
-      "value":72,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":21,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        }]
-    },
-    "$custom_potion_139":{
-      "name":"Restore Magicka",
-      "value":82,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":76,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":20,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_123":{
-      "name":"Restore Strength",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":84,
-          "magnitudeMax":30,
-          "magnitudeMin":30
-        }]
-    },
-    "$custom_potion_91":{
-      "name":"Drain Fatigue",
-      "value":76,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":11,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        }]
-    },
-    "$custom_potion_83":{
-      "name":"Drain Attribute",
-      "value":76,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        },{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":79,
-          "magnitudeMax":28,
-          "magnitudeMin":28
-        }]
-    },
-    "$custom_potion_79":{
-      "name":"Restore Health",
-      "value":75,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":75,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":18,
-          "magnitudeMax":8,
-          "magnitudeMin":8
-        }]
-    },
-    "$custom_potion_44":{
-      "name":"Fortify Attribute",
-      "value":58,
-      "weight":0.34,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":61,
-          "magnitudeMax":22,
-          "magnitudeMin":22
-        }]
-    },
-    "$custom_potion_152":{
-      "name":"Fortify Attribute",
-      "value":124,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":128,
-          "magnitudeMax":45,
-          "magnitudeMin":45
-        }]
-    },
-    "$custom_potion_42":{
-      "name":"Levitate",
-      "value":58,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_fresh_01.dds",
-      "model":"m\\misc_potion_fresh_01.nif",
-      "script":"",
-      "effects":[{
-          "id":10,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":22,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_141":{
-      "name":"Drain Attribute",
-      "value":84,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_standard_01.dds",
-      "model":"m\\misc_potion_standard_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":3,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":14,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_150":{
-      "name":"Fortify Attribute",
-      "value":111,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":115,
-          "magnitudeMax":41,
-          "magnitudeMin":41
-        }]
-    },
-    "$custom_potion_5":{
-      "name":"Drain Attribute",
-      "value":50,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":50,
-          "magnitudeMax":17,
-          "magnitudeMin":17
-        }]
-    },
-    "$custom_potion_49":{
-      "name":"Drain Attribute",
-      "value":59,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":17,
-          "magnitudeMax":6,
-          "magnitudeMin":6
-        }]
-    },
-    "$custom_potion_145":{
-      "name":"Restore Magicka",
-      "value":106,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":76,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":25,
-          "magnitudeMax":11,
-          "magnitudeMin":11
-        }]
-    },
-    "$custom_potion_69":{
-      "name":"Paralyze",
-      "value":73,
-      "weight":1.5,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":45,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":1,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_61":{
-      "name":"Fortify Strength",
-      "value":72,
-      "weight":0.34,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":79,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":75,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_70":{
-      "name":"Restore Fatigue",
-      "value":73,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":76,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_119":{
-      "name":"Drain Attribute",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_exclusive_01.dds",
-      "model":"m\\misc_potion_exclusive_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":4,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        }]
-    },
-    "$custom_potion_118":{
-      "name":"Drain Attribute",
-      "value":80,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":13,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        }]
-    },
-    "$custom_potion_37":{
-      "name":"Detect Enchantment",
-      "value":57,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":65,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":60,
-          "magnitudeMax":22,
-          "magnitudeMin":22
-        }]
-    },
-    "$custom_potion_26":{
-      "name":"Drain Attribute",
-      "value":55,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_140":{
-      "name":"Water Walking",
-      "value":84,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":2,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":30,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_25":{
-      "name":"Levitate",
-      "value":55,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":10,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":21,
-          "magnitudeMax":9,
-          "magnitudeMin":9
-        }]
-    },
-    "$custom_potion_27":{
-      "name":"Drain Attribute",
-      "value":56,
-      "weight":0.15,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":6,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_16":{
-      "name":"Cure Poison",
-      "value":53,
-      "weight":0.55,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":72,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":1,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        }]
-    },
-    "$custom_potion_76":{
-      "name":"Water Walking",
-      "value":75,
-      "weight":0.3,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_cheap_01.dds",
-      "model":"m\\misc_potion_cheap_01.nif",
-      "script":"",
-      "effects":[{
-          "id":2,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":27,
-          "magnitudeMax":1,
-          "magnitudeMin":1
-        },{
-          "id":20,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":11,
-          "magnitudeMax":4,
-          "magnitudeMin":4
-        }]
-    },
-    "$custom_potion_40":{
-      "name":"Drain Attribute",
-      "value":57,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_bargain_01.dds",
-      "model":"m\\misc_potion_bargain_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":16,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        },{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":60,
-          "magnitudeMax":22,
-          "magnitudeMin":22
-        }]
-    },
-    "$custom_potion_136":{
-      "name":"Drain Attribute",
-      "value":82,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":2,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":14,
-          "magnitudeMax":5,
-          "magnitudeMin":5
-        }]
-    },
-    "$custom_potion_58":{
-      "name":"Drain Attribute",
-      "value":72,
-      "weight":0.1,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":17,
-          "attribute":7,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":21,
-          "magnitudeMax":7,
-          "magnitudeMin":7
-        },{
-          "id":74,
-          "attribute":0,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":75,
-          "magnitudeMax":27,
-          "magnitudeMin":27
-        }]
-    },
-    "$custom_potion_104":{
-      "name":"Restore Fatigue",
-      "value":77,
-      "weight":0.75,
-      "autoCalc":0,
-      "icon":"m\\tx_potion_quality_01.dds",
-      "model":"m\\misc_potion_quality_01.nif",
-      "script":"",
-      "effects":[{
-          "id":77,
-          "attribute":-1,
-          "skill":-1,
-          "rangeType":0,
-          "area":0,
-          "duration":80,
-          "magnitudeMax":28,
-          "magnitudeMin":28
-        }]
     }
   },
   "recordLinks":{
-    "$custom_potion_134":{
+    "$custom_potion_85":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_15":{
+      "players":[],
+      "cells":["Balmora, Ra'Virr: Trader"]
+    },
+    "$custom_potion_67":{
+      "players":[],
+      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
+    },
+    "$custom_potion_9":{
+      "players":[],
+      "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
+    },
+    "$custom_potion_6":{
+      "players":[],
+      "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
+    },
+    "$custom_potion_109":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_59":{
+      "players":[],
+      "cells":["Caldera, Verick Gemain: Trader"]
+    },
+    "$custom_potion_123":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_83":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_44":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_42":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_150":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_5":{
+      "players":[],
+      "cells":["Balmora, Ra'Virr: Trader"]
+    },
+    "$custom_potion_61":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_119":{
+      "players":[],
+      "cells":["Vivec, Hlaalu Alchemist"]
+    },
+    "$custom_potion_118":{
+      "players":[],
+      "cells":["Vivec, Hlaalu Alchemist"]
+    },
+    "$custom_potion_140":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_16":{
+      "players":[],
+      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
+    },
+    "$custom_potion_76":{
+      "players":[null,"Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_136":{
       "players":[],
       "cells":["Vivec, Hlaalu General Goods"]
     },
-    "$custom_potion_95":{
+    "$custom_potion_58":{
       "players":[],
-      "cells":["Maar Gan, Andus Tradehouse"]
+      "cells":["Caldera, Verick Gemain: Trader"]
+    },
+    "$custom_potion_134":{
+      "players":[],
+      "cells":["Vivec, Hlaalu General Goods"]
     },
     "$custom_potion_132":{
       "players":[],
@@ -2637,35 +1770,38 @@
       "players":["Fidgug"],
       "cells":[]
     },
-    "$custom_potion_148":{
-      "players":[],
-      "cells":["Ald-ruhn, Guild of Mages"]
+    "$custom_potion_194":{
+      "players":["Benoit"]
     },
-    "$custom_potion_147":{
-      "players":[],
-      "cells":["Ald-ruhn, Guild of Mages"]
+    "$custom_potion_122":{
+      "players":["Benoit"]
     },
-    "$custom_potion_144":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_176":{
+      "players":["Benoit"]
     },
-    "$custom_potion_80":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_189":{
+      "players":["Benoit"]
+    },
+    "$custom_potion_188":{
+      "players":["Fidgug"],
+      "cells":[]
     },
     "$custom_potion_86":{
       "players":["Fidgug"],
       "cells":[]
     },
+    "$custom_potion_185":{
+      "players":["Benoit"]
+    },
     "$custom_potion_127":{
+      "players":["Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_181":{
       "players":["Benoit"]
     },
-    "$custom_potion_106":{
+    "$custom_potion_159":{
       "players":["Benoit"]
-    },
-    "$custom_potion_143":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
     },
     "$custom_potion_11":{
       "players":[],
@@ -2675,78 +1811,9 @@
       "players":[],
       "cells":["Balmora, Ra'Virr: Trader"]
     },
-    "$custom_potion_103":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
     "$custom_potion_57":{
       "players":[],
       "cells":["Caldera, Verick Gemain: Trader"]
-    },
-    "$custom_potion_122":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_128":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_82":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_72":{
-      "players":[null,"Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_66":{
-      "players":[],
-      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
-    },
-    "$custom_potion_43":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_52":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_102":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_101":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_124":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_14":{
-      "players":[],
-      "cells":["Balmora, Ra'Virr: Trader"]
-    },
-    "$custom_potion_121":{
-      "players":[],
-      "cells":["Vivec, Hlaalu Alchemist"]
-    },
-    "$custom_potion_47":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_120":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_112":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_135":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_117":{
-      "players":[],
-      "cells":["Vivec, Hlaalu Alchemist"]
     },
     "$custom_potion_111":{
       "players":["Benoit"]
@@ -2763,6 +1830,9 @@
       "players":["Fidgug"],
       "cells":[]
     },
+    "$custom_potion_163":{
+      "players":["Benoit"]
+    },
     "$custom_potion_20":{
       "players":["Benoit"]
     },
@@ -2773,37 +1843,38 @@
       "players":[],
       "cells":["Caldera, Verick Gemain: Trader"]
     },
-    "$custom_potion_92":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
+    "$custom_potion_82":{
+      "players":["Benoit"]
     },
     "$custom_potion_81":{
       "players":["Benoit"],
       "cells":[]
     },
-    "$custom_potion_114":{
+    "$custom_potion_72":{
+      "players":[null,"Fidgug"],
+      "cells":[]
+    },
+    "$custom_potion_66":{
       "players":[],
-      "cells":["Vivec, Guild of Mages"]
+      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
+    },
+    "$custom_potion_166":{
+      "players":[],
+      "cells":["Druscashti, Upper Level"]
+    },
+    "$custom_potion_165":{
+      "players":[],
+      "cells":["Druscashti, Upper Level"]
     },
     "$custom_potion_99":{
       "players":[],
       "cells":["Vas, Tower"]
     },
-    "$custom_potion_63":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_164":{
+      "players":["Benoit"]
     },
-    "$custom_potion_113":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_137":{
-      "players":["Benoit"],
-      "cells":[]
-    },
-    "$custom_potion_30":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_101":{
+      "players":["Benoit"]
     },
     "$custom_potion_53":{
       "players":["Benoit"]
@@ -2812,33 +1883,18 @@
       "players":[],
       "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
     },
-    "$custom_potion_75":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_161":{
+      "players":["Benoit"]
     },
-    "$custom_potion_125":{
+    "$custom_potion_121":{
       "players":[],
-      "cells":["Vivec, Hlaalu General Goods"]
+      "cells":["Vivec, Hlaalu Alchemist"]
     },
-    "$custom_potion_97":{
-      "players":[],
-      "cells":["Maar Gan, Andus Tradehouse"]
+    "$custom_potion_160":{
+      "players":["Benoit"]
     },
-    "$custom_potion_98":{
-      "players":[],
-      "cells":["Maar Gan, Andus Tradehouse"]
-    },
-    "$custom_potion_71":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_73":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_50":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_158":{
+      "players":["Benoit"]
     },
     "$custom_potion_13":{
       "players":[],
@@ -2848,10 +1904,6 @@
       "players":[],
       "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
     },
-    "$custom_potion_17":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
     "$custom_potion_133":{
       "players":[],
       "cells":["Vivec, Hlaalu Alchemist"]
@@ -2859,13 +1911,17 @@
     "$custom_potion_1":{
       "players":["Benoit"]
     },
-    "$custom_potion_48":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_124":{
+      "players":["Fidgug"],
+      "cells":[]
     },
-    "$custom_potion_93":{
+    "$custom_potion_14":{
       "players":[],
-      "cells":["Vivec, Guild of Mages"]
+      "cells":["Balmora, Ra'Virr: Trader"]
+    },
+    "$custom_potion_125":{
+      "players":[],
+      "cells":["Vivec, Hlaalu General Goods"]
     },
     "$custom_potion_84":{
       "players":["Benoit"]
@@ -2874,25 +1930,17 @@
       "players":[],
       "cells":["Caldera, Verick Gemain: Trader"]
     },
-    "$custom_potion_130":{
+    "$custom_potion_117":{
       "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+      "cells":["Vivec, Hlaalu Alchemist"]
     },
     "$custom_potion_10":{
       "players":[],
       "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
     },
-    "$custom_potion_32":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
     "$custom_potion_68":{
       "players":[],
       "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
-    },
-    "$custom_potion_38":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
     },
     "$custom_potion_12":{
       "players":[],
@@ -2905,13 +1953,12 @@
       "players":[],
       "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
     },
-    "$custom_potion_28":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_191":{
+      "players":["Benoit"]
     },
-    "$custom_potion_105":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
+    "$custom_potion_43":{
+      "players":["Fidgug"],
+      "cells":[]
     },
     "$custom_potion_8":{
       "players":[],
@@ -2919,210 +1966,6 @@
     },
     "$custom_potion_90":{
       "players":["Benoit"]
-    },
-    "$custom_potion_62":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_85":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_15":{
-      "players":[],
-      "cells":["Balmora, Ra'Virr: Trader"]
-    },
-    "$custom_potion_19":{
-      "players":[],
-      "cells":["Balmora, Guild of Mages"]
-    },
-    "$custom_potion_67":{
-      "players":[],
-      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
-    },
-    "$custom_potion_21":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_18":{
-      "players":[],
-      "cells":["Balmora, Guild of Mages"]
-    },
-    "$custom_potion_33":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_96":{
-      "players":[],
-      "cells":["Maar Gan, Andus Tradehouse"]
-    },
-    "$custom_potion_24":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_9":{
-      "players":[],
-      "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
-    },
-    "$custom_potion_55":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_31":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_36":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_6":{
-      "players":[],
-      "cells":["Balmora, Dralasa Nithryon: Pawnbroker"]
-    },
-    "$custom_potion_94":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_29":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_109":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_146":{
-      "players":[],
-      "cells":["Ald-ruhn, Guild of Mages"]
-    },
-    "$custom_potion_138":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_23":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_131":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_35":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_59":{
-      "players":[],
-      "cells":["Caldera, Verick Gemain: Trader"]
-    },
-    "$custom_potion_139":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_123":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_91":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_83":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_79":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_44":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_152":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_42":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_141":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_150":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_5":{
-      "players":[],
-      "cells":["Balmora, Ra'Virr: Trader"]
-    },
-    "$custom_potion_49":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_145":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_69":{
-      "players":[],
-      "cells":["Vivec, Guild of Mages"]
-    },
-    "$custom_potion_61":{
-      "players":["Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_70":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_119":{
-      "players":[],
-      "cells":["Vivec, Hlaalu Alchemist"]
-    },
-    "$custom_potion_118":{
-      "players":[],
-      "cells":["Vivec, Hlaalu Alchemist"]
-    },
-    "$custom_potion_37":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_26":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_140":{
-      "players":["Benoit"]
-    },
-    "$custom_potion_25":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_27":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_16":{
-      "players":[],
-      "cells":["Ald-ruhn, Tiras Sadus: General Merchandise"]
-    },
-    "$custom_potion_76":{
-      "players":[null,"Fidgug"],
-      "cells":[]
-    },
-    "$custom_potion_40":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
-    },
-    "$custom_potion_136":{
-      "players":[],
-      "cells":["Vivec, Hlaalu General Goods"]
-    },
-    "$custom_potion_58":{
-      "players":[],
-      "cells":["Caldera, Verick Gemain: Trader"]
-    },
-    "$custom_potion_104":{
-      "players":[],
-      "cells":["Balmora, Nalcarya of White Haven: Fine Alchemist"]
     }
   },
   "unlinkedRecordsToCheck":[]

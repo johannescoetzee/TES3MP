@@ -26,11 +26,12 @@
     "creationTime":1716738149
   },
   "lastVisit":{
-    "Fidgug":1717181995,
-    "Benoit":1717181995
+    "Benoit":1719601117,
+    "Fidgug":1719601119
   },
   "recordLinks":[],
-  "objectData":[],
+  "objectData":{
+  },
   "loadState":{
     "hasFullActorList":true,
     "hasFullContainerData":true

@@ -26,110 +26,31 @@
     "creationTime":1717188839
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719598921,
+    "Fidgug":1719598919
   },
   "recordLinks":[],
   "objectData":{
-    "276638-0":{
-      "refId":"kanat assalatammis",
-      "location":{
-        "posX":-12896.390625,
-        "posY":111943.171875,
-        "posZ":1294.8322753906,
-        "rotX":0,
-        "rotZ":3.7831864356995,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":83,
-        "healthCurrent":83,
-        "magickaBase":92,
-        "magickaCurrent":92,
-        "fatigueCurrent":197,
-        "healthModified":83,
-        "magickaModified":92,
-        "fatigueModified":197,
-        "fatigueBase":197
-      },
-      "equipment":{
-        "7":{
-          "refId":"netch_leather_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_02_h",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"chitin spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"netch_leather_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02_h",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin spear",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "276637-0":{
       "refId":"nirait shin-ilu",
       "location":{
-        "posX":-12353.5859375,
-        "posY":111773.640625,
-        "posZ":1474.2159423828,
-        "rotX":0,
-        "rotZ":3.7831857204437,
-        "rotY":0
+        "posX":-12434.974609375,
+        "posY":111677.0859375,
+        "posZ":1434.7000732422,
+        "rotX":0.43249848484993,
+        "rotY":0,
+        "rotZ":-1.8376758098602
       },
       "stats":{
-        "healthBase":88,
-        "healthCurrent":88,
-        "magickaBase":90,
         "magickaCurrent":90,
+        "fatigueBase":205,
         "fatigueCurrent":205,
         "healthModified":88,
         "magickaModified":90,
         "fatigueModified":205,
-        "fatigueBase":205
+        "healthBase":88,
+        "healthCurrent":88,
+        "magickaBase":90
       },
       "equipment":{
         "1":{
@@ -198,10 +119,89 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "276638-0":{
+      "refId":"kanat assalatammis",
+      "location":{
+        "posX":-12833.07421875,
+        "posY":112140.9375,
+        "posZ":1338.8657226563,
+        "rotX":0.30167254805565,
+        "rotY":0,
+        "rotZ":-2.2918226718903
+      },
+      "stats":{
+        "magickaCurrent":92,
+        "fatigueBase":197,
+        "fatigueCurrent":197,
+        "healthModified":83,
+        "magickaModified":92,
+        "fatigueModified":197,
+        "healthBase":83,
+        "healthCurrent":83,
+        "magickaBase":92
+      },
+      "equipment":{
+        "7":{
+          "refId":"netch_leather_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_02_h",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"chitin spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"netch_leather_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02_h",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin spear",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

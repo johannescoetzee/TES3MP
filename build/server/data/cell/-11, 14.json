@@ -26,77 +26,77 @@
     "creationTime":1716738706
   },
   "lastVisit":{
-    "Benoit":1717183505,
-    "Fidgug":1717180886
+    "Benoit":1719603439,
+    "Fidgug":1719603427
   },
   "recordLinks":[],
   "objectData":{
     "0-655":{
       "refId":"scrib diseased",
       "location":{
-        "posX":-87783.21875,
-        "posY":121021.4609375,
-        "posZ":1227.7106933594,
-        "rotX":-0.081041403114796,
-        "rotZ":2.4784018993378,
-        "rotY":0
+        "posX":-88225.4375,
+        "posY":120414.953125,
+        "posZ":1521.3394775391,
+        "rotX":-0.04670936986804,
+        "rotY":0,
+        "rotZ":0.26746940612793
       },
       "stats":{
         "magickaCurrent":12,
         "fatigueBase":66,
         "fatigueCurrent":66,
-        "fatigueModified":66,
-        "magickaBase":12,
         "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":66,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12
       },
       "inventory":[]
     },
     "0-657":{
       "refId":"scrib",
       "location":{
-        "posX":-85273.953125,
-        "posY":120133.65625,
-        "posZ":942.96484375,
-        "rotX":0.17115071415901,
-        "rotZ":-0.20211505889893,
-        "rotY":0
+        "posX":-85258.984375,
+        "posY":120046.953125,
+        "posZ":959.82336425781,
+        "rotX":0.17898873984814,
+        "rotY":0,
+        "rotZ":-0.19470763206482
       },
       "stats":{
         "magickaCurrent":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
         "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaModified":12
+        "magickaBase":12
       },
       "inventory":[]
     },
     "268210-0":{
       "refId":"rawia ashirbibi",
       "location":{
-        "posX":-87764.484375,
-        "posY":119182.859375,
-        "posZ":1584.1079101563,
-        "rotX":0,
-        "rotZ":4.4831857681274,
-        "rotY":0
+        "posX":-87595.734375,
+        "posY":119620.9375,
+        "posZ":1549.9677734375,
+        "rotX":-0.063866958022118,
+        "rotY":0,
+        "rotZ":0.37202119827271
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":206,
         "fatigueCurrent":206,
-        "fatigueModified":206,
-        "magickaBase":100,
         "healthModified":70,
+        "magickaModified":100,
+        "fatigueModified":206,
         "healthBase":70,
         "healthCurrent":70,
-        "magickaModified":100
+        "magickaBase":100
       },
       "equipment":{
         "7":{
@@ -168,23 +168,23 @@
     "268211-0":{
       "refId":"kund assarnibani",
       "location":{
-        "posX":-88299.5546875,
-        "posY":118180.90625,
-        "posZ":1659.2211914063,
-        "rotX":0,
-        "rotZ":4.1831855773926,
-        "rotY":0
+        "posX":-88155.15625,
+        "posY":117950.1484375,
+        "posZ":1638.4180908203,
+        "rotX":-0.10487215220928,
+        "rotY":0,
+        "rotZ":-2.8764016628265
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":226,
         "fatigueCurrent":226,
-        "fatigueModified":226,
-        "magickaBase":100,
         "healthModified":113,
+        "magickaModified":100,
+        "fatigueModified":226,
         "healthBase":113,
         "healthCurrent":113,
-        "magickaModified":100
+        "magickaBase":100
       },
       "equipment":{
         "1":{
@@ -286,20 +286,20 @@
     "0-656":{
       "refId":"netch_bull",
       "location":{
-        "posX":-89563.015625,
-        "posY":115188.9375,
-        "posZ":890.0908203125,
-        "rotX":0.0021224804222584,
-        "rotZ":1.3093249797821,
-        "rotY":0
+        "posX":-89003.484375,
+        "posY":114931.28125,
+        "posZ":920.20690917969,
+        "rotX":0.014647968113422,
+        "rotY":0,
+        "rotZ":-2.4135649204254
       },
       "stats":{
         "magickaCurrent":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "healthModified":45,
         "magickaModified":100,
         "fatigueModified":400,
-        "healthModified":45,
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":100

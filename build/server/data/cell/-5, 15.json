@@ -1,68 +1,39 @@
 {
   "packets":{
-    "actorList":["0-588"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-588"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-588"],
+    "position":[],
     "scale":[],
-    "spawn":["0-588"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-588"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716737918,
-    "description":"-5, 15"
+    "description":"-5, 15",
+    "creationTime":1716737918
   },
   "lastVisit":{
-    "Fidgug":1716738262,
-    "Benoit":1716738258
+    "Benoit":1719600200,
+    "Fidgug":1719600198
   },
   "recordLinks":[],
   "objectData":{
-    "0-588":{
-      "refId":"cliff racer",
-      "location":{
-        "rotZ":1.3438608646393,
-        "rotY":0,
-        "posX":-34013.0859375,
-        "posY":130106.5078125,
-        "posZ":2007.3116455078,
-        "rotX":0.00084732845425606
-      },
-      "stats":{
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

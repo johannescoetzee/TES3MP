@@ -28,6 +28,10 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "18047-0":{
+      "refId":"sorian",
+      "state":false
+    },
     "18048-0":{
       "refId":"mus roscius",
       "state":false
@@ -43,14 +47,10 @@
     "18046-0":{
       "refId":"mol gro-shat",
       "state":false
-    },
-    "18047-0":{
-      "refId":"sorian",
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

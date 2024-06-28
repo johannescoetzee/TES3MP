@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-1047","0-1048","0-1049","0-1050","276644-0","276643-0"],
+    "actorList":["0-1047","0-1048","0-1049","0-1050","276644-0","276643-0","0-1051"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["276646-0","276647-0","276648-0","276643-0","276644-0","0-1047","0-1048","0-1049","0-1050"],
+    "container":["276646-0","276647-0","276648-0","276643-0","276644-0","0-1047","0-1048","0-1049","0-1050","0-1051"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["276644-0","276643-0"],
     "lock":[],
     "place":[],
-    "position":["276643-0","276644-0","0-1047","0-1048","0-1049","0-1050"],
+    "position":["276643-0","276644-0","0-1047","0-1048","0-1049","0-1050","0-1051"],
     "scale":[],
-    "spawn":["0-1047","0-1048","0-1049","0-1050"],
+    "spawn":["0-1047","0-1048","0-1049","0-1050","0-1051"],
     "state":[],
-    "statsDynamic":["276643-0","276644-0","0-1047","0-1048","0-1049","0-1050"],
+    "statsDynamic":["276643-0","276644-0","0-1047","0-1048","0-1049","0-1050","0-1051"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,54 +26,112 @@
     "creationTime":1717188839
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719598921,
+    "Fidgug":1719598919
   },
   "recordLinks":[],
   "objectData":{
-    "0-1049":{
-      "refId":"corprus_stalker",
+    "0-1047":{
+      "refId":"ash_slave",
       "location":{
-        "posX":-11240.197265625,
-        "posY":93951.625,
-        "posZ":3131.2646484375,
+        "posX":-9424.9189453125,
+        "posY":91604.0546875,
+        "posZ":4434.4057617188,
         "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
+        "magickaCurrent":124,
+        "fatigueBase":345,
+        "fatigueCurrent":345,
+        "healthModified":60,
+        "magickaModified":124,
+        "fatigueModified":345,
         "healthBase":60,
         "healthCurrent":60,
-        "magickaBase":50,
+        "magickaBase":124
+      },
+      "inventory":[{
+          "refId":"ingred_ash_salts_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1048":{
+      "refId":"corprus_stalker",
+      "location":{
+        "posX":-9216.087890625,
+        "posY":94175.671875,
+        "posZ":4464.935546875,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
         "magickaCurrent":50,
+        "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":60,
         "magickaModified":50,
         "fatigueModified":300,
-        "fatigueBase":300
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":50
+      },
+      "inventory":[{
+          "refId":"ingred_corprus_weepings_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1049":{
+      "refId":"corprus_stalker",
+      "location":{
+        "posX":-11324.81640625,
+        "posY":94004.859375,
+        "posZ":3153.966796875,
+        "rotX":-0.19649946689606,
+        "rotY":0,
+        "rotZ":-1.0282442569733
+      },
+      "stats":{
+        "magickaCurrent":50,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "healthModified":60,
+        "magickaModified":50,
+        "fatigueModified":300,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":50
       },
       "inventory":[]
     },
     "0-1050":{
       "refId":"cliff racer",
       "location":{
-        "posX":-14960.396484375,
-        "posY":90309.90625,
-        "posZ":3855.921875,
+        "posX":-14952.709960938,
+        "posY":90310.6484375,
+        "posZ":3847.3515625,
         "rotX":0.0087480703368783,
-        "rotZ":-1.6032230854034,
-        "rotY":0
+        "rotY":0,
+        "rotZ":-1.6032230854034
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
         "magickaCurrent":20,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":45,
         "magickaModified":20,
         "fatigueModified":400,
-        "fatigueBase":400
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -86,23 +144,23 @@
     "276644-0":{
       "refId":"dakin kuntarnammu",
       "location":{
-        "posX":-14968.8046875,
-        "posY":96717.0078125,
-        "posZ":1038.6733398438,
-        "rotX":0.65121215581894,
-        "rotZ":-1.2587907314301,
-        "rotY":0
+        "posX":-15138.458007813,
+        "posY":96669.234375,
+        "posZ":942.29626464844,
+        "rotX":-0.35531759262085,
+        "rotY":0,
+        "rotZ":1.2978694438934
       },
       "stats":{
-        "healthBase":96,
-        "healthCurrent":96,
-        "magickaBase":92,
         "magickaCurrent":92,
+        "fatigueBase":213,
         "fatigueCurrent":213,
         "healthModified":96,
         "magickaModified":92,
         "fatigueModified":213,
-        "fatigueBase":213
+        "healthBase":96,
+        "healthCurrent":96,
+        "magickaBase":92
       },
       "equipment":{
         "1":{
@@ -183,23 +241,23 @@
     "276643-0":{
       "refId":"zanat assarnuridan",
       "location":{
-        "posX":-15810.060546875,
-        "posY":96991.328125,
-        "posZ":744.73559570313,
-        "rotX":0.01707349345088,
-        "rotZ":1.5540654659271,
-        "rotY":0
+        "posX":-15901.466796875,
+        "posY":97153.2890625,
+        "posZ":772.10150146484,
+        "rotX":0.14034603536129,
+        "rotY":0,
+        "rotZ":2.0340540409088
       },
       "stats":{
-        "healthBase":90,
-        "healthCurrent":90,
-        "magickaBase":94,
         "magickaCurrent":94,
+        "fatigueBase":204,
         "fatigueCurrent":204,
         "healthModified":90,
         "magickaModified":94,
         "fatigueModified":204,
-        "fatigueBase":204
+        "healthBase":90,
+        "healthCurrent":90,
+        "magickaBase":94
       },
       "equipment":{
         "7":{
@@ -295,67 +353,32 @@
           "soul":""
         }]
     },
-    "0-1047":{
-      "refId":"ash_slave",
+    "0-1051":{
+      "refId":"cliff racer",
       "location":{
-        "posX":-9424.875,
-        "posY":91604.125,
-        "posZ":4434.4213867188,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posX":-10793.926757813,
+        "posY":97713.5859375,
+        "posZ":4813.8930664063,
+        "rotX":0.33284023404121,
+        "rotY":0,
+        "rotZ":2.3364565372467
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":122,
-        "magickaCurrent":122,
-        "fatigueCurrent":351,
-        "healthModified":60,
-        "magickaModified":122,
-        "fatigueModified":351,
-        "fatigueBase":351
+        "magickaCurrent":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
       },
-      "inventory":[{
-          "refId":"ingred_ash_salts_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1048":{
-      "refId":"corprus_stalker",
-      "location":{
-        "posX":-9216.087890625,
-        "posY":94175.671875,
-        "posZ":4464.935546875,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":50,
-        "magickaCurrent":50,
-        "fatigueCurrent":300,
-        "healthModified":60,
-        "magickaModified":50,
-        "fatigueModified":300,
-        "fatigueBase":300
-      },
-      "inventory":[{
-          "refId":"ingred_corprus_weepings_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -28,6 +28,14 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "480885-0":{
+      "refId":"hunger_az_02",
+      "state":false
+    },
+    "480883-0":{
+      "refId":"daedroth_az",
+      "state":false
+    },
     "480884-0":{
       "refId":"hunger_az_01",
       "state":false
@@ -39,18 +47,10 @@
     "480886-0":{
       "refId":"atronach_storm_az",
       "state":false
-    },
-    "480885-0":{
-      "refId":"hunger_az_02",
-      "state":false
-    },
-    "480883-0":{
-      "refId":"daedroth_az",
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

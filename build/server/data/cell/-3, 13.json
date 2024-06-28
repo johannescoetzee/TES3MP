@@ -22,38 +22,15 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1717188839,
-    "description":"-3, 13"
+    "description":"-3, 13",
+    "creationTime":1717188839
   },
   "lastVisit":{
-    "Benoit":1719595152,
-    "Fidgug":1719596697
+    "Benoit":1719599192,
+    "Fidgug":1719599191
   },
   "recordLinks":[],
   "objectData":{
-    "0-1046":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posX":-19478.091796875,
-        "posY":111675.0234375,
-        "posZ":5360.9462890625,
-        "rotX":0,
-        "rotZ":-1.7437961101532,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "fatigueCurrent":170,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":170,
-        "fatigueBase":170
-      },
-      "inventory":[]
-    },
     "300339-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[{
@@ -63,10 +40,33 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1046":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posX":-16581.712890625,
+        "posY":113994.453125,
+        "posZ":5360.9462890625,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":1.1106064319611
+      },
+      "stats":{
+        "magickaCurrent":20,
+        "fatigueBase":170,
+        "fatigueCurrent":170,
+        "healthModified":45,
+        "magickaModified":20,
+        "fatigueModified":170,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20
+      },
+      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

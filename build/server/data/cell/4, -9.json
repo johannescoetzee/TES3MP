@@ -42,15 +42,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
+        "magickaCurrent":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "magickaCurrent":10
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10
       },
       "inventory":[],
       "killer":{
@@ -69,15 +69,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
+        "magickaCurrent":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":15,
         "fatigueModified":300,
-        "magickaCurrent":15
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -100,6 +100,29 @@
     "459280-0":{
       "refId":"kollop_03_pearl",
       "inventory":[]
+    },
+    "297836-0":{
+      "refId":"dreamer_talker11",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
     },
     "460166-0":{
       "refId":"kollop_03_pearl",
@@ -158,33 +181,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "297836-0":{
-      "refId":"dreamer_talker11",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

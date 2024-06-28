@@ -18,51 +18,91 @@
     "statsDynamic":["276658-0","276659-0","276660-0"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1716737828,
-    "description":"-5, 14"
+    "description":"-5, 14",
+    "creationTime":1716737828
   },
   "lastVisit":{
-    "Fidgug":1716738232,
-    "Benoit":1716738226
+    "Benoit":1719599748,
+    "Fidgug":1719599742
   },
   "recordLinks":[],
   "objectData":{
+    "300484-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300486-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300487-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "300488-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "276658-0":{
       "refId":"shanit ashar-don",
       "location":{
-        "rotZ":0.36524844169617,
-        "rotY":0,
         "posX":-36163.8125,
         "posY":116544.5,
-        "posZ":1599.1123046875,
-        "rotX":0.22065129876137
+        "posZ":1599.1146240234,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
+        "magickaCurrent":96,
+        "fatigueBase":246,
+        "fatigueCurrent":221.35282897949,
         "healthModified":110,
         "magickaModified":96,
         "fatigueModified":246,
         "healthBase":110,
         "healthCurrent":0,
-        "magickaBase":96,
-        "magickaCurrent":96,
-        "fatigueBase":246,
-        "fatigueCurrent":221.35282897949
+        "magickaBase":96
       },
       "equipment":{
         "0":{
           "refId":"chitin helm",
           "count":1,
-          "charge":-1,
+          "charge":92,
           "enchantmentCharge":-1
         },
         "1":{
           "refId":"chitin cuirass",
           "count":1,
-          "charge":-1,
+          "charge":275,
           "enchantmentCharge":-1
         },
         "2":{
@@ -74,7 +114,7 @@
         "5":{
           "refId":"chitin guantlet - left",
           "count":1,
-          "charge":-1,
+          "charge":43,
           "enchantmentCharge":-1
         },
         "6":{
@@ -109,7 +149,7 @@
         },
         "18":{
           "refId":"chitin arrow",
-          "count":80,
+          "count":70,
           "charge":-1,
           "enchantmentCharge":-1
         }
@@ -186,26 +226,116 @@
       },
       "deathState":41
     },
+    "276660-0":{
+      "refId":"mamaea ularshanentus",
+      "location":{
+        "posX":-37707.42578125,
+        "posY":119689,
+        "posZ":1268.4757080078,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
+      },
+      "stats":{
+        "magickaCurrent":2,
+        "fatigueBase":218,
+        "fatigueCurrent":212.57086181641,
+        "healthModified":78,
+        "magickaModified":104,
+        "fatigueModified":218,
+        "healthBase":78,
+        "healthCurrent":0,
+        "magickaBase":104
+      },
+      "equipment":{
+        "7":{
+          "refId":"expensive_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"common_pants_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"expensive_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"expensive_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_shoes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_pants_01_u",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":318,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "spellsActive":[],
+      "deathState":42
+    },
     "276659-0":{
       "refId":"salmus kaushmamanu",
       "location":{
-        "rotZ":2.3889811038971,
-        "rotY":0,
         "posX":-37157.1640625,
         "posY":119395.078125,
-        "posZ":1358.3937988281,
-        "rotX":-0.010501950979233
+        "posZ":1358.3771972656,
+        "rotX":0,
+        "rotY":0,
+        "rotZ":0
       },
       "stats":{
+        "magickaCurrent":98,
+        "fatigueBase":243,
+        "fatigueCurrent":225.94288635254,
         "healthModified":125,
         "magickaModified":98,
         "fatigueModified":243,
         "healthBase":125,
         "healthCurrent":0,
-        "magickaBase":98,
-        "magickaCurrent":98,
-        "fatigueBase":243,
-        "fatigueCurrent":225.94288635254
+        "magickaBase":98
       },
       "equipment":{
         "0":{
@@ -217,7 +347,7 @@
         "1":{
           "refId":"netch_leather_boiled_cuirass",
           "count":1,
-          "charge":-1,
+          "charge":200,
           "enchantmentCharge":-1
         },
         "2":{
@@ -321,98 +451,8 @@
       "killer":{
         "playerName":"Fidgug"
       },
-      "deathState":40,
-      "spellsActive":[]
-    },
-    "276660-0":{
-      "refId":"mamaea ularshanentus",
-      "location":{
-        "rotZ":1.3974120616913,
-        "rotY":0,
-        "posX":-37707.42578125,
-        "posY":119689,
-        "posZ":1268.4724121094,
-        "rotX":-0.37556406855583
-      },
-      "stats":{
-        "healthModified":78,
-        "magickaModified":104,
-        "fatigueModified":218,
-        "healthBase":78,
-        "healthCurrent":0,
-        "magickaBase":104,
-        "magickaCurrent":2,
-        "fatigueBase":218,
-        "fatigueCurrent":212.57086181641
-      },
-      "equipment":{
-        "7":{
-          "refId":"expensive_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"expensive_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"expensive_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"expensive_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01_u",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":318,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":42,
-      "spellsActive":[]
+      "spellsActive":[],
+      "deathState":40
     },
     "276662-0":{
       "refId":"crate_01_empty",
@@ -525,50 +565,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "300484-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300486-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300487-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "300488-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

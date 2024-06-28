@@ -22,8 +22,8 @@
     "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"0, -9"
+    "description":"0, -9",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1718735712,
@@ -42,21 +42,21 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15,
+        "magickaCurrent":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":15,
         "fatigueModified":300,
-        "magickaCurrent":15
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15
       },
       "inventory":[],
-      "spellsActive":[],
       "killer":{
         "playerName":"Benoit"
       },
+      "spellsActive":[],
       "deathState":38
     },
     "204678-0":{
@@ -70,19 +70,25 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":66,
-        "healthCurrent":66,
-        "magickaBase":96,
+        "magickaCurrent":96,
         "fatigueBase":190,
         "fatigueCurrent":190,
         "healthModified":66,
         "magickaModified":96,
         "fatigueModified":190,
-        "magickaCurrent":96
+        "healthBase":66,
+        "healthCurrent":66,
+        "magickaBase":96
       },
       "equipment":{
         "8":{
           "refId":"exquisite_shirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel flameblade",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -95,12 +101,6 @@
         },
         "1":{
           "refId":"bonemold_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel flameblade",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -161,15 +161,15 @@
         "rotY":0
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
+        "magickaCurrent":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "magickaCurrent":5
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -362,7 +362,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

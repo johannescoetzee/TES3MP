@@ -28,6 +28,10 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "288984-0":{
+      "refId":"vala herennius",
+      "state":false
+    },
     "288983-0":{
       "refId":"dreynis nothro",
       "state":false
@@ -39,14 +43,10 @@
     "482626-0":{
       "refId":"netch_bull_dead_2",
       "state":false
-    },
-    "288984-0":{
-      "refId":"vala herennius",
-      "state":false
     }
   },
   "loadState":{
-    "hasFullContainerData":false,
-    "hasFullActorList":false
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }
