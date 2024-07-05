@@ -1,126 +1,38 @@
 {
   "packets":{
-    "actorList":["0-1398","0-1399","355389-0"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["355389-0","0-1398","0-1399"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["355389-0","0-1398","0-1399"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1398","0-1399"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["355389-0","0-1398","0-1399"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-13, 14",
     "creationTime":1719603124
   },
   "lastVisit":{
-    "Benoit":1719604025,
-    "Fidgug":1719604020
+    "Benoit":1720203311,
+    "Fidgug":1720203280
   },
   "recordLinks":[],
-  "objectData":{
-    "355389-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-100754.9375,
-        "posY":115566.53125,
-        "posZ":-55.457752227783,
-        "rotX":0.0042148493230343,
-        "rotY":0,
-        "rotZ":-2.2354366779327
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.9733581543,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1398":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":-102583.3125,
-        "posY":121586.484375,
-        "posZ":356.7265625,
-        "rotX":0.08976798504591,
-        "rotY":0,
-        "rotZ":2.5441362857819
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1399":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":-99915.078125,
-        "posY":118042.484375,
-        "posZ":230.0368347168,
-        "rotX":0.40218189358711,
-        "rotY":0,
-        "rotZ":0.067425966262817
-      },
-      "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

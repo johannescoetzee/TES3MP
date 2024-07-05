@@ -18,8 +18,8 @@
     "statsDynamic":["476740-0","0-608","0-609","0-610","0-600","0-618"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-8, 16",
@@ -31,6 +31,137 @@
   },
   "recordLinks":[],
   "objectData":{
+    "476740-0":{
+      "refId":"kwama worker entrance",
+      "location":{
+        "rotZ":0,
+        "rotY":0,
+        "posX":-63130.1015625,
+        "posY":136421.125,
+        "posZ":700.29278564453,
+        "rotX":0
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaBase":8,
+        "magickaCurrent":8,
+        "healthModified":30,
+        "magickaModified":8,
+        "fatigueModified":300,
+        "fatigueCurrent":300,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-600":{
+      "refId":"nix-hound",
+      "location":{
+        "rotZ":0.65526413917542,
+        "rotY":0,
+        "posX":-57552.21875,
+        "posY":132093.640625,
+        "posZ":1397.2631835938,
+        "rotX":0.031062304973602
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":395.8515625,
+        "fatigueBase":400
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-618":{
+      "refId":"scrib diseased",
+      "location":{
+        "rotZ":1.3708870410919,
+        "rotY":0,
+        "posX":-61663.734375,
+        "posY":139189.40625,
+        "posZ":1079.9957275391,
+        "rotX":-0.035318367183208
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":66,
+        "fatigueCurrent":66,
+        "fatigueBase":66
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "333755-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "333756-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "333757-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "333758-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "333759-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -245,87 +376,6 @@
       "refId":"flora_kreshweed_01",
       "inventory":[]
     },
-    "0-610":{
-      "refId":"scrib blighted",
-      "location":{
-        "posX":-61473.0234375,
-        "posY":135270.84375,
-        "posZ":1209.2194824219,
-        "rotX":-0.033001430332661,
-        "rotY":0,
-        "rotZ":1.4266717433929
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":30,
-        "magickaModified":12,
-        "fatigueModified":400,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-608":{
-      "refId":"scrib",
-      "location":{
-        "posX":-64955.0625,
-        "posY":133177.71875,
-        "posZ":975.62536621094,
-        "rotX":-0.058838471770287,
-        "rotY":0,
-        "rotZ":-1.3347475528717
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12
-      },
-      "inventory":[]
-    },
-    "0-609":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":-61309.7265625,
-        "posY":135080.375,
-        "posZ":1417.5806884766,
-        "rotX":0.067699514329433,
-        "rotY":0,
-        "rotZ":1.4027059078217
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":4,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "297843-0":{
       "refId":"dreamer_talker10",
       "inventory":[{
@@ -349,132 +399,82 @@
         }],
       "state":false
     },
-    "476740-0":{
-      "refId":"kwama worker entrance",
+    "0-610":{
+      "refId":"scrib blighted",
       "location":{
-        "posX":-63130.1015625,
-        "posY":136421.125,
-        "posZ":700.29278564453,
-        "rotX":0,
+        "rotZ":1.4266717433929,
         "rotY":0,
-        "rotZ":0
+        "posX":-61473.0234375,
+        "posY":135270.84375,
+        "posZ":1209.2194824219,
+        "rotX":-0.033001430332661
       },
       "stats":{
-        "magickaCurrent":8,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":30,
-        "magickaModified":8,
-        "fatigueModified":300,
         "healthBase":30,
         "healthCurrent":30,
-        "magickaBase":8
-      },
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-600":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-57552.21875,
-        "posY":132093.640625,
-        "posZ":1397.2631835938,
-        "rotX":0.031062304973602,
-        "rotY":0,
-        "rotZ":0.65526413917542
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":395.8515625,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-618":{
-      "refId":"scrib diseased",
-      "location":{
-        "posX":-61663.734375,
-        "posY":139189.40625,
-        "posZ":1079.9957275391,
-        "rotX":-0.035318367183208,
-        "rotY":0,
-        "rotZ":1.3708870410919
-      },
-      "stats":{
+        "magickaBase":12,
         "magickaCurrent":12,
-        "fatigueBase":66,
-        "fatigueCurrent":66,
-        "healthModified":8,
+        "healthModified":30,
         "magickaModified":12,
-        "fatigueModified":66,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12
+        "fatigueModified":400,
+        "fatigueCurrent":400,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
-          "count":2,
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "333755-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "0-608":{
+      "refId":"scrib",
+      "location":{
+        "rotZ":-1.3347475528717,
+        "rotY":0,
+        "posX":-64955.0625,
+        "posY":133177.71875,
+        "posZ":975.62536621094,
+        "rotX":-0.058838471770287
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaCurrent":12,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueModified":300,
+        "fatigueCurrent":300,
+        "fatigueBase":300
+      },
+      "inventory":[]
     },
-    "333756-0":{
-      "refId":"flora_chokeweed_02",
+    "0-609":{
+      "refId":"netch_bull",
+      "location":{
+        "rotZ":1.4027059078217,
+        "rotY":0,
+        "posX":-61309.7265625,
+        "posY":135080.375,
+        "posZ":1417.5806884766,
+        "rotX":0.067699514329433
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "healthModified":45,
+        "magickaModified":100,
+        "fatigueModified":400,
+        "fatigueCurrent":400,
+        "fatigueBase":400
+      },
       "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "333757-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "333758-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
+          "refId":"ingred_netch_leather_01",
+          "count":4,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

@@ -1,36 +1,360 @@
 {
   "packets":{
-    "actorList":["0-1410","0-1408","0-1409","274717-0","355396-0","274716-0","0-1411","0-1431","0-1412","0-1445","355397-0","0-1430","0-1415","0-1421"],
+    "actorList":["0-1409","274717-0","355396-0","274716-0","0-1411","0-1431","0-1412","0-1445","0-1414","0-1434","0-1430","355397-0","0-1421"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["25740-0","25741-0","25742-0","274719-0","324083-0","324084-0","324085-0","324086-0","324094-0","472554-0","472555-0","472556-0","472557-0","472558-0","472559-0","472560-0","472561-0","472562-0","472563-0","472564-0","472565-0","472566-0","472569-0","472570-0","472571-0","472572-0","472573-0","472574-0","472582-0","472583-0","472584-0","472585-0","472587-0","472588-0","472589-0","472590-0","472591-0","472592-0","472593-0","472594-0","472595-0","472596-0","472599-0","472600-0","472601-0","472602-0","472603-0","472604-0","472609-0","472610-0","472611-0","472612-0","472613-0","472614-0","472615-0","472616-0","472621-0","472622-0","472623-0","472624-0","472625-0","472626-0","472627-0","472630-0","472632-0","472633-0","472634-0","472635-0","472636-0","472640-0","472641-0","472642-0","472643-0","472644-0","472645-0","472646-0","472649-0","472650-0","472651-0","472652-0","472653-0","472654-0","472655-0","274716-0","274717-0","355396-0","0-1410","0-1408","0-1409","0-1411","0-1431","0-1445","0-1412","0-1430","355397-0","0-1415","0-1421"],
-    "death":["0-1411","274716-0","274717-0","0-1431","0-1445"],
+    "container":["25740-0","25741-0","25742-0","274719-0","324083-0","324084-0","324085-0","324086-0","324094-0","472554-0","472555-0","472556-0","472557-0","472558-0","472559-0","472560-0","472561-0","472562-0","472563-0","472564-0","472565-0","472566-0","472569-0","472570-0","472571-0","472572-0","472573-0","472574-0","472582-0","472583-0","472584-0","472585-0","472587-0","472588-0","472589-0","472590-0","472591-0","472592-0","472593-0","472594-0","472595-0","472596-0","472599-0","472600-0","472601-0","472602-0","472603-0","472604-0","472609-0","472610-0","472611-0","472612-0","472613-0","472614-0","472615-0","472616-0","472621-0","472622-0","472623-0","472624-0","472625-0","472626-0","472627-0","472630-0","472632-0","472633-0","472634-0","472635-0","472636-0","472640-0","472641-0","472642-0","472643-0","472644-0","472645-0","472646-0","472649-0","472650-0","472651-0","472652-0","472653-0","472654-0","472655-0","274716-0","274717-0","355396-0","0-1430","355397-0","0-1409","0-1411","0-1431","0-1445","0-1412","0-1421","0-1414","0-1434"],
+    "death":["0-1411","274716-0","274717-0","0-1431","0-1445","0-1414","0-1434"],
     "delete":[],
     "doorState":["6599-0"],
-    "equipment":["274717-0","274716-0","0-1445"],
+    "equipment":["274717-0","274716-0","0-1445","0-1434"],
     "lock":[],
     "place":[],
-    "position":["274716-0","274717-0","355396-0","0-1408","0-1409","0-1410","0-1411","0-1445","0-1412","0-1430","0-1431","355397-0","0-1415","0-1421"],
+    "position":["274716-0","274717-0","355396-0","0-1409","0-1411","0-1445","0-1412","0-1431","0-1421","0-1414","0-1430","355397-0","0-1434"],
     "scale":[],
-    "spawn":["0-1410","0-1408","0-1409","0-1411","0-1431","0-1412","0-1445","0-1430","0-1415","0-1421"],
+    "spawn":["0-1409","0-1411","0-1431","0-1412","0-1445","0-1414","0-1434","0-1430","0-1421"],
     "state":[],
-    "statsDynamic":["274716-0","274717-0","355396-0","0-1408","0-1409","0-1410","0-1411","0-1445","0-1412","0-1430","355397-0","0-1415","0-1431","0-1421"],
+    "statsDynamic":["274716-0","274717-0","355396-0","0-1409","0-1411","0-1445","0-1412","0-1430","355397-0","0-1431","0-1414","0-1434","0-1421"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":["0-1434"]
   },
   "entry":{
     "description":"-14, 14",
     "creationTime":1719603427
   },
   "lastVisit":{
-    "Benoit":1719604025,
-    "Fidgug":1719604020
+    "Benoit":1720203443,
+    "Fidgug":1720203445
   },
   "recordLinks":[],
   "objectData":{
+    "472560-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472561-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472562-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472563-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472564-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472565-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472566-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472569-0":{
+      "refId":"flora_muckspunge_01",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472570-0":{
+      "refId":"flora_muckspunge_02",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472571-0":{
+      "refId":"flora_muckspunge_03",
+      "inventory":[]
+    },
+    "472572-0":{
+      "refId":"flora_muckspunge_04",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472573-0":{
+      "refId":"flora_muckspunge_05",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472574-0":{
+      "refId":"flora_muckspunge_06",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472582-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "472583-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "472584-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "472585-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "472587-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472588-0":{
+      "refId":"flora_marshmerrow_02",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472589-0":{
+      "refId":"flora_marshmerrow_03",
+      "inventory":[]
+    },
+    "472590-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[]
+    },
+    "472591-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472592-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[]
+    },
+    "472593-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472594-0":{
+      "refId":"flora_marshmerrow_02",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472595-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472596-0":{
+      "refId":"flora_marshmerrow_03",
+      "inventory":[]
+    },
+    "472599-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "472600-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472601-0":{
+      "refId":"flora_muckspunge_01",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472602-0":{
+      "refId":"flora_muckspunge_02",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472603-0":{
+      "refId":"flora_muckspunge_03",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472604-0":{
+      "refId":"flora_muckspunge_06",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472609-0":{
+      "refId":"flora_marshmerrow_01",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472610-0":{
+      "refId":"flora_marshmerrow_02",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472611-0":{
+      "refId":"flora_marshmerrow_03",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472612-0":{
+      "refId":"flora_saltrice_01",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472613-0":{
+      "refId":"flora_saltrice_02",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472614-0":{
+      "refId":"flora_muckspunge_02",
+      "inventory":[]
+    },
     "472615-0":{
       "refId":"flora_muckspunge_03",
       "inventory":[{
@@ -291,242 +615,122 @@
     },
     "472654-0":{
       "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "472655-0":{
       "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1445":{
-      "refId":"db_assassin2",
-      "location":{
-        "posX":-111493.1171875,
-        "posY":116809.09375,
-        "posZ":288.54800415039,
-        "rotX":0.27324974536896,
-        "rotY":0,
-        "rotZ":0.12703156471252
-      },
-      "stats":{
-        "magickaCurrent":126,
-        "fatigueBase":213,
-        "fatigueCurrent":209.22477722168,
-        "healthModified":88,
-        "magickaModified":126,
-        "fatigueModified":213,
-        "healthBase":88,
-        "healthCurrent":0,
-        "magickaBase":126
-      },
-      "equipment":[],
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":42
+      "inventory":[]
     },
     "6599-0":{
       "refId":"door_cavern_doors00",
       "doorState":1
     },
-    "0-1421":{
-      "refId":"slaughterfish",
+    "0-1434":{
+      "refId":"dremora",
       "location":{
-        "posX":-110094.953125,
-        "posY":122324.0390625,
-        "posZ":-312.3889465332,
-        "rotX":0,
+        "rotZ":2.9296944141388,
         "rotY":0,
-        "rotZ":2.4133360385895
+        "posX":-114583.3984375,
+        "posY":116090.4140625,
+        "posZ":249.64175415039,
+        "rotX":-0.26044774055481
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.98126220703,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1430":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":-114490.7890625,
-        "posY":119550.8046875,
-        "posZ":186.51329040527,
-        "rotX":-0.0061155669391155,
-        "rotY":0,
-        "rotZ":-3.0062167644501
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1431":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-111712.78125,
-        "posY":116699.75,
-        "posZ":383.52377319336,
-        "rotX":1.5343769788742,
-        "rotY":0,
-        "rotZ":0.38363718986511
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":398.63079833984,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
+        "healthBase":160,
         "healthCurrent":0,
-        "magickaBase":20
+        "magickaBase":100,
+        "magickaCurrent":40,
+        "healthModified":160,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":100
       },
-      "inventory":[],
+      "equipment":{
+        "16":{
+          "refId":"dreugh staff",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"dreugh staff",
+          "count":1,
+          "charge":262,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
       "killer":{
         "playerName":"Fidgug"
       },
-      "spellsActive":[],
-      "deathState":38
+      "deathState":46,
+      "spellsActive":{
+        "second barrier":[{
+            "effects":[{
+                "timeLeft":30,
+                "id":3,
+                "duration":30,
+                "magnitude":20,
+                "arg":-1
+              }],
+            "displayName":"Second Barrier",
+            "stackingState":false,
+            "caster":{
+              "refId":"dremora",
+              "uniqueIndex":"0-0"
+            },
+            "startTime":1720203239
+          }]
+      }
     },
-    "0-1411":{
-      "refId":"cliff racer",
+    "0-1414":{
+      "refId":"cliff racer_diseased",
       "location":{
-        "posX":-106741.984375,
-        "posY":117858.453125,
-        "posZ":2859.6926269531,
-        "rotX":0.66889613866806,
+        "rotZ":1.6487662792206,
         "rotY":0,
-        "rotZ":0.40080261230469
+        "posX":-112978.3125,
+        "posY":116438.78125,
+        "posZ":517.31213378906,
+        "rotX":0.9448110461235
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":0,
-        "magickaBase":20
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "healthModified":45,
+        "fatigueCurrent":180,
+        "fatigueModified":180,
+        "fatigueBase":180,
+        "magickaModified":20
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "spellsActive":[],
-      "deathState":38
-    },
-    "0-1410":{
-      "refId":"scrib diseased",
-      "location":{
-        "posX":-112332.6640625,
-        "posY":115838.96875,
-        "posZ":325.66668701172,
-        "rotX":0.044845264405012,
-        "rotY":0,
-        "rotZ":2.9830410480499
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":78,
-        "fatigueCurrent":78,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":78,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1408":{
-      "refId":"scrib blighted",
-      "location":{
-        "posX":-113993.3828125,
-        "posY":117520.2109375,
-        "posZ":468.96813964844,
-        "rotX":0.087572820484638,
-        "rotY":0,
-        "rotZ":-2.079980134964
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":30,
-        "magickaModified":12,
-        "fatigueModified":400,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12
-      },
-      "inventory":[]
+      }
     },
     "0-1409":{
       "refId":"netch_bull",
       "location":{
-        "posX":-110592.1171875,
-        "posY":119436.8515625,
-        "posZ":204.40528869629,
-        "rotX":0.034813851118088,
+        "rotZ":0.19772672653198,
         "rotY":0,
-        "rotZ":0.15869808197021
+        "posX":-110466.7890625,
+        "posY":119452.4296875,
+        "posZ":210.25709533691,
+        "rotX":0.013015050441027
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":100
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "healthModified":45,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":100
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -536,55 +740,26 @@
           "soul":""
         }]
     },
-    "355397-0":{
-      "refId":"mudcrab",
-      "location":{
-        "posX":-114335.5,
-        "posY":118898.8984375,
-        "posZ":11.614046096802,
-        "rotX":0.15371091663837,
-        "rotY":0,
-        "rotZ":-0.087104320526123
-      },
-      "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "274717-0":{
       "refId":"mubdan assantinalit",
       "location":{
+        "rotZ":0.70000004768372,
+        "rotY":0,
         "posX":-109638.140625,
         "posY":119666.4375,
         "posZ":209.08456420898,
-        "rotX":0.094570435583591,
-        "rotY":0,
-        "rotZ":0.41229629516602
+        "rotX":0
       },
       "stats":{
-        "magickaCurrent":92,
-        "fatigueBase":221,
-        "fatigueCurrent":217.92140197754,
-        "healthModified":103,
-        "magickaModified":92,
-        "fatigueModified":221,
         "healthBase":103,
         "healthCurrent":0,
-        "magickaBase":92
+        "magickaBase":92,
+        "magickaCurrent":92,
+        "healthModified":103,
+        "fatigueCurrent":217.92140197754,
+        "fatigueModified":221,
+        "fatigueBase":221,
+        "magickaModified":92
       },
       "equipment":{
         "1":{
@@ -679,31 +854,31 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "deathState":41,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":41
+      }
     },
     "355396-0":{
       "refId":"mudcrab",
       "location":{
-        "posX":-111952.15625,
-        "posY":121086.296875,
-        "posZ":126.97341918945,
-        "rotX":0.22543327510357,
+        "rotZ":1.7594330310822,
         "rotY":0,
-        "rotZ":1.8718988895416
+        "posX":-112944.2421875,
+        "posY":121242.1640625,
+        "posZ":30.33703994751,
+        "rotX":0.011782512068748
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaBase":5
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "healthModified":15,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -716,23 +891,23 @@
     "274716-0":{
       "refId":"massour asserrumusa",
       "location":{
+        "rotZ":0,
+        "rotY":0,
         "posX":-109640.0703125,
         "posY":119872.265625,
         "posZ":191.62208557129,
-        "rotX":0.11629922688007,
-        "rotY":0,
-        "rotZ":0.55009627342224
+        "rotX":0
       },
       "stats":{
-        "magickaCurrent":96,
-        "fatigueBase":212,
-        "fatigueCurrent":210.17984008789,
-        "healthModified":98,
-        "magickaModified":96,
-        "fatigueModified":212,
         "healthBase":98,
         "healthCurrent":0,
-        "magickaBase":96
+        "magickaBase":96,
+        "magickaCurrent":96,
+        "healthModified":98,
+        "fatigueCurrent":210.17984008789,
+        "fatigueModified":212,
+        "fatigueBase":212,
+        "magickaModified":96
       },
       "equipment":{
         "1":{
@@ -821,31 +996,87 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "deathState":42,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-1411":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":0.40080261230469,
+        "rotY":0,
+        "posX":-106741.984375,
+        "posY":117858.453125,
+        "posZ":2859.6926269531,
+        "rotX":0.66889613866806
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "healthModified":45,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":20
+      },
+      "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
       },
-      "deathState":42
+      "spellsActive":[]
+    },
+    "0-1431":{
+      "refId":"cliff racer",
+      "location":{
+        "rotZ":0.38363718986511,
+        "rotY":0,
+        "posX":-111712.78125,
+        "posY":116699.75,
+        "posZ":383.52377319336,
+        "rotX":1.5343769788742
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "healthModified":45,
+        "fatigueCurrent":398.63079833984,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":20
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "spellsActive":[]
     },
     "0-1412":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-109575.328125,
-        "posY":121540.9453125,
-        "posZ":-189.16595458984,
-        "rotX":8.5758976638317e-05,
+        "rotZ":-0.4063355922699,
         "rotY":0,
-        "rotZ":2.5627634525299
+        "posX":-110115.7109375,
+        "posY":121754.9375,
+        "posZ":-189.26564025879,
+        "rotX":6.1942264437675e-06
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -855,26 +1086,83 @@
           "soul":""
         }]
     },
-    "0-1415":{
-      "refId":"netch_bull",
+    "0-1445":{
+      "refId":"db_assassin2",
       "location":{
-        "posX":-110030.1640625,
-        "posY":114929.0390625,
-        "posZ":211.43727111816,
-        "rotX":0.01382315158844,
+        "rotZ":0.12703156471252,
         "rotY":0,
-        "rotZ":1.3099048137665
+        "posX":-111493.1171875,
+        "posY":116809.09375,
+        "posZ":288.54800415039,
+        "rotX":0.27324974536896
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
+        "healthBase":88,
+        "healthCurrent":0,
+        "magickaBase":126,
+        "magickaCurrent":126,
+        "healthModified":88,
+        "fatigueCurrent":209.22477722168,
+        "fatigueModified":213,
+        "fatigueBase":213,
+        "magickaModified":126
+      },
+      "equipment":[],
+      "inventory":[],
+      "deathState":42,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "355397-0":{
+      "refId":"mudcrab",
+      "location":{
+        "rotZ":2.1504843235016,
+        "rotY":0,
+        "posX":-114609.59375,
+        "posY":117815.1953125,
+        "posZ":166.04800415039,
+        "rotX":-0.32652339339256
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaCurrent":5,
+        "healthModified":15,
         "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
         "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":5
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1430":{
+      "refId":"netch_bull",
+      "location":{
+        "rotZ":0.28473162651062,
+        "rotY":0,
+        "posX":-114128.109375,
+        "posY":120137.578125,
+        "posZ":185.99577331543,
+        "rotX":0.00024577416479588
+      },
+      "stats":{
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":100
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "healthModified":45,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":100
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -884,35 +1172,46 @@
           "soul":""
         }]
     },
-    "25740-0":{
-      "refId":"flora_roobrush_02",
+    "0-1421":{
+      "refId":"slaughterfish",
+      "location":{
+        "rotZ":-0.97256350517273,
+        "rotY":0,
+        "posX":-109798.359375,
+        "posY":122349.15625,
+        "posZ":-312.3889465332,
+        "rotX":0
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "fatigueCurrent":399.99166870117,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":10
+      },
       "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
+          "refId":"ingred_scales_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "25740-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
     },
     "25741-0":{
       "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "25742-0":{
       "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "274719-0":{
       "refId":"de_p_chest_02_gold_50",
@@ -1027,348 +1326,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "472560-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472561-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472562-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472563-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472564-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472565-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472566-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472569-0":{
-      "refId":"flora_muckspunge_01",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472570-0":{
-      "refId":"flora_muckspunge_02",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472571-0":{
-      "refId":"flora_muckspunge_03",
-      "inventory":[]
-    },
-    "472572-0":{
-      "refId":"flora_muckspunge_04",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472573-0":{
-      "refId":"flora_muckspunge_05",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472574-0":{
-      "refId":"flora_muckspunge_06",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472582-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472583-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472584-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
-    "472585-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472587-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472588-0":{
-      "refId":"flora_marshmerrow_02",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472589-0":{
-      "refId":"flora_marshmerrow_03",
-      "inventory":[]
-    },
-    "472590-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[]
-    },
-    "472591-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472592-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[]
-    },
-    "472593-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472594-0":{
-      "refId":"flora_marshmerrow_02",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472595-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472596-0":{
-      "refId":"flora_marshmerrow_03",
-      "inventory":[]
-    },
-    "472599-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "472600-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472601-0":{
-      "refId":"flora_muckspunge_01",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472602-0":{
-      "refId":"flora_muckspunge_02",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472603-0":{
-      "refId":"flora_muckspunge_03",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472604-0":{
-      "refId":"flora_muckspunge_06",
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472609-0":{
-      "refId":"flora_marshmerrow_01",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472610-0":{
-      "refId":"flora_marshmerrow_02",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472611-0":{
-      "refId":"flora_marshmerrow_03",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472612-0":{
-      "refId":"flora_saltrice_01",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472613-0":{
-      "refId":"flora_saltrice_02",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472614-0":{
-      "refId":"flora_muckspunge_02",
-      "inventory":[]
     }
   },
   "loadState":{

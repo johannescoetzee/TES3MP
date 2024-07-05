@@ -18,19 +18,106 @@
     "statsDynamic":["0-1397","0-1395","0-1396"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-13, 13",
     "creationTime":1719603090
   },
   "lastVisit":{
-    "Benoit":1719604025,
-    "Fidgug":1719604020
+    "Benoit":1720203311,
+    "Fidgug":1720203280
   },
   "recordLinks":[],
   "objectData":{
+    "0-1397":{
+      "refId":"netch_bull",
+      "location":{
+        "rotZ":-1.0752689838409,
+        "rotY":0,
+        "posX":-101453.96875,
+        "posY":109989.515625,
+        "posZ":2048.0554199219,
+        "rotX":0.00064150802791119
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaCurrent":100,
+        "healthModified":45,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":100
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1395":{
+      "refId":"nix-hound blighted",
+      "location":{
+        "rotZ":-2.9192450046539,
+        "rotY":0,
+        "posX":-104591.53125,
+        "posY":113028,
+        "posZ":774.00439453125,
+        "rotX":-0.11507304012775
+      },
+      "stats":{
+        "healthBase":68,
+        "healthCurrent":68,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":68,
+        "fatigueCurrent":138,
+        "fatigueModified":138,
+        "fatigueBase":138,
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1396":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "rotZ":0.071592569351196,
+        "rotY":0,
+        "posX":-102746.015625,
+        "posY":113042.296875,
+        "posZ":2026.474609375,
+        "rotX":-0.0033565340563655
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaCurrent":20,
+        "healthModified":45,
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "fatigueBase":170,
+        "magickaModified":20
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "24169-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[{
@@ -238,93 +325,6 @@
     "472495-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[]
-    },
-    "0-1397":{
-      "refId":"netch_bull",
-      "location":{
-        "posX":-101004.703125,
-        "posY":110691.3984375,
-        "posZ":2047.0737304688,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":-0.44721174240112
-      },
-      "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1395":{
-      "refId":"nix-hound blighted",
-      "location":{
-        "posX":-103766.890625,
-        "posY":112487.296875,
-        "posZ":1180.7216796875,
-        "rotX":0.66341042518616,
-        "rotY":0,
-        "rotZ":-0.61969971656799
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":138,
-        "fatigueCurrent":138,
-        "healthModified":68,
-        "magickaModified":10,
-        "fatigueModified":138,
-        "healthBase":68,
-        "healthCurrent":68,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1396":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posX":-103161.65625,
-        "posY":113627.40625,
-        "posZ":2026.0499267578,
-        "rotX":0.0015117367729545,
-        "rotY":0,
-        "rotZ":1.7017595767975
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":170,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{

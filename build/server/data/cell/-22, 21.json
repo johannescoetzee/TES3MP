@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-22, 21",
@@ -28,10 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "30531-0":{
-      "refId":"act_bm_tree_parts",
-      "state":false
-    },
     "29448-0":{
       "refId":"act_bm_tree_01",
       "state":false
@@ -42,6 +38,10 @@
     },
     "29450-0":{
       "refId":"act_bm_tree_03",
+      "state":false
+    },
+    "30531-0":{
+      "refId":"act_bm_tree_parts",
       "state":false
     }
   },

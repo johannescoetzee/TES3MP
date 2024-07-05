@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"Balmora, Balyn Omarel's House",
@@ -28,24 +28,8 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "363128-0":{
-      "refId":"misc_com_wood_fork_uni2",
-      "state":false
-    },
     "390587-0":{
       "refId":"balyn omavel-dead",
-      "state":false
-    },
-    "363183-0":{
-      "refId":"furn_de_p_chair_02_uni2",
-      "state":false
-    },
-    "363131-0":{
-      "refId":"misc_com_metal_plate_07_uni2",
-      "state":false
-    },
-    "390592-0":{
-      "refId":"ingred_bread_01_uni2",
       "state":false
     },
     "363130-0":{
@@ -54,6 +38,22 @@
     },
     "363129-0":{
       "refId":"misc_com_wood_spoon_01_uni2",
+      "state":false
+    },
+    "363128-0":{
+      "refId":"misc_com_wood_fork_uni2",
+      "state":false
+    },
+    "390592-0":{
+      "refId":"ingred_bread_01_uni2",
+      "state":false
+    },
+    "363183-0":{
+      "refId":"furn_de_p_chair_02_uni2",
+      "state":false
+    },
+    "363131-0":{
+      "refId":"misc_com_metal_plate_07_uni2",
       "state":false
     }
   },

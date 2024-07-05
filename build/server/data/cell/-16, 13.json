@@ -1,29 +1,29 @@
 {
   "packets":{
-    "actorList":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "actorList":["0-1453","0-1454","0-1450","0-1451","0-1452"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "container":["0-1453","0-1454","0-1450","0-1451","0-1452"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "position":["0-1450","0-1451","0-1452","0-1453","0-1454"],
     "scale":[],
-    "spawn":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "spawn":["0-1453","0-1454","0-1450","0-1451","0-1452"],
     "state":[],
-    "statsDynamic":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "statsDynamic":["0-1450","0-1451","0-1452","0-1453","0-1454"],
     "trap":[],
     "clientScriptLocal":[],
     "miscellaneous":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-14, 15",
-    "creationTime":1719603427
+    "description":"-16, 13",
+    "creationTime":1720203280
   },
   "lastVisit":{
     "Benoit":1720203443,
@@ -31,43 +31,14 @@
   },
   "recordLinks":[],
   "objectData":{
-    "0-1420":{
-      "refId":"dreugh",
-      "location":{
-        "rotZ":2.0171339511871,
-        "rotY":0,
-        "posX":-111255.6796875,
-        "posY":125528.5703125,
-        "posZ":-681.88635253906,
-        "rotX":0
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
-      },
-      "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1422":{
+    "0-1453":{
       "refId":"slaughterfish_small",
       "location":{
-        "rotZ":2.4796431064606,
+        "rotZ":0.28540945053101,
         "rotY":0,
-        "posX":-111494.828125,
-        "posY":126863.8515625,
-        "posZ":-740.14910888672,
+        "posX":-129558.0625,
+        "posY":111889.0546875,
+        "posZ":-936.02478027344,
         "rotX":0
       },
       "stats":{
@@ -76,28 +47,22 @@
         "magickaBase":10,
         "magickaCurrent":10,
         "healthModified":15,
-        "fatigueCurrent":299.98126220703,
+        "fatigueCurrent":300,
         "fatigueModified":300,
         "fatigueBase":300,
         "magickaModified":10
       },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
-    "0-1419":{
+    "0-1454":{
       "refId":"dreugh",
       "location":{
-        "rotZ":3.0781700611115,
+        "rotZ":-1.0558536052704,
         "rotY":0,
-        "posX":-111274.6328125,
-        "posY":123411.875,
-        "posZ":-635.50744628906,
-        "rotX":0.00054739881306887
+        "posX":-129772.3515625,
+        "posY":107476.890625,
+        "posZ":-948.61364746094,
+        "rotX":0
       },
       "stats":{
         "healthBase":60,
@@ -118,15 +83,44 @@
           "soul":""
         }]
     },
-    "0-1423":{
+    "0-1450":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-2.0286381244659,
+        "rotZ":-0.99722218513489,
         "rotY":0,
-        "posX":-113850.359375,
-        "posY":125374.265625,
-        "posZ":-240.49848937988,
-        "rotX":0
+        "posX":-124718.9765625,
+        "posY":110125.6640625,
+        "posZ":-1386.5904541016,
+        "rotX":0.0034318724647164
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaCurrent":75,
+        "healthModified":60,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "fatigueBase":400,
+        "magickaModified":75
+      },
+      "inventory":[{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1451":{
+      "refId":"dreugh",
+      "location":{
+        "rotZ":-1.3303396701813,
+        "rotY":0,
+        "posX":-125971.359375,
+        "posY":111810.9609375,
+        "posZ":-1712.4265136719,
+        "rotX":0.0015397258102894
       },
       "stats":{
         "healthBase":60,
@@ -141,28 +135,34 @@
       },
       "inventory":[]
     },
-    "0-1418":{
-      "refId":"slaughterfish",
+    "0-1452":{
+      "refId":"dreugh",
       "location":{
-        "rotZ":0.74711632728577,
+        "rotZ":-1.6067135334015,
         "rotY":0,
-        "posX":-106694.3515625,
-        "posY":128528.171875,
-        "posZ":-496.58618164063,
-        "rotX":-1.885462552309e-05
+        "posX":-127903.28125,
+        "posY":112790.109375,
+        "posZ":-1191.4475097656,
+        "rotX":0
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":23,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaCurrent":75,
+        "healthModified":60,
         "fatigueCurrent":400,
         "fatigueModified":400,
         "fatigueBase":400,
-        "magickaModified":10
+        "magickaModified":75
       },
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

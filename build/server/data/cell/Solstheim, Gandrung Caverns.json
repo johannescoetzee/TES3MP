@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"Solstheim, Gandrung Caverns",

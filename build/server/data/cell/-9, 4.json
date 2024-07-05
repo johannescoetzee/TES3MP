@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-9, 4",
@@ -28,6 +28,14 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "390575-0":{
+      "refId":"ex_de_scaffold_02c_boe",
+      "state":false
+    },
+    "335104-0":{
+      "refId":"ex_de_scaffold_03a_boe",
+      "state":false
+    },
     "335100-0":{
       "refId":"misc_com_bucket_boe_unia",
       "state":false
@@ -90,14 +98,6 @@
     },
     "335103-0":{
       "refId":"ex_de_scaffold_02b_boe",
-      "state":false
-    },
-    "390575-0":{
-      "refId":"ex_de_scaffold_02c_boe",
-      "state":false
-    },
-    "335104-0":{
-      "refId":"ex_de_scaffold_03a_boe",
       "state":false
     }
   },

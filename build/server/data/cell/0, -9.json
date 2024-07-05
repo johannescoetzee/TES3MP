@@ -18,8 +18,8 @@
     "statsDynamic":["204678-0","0-27","0-29"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"0, -9",
@@ -31,54 +31,114 @@
   },
   "recordLinks":[],
   "objectData":{
+    "251202-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251203-0":{
+      "refId":"flora_bc_mushroom_03",
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "251207-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478476-0":{
+      "refId":"flora_black_anther_02",
+      "inventory":[]
+    },
+    "478477-0":{
+      "refId":"flora_black_anther_01",
+      "inventory":[]
+    },
+    "478478-0":{
+      "refId":"flora_black_anther_02",
+      "inventory":[]
+    },
+    "478479-0":{
+      "refId":"flora_black_anther_01",
+      "inventory":[{
+          "refId":"ingred_black_anther_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478480-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[]
+    },
+    "478481-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[]
+    },
     "0-27":{
       "refId":"kwama forager",
       "location":{
+        "rotZ":-2.2745606899261,
+        "rotY":0,
         "posX":905.61315917969,
         "posY":-67732.203125,
         "posZ":956.77117919922,
-        "rotX":-0.66175007820129,
-        "rotZ":-2.2745606899261,
-        "rotY":0
+        "rotX":-0.66175007820129
       },
       "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15,
         "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
         "healthModified":23,
         "magickaModified":15,
         "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15
+        "fatigueCurrent":300,
+        "fatigueBase":300
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Benoit"
       },
-      "spellsActive":[],
-      "deathState":38
+      "spellsActive":[]
     },
     "204678-0":{
       "refId":"nels llendo",
       "location":{
+        "rotZ":2.8994696140289,
+        "rotY":0,
         "posX":7097.4912109375,
         "posY":-69669.9921875,
         "posZ":769.70025634766,
-        "rotX":-0.038604333996773,
-        "rotZ":2.8994696140289,
-        "rotY":0
+        "rotX":-0.038604333996773
       },
       "stats":{
+        "healthBase":66,
+        "healthCurrent":66,
+        "magickaBase":96,
         "magickaCurrent":96,
-        "fatigueBase":190,
-        "fatigueCurrent":190,
         "healthModified":66,
         "magickaModified":96,
         "fatigueModified":190,
-        "healthBase":66,
-        "healthCurrent":66,
-        "magickaBase":96
+        "fatigueCurrent":190,
+        "fatigueBase":190
       },
       "equipment":{
         "8":{
@@ -153,23 +213,23 @@
     "0-29":{
       "refId":"mudcrab",
       "location":{
+        "rotZ":-2.5784313678741,
+        "rotY":0,
         "posX":4375.8178710938,
         "posY":-66213.1640625,
         "posZ":593.27154541016,
-        "rotX":-0.030523566529155,
-        "rotZ":-2.5784313678741,
-        "rotY":0
+        "rotX":-0.030523566529155
       },
       "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
         "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5
+        "fatigueCurrent":400,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -183,104 +243,6 @@
       "refId":"flora_bc_shelffungus_04",
       "inventory":[{
           "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251201-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251202-0":{
-      "refId":"flora_bc_mushroom_08",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251203-0":{
-      "refId":"flora_bc_mushroom_03",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "251207-0":{
-      "refId":"flora_bc_shelffungus_01",
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478476-0":{
-      "refId":"flora_black_anther_02",
-      "inventory":[]
-    },
-    "478477-0":{
-      "refId":"flora_black_anther_01",
-      "inventory":[]
-    },
-    "478478-0":{
-      "refId":"flora_black_anther_02",
-      "inventory":[]
-    },
-    "478479-0":{
-      "refId":"flora_black_anther_01",
-      "inventory":[{
-          "refId":"ingred_black_anther_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478480-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[]
-    },
-    "478481-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[]
-    },
-    "478482-0":{
-      "refId":"flora_willow_flower_01",
-      "inventory":[]
-    },
-    "478483-0":{
-      "refId":"flora_willow_flower_02",
-      "inventory":[]
-    },
-    "478484-0":{
-      "refId":"flora_corkbulb",
-      "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "478488-0":{
-      "refId":"flora_comberry_01",
-      "inventory":[{
-          "refId":"ingred_comberry_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -359,6 +321,44 @@
           "soul":""
         }],
       "state":false
+    },
+    "478488-0":{
+      "refId":"flora_comberry_01",
+      "inventory":[{
+          "refId":"ingred_comberry_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478484-0":{
+      "refId":"flora_corkbulb",
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "478483-0":{
+      "refId":"flora_willow_flower_02",
+      "inventory":[]
+    },
+    "478482-0":{
+      "refId":"flora_willow_flower_01",
+      "inventory":[]
+    },
+    "251201-0":{
+      "refId":"flora_bc_mushroom_08",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

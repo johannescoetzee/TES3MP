@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["0-588","0-589"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["297249-0","297252-0","0-588","0-589"],
-    "death":["0-588"],
+    "container":[],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-588","0-589"],
+    "position":[],
     "scale":[],
-    "spawn":["0-588","0-589"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-588","0-589"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-4, 15",
@@ -30,87 +30,9 @@
     "Fidgug":1719599760
   },
   "recordLinks":[],
-  "objectData":{
-    "297249-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "297252-0":{
-      "refId":"flora_fire_fern_01",
-      "inventory":[{
-          "refId":"ingred_fire_petal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-589":{
-      "refId":"rat",
-      "location":{
-        "posX":-32537.455078125,
-        "posY":129428.765625,
-        "posZ":2067.5270996094,
-        "rotX":0.49681347608566,
-        "rotY":0,
-        "rotZ":2.645355463028
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-588":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-32558.548828125,
-        "posY":127330.8046875,
-        "posZ":818.12274169922,
-        "rotX":1.0787348747253,
-        "rotY":0,
-        "rotZ":2.6039402484894
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "spellsActive":[],
-      "deathState":38
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

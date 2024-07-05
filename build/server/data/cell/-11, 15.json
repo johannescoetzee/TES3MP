@@ -18,8 +18,8 @@
     "statsDynamic":["287922-0","287923-0","287924-0","287925-0","287926-0","287927-0","287928-0","287929-0","287930-0","480896-0","0-654"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["287922-0","287926-0","287923-0","287925-0","287924-0","287930-0"]
+    "miscellaneous":["287922-0","287926-0","287923-0","287925-0","287924-0","287930-0"],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-11, 15",
@@ -34,23 +34,23 @@
     "287926-0":{
       "refId":"lledsea relas",
       "location":{
+        "rotZ":1.7600972652435,
+        "rotY":0,
         "posX":-87384.234375,
         "posY":125637.84375,
         "posZ":306.5,
-        "rotX":0.033028077334166,
-        "rotY":0,
-        "rotZ":1.7600972652435
+        "rotX":0.033028077334166
       },
       "stats":{
+        "healthBase":63,
+        "healthCurrent":63,
+        "magickaBase":88,
         "magickaCurrent":88,
-        "fatigueBase":166,
-        "fatigueCurrent":166,
         "healthModified":63,
         "magickaModified":88,
         "fatigueModified":166,
-        "healthBase":63,
-        "healthCurrent":63,
-        "magickaBase":88
+        "fatigueCurrent":166,
+        "fatigueBase":166
       },
       "equipment":{
         "7":{
@@ -103,30 +103,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":12.524603843689,
-      "lastGoldRestockDay":19
+      "goldPool":0
     },
     "287929-0":{
       "refId":"garyn girith",
       "location":{
+        "rotZ":4.08318567276,
+        "rotY":0,
         "posX":-82845.4765625,
         "posY":127454.171875,
         "posZ":556.23809814453,
-        "rotX":0,
-        "rotZ":4.08318567276,
-        "rotY":0
+        "rotX":0
       },
       "stats":{
+        "healthBase":92,
+        "healthCurrent":92,
+        "magickaBase":102,
         "magickaCurrent":102,
-        "fatigueBase":219,
-        "fatigueCurrent":219,
         "healthModified":92,
         "magickaModified":102,
         "fatigueModified":219,
-        "healthBase":92,
-        "healthCurrent":92,
-        "magickaBase":102
+        "fatigueCurrent":219,
+        "fatigueBase":219
       },
       "equipment":{
         "7":{
@@ -135,14 +135,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "8":{
-          "refId":"common_shirt_02",
+        "16":{
+          "refId":"iron tanto",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"iron tanto",
+        "8":{
+          "refId":"common_shirt_02",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -184,23 +184,23 @@
     "287930-0":{
       "refId":"galyn arvel",
       "location":{
+        "rotZ":-0.59999966621399,
+        "rotY":0,
         "posX":-88717,
         "posY":128408.09375,
         "posZ":55.320659637451,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":-0.59999966621399
+        "rotX":0
       },
       "stats":{
+        "healthBase":41,
+        "healthCurrent":41,
+        "magickaBase":82,
         "magickaCurrent":82,
-        "fatigueBase":146,
-        "fatigueCurrent":146,
         "healthModified":41,
         "magickaModified":82,
         "fatigueModified":146,
-        "healthBase":41,
-        "healthCurrent":41,
-        "magickaBase":82
+        "fatigueCurrent":146,
+        "fatigueBase":146
       },
       "equipment":{
         "7":{
@@ -259,40 +259,34 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":13.402863502502,
-      "lastGoldRestockDay":19
+      "goldPool":0
     },
     "480896-0":{
       "refId":"redoran guard female",
       "location":{
+        "rotZ":0.13791799545288,
+        "rotY":0,
         "posX":-84773.515625,
         "posY":125654.390625,
         "posZ":1008.1704101563,
-        "rotX":0.23832207918167,
-        "rotY":0,
-        "rotZ":0.13791799545288
+        "rotX":0.23832207918167
       },
       "stats":{
+        "healthBase":205,
+        "healthCurrent":205,
+        "magickaBase":122,
         "magickaCurrent":122,
-        "fatigueBase":297,
-        "fatigueCurrent":297,
         "healthModified":205,
         "magickaModified":122,
         "fatigueModified":297,
-        "healthBase":205,
-        "healthCurrent":205,
-        "magickaBase":122
+        "fatigueCurrent":297,
+        "fatigueBase":297
       },
       "equipment":{
         "0":{
           "refId":"bonemold_gah-julan_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "1":{
-          "refId":"bonemold_gah-julan_cuirass",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -303,50 +297,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "3":{
-          "refId":"bonemold_gah-julan_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"bonemold_gah-julan_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
         "5":{
           "refId":"bonemold_bracer_left",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "6":{
-          "refId":"bonemold_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"extravagant_shirt_01_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"extravagant_skirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"extravagant_belt_01",
+        "17":{
+          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -357,8 +315,50 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"torch_infinite_time",
+        "4":{
+          "refId":"bonemold_gah-julan_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"extravagant_skirt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"extravagant_shirt_01_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bonemold_gah-julan_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"bonemold_gah-julan_cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"extravagant_belt_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"bonemold_bracer_right",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -453,23 +453,23 @@
     "287928-0":{
       "refId":"sadal doren",
       "location":{
+        "rotZ":5.5531854629517,
+        "rotY":0,
         "posX":-86262.9140625,
         "posY":127107.5078125,
         "posZ":333.67547607422,
-        "rotX":0,
-        "rotZ":5.5531854629517,
-        "rotY":0
+        "rotX":0
       },
       "stats":{
+        "healthBase":106,
+        "healthCurrent":106,
+        "magickaBase":98,
         "magickaCurrent":98,
-        "fatigueBase":203,
-        "fatigueCurrent":203,
         "healthModified":106,
         "magickaModified":98,
         "fatigueModified":203,
-        "healthBase":106,
-        "healthCurrent":106,
-        "magickaBase":98
+        "fatigueCurrent":203,
+        "fatigueBase":203
       },
       "equipment":{
         "7":{
@@ -478,14 +478,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "8":{
-          "refId":"common_shirt_03_c",
+        "16":{
+          "refId":"steel dagger",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel dagger",
+        "8":{
+          "refId":"common_shirt_03_c",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -527,27 +527,27 @@
     "287922-0":{
       "refId":"orero omothan",
       "location":{
+        "rotZ":-2.1000006198883,
+        "rotY":0,
         "posX":-84419.234375,
         "posY":123924.28125,
         "posZ":1286.7297363281,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":-2.1000006198883
+        "rotX":0
       },
       "stats":{
+        "healthBase":94,
+        "healthCurrent":94,
+        "magickaBase":90,
         "magickaCurrent":90,
-        "fatigueBase":202,
-        "fatigueCurrent":202,
         "healthModified":94,
         "magickaModified":90,
         "fatigueModified":202,
-        "healthBase":94,
-        "healthCurrent":94,
-        "magickaBase":90
+        "fatigueCurrent":202,
+        "fatigueBase":202
       },
       "equipment":{
-        "6":{
-          "refId":"darkbrotherhood gauntlet_r",
+        "8":{
+          "refId":"common_shirt_02_rr",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -558,8 +558,8 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "8":{
-          "refId":"common_shirt_02_rr",
+        "16":{
+          "refId":"steel club",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -570,8 +570,8 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel club",
+        "6":{
+          "refId":"darkbrotherhood gauntlet_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -656,30 +656,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":11.649024963379,
-      "lastGoldRestockDay":19
+      "goldPool":0
     },
     "287923-0":{
       "refId":"sathas rivul",
       "location":{
+        "rotZ":1.6038496494293,
+        "rotY":0,
         "posX":-86436.671875,
         "posY":128857.9375,
         "posZ":77.673599243164,
-        "rotX":-0.11493852734566,
-        "rotY":0,
-        "rotZ":1.6038496494293
+        "rotX":-0.11493852734566
       },
       "stats":{
+        "healthBase":66,
+        "healthCurrent":66,
+        "magickaBase":88,
         "magickaCurrent":88,
-        "fatigueBase":196,
-        "fatigueCurrent":196,
         "healthModified":66,
         "magickaModified":88,
         "fatigueModified":196,
-        "healthBase":66,
-        "healthCurrent":66,
-        "magickaBase":88
+        "fatigueCurrent":196,
+        "fatigueBase":196
       },
       "equipment":{
         "7":{
@@ -688,14 +688,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "8":{
-          "refId":"common_shirt_03",
+        "16":{
+          "refId":"imperial shortsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"imperial shortsword",
+        "8":{
+          "refId":"common_shirt_03",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -732,30 +732,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":12.728650093079,
-      "lastGoldRestockDay":19
+      "goldPool":0
     },
     "287927-0":{
       "refId":"anes hlaren",
       "location":{
+        "rotZ":5.8831849098206,
+        "rotY":0,
         "posX":-82470.625,
         "posY":124256.5703125,
         "posZ":1252.2103271484,
-        "rotX":0,
-        "rotZ":5.8831849098206,
-        "rotY":0
+        "rotX":0
       },
       "stats":{
+        "healthBase":101,
+        "healthCurrent":101,
+        "magickaBase":116,
         "magickaCurrent":116,
-        "fatigueBase":264,
-        "fatigueCurrent":264,
         "healthModified":101,
         "magickaModified":116,
         "fatigueModified":264,
-        "healthBase":101,
-        "healthCurrent":101,
-        "magickaBase":116
+        "fatigueCurrent":264,
+        "fatigueBase":264
       },
       "equipment":{
         "14":{
@@ -825,39 +825,39 @@
     "287924-0":{
       "refId":"vireveri darethran",
       "location":{
+        "rotZ":2.0260698795319,
+        "rotY":0,
         "posX":-88197.625,
         "posY":127901.1484375,
         "posZ":55.320686340332,
-        "rotX":0.014598159119487,
-        "rotY":0,
-        "rotZ":2.0260698795319
+        "rotX":0.014598159119487
       },
       "stats":{
+        "healthBase":61,
+        "healthCurrent":61,
+        "magickaBase":88,
         "magickaCurrent":88,
-        "fatigueBase":186,
-        "fatigueCurrent":186,
         "healthModified":61,
         "magickaModified":88,
         "fatigueModified":186,
-        "healthBase":61,
-        "healthCurrent":61,
-        "magickaBase":88
+        "fatigueCurrent":186,
+        "fatigueBase":186
       },
       "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
         "8":{
           "refId":"common_shirt_02_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"common_pants_04",
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"imperial shortsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -868,8 +868,8 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"imperial shortsword",
+        "9":{
+          "refId":"common_pants_04",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -906,35 +906,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":12.974960327148,
-      "lastGoldRestockDay":19
-    },
-    "76990-0":{
-      "refId":"slaughterfish_hr_sfavd",
-      "inventory":[],
-      "state":false
+      "goldPool":0
     },
     "287925-0":{
       "refId":"ganus lloryn",
       "location":{
+        "rotZ":-0.01557731628418,
+        "rotY":0,
         "posX":-88120.9921875,
         "posY":126983.7421875,
         "posZ":178.5,
-        "rotX":0.039539366960526,
-        "rotY":0,
-        "rotZ":-0.01557731628418
+        "rotX":0.039539366960526
       },
       "stats":{
+        "healthBase":74,
+        "healthCurrent":74,
+        "magickaBase":92,
         "magickaCurrent":92,
-        "fatigueBase":180,
-        "fatigueCurrent":180,
         "healthModified":74,
         "magickaModified":92,
         "fatigueModified":180,
-        "healthBase":74,
-        "healthCurrent":74,
-        "magickaBase":92
+        "fatigueCurrent":180,
+        "fatigueBase":180
       },
       "equipment":[null,null,null,null,null,null,{
           "refId":"common_shoes_05",
@@ -971,30 +966,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
+      "lastGoldRestockDay":19,
       "lastGoldRestockHour":12.853450775146,
-      "lastGoldRestockDay":19
+      "goldPool":0
     },
     "0-654":{
       "refId":"mudcrab",
       "location":{
+        "rotZ":0.94029784202576,
+        "rotY":0,
         "posX":-89842.6171875,
         "posY":124368.234375,
         "posZ":837.78472900391,
-        "rotX":0.37078809738159,
-        "rotY":0,
-        "rotZ":0.94029784202576
+        "rotX":0.37078809738159
       },
       "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
         "magickaCurrent":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":15,
         "magickaModified":5,
         "fatigueModified":400,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5
+        "fatigueCurrent":400,
+        "fatigueBase":400
       },
       "inventory":[]
     },
@@ -1161,6 +1156,11 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "76990-0":{
+      "refId":"slaughterfish_hr_sfavd",
+      "inventory":[],
+      "state":false
     }
   },
   "loadState":{

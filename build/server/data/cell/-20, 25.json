@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-20, 25",
@@ -28,16 +28,16 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "11537-0":{
-      "refId":"bm_wolf_caenlorn1",
-      "state":false
-    },
     "32996-0":{
       "refId":"bm_wolf_caenlorn2",
       "state":false
     },
     "11538-0":{
       "refId":"bm_wolf_caenlorn3",
+      "state":false
+    },
+    "11537-0":{
+      "refId":"bm_wolf_caenlorn1",
       "state":false
     }
   },

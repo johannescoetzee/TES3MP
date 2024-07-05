@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"Solstheim, Chamber of Song",
@@ -28,6 +28,10 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "32720-0":{
+      "refId":"act_bm_steam_06",
+      "state":false
+    },
     "32716-0":{
       "refId":"act_bm_steam_02",
       "state":false
@@ -40,16 +44,12 @@
       "refId":"act_bm_steam_01",
       "state":false
     },
-    "32719-0":{
-      "refId":"act_bm_steam_05",
-      "state":false
-    },
-    "32720-0":{
-      "refId":"act_bm_steam_06",
-      "state":false
-    },
     "32718-0":{
       "refId":"act_bm_steam_04",
+      "state":false
+    },
+    "32719-0":{
+      "refId":"act_bm_steam_05",
       "state":false
     }
   },

@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["295111-0"],
+    "actorList":[],
     "ai":[],
-    "cellChangeFrom":["295111-0"],
+    "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["295111-0"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["295111-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["295111-0"],
+    "position":[],
     "scale":[],
     "spawn":[],
     "state":[],
-    "statsDynamic":["295111-0"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["295111-0"]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-6, 16",
@@ -30,77 +30,9 @@
     "Fidgug":1719601119
   },
   "recordLinks":[],
-  "objectData":{
-    "295111-0":{
-      "refId":"fonus rathryon",
-      "location":{
-        "posX":-46579.6796875,
-        "posY":131563.078125,
-        "posZ":3707.9382324219,
-        "rotX":0.19992636144161,
-        "rotY":0,
-        "rotZ":2.7517716884613
-      },
-      "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":195,
-        "fatigueCurrent":195,
-        "healthModified":82,
-        "magickaModified":94,
-        "fatigueModified":195,
-        "healthBase":82,
-        "healthCurrent":82,
-        "magickaBase":94
-      },
-      "cellChangeFrom":"-5, 12",
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"common_shirt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":164,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "goldPool":0,
-      "lastGoldRestockHour":5.8149480819702,
-      "lastGoldRestockDay":17
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

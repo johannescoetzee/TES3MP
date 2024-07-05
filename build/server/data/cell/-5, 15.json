@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-5, 15",
@@ -30,10 +30,9 @@
     "Fidgug":1719600198
   },
   "recordLinks":[],
-  "objectData":{
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

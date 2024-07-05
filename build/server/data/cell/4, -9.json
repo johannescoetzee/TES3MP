@@ -18,8 +18,8 @@
     "statsDynamic":["341026-0","0-355"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"4, -9",
@@ -31,99 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "341026-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":39709.6171875,
-        "posY":-73287.9140625,
-        "posZ":-110.91421508789,
-        "rotX":-0.16035097837448,
-        "rotZ":-1.8909819126129,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-355":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":40028.18359375,
-        "posY":-65598.375,
-        "posZ":837.13067626953,
-        "rotX":-0.12733781337738,
-        "rotZ":-1.8092424869537,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "459271-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "459280-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "297836-0":{
-      "refId":"dreamer_talker11",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
-    },
     "460166-0":{
       "refId":"kollop_03_pearl",
       "inventory":[]
@@ -172,6 +79,29 @@
           "soul":""
         }]
     },
+    "297836-0":{
+      "refId":"dreamer_talker11",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
+    },
     "478092-0":{
       "refId":"flora_heather_01",
       "inventory":[{
@@ -181,6 +111,76 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "341026-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "rotZ":-1.8909819126129,
+        "rotY":0,
+        "posX":39709.6171875,
+        "posY":-73287.9140625,
+        "posZ":-110.91421508789,
+        "rotX":-0.16035097837448
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueModified":400,
+        "fatigueCurrent":400,
+        "fatigueBase":400
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-355":{
+      "refId":"kwama forager",
+      "location":{
+        "rotZ":-1.8092424869537,
+        "rotY":0,
+        "posX":40028.18359375,
+        "posY":-65598.375,
+        "posZ":837.13067626953,
+        "rotX":-0.12733781337738
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "fatigueCurrent":300,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "459271-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "459280-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
     }
   },
   "loadState":{

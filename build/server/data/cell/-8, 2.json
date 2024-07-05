@@ -18,8 +18,8 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-8, 2",
@@ -28,16 +28,16 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "288984-0":{
-      "refId":"vala herennius",
+    "288985-0":{
+      "refId":"farvyn oreyn",
       "state":false
     },
     "288983-0":{
       "refId":"dreynis nothro",
       "state":false
     },
-    "288985-0":{
-      "refId":"farvyn oreyn",
+    "288984-0":{
+      "refId":"vala herennius",
       "state":false
     },
     "482626-0":{

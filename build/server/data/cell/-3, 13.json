@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["0-1046"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["300339-0","0-1046"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1046"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1046"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-1046"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-3, 13",
@@ -30,43 +30,9 @@
     "Fidgug":1719599191
   },
   "recordLinks":[],
-  "objectData":{
-    "300339-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1046":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posX":-16581.712890625,
-        "posY":113994.453125,
-        "posZ":5360.9462890625,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":1.1106064319611
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":170,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20
-      },
-      "inventory":[]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }

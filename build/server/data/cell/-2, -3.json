@@ -18,8 +18,8 @@
     "statsDynamic":["377937-0","0-321","0-72"],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["377937-0"]
+    "miscellaneous":["377937-0"],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-2, -3",
@@ -31,101 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "377937-0":{
-      "refId":"itermerel",
-      "location":{
-        "posX":-10746.5859375,
-        "posY":-18873.55078125,
-        "posZ":600.54046630859,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":4.8431849479675
-      },
-      "stats":{
-        "magickaCurrent":132.5714263916,
-        "fatigueBase":241,
-        "fatigueCurrent":209.58851623535,
-        "healthModified":84,
-        "magickaModified":164,
-        "fatigueModified":241,
-        "healthBase":84,
-        "healthCurrent":0,
-        "magickaBase":164
-      },
-      "cellChangeFrom":"Balmora, Eight Plates",
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"silver sparkblade",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_robe_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false,
-      "deathState":39,
-      "goldPool":0,
-      "lastGoldRestockHour":6.3862047195435,
-      "lastGoldRestockDay":11,
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "spellsActive":{
-      }
-    },
-    "0-72":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-13005.224609375,
-        "posY":-21983.716796875,
-        "posZ":1856.3128662109,
-        "rotX":-0.12267302721739,
-        "rotY":0,
-        "rotZ":0.74275016784668
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "323908-0":{
       "refId":"flora_roobrush_02",
       "inventory":[]
@@ -200,23 +105,23 @@
     "0-321":{
       "refId":"nix-hound",
       "location":{
+        "rotZ":2.7574770450592,
+        "rotY":0,
         "posX":-10935.690429688,
         "posY":-18641.525390625,
         "posZ":611.49633789063,
-        "rotX":-0.19631138443947,
-        "rotY":0,
-        "rotZ":2.7574770450592
+        "rotX":-0.19631138443947
       },
       "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
         "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
         "healthModified":23,
         "magickaModified":10,
         "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10
+        "fatigueCurrent":400,
+        "fatigueBase":400
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -225,10 +130,105 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
+      }
+    },
+    "377937-0":{
+      "refId":"itermerel",
+      "location":{
+        "rotZ":4.8431849479675,
+        "rotY":0,
+        "posX":-10746.5859375,
+        "posY":-18873.55078125,
+        "posZ":600.54046630859,
+        "rotX":0
       },
-      "deathState":38
+      "stats":{
+        "healthBase":84,
+        "healthCurrent":0,
+        "magickaBase":164,
+        "magickaCurrent":132.5714263916,
+        "healthModified":84,
+        "magickaModified":164,
+        "fatigueModified":241,
+        "fatigueCurrent":209.58851623535,
+        "fatigueBase":241
+      },
+      "cellChangeFrom":"Balmora, Eight Plates",
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"silver sparkblade",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "11":{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":39,
+      "goldPool":0,
+      "lastGoldRestockHour":6.3862047195435,
+      "lastGoldRestockDay":11,
+      "state":false,
+      "spellsActive":{
+      },
+      "killer":{
+        "playerName":"Benoit"
+      }
+    },
+    "0-72":{
+      "refId":"kwama forager",
+      "location":{
+        "rotZ":0.74275016784668,
+        "rotY":0,
+        "posX":-13005.224609375,
+        "posY":-21983.716796875,
+        "posZ":1856.3128662109,
+        "rotX":-0.12267302721739
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaCurrent":15,
+        "healthModified":23,
+        "magickaModified":15,
+        "fatigueModified":300,
+        "fatigueCurrent":300,
+        "fatigueBase":300
+      },
+      "inventory":[{
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{

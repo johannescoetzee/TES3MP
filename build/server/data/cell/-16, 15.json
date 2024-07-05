@@ -1,29 +1,29 @@
 {
   "packets":{
-    "actorList":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "actorList":["0-1460","0-1456","0-1457","0-1459","0-1455","0-1458"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "container":["0-1460","0-1456","0-1457","0-1459","0-1455","0-1458"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "position":["0-1456","0-1457","0-1459","0-1460","0-1455","0-1458"],
     "scale":[],
-    "spawn":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "spawn":["0-1460","0-1456","0-1457","0-1459","0-1455","0-1458"],
     "state":[],
-    "statsDynamic":["0-1420","0-1422","0-1423","0-1419","0-1418"],
+    "statsDynamic":["0-1456","0-1457","0-1459","0-1460","0-1455"],
     "trap":[],
     "clientScriptLocal":[],
     "miscellaneous":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-14, 15",
-    "creationTime":1719603427
+    "description":"-16, 15",
+    "creationTime":1720203280
   },
   "lastVisit":{
     "Benoit":1720203443,
@@ -31,14 +31,14 @@
   },
   "recordLinks":[],
   "objectData":{
-    "0-1420":{
+    "0-1460":{
       "refId":"dreugh",
       "location":{
-        "rotZ":2.0171339511871,
+        "rotZ":0,
         "rotY":0,
-        "posX":-111255.6796875,
-        "posY":125528.5703125,
-        "posZ":-681.88635253906,
+        "posX":-130904.3515625,
+        "posY":129998.5078125,
+        "posZ":-736.0869140625,
         "rotX":0
       },
       "stats":{
@@ -60,14 +60,14 @@
           "soul":""
         }]
     },
-    "0-1422":{
+    "0-1455":{
       "refId":"slaughterfish_small",
       "location":{
-        "rotZ":2.4796431064606,
+        "rotZ":0.89422249794006,
         "rotY":0,
-        "posX":-111494.828125,
-        "posY":126863.8515625,
-        "posZ":-740.14910888672,
+        "posX":-127666.96875,
+        "posY":123490.296875,
+        "posZ":-685.703125,
         "rotX":0
       },
       "stats":{
@@ -76,7 +76,7 @@
         "magickaBase":10,
         "magickaCurrent":10,
         "healthModified":15,
-        "fatigueCurrent":299.98126220703,
+        "fatigueCurrent":299.99374389648,
         "fatigueModified":300,
         "fatigueBase":300,
         "magickaModified":10
@@ -89,67 +89,85 @@
           "soul":""
         }]
     },
-    "0-1419":{
-      "refId":"dreugh",
+    "0-1456":{
+      "refId":"slaughterfish",
       "location":{
-        "rotZ":3.0781700611115,
+        "rotZ":-2.8105108737946,
         "rotY":0,
-        "posX":-111274.6328125,
-        "posY":123411.875,
-        "posZ":-635.50744628906,
-        "rotX":0.00054739881306887
+        "posX":-125117.046875,
+        "posY":128722.7265625,
+        "posZ":-1271.6539306641,
+        "rotX":0
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
         "fatigueCurrent":400,
         "fatigueModified":400,
         "fatigueBase":400,
-        "magickaModified":75
+        "magickaModified":10
       },
       "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
+          "refId":"ingred_scales_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "0-1423":{
-      "refId":"dreugh",
+    "0-1457":{
+      "refId":"slaughterfish",
       "location":{
-        "rotZ":-2.0286381244659,
+        "rotZ":-2.9676673412323,
         "rotY":0,
-        "posX":-113850.359375,
-        "posY":125374.265625,
-        "posZ":-240.49848937988,
-        "rotX":0
+        "posX":-126069.1328125,
+        "posY":124959.96875,
+        "posZ":-1422.0799560547,
+        "rotX":-3.1208619475365e-06
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "healthModified":23,
         "fatigueCurrent":400,
         "fatigueModified":400,
         "fatigueBase":400,
-        "magickaModified":75
+        "magickaModified":10
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1458":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "rotZ":0.71722865104675,
+        "rotY":0,
+        "posX":-123157.0625,
+        "posY":126267.484375,
+        "posZ":-1257.3020019531,
+        "rotX":0.0051044756546617
       },
       "inventory":[]
     },
-    "0-1418":{
+    "0-1459":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":0.74711632728577,
+        "rotZ":-1.8865430355072,
         "rotY":0,
-        "posX":-106694.3515625,
-        "posY":128528.171875,
-        "posZ":-496.58618164063,
-        "rotX":-1.885462552309e-05
+        "posX":-128874.6328125,
+        "posY":126184.9140625,
+        "posZ":-791.88854980469,
+        "rotX":0
       },
       "stats":{
         "healthBase":23,

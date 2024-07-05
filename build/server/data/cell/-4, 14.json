@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["0-585"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-585"],
-    "death":["0-585"],
+    "container":[],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-585"],
+    "position":[],
     "scale":[],
-    "spawn":["0-585"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-585"],
+    "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "miscellaneous":[],
+    "spellsActive":[]
   },
   "entry":{
     "description":"-4, 14",
@@ -30,38 +30,9 @@
     "Fidgug":1719599742
   },
   "recordLinks":[],
-  "objectData":{
-    "0-585":{
-      "refId":"kagouti",
-      "location":{
-        "posX":-25493.45703125,
-        "posY":121456.546875,
-        "posZ":786.77557373047,
-        "rotX":0.10602642595768,
-        "rotY":0,
-        "rotZ":1.7964370250702
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":10
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Benoit"
-      },
-      "spellsActive":[],
-      "deathState":39
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullActorList":false,
+    "hasFullContainerData":false
   }
 }
