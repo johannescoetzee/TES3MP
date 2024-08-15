@@ -17,23 +17,23 @@
     "state":["25977-0","23702-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-22, 23",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"-22, 23"
   },
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "23702-0":{
-      "refId":"sattir the bold",
-      "state":false
-    },
     "25977-0":{
       "refId":"rolf long-tooth",
+      "state":false
+    },
+    "23702-0":{
+      "refId":"sattir the bold",
       "state":false
     }
   },

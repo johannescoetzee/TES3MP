@@ -1,0 +1,41 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[],
+    "spellsActive":[]
+  },
+  "entry":{
+    "description":"Valenvaryon, Propylon Chamber",
+    "creationTime":1723750811
+  },
+  "lastVisit":{
+    "Benoit":1723751219,
+    "Fidgug":1723751211
+  },
+  "recordLinks":{
+    "potion":{
+    }
+  },
+  "objectData":[],
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

@@ -1,36 +1,66 @@
 {
   "packets":{
-    "actorList":["0-965","0-966","0-967","0-968","0-969","0-970","0-954"],
+    "actorList":["0-965","0-967","0-968","0-969","0-970"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["283811-0","283822-0","283846-0","318848-0","325168-0","325169-0","325170-0","325171-0","325172-0","325173-0","325174-0","325175-0","325176-0","325182-0","325183-0","325194-0","0-965","0-966","0-967","0-968","0-969","0-970","0-954"],
-    "death":[],
+    "container":["283811-0","283822-0","283846-0","318848-0","325168-0","325169-0","325170-0","325171-0","325172-0","325173-0","325174-0","325175-0","325176-0","325182-0","325183-0","325194-0","0-965","0-967","0-968","0-969","0-970"],
+    "death":["0-967","0-968","0-965"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-965","0-966","0-967","0-968","0-969","0-970","0-954"],
+    "position":["0-965","0-967","0-968","0-969","0-970"],
     "scale":[],
-    "spawn":["0-965","0-966","0-967","0-968","0-969","0-970","0-954"],
+    "spawn":["0-965","0-967","0-968","0-969","0-970"],
     "state":[],
-    "statsDynamic":["0-965","0-966","0-967","0-968","0-969","0-970","0-954"],
+    "statsDynamic":["0-965","0-967","0-968","0-969","0-970"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":["0-965"]
   },
   "entry":{
     "description":"2, 21",
     "creationTime":1717186843
   },
   "lastVisit":{
-    "Fidgug":1717187141,
-    "Benoit":1717187105
+    "Benoit":1723750152,
+    "Fidgug":1723750151
   },
   "recordLinks":[],
   "objectData":{
+    "318848-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "325168-0":{
+      "refId":"flora_black_anther_01",
+      "inventory":[{
+          "refId":"ingred_black_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "325169-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[{
+          "refId":"ingred_gold_kanet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "325170-0":{
       "refId":"flora_green_lichen_01",
       "inventory":[{
@@ -81,35 +111,6 @@
           "soul":""
         }]
     },
-    "0-968":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":22808.279296875,
-        "posY":174640.703125,
-        "posZ":1819.6225585938,
-        "rotX":0.0019130725413561,
-        "rotZ":0.27706956863403,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "325175-0":{
       "refId":"flora_willow_flower_02",
       "inventory":[{
@@ -154,78 +155,70 @@
           "soul":""
         }]
     },
-    "0-970":{
-      "refId":"cliff racer",
+    "0-965":{
+      "refId":"scamp",
       "location":{
-        "posX":17429.681640625,
-        "posY":178478.84375,
-        "posZ":939.07080078125,
-        "rotX":0.0066547431051731,
-        "rotZ":-2.8700006008148,
-        "rotY":0
+        "posY":174972.96875,
+        "posZ":571.05352783203,
+        "rotX":-0.083725459873676,
+        "rotZ":3.0655319690704,
+        "rotY":0,
+        "posX":24109.2109375
       },
       "stats":{
-        "magickaCurrent":20,
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":100,
+        "magickaModified":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
+        "magickaCurrent":100,
+        "healthModified":45
       },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-969":{
-      "refId":"scrib",
-      "location":{
-        "posX":19639.525390625,
-        "posY":177654.65625,
-        "posZ":833.38629150391,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+      "inventory":[],
+      "spellsActive":{
+        "cloudcleaver_unique":[{
+            "startTime":1723749938,
+            "stackingState":false,
+            "displayName":"Cloudcleaver",
+            "effects":[{
+                "id":15,
+                "timeLeft":1,
+                "magnitude":5.450840473175,
+                "arg":-1,
+                "duration":1
+              }],
+            "caster":{
+              "playerName":"Fidgug"
+            }
+          }]
       },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
-      },
-      "inventory":[]
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     },
     "0-967":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":23171.0546875,
-        "posY":172984.171875,
-        "posZ":151.46450805664,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posY":172887.6875,
+        "posZ":102.86630249023,
+        "rotX":0.57726085186005,
+        "rotZ":-2.7179539203644,
+        "rotY":0,
+        "posX":23253.474609375
       },
       "stats":{
-        "magickaCurrent":5,
-        "fatigueBase":25,
-        "fatigueCurrent":25,
-        "fatigueModified":25,
-        "magickaBase":5,
-        "healthModified":15,
         "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
+        "healthCurrent":0,
+        "magickaBase":5,
+        "magickaModified":5,
+        "fatigueBase":55,
+        "fatigueCurrent":52.581005096436,
+        "fatigueModified":55,
+        "magickaCurrent":5,
+        "healthModified":15
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -233,58 +226,85 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "deathState":39,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     },
-    "0-966":{
+    "0-968":{
       "refId":"cliff racer",
       "location":{
-        "posX":22219.103515625,
-        "posY":172736.25,
-        "posZ":187.82162475586,
-        "rotX":-0.004863103851676,
-        "rotZ":-1.7148540019989,
-        "rotY":0
+        "posY":173189.6875,
+        "posZ":341.18817138672,
+        "rotX":1.1847176551819,
+        "rotZ":-1.0115435123444,
+        "rotY":0,
+        "posX":23193.26171875
       },
       "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
+        "healthBase":45,
+        "healthCurrent":0,
         "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
-      },
-      "inventory":[]
-    },
-    "0-965":{
-      "refId":"scamp",
-      "location":{
-        "posX":24027.0546875,
-        "posY":176127.578125,
-        "posZ":746.08551025391,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":100,
+        "magickaModified":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-969":{
+      "refId":"scrib",
+      "location":{
+        "posY":178188.828125,
+        "posZ":751.68267822266,
+        "rotX":0.52599316835403,
+        "rotZ":0.23175954818726,
+        "rotY":0,
+        "posX":19418.818359375
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[]
     },
-    "325169-0":{
-      "refId":"flora_gold_kanet_01",
+    "0-970":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":177891.40625,
+        "posZ":944.37719726563,
+        "rotX":0.027669038623571,
+        "rotZ":-3.039021730423,
+        "rotY":0,
+        "posX":16674.462890625
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
       "inventory":[{
-          "refId":"ingred_gold_kanet_01",
+          "refId":"ingred_racer_plumes_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -310,55 +330,6 @@
       "inventory":[{
           "refId":"ingred_kresh_fiber_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "318848-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "325168-0":{
-      "refId":"flora_black_anther_01",
-      "inventory":[{
-          "refId":"ingred_black_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-954":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":17225.822265625,
-        "posY":180167.265625,
-        "posZ":-303.66275024414,
-        "rotX":0,
-        "rotZ":0.94721293449402,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.99417114258,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

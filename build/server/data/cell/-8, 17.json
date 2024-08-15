@@ -1,56 +1,56 @@
 {
   "packets":{
-    "actorList":["0-617","0-620","0-614","0-616"],
+    "actorList":["0-617","0-620","0-614","0-616","0-619","0-615"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["333743-0","333744-0","474890-0","474891-0","474892-0","474893-0","474894-0","474895-0","474896-0","474897-0","474898-0","474899-0","474900-0","474901-0","474902-0","474904-0","474907-0","474908-0","474909-0","474910-0","474911-0","474912-0","474913-0","474914-0","474915-0","474916-0","474917-0","474918-0","474919-0","474920-0","474921-0","0-617","0-620","0-614","0-616"],
+    "container":["333743-0","333744-0","474890-0","474891-0","474892-0","474893-0","474894-0","474895-0","474896-0","474897-0","474898-0","474899-0","474900-0","474901-0","474902-0","474904-0","474907-0","474908-0","474909-0","474910-0","474911-0","474912-0","474913-0","474914-0","474915-0","474916-0","474917-0","474918-0","474919-0","474920-0","474921-0","0-617","0-620","0-614","0-616","0-619","0-615"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-614","0-616","0-617","0-620"],
+    "position":["0-614","0-616","0-617","0-620","0-619","0-615"],
     "scale":[],
-    "spawn":["0-617","0-620","0-614","0-616"],
+    "spawn":["0-617","0-620","0-614","0-616","0-619","0-615"],
     "state":[],
-    "statsDynamic":["0-614","0-616","0-617","0-620"],
+    "statsDynamic":["0-614","0-616","0-617","0-620","0-619","0-615"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-8, 17",
     "creationTime":1716738258
   },
   "lastVisit":{
-    "Benoit":1719600255,
-    "Fidgug":1719600254
+    "Benoit":1723747150,
+    "Fidgug":1723747147
   },
   "recordLinks":[],
   "objectData":{
     "0-617":{
       "refId":"nix-hound",
       "location":{
-        "posX":-62439.6796875,
-        "posY":140715.03125,
-        "posZ":920.17425537109,
+        "posY":140714.6875,
+        "posZ":920.15283203125,
         "rotX":0.18978074193001,
+        "rotZ":-0.78481388092041,
         "rotY":0,
-        "rotZ":-0.78481388092041
+        "posX":-62439.68359375
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -63,69 +63,69 @@
     "0-620":{
       "refId":"scrib",
       "location":{
-        "posX":-58544.453125,
         "posY":142386.15625,
         "posZ":776.58203125,
         "rotX":-0.11448725312948,
+        "rotZ":-1.0662653446198,
         "rotY":0,
-        "rotZ":-1.0662653446198
+        "posX":-58544.453125
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[]
     },
     "0-614":{
       "refId":"kwama forager",
       "location":{
-        "posX":-60453.0234375,
-        "posY":144571.28125,
-        "posZ":962.07922363281,
-        "rotX":-0.10062801837921,
+        "posY":144614.5625,
+        "posZ":890.69232177734,
+        "rotX":0.45212045311928,
+        "rotZ":-1.2243711948395,
         "rotY":0,
-        "rotZ":2.5773785114288
+        "posX":-61356.34765625
       },
       "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":15
+        "magickaBase":15,
+        "magickaModified":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "healthModified":23
       },
       "inventory":[]
     },
     "0-616":{
       "refId":"scrib",
       "location":{
-        "posX":-58539.4296875,
-        "posY":143452.375,
-        "posZ":524.55145263672,
-        "rotX":0.73822748661041,
+        "posY":143062.953125,
+        "posZ":629.76324462891,
+        "rotX":0.12545646727085,
+        "rotZ":1.0824754238129,
         "rotY":0,
-        "rotZ":-0.41155600547791
+        "posX":-58736.8515625
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -410,6 +410,64 @@
       "inventory":[{
           "refId":"ingred_green_lichen_01",
           "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-615":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":147429,
+        "posZ":-342.12634277344,
+        "rotX":4.2777508497238e-05,
+        "rotZ":-1.7980129718781,
+        "rotY":0,
+        "posX":-59029.53125
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":399.98358154297,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-619":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":141031.84375,
+        "posZ":-232.87461853027,
+        "rotX":0.10015466809273,
+        "rotZ":2.7629044055939,
+        "rotY":0,
+        "posX":-65501.8671875
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

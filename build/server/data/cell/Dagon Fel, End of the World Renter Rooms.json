@@ -1,0 +1,37 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[],
+    "spellsActive":[]
+  },
+  "entry":{
+    "description":"Dagon Fel, End of the World Renter Rooms",
+    "creationTime":1723746349
+  },
+  "lastVisit":{
+    "Fidgug":1723746505
+  },
+  "recordLinks":[],
+  "objectData":[],
+  "loadState":{
+    "hasFullActorList":false,
+    "hasFullContainerData":false
+  }
+}

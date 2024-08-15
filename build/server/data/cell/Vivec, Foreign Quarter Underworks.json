@@ -17,13 +17,13 @@
     "state":["283175-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, Foreign Quarter Underworks",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, Foreign Quarter Underworks"
   },
   "lastVisit":[],
   "recordLinks":[],

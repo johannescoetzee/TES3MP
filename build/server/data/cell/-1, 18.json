@@ -5,52 +5,52 @@
     "cellChangeFrom":[],
     "cellChangeTo":[],
     "container":["177645-0","177646-0","296765-0","118441-0","118442-0","118444-0","118445-0","118443-0"],
-    "death":[],
+    "death":["118441-0","118444-0","118443-0","118442-0"],
     "delete":[],
     "doorState":[],
     "equipment":["118441-0","118442-0","118444-0","118443-0","118445-0"],
     "lock":[],
-    "place":[],
+    "place":["0-1727","0-1728","0-1729","0-1730","0-1731"],
     "position":["118441-0","118442-0","118443-0","118444-0","118445-0"],
     "scale":[],
     "spawn":[],
     "state":[],
     "statsDynamic":["118441-0","118442-0","118443-0","118444-0","118445-0"],
     "trap":[],
+    "miscellaneous":["118445-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":["118443-0"]
   },
   "entry":{
     "description":"-1, 18",
     "creationTime":1717182945
   },
   "lastVisit":{
-    "Benoit":1717183101,
-    "Fidgug":1717183081
+    "Benoit":1723751520,
+    "Fidgug":1723751516
   },
   "recordLinks":[],
   "objectData":{
     "118443-0":{
       "refId":"bumbub gro-murgol",
       "location":{
-        "posX":-3776.4438476563,
-        "posY":153797.609375,
-        "posZ":2326.7998046875,
-        "rotX":-0.061383076012135,
-        "rotZ":-1.83358502388,
-        "rotY":0
+        "posY":151615.859375,
+        "posZ":2329.0002441406,
+        "rotX":-0.030800381675363,
+        "rotZ":-1.9292256832123,
+        "rotY":0,
+        "posX":-4435.2338867188
       },
       "stats":{
-        "magickaCurrent":84,
-        "fatigueBase":258,
-        "fatigueCurrent":258,
-        "fatigueModified":258,
-        "magickaBase":84,
-        "healthModified":91,
         "healthBase":91,
-        "healthCurrent":91,
-        "magickaModified":84
+        "healthCurrent":0,
+        "magickaBase":84,
+        "magickaModified":84,
+        "fatigueBase":258,
+        "fatigueCurrent":251.89025878906,
+        "fatigueModified":258,
+        "magickaCurrent":17,
+        "healthModified":91
       },
       "equipment":{
         "11":{
@@ -68,7 +68,7 @@
         "16":{
           "refId":"steel battle axe",
           "count":1,
-          "charge":-1,
+          "charge":1799,
           "enchantmentCharge":-1
         },
         "9":{
@@ -99,143 +99,53 @@
         },{
           "refId":"steel battle axe",
           "count":1,
-          "charge":-1,
+          "charge":1799,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "118441-0":{
-      "refId":"kharzug gra-gat",
-      "location":{
-        "posX":-3920.1943359375,
-        "posY":152507.140625,
-        "posZ":2326.4736328125,
-        "rotX":-0.081707544624805,
-        "rotZ":1.874630689621,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":108,
-        "fatigueBase":326,
-        "fatigueCurrent":326,
-        "fatigueModified":326,
-        "magickaBase":108,
-        "healthModified":202,
-        "healthBase":202,
-        "healthCurrent":202,
-        "magickaModified":108
-      },
-      "equipment":[{
-          "refId":"orcish_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"orcish_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,null,null,null,null,null,null,{
-          "refId":"orcish battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
         }],
-      "inventory":[{
-          "refId":"orcish_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_pauldron_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_pauldron_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"orcish battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":40,
+      "spellsActive":{
+        "frost_shield":[{
+            "caster":{
+              "refId":"bumbub gro-murgol",
+              "uniqueIndex":"118443-0"
+            },
+            "stackingState":false,
+            "displayName":"Frost Shield",
+            "effects":[{
+                "id":6,
+                "timeLeft":30,
+                "magnitude":6,
+                "arg":-1,
+                "duration":30
+              }],
+            "startTime":1723750735
+          }]
+      }
     },
     "118445-0":{
       "refId":"yadba gro-khash",
       "location":{
-        "posX":-6251.9248046875,
-        "posY":153109.1875,
+        "posY":152809.90625,
         "posZ":2329,
-        "rotX":-0.061306748539209,
-        "rotZ":0.78131437301636,
-        "rotY":0
+        "rotX":-0.061522923409939,
+        "rotZ":1.2182734012604,
+        "rotY":0,
+        "posX":-6195.5405273438
       },
       "stats":{
-        "magickaCurrent":84,
+        "healthBase":133,
+        "healthCurrent":133,
+        "magickaBase":84,
+        "magickaModified":84,
         "fatigueBase":271,
         "fatigueCurrent":271,
         "fatigueModified":271,
-        "magickaBase":84,
-        "healthModified":133,
-        "healthBase":133,
-        "healthCurrent":133,
-        "magickaModified":84
+        "magickaCurrent":84,
+        "healthModified":133
       },
       "equipment":[{
           "refId":"steel_cuirass",
@@ -348,34 +258,124 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
+        }],
+      "lastGoldRestockHour":19.453413009644,
+      "goldPool":0,
+      "lastGoldRestockDay":35
+    },
+    "177645-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
         }]
+    },
+    "177646-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296765-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1727":{
+      "refId":"orcish_bracer_left",
+      "location":{
+        "posY":149279.640625,
+        "posZ":1814.5050048828,
+        "rotX":0,
+        "rotZ":0.11715292930603,
+        "rotY":0,
+        "posX":-4116.1645507813
+      }
+    },
+    "0-1728":{
+      "refId":"expensive_robe_03",
+      "location":{
+        "posY":149278.15625,
+        "posZ":1807.5394287109,
+        "rotX":0,
+        "rotZ":0.11715292930603,
+        "rotY":0,
+        "posX":-4103.4877929688
+      }
+    },
+    "0-1729":{
+      "refId":"common_amulet_01",
+      "location":{
+        "posY":149302,
+        "posZ":1804.6124267578,
+        "rotX":0,
+        "rotZ":0.11715292930603,
+        "rotY":0,
+        "posX":-4089.8759765625
+      }
+    },
+    "0-1730":{
+      "refId":"expensive_amulet_02",
+      "location":{
+        "posY":149280.703125,
+        "posZ":1801.8732910156,
+        "rotX":0,
+        "rotZ":0.11715292930603,
+        "rotY":0,
+        "posX":-4090.0375976563
+      }
+    },
+    "0-1731":{
+      "refId":"wild vipersword",
+      "charge":994,
+      "enchantmentCharge":50,
+      "location":{
+        "posY":149279.25,
+        "posZ":1799.1918945313,
+        "rotX":0,
+        "rotZ":0.11715292930603,
+        "rotY":0,
+        "posX":-4076.2958984375
+      }
     },
     "118442-0":{
       "refId":"yam gro-muzgur",
       "location":{
-        "posX":-2734.9953613281,
-        "posY":152968.375,
-        "posZ":2329,
-        "rotX":-0.086813285946846,
-        "rotZ":1.0312650203705,
-        "rotY":0
+        "posY":151084.90625,
+        "posZ":2307.4541015625,
+        "rotX":-0.036877810955048,
+        "rotZ":0.079086780548096,
+        "rotY":0,
+        "posX":-4390.4931640625
       },
       "stats":{
-        "magickaCurrent":68,
-        "fatigueBase":238,
-        "fatigueCurrent":238,
-        "fatigueModified":238,
-        "magickaBase":68,
-        "healthModified":100,
         "healthBase":100,
-        "healthCurrent":100,
-        "magickaModified":68
+        "healthCurrent":0,
+        "magickaBase":68,
+        "magickaModified":68,
+        "fatigueBase":238,
+        "fatigueCurrent":213.88702392578,
+        "fatigueModified":238,
+        "magickaCurrent":68,
+        "healthModified":100
       },
       "equipment":{
         "1":{
           "refId":"iron_cuirass",
           "count":1,
-          "charge":-1,
+          "charge":1992,
           "enchantmentCharge":-1
         },
         "2":{
@@ -399,13 +399,13 @@
         "7":{
           "refId":"iron boots",
           "count":1,
-          "charge":-1,
+          "charge":442,
           "enchantmentCharge":-1
         },
         "16":{
           "refId":"iron battle axe",
           "count":1,
-          "charge":-1,
+          "charge":1192,
           "enchantmentCharge":-1
         }
       },
@@ -424,7 +424,7 @@
         },{
           "refId":"iron boots",
           "count":1,
-          "charge":-1,
+          "charge":442,
           "enchantmentCharge":-1,
           "soul":""
         },{
@@ -436,37 +436,143 @@
         },{
           "refId":"iron_cuirass",
           "count":1,
-          "charge":-1,
+          "charge":1992,
           "enchantmentCharge":-1,
           "soul":""
         },{
           "refId":"iron battle axe",
           "count":1,
+          "charge":1192,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
+    },
+    "118441-0":{
+      "refId":"kharzug gra-gat",
+      "location":{
+        "posY":149238.765625,
+        "posZ":1792.8511962891,
+        "rotX":0.05908328294754,
+        "rotZ":-2.8590734004974,
+        "rotY":0,
+        "posX":-4038.6198730469
+      },
+      "stats":{
+        "healthBase":202,
+        "healthCurrent":0,
+        "magickaBase":108,
+        "magickaModified":108,
+        "fatigueBase":326,
+        "fatigueCurrent":326,
+        "fatigueModified":326,
+        "magickaCurrent":108,
+        "healthModified":202
+      },
+      "equipment":{
+        "1":{
+          "refId":"orcish_cuirass",
+          "count":1,
+          "charge":871,
+          "enchantmentCharge":-1
+        },
+        "2":{
+          "refId":"orcish_greaves",
+          "count":1,
+          "charge":298,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"orcish_pauldron_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"orcish_pauldron_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"orcish_bracer_right",
+          "count":1,
+          "charge":125,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"orcish_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"orcish battle axe",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"orcish_bracer_right",
+          "count":1,
+          "charge":125,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_boots",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        },{
+          "refId":"orcish_greaves",
+          "count":1,
+          "charge":298,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish_cuirass",
+          "count":1,
+          "charge":871,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"orcish battle axe",
+          "count":1,
+          "charge":2366,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":42,
+      "spellsActive":[]
     },
     "118444-0":{
       "refId":"urzul gra-agum",
       "location":{
-        "posX":-3888.986328125,
-        "posY":154179.703125,
-        "posZ":2327.0087890625,
-        "rotX":-0.10039743036032,
-        "rotZ":-1.7734453678131,
-        "rotY":0
+        "posY":151617.796875,
+        "posZ":2329.0002441406,
+        "rotX":-0.10139061510563,
+        "rotZ":3.0666949748993,
+        "rotY":0,
+        "posX":-4412.0336914063
       },
       "stats":{
-        "magickaCurrent":80,
-        "fatigueBase":195,
-        "fatigueCurrent":195,
-        "fatigueModified":195,
-        "magickaBase":80,
-        "healthModified":57,
         "healthBase":57,
-        "healthCurrent":57,
-        "magickaModified":80
+        "healthCurrent":0,
+        "magickaBase":80,
+        "magickaModified":80,
+        "fatigueBase":195,
+        "fatigueCurrent":177.44784545898,
+        "fatigueModified":195,
+        "magickaCurrent":80,
+        "healthModified":57
       },
       "equipment":{
         "0":{
@@ -478,13 +584,13 @@
         "1":{
           "refId":"orcish_cuirass",
           "count":1,
-          "charge":-1,
+          "charge":874,
           "enchantmentCharge":-1
         },
         "2":{
           "refId":"orcish_greaves",
           "count":1,
-          "charge":-1,
+          "charge":274,
           "enchantmentCharge":-1
         },
         "3":{
@@ -557,7 +663,7 @@
         },{
           "refId":"orcish_greaves",
           "count":1,
-          "charge":-1,
+          "charge":274,
           "enchantmentCharge":-1,
           "soul":""
         },{
@@ -575,7 +681,7 @@
         },{
           "refId":"orcish_cuirass",
           "count":1,
-          "charge":-1,
+          "charge":874,
           "enchantmentCharge":-1,
           "soul":""
         },{
@@ -590,37 +696,11 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
-    },
-    "177645-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "177646-0":{
-      "refId":"tramaroot_05",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296765-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":41
     }
   },
   "loadState":{

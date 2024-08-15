@@ -17,13 +17,13 @@
     "state":["297835-0"],
     "statsDynamic":["262181-0","262182-0","262183-0","428715-0","428716-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":["262181-0"],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"6, -7",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"6, -7"
   },
   "lastVisit":{
     "Benoit":1715365561,
@@ -31,30 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "262117-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[{
-          "refId":"ingred_gold_kanet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "262118-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "262119-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
     "297835-0":{
       "refId":"dreamer_talker12",
       "inventory":[{
@@ -81,23 +57,23 @@
     "262182-0":{
       "refId":"bula gra-muk",
       "location":{
-        "rotZ":-0.7271773815155,
-        "rotY":0,
-        "posX":55963.03125,
         "posY":-52488.875,
         "posZ":881.13812255859,
-        "rotX":-0.0086931446567178
+        "rotX":-0.0086931446567178,
+        "rotZ":-0.7271773815155,
+        "rotY":0,
+        "posX":55963.03125
       },
       "stats":{
         "healthBase":202,
         "healthCurrent":202,
-        "magickaBase":108,
-        "magickaCurrent":108,
         "healthModified":202,
         "magickaModified":108,
-        "fatigueModified":326,
+        "fatigueBase":326,
         "fatigueCurrent":326,
-        "fatigueBase":326
+        "magickaCurrent":108,
+        "magickaBase":108,
+        "fatigueModified":326
       },
       "equipment":[{
           "refId":"orcish_cuirass",
@@ -210,23 +186,23 @@
     "262183-0":{
       "refId":"neldris llervu",
       "location":{
-        "rotZ":0.96402955055237,
-        "rotY":0,
-        "posX":56412.3828125,
         "posY":-54898.30859375,
         "posZ":1199.6868896484,
-        "rotX":-0.021173074841499
+        "rotX":-0.021173074841499,
+        "rotZ":0.96402955055237,
+        "rotY":0,
+        "posX":56412.3828125
       },
       "stats":{
         "healthBase":95,
         "healthCurrent":95,
-        "magickaBase":164,
-        "magickaCurrent":164,
         "healthModified":95,
         "magickaModified":164,
-        "fatigueModified":230,
+        "fatigueBase":230,
         "fatigueCurrent":230,
-        "fatigueBase":230
+        "magickaCurrent":164,
+        "magickaBase":164,
+        "fatigueModified":230
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -355,23 +331,23 @@
     "428715-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotZ":1.6486527919769,
-        "rotY":0,
-        "posX":54650.13671875,
         "posY":-50852.79296875,
         "posZ":224.79385375977,
-        "rotX":-0.38509047031403
+        "rotX":-0.38509047031403,
+        "rotZ":1.6486527919769,
+        "rotY":0,
+        "posX":54650.13671875
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
-        "magickaBase":122,
-        "magickaCurrent":122,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueModified":307,
+        "fatigueBase":307,
         "fatigueCurrent":307,
-        "fatigueBase":307
+        "magickaCurrent":122,
+        "magickaBase":122,
+        "fatigueModified":307
       },
       "equipment":{
         "0":{
@@ -392,26 +368,26 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
         "4":{
           "refId":"bonemold_armun-an_pauldron_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel longsword",
+        "9":{
+          "refId":"expensive_pants_01_e",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"expensive_pants_01_e",
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel longsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -518,23 +494,23 @@
     "428716-0":{
       "refId":"hlaalu guard_outside",
       "location":{
-        "rotZ":-2.6097867488861,
-        "rotY":0,
-        "posX":54274.25390625,
         "posY":-57145.9375,
         "posZ":1207.7346191406,
-        "rotX":-0.0050707459449768
+        "rotX":-0.0050707459449768,
+        "rotZ":-2.6097867488861,
+        "rotY":0,
+        "posX":54274.25390625
       },
       "stats":{
         "healthBase":210,
         "healthCurrent":210,
-        "magickaBase":122,
-        "magickaCurrent":122,
         "healthModified":210,
         "magickaModified":122,
-        "fatigueModified":307,
+        "fatigueBase":307,
         "fatigueCurrent":307,
-        "fatigueBase":307
+        "magickaCurrent":122,
+        "magickaBase":122,
+        "fatigueModified":307
       },
       "equipment":{
         "0":{
@@ -555,26 +531,26 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
         "4":{
           "refId":"bonemold_armun-an_pauldron_r",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "16":{
-          "refId":"steel longsword",
+        "9":{
+          "refId":"expensive_pants_01_e",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"expensive_pants_01_e",
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel longsword",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -681,23 +657,23 @@
     "262181-0":{
       "refId":"elvil vidron",
       "location":{
-        "rotZ":2.7378866672516,
-        "rotY":0,
-        "posX":53845.125,
         "posY":-50709.109375,
         "posZ":169,
-        "rotX":0.026945609599352
+        "rotX":0.026945609599352,
+        "rotZ":2.7378866672516,
+        "rotY":0,
+        "posX":53845.125
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":80,
-        "magickaCurrent":80,
         "healthModified":45,
         "magickaModified":80,
-        "fatigueModified":160,
+        "fatigueBase":160,
         "fatigueCurrent":160,
-        "fatigueBase":160
+        "magickaCurrent":80,
+        "magickaBase":80,
+        "fatigueModified":160
       },
       "equipment":{
         "14":{
@@ -768,9 +744,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":12,
       "lastGoldRestockHour":2.9606232643127,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":12
     },
     "262115-0":{
       "refId":"flora_gold_kanet_01",
@@ -781,6 +757,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "262117-0":{
+      "refId":"flora_gold_kanet_01",
+      "inventory":[{
+          "refId":"ingred_gold_kanet_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "262118-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "262119-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
     }
   },
   "loadState":{

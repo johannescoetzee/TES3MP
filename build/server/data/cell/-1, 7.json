@@ -17,30 +17,20 @@
     "state":[],
     "statsDynamic":[],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1715978154,
     "description":"-1, 7"
   },
   "lastVisit":{
-    "Benoit":1719595170,
-    "Fidgug":1719594467
+    "Benoit":1723748684,
+    "Fidgug":1723747099
   },
   "recordLinks":[],
   "objectData":{
-    "273536-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "273537-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[{
@@ -54,10 +44,20 @@
     "273538-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[]
+    },
+    "273536-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

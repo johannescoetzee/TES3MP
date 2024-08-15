@@ -17,20 +17,34 @@
     "state":[],
     "statsDynamic":["0-477"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-4, 7",
     "creationTime":1715977421
   },
   "lastVisit":{
-    "Benoit":1719598889,
-    "Fidgug":1719594474
+    "Benoit":1723747109,
+    "Fidgug":1723747110
   },
   "recordLinks":[],
   "objectData":{
+    "183069-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "183070-0":{
+      "refId":"tramaroot_02",
+      "inventory":[]
+    },
     "183076-0":{
       "refId":"tramaroot_06",
       "inventory":[]
@@ -213,29 +227,26 @@
           "soul":""
         }]
     },
-    "261836-0":{
-      "cellChangeTo":"-3, 7"
-    },
     "0-477":{
       "refId":"db_assassin1",
       "location":{
-        "posX":-29672.3125,
         "posY":58047.3203125,
         "posZ":1922.0417480469,
         "rotX":0.030335497111082,
+        "rotZ":2.7102892398834,
         "rotY":0,
-        "rotZ":2.7102892398834
+        "posX":-29672.3125
       },
       "stats":{
-        "magickaCurrent":106,
-        "fatigueBase":164,
-        "fatigueCurrent":164,
-        "healthModified":50,
-        "magickaModified":106,
-        "fatigueModified":164,
         "healthBase":50,
         "healthCurrent":0,
-        "magickaBase":106
+        "magickaBase":106,
+        "magickaModified":106,
+        "fatigueBase":164,
+        "fatigueCurrent":164,
+        "fatigueModified":164,
+        "magickaCurrent":106,
+        "healthModified":50
       },
       "equipment":{
         "4":{
@@ -264,10 +275,13 @@
         }
       },
       "inventory":[],
+      "deathState":46,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":46
+      }
+    },
+    "261836-0":{
+      "cellChangeTo":"-3, 7"
     },
     "183049-0":{
       "refId":"tramaroot_06",
@@ -324,20 +338,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "183069-0":{
-      "refId":"tramaroot_05",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "183070-0":{
-      "refId":"tramaroot_02",
-      "inventory":[]
     }
   },
   "loadState":{

@@ -17,13 +17,13 @@
     "state":["270595-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Rothan Ancestral Tomb",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Rothan Ancestral Tomb"
   },
   "lastVisit":[],
   "recordLinks":[],

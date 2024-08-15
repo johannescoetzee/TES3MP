@@ -17,13 +17,13 @@
     "state":["325518-0","377937-0"],
     "statsDynamic":["67599-0","67600-0","67601-0","84444-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":["67601-0","67600-0","67599-0"],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Balmora, Eight Plates",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Balmora, Eight Plates"
   },
   "lastVisit":{
     "Benoit":1715974350,
@@ -31,16 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "56693-0":{
-      "refId":"barrel_02_cheapfood5",
-      "inventory":[{
-          "refId":"food_kwama_egg_01",
-          "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "56694-0":{
       "refId":"barrel_02_ingred",
       "inventory":[{
@@ -215,10 +205,6 @@
           "soul":""
         }]
     },
-    "377937-0":{
-      "cellChangeTo":"-2, -3",
-      "state":false
-    },
     "378180-0":{
       "refId":"de_p_chest_02_pos4",
       "inventory":[{
@@ -293,26 +279,34 @@
           "soul":""
         }]
     },
+    "325518-0":{
+      "refId":"bk_nerevarinenotice",
+      "state":false
+    },
+    "377937-0":{
+      "cellChangeTo":"-2, -3",
+      "state":false
+    },
     "67600-0":{
       "refId":"traven marvos",
       "location":{
-        "rotZ":2.0416662693024,
-        "rotY":0,
-        "posX":-50.015659332275,
         "posY":771.60198974609,
         "posZ":-250.00001525879,
-        "rotX":-0.033333331346512
+        "rotX":-0.033333331346512,
+        "rotZ":2.0416662693024,
+        "rotY":0,
+        "posX":-50.015659332275
       },
       "stats":{
         "healthBase":89,
         "healthCurrent":89,
-        "magickaBase":92,
-        "magickaCurrent":92,
         "healthModified":89,
         "magickaModified":92,
-        "fatigueModified":195,
+        "fatigueBase":195,
         "fatigueCurrent":195,
-        "fatigueBase":195
+        "magickaCurrent":92,
+        "magickaBase":92,
+        "fatigueModified":195
       },
       "equipment":{
         "2":{
@@ -383,30 +377,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":14,
       "lastGoldRestockHour":8.3470792770386,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":14
     },
     "67601-0":{
       "refId":"meril hlaano",
       "location":{
-        "rotZ":2.7063410282135,
-        "rotY":0,
-        "posX":314.75296020508,
         "posY":510.94970703125,
         "posZ":-249.99992370605,
-        "rotX":0.010631366632879
+        "rotX":0.010631366632879,
+        "rotZ":2.7063410282135,
+        "rotY":0,
+        "posX":314.75296020508
       },
       "stats":{
         "healthBase":83,
         "healthCurrent":83,
-        "magickaBase":106,
-        "magickaCurrent":106,
         "healthModified":83,
         "magickaModified":106,
-        "fatigueModified":188,
+        "fatigueBase":188,
         "fatigueCurrent":188,
-        "fatigueBase":188
+        "magickaCurrent":106,
+        "magickaBase":106,
+        "fatigueModified":188
       },
       "equipment":{
         "8":{
@@ -477,82 +471,34 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":14,
       "lastGoldRestockHour":8.296238899231,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockDay":14
     },
     "84444-0":{
       "refId":"alvis teri",
       "location":{
-        "rotZ":2.5096342563629,
-        "rotY":0,
-        "posX":453.61050415039,
         "posY":565.06280517578,
         "posZ":-249.99990844727,
-        "rotX":0
+        "rotX":0,
+        "rotZ":2.5096342563629,
+        "rotY":0,
+        "posX":453.61050415039
       },
       "stats":{
         "healthBase":144,
         "healthCurrent":144,
-        "magickaBase":26,
-        "magickaCurrent":26,
         "healthModified":144,
         "magickaModified":26,
-        "fatigueModified":246,
+        "fatigueBase":246,
         "fatigueCurrent":246,
-        "fatigueBase":246
+        "magickaCurrent":26,
+        "magickaBase":26,
+        "fatigueModified":246
       },
       "equipment":{
         "0":{
           "refId":"bonemold_founders_helm",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "2":{
-          "refId":"bonemold_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "5":{
-          "refId":"bonemold_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "4":{
-          "refId":"bonemold_pauldron_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"expensive_pants_01_e",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"steel shortsword",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "3":{
-          "refId":"bonemold_pauldron_l",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "7":{
-          "refId":"bonemold_boots",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -563,8 +509,56 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
+        "2":{
+          "refId":"bonemold_greaves",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"bonemold_pauldron_l",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"bonemold_pauldron_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"bonemold_bracer_left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
         "6":{
           "refId":"bonemold_bracer_right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"bonemold_boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_01_e",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"steel shortsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -641,23 +635,23 @@
     "67599-0":{
       "refId":"dulnea ralaal",
       "location":{
-        "rotZ":0.28145408630371,
-        "rotY":0,
-        "posX":10.372403144836,
         "posY":1175.3083496094,
         "posZ":-250,
-        "rotX":-0.0032727560028434
+        "rotX":-0.0032727560028434,
+        "rotZ":0.28145408630371,
+        "rotY":0,
+        "posX":10.372403144836
       },
       "stats":{
         "healthBase":71,
         "healthCurrent":71,
-        "magickaBase":122,
-        "magickaCurrent":122,
         "healthModified":71,
         "magickaModified":122,
-        "fatigueModified":182,
+        "fatigueBase":182,
         "fatigueCurrent":182,
-        "fatigueBase":182
+        "magickaCurrent":122,
+        "magickaBase":122,
+        "fatigueModified":182
       },
       "equipment":{
         "14":{
@@ -776,13 +770,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":14,
       "lastGoldRestockHour":8.3895778656006,
-      "goldPool":350
-    },
-    "325518-0":{
-      "refId":"bk_nerevarinenotice",
-      "state":false
+      "goldPool":350,
+      "lastGoldRestockDay":14
     },
     "56665-0":{
       "refId":"de_p_chest_02_empty",
@@ -829,6 +819,16 @@
         },{
           "refId":"gold_001",
           "count":4,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "56693-0":{
+      "refId":"barrel_02_cheapfood5",
+      "inventory":[{
+          "refId":"food_kwama_egg_01",
+          "count":5,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

@@ -17,20 +17,112 @@
     "state":[],
     "statsDynamic":["0-473","261835-0","261833-0","261832-0","261836-0"],
     "trap":[],
+    "miscellaneous":["261836-0","261832-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["261836-0","261832-0"]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-3, 7",
     "creationTime":1715977769
   },
   "lastVisit":{
-    "Benoit":1719598889,
-    "Fidgug":1719594474
+    "Benoit":1723748684,
+    "Fidgug":1723747110
   },
   "recordLinks":[],
   "objectData":{
+    "261832-0":{
+      "refId":"falanu indaren",
+      "location":{
+        "posY":57653.4921875,
+        "posZ":2499.2087402344,
+        "rotX":0.4925095140934,
+        "rotZ":-3.0674269199371,
+        "rotY":0,
+        "posX":-19087.318359375
+      },
+      "stats":{
+        "healthBase":63,
+        "healthCurrent":63,
+        "magickaBase":88,
+        "magickaModified":88,
+        "fatigueBase":166,
+        "fatigueCurrent":166,
+        "fatigueModified":166,
+        "magickaCurrent":88,
+        "healthModified":63
+      },
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"common_shirt_02_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "10":{
+          "refId":"common_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "12":{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"common_ring_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shirt_02_r",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"common_shoes_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":13,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":17.067415237427,
+      "goldPool":0,
+      "lastGoldRestockDay":15
+    },
+    "300341-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "300342-0":{
       "refId":"flora_rm_scathecraw_02",
       "inventory":[]
@@ -38,23 +130,23 @@
     "0-473":{
       "refId":"rat_diseased",
       "location":{
-        "posX":-21100.65625,
-        "posY":59674.16015625,
-        "posZ":1926.0346679688,
-        "rotX":0.19157263636589,
+        "posY":59916.7265625,
+        "posZ":2097.2897949219,
+        "rotX":0.075366266071796,
+        "rotZ":1.2734100818634,
         "rotY":0,
-        "rotZ":-2.5008795261383
+        "posX":-20301.884765625
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":102,
-        "fatigueCurrent":102,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":102,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":123,
+        "fatigueCurrent":123,
+        "fatigueModified":123,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -67,77 +159,77 @@
     "261835-0":{
       "refId":"nix-hound",
       "location":{
-        "posX":-23144.515625,
         "posY":58555.875,
         "posZ":1958.029296875,
         "rotX":0,
+        "rotZ":0,
         "rotY":0,
-        "rotZ":0
+        "posX":-23144.515625
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":398.63195800781,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":398.63195800781,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
     },
     "261833-0":{
       "refId":"nix-hound",
       "location":{
-        "posX":-23529.97265625,
         "posY":58127.265625,
         "posZ":1523.3485107422,
         "rotX":0,
+        "rotZ":-2.3999979496002,
         "rotY":0,
-        "rotZ":3.8831877708435
+        "posX":-23529.97265625
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":397.7873840332,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":397.7873840332,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
     },
     "261836-0":{
       "refId":"drerel indaren",
       "location":{
-        "posX":-20751.693359375,
         "posY":57423.390625,
         "posZ":1435.1317138672,
         "rotX":0,
+        "rotZ":0.79999995231628,
         "rotY":0,
-        "rotZ":0.80000007152557
+        "posX":-20751.693359375
       },
       "stats":{
-        "magickaCurrent":94,
-        "fatigueBase":195,
-        "fatigueCurrent":195,
-        "healthModified":35,
-        "magickaModified":94,
-        "fatigueModified":195,
         "healthBase":35,
         "healthCurrent":35,
-        "magickaBase":94
+        "magickaBase":94,
+        "magickaModified":94,
+        "fatigueBase":195,
+        "fatigueCurrent":195,
+        "fatigueModified":195,
+        "magickaCurrent":94,
+        "healthModified":35
       },
       "cellChangeFrom":"-4, 7",
       "equipment":{
@@ -197,101 +289,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "lastGoldRestockDay":15,
       "goldPool":0,
-      "lastGoldRestockHour":17.902391433716,
-      "lastGoldRestockDay":15
-    },
-    "261832-0":{
-      "refId":"falanu indaren",
-      "location":{
-        "posX":-19049.37109375,
-        "posY":58100.46484375,
-        "posZ":2699.8527832031,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":4.5831871032715
-      },
-      "stats":{
-        "magickaCurrent":88,
-        "fatigueBase":166,
-        "fatigueCurrent":166,
-        "healthModified":63,
-        "magickaModified":88,
-        "fatigueModified":166,
-        "healthBase":63,
-        "healthCurrent":63,
-        "magickaBase":88
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_02_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "10":{
-          "refId":"common_skirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "12":{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_ring_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_skirt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_02_r",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":13,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "goldPool":0,
-      "lastGoldRestockHour":17.067415237427,
-      "lastGoldRestockDay":15
-    },
-    "300341-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "lastGoldRestockHour":17.902391433716
     }
   },
   "loadState":{

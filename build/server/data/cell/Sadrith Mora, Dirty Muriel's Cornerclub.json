@@ -17,13 +17,13 @@
     "state":["288320-0","377941-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Sadrith Mora, Dirty Muriel's Cornerclub",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Sadrith Mora, Dirty Muriel's Cornerclub"
   },
   "lastVisit":[],
   "recordLinks":[],

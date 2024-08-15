@@ -1,24 +1,24 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-1481","0-1482","0-1479","0-1480","355389-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["355389-0","0-1481","0-1482","0-1479","0-1480"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["355389-0","0-1479","0-1480","0-1481","0-1482"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-1481","0-1482","0-1479","0-1480"],
     "state":[],
-    "statsDynamic":[],
+    "statsDynamic":["355389-0","0-1479","0-1480","0-1481","0-1482"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
@@ -26,13 +26,147 @@
     "creationTime":1719603124
   },
   "lastVisit":{
-    "Benoit":1720203311,
-    "Fidgug":1720203280
+    "Benoit":1723745750,
+    "Fidgug":1723745752
   },
   "recordLinks":[],
-  "objectData":[],
+  "objectData":{
+    "355389-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":115783.546875,
+        "posZ":-51.226398468018,
+        "rotX":0.031943991780281,
+        "rotZ":1.5162117481232,
+        "rotY":0,
+        "posX":-100565.0625
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1480":{
+      "refId":"mudcrab",
+      "location":{
+        "posY":121511.109375,
+        "posZ":194.57165527344,
+        "rotX":0.49100598692894,
+        "rotZ":0.2788827419281,
+        "rotY":0,
+        "posX":-103228.75
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":5,
+        "healthModified":15
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1481":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":120067.6015625,
+        "posZ":1362.2635498047,
+        "rotX":0.0015650019049644,
+        "rotZ":1.2063291072845,
+        "rotY":0,
+        "posX":-102773.1796875
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1482":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posY":116637.421875,
+        "posZ":223.95997619629,
+        "rotX":0.40955150127411,
+        "rotZ":2.5415947437286,
+        "rotY":0,
+        "posX":-100058.890625
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":170,
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[]
+    },
+    "0-1479":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":121184.03125,
+        "posZ":208.69773864746,
+        "rotX":0.0054734824225307,
+        "rotZ":-1.7645480632782,
+        "rotY":0,
+        "posX":-101608.8515625
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[]
+    }
+  },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

@@ -17,13 +17,13 @@
     "state":["470833-0","273970-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Sadrith Mora, Tel Naga Great Hall",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Sadrith Mora, Tel Naga Great Hall"
   },
   "lastVisit":[],
   "recordLinks":[],

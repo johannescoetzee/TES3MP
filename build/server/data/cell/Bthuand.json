@@ -17,13 +17,13 @@
     "state":["440254-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Bthuand",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Bthuand"
   },
   "lastVisit":[],
   "recordLinks":[],

@@ -17,13 +17,13 @@
     "state":["465939-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Sadrith Mora, Telvanni Council House",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Sadrith Mora, Telvanni Council House"
   },
   "lastVisit":[],
   "recordLinks":[],

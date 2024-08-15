@@ -17,13 +17,13 @@
     "state":["440486-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, St. Olms Underworks",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, St. Olms Underworks"
   },
   "lastVisit":[],
   "recordLinks":[],

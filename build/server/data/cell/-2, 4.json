@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-407","0-408","0-409","0-410","0-411"],
+    "actorList":["0-407","0-409","0-410","0-411","0-408"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["476031-0","476032-0","476033-0","476034-0","476035-0","476036-0","476037-0","476038-0","0-407","0-408","0-409","0-410","0-411"],
+    "container":["476031-0","476032-0","476033-0","476034-0","476035-0","476036-0","476037-0","476038-0","0-407","0-409","0-410","0-411","0-408"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-407","0-408","0-409","0-410","0-411"],
+    "position":["0-407","0-409","0-410","0-411","0-408"],
     "scale":[],
-    "spawn":["0-407","0-408","0-409","0-410","0-411"],
+    "spawn":["0-407","0-409","0-410","0-411","0-408"],
     "state":[],
-    "statsDynamic":["0-407","0-408","0-409","0-410","0-411"],
+    "statsDynamic":["0-407","0-409","0-410","0-411","0-408"],
     "trap":[],
     "miscellaneous":[],
     "clientScriptLocal":[],
@@ -26,34 +26,34 @@
     "creationTime":1715976494
   },
   "lastVisit":{
-    "Fidgug":1715976620,
-    "Benoit":1715976622
+    "Benoit":1723748361,
+    "Fidgug":1723747079
   },
   "recordLinks":[],
   "objectData":{
-    "0-407":{
-      "refId":"nix-hound",
+    "0-411":{
+      "refId":"rat",
       "location":{
-        "posX":-14979.876953125,
-        "posY":35150.86328125,
-        "posZ":2281.5966796875,
-        "rotX":0.14843288064003,
-        "rotZ":2.5550329685211,
-        "rotY":0
+        "posY":39097.2265625,
+        "posZ":2222.2783203125,
+        "rotX":0.77405166625977,
+        "rotZ":2.6313869953156,
+        "rotY":0,
+        "posX":-11767.282226563
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":400
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
-          "refId":"ingred_hound_meat_01",
+          "refId":"ingred_rat_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -63,23 +63,23 @@
     "0-408":{
       "refId":"kagouti_diseased",
       "location":{
-        "posX":-9000.20703125,
-        "posY":38400.59765625,
-        "posZ":1473.8623046875,
-        "rotX":0,
-        "rotZ":-1.9999992847443,
-        "rotY":0
+        "posY":38069.625,
+        "posZ":1781.3092041016,
+        "rotX":-0.11525741219521,
+        "rotZ":-2.8986685276031,
+        "rotY":0,
+        "posX":-9786.212890625
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":10,
-        "magickaCurrent":10,
+        "magickaModified":10,
         "fatigueBase":272,
         "fatigueCurrent":272,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":272
+        "fatigueModified":272,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_kagouti_hide_01",
@@ -163,49 +163,78 @@
           "soul":""
         }]
     },
+    "0-407":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":35678.2890625,
+        "posZ":2335.3735351563,
+        "rotX":0.1902310103178,
+        "rotZ":-0.79989337921143,
+        "rotY":0,
+        "posX":-16206.322265625
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-409":{
       "refId":"cliff racer",
       "location":{
-        "posX":-10895.5390625,
-        "posY":35021.4765625,
-        "posZ":3316.5595703125,
-        "rotX":-0.0065468493849039,
-        "rotZ":3.1210272312164,
-        "rotY":0
+        "posY":36830.1953125,
+        "posZ":3316.1142578125,
+        "rotX":-0.0076171504333615,
+        "rotZ":-0.15829491615295,
+        "rotY":0,
+        "posX":-11101.890625
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":20,
-        "magickaCurrent":20,
+        "magickaModified":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":400
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
       },
       "inventory":[]
     },
     "0-410":{
       "refId":"kagouti",
       "location":{
-        "posX":-11414.919921875,
-        "posY":38400.57421875,
-        "posZ":2304.1943359375,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posY":39484.07421875,
+        "posZ":2300.6857910156,
+        "rotX":0.3307777941227,
+        "rotZ":1.1690080165863,
+        "rotY":0,
+        "posX":-10661.1953125
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":10,
-        "magickaCurrent":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_kagouti_hide_01",
@@ -214,39 +243,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-411":{
-      "refId":"rat",
-      "location":{
-        "posX":-11593.095703125,
-        "posY":39018.625,
-        "posZ":2105.9499511719,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }

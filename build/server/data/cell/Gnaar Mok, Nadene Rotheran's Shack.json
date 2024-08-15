@@ -17,13 +17,13 @@
     "state":["113442-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Gnaar Mok, Nadene Rotheran's Shack",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Gnaar Mok, Nadene Rotheran's Shack"
   },
   "lastVisit":[],
   "recordLinks":[],

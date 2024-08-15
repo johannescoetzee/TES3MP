@@ -17,20 +17,168 @@
     "state":[],
     "statsDynamic":["0-611","0-612","0-613","0-625","261703-0","261718-0"],
     "trap":[],
+    "miscellaneous":["261703-0","261718-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["261703-0","261718-0"]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-8, 15",
     "creationTime":1716738258
   },
   "lastVisit":{
-    "Fidgug":1717181455,
-    "Benoit":1717181456
+    "Benoit":1723747131,
+    "Fidgug":1723747132
   },
   "recordLinks":[],
   "objectData":{
+    "49915-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49916-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49917-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49918-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49919-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49920-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49921-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49922-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49923-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49924-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "49925-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474955-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474956-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474957-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "474958-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "474959-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "474960-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
@@ -234,23 +382,23 @@
     "0-611":{
       "refId":"nix-hound",
       "location":{
-        "posX":-59471.35546875,
         "posY":125160.65625,
         "posZ":1154.3581542969,
         "rotX":-0.056612964719534,
         "rotZ":1.1166923046112,
-        "rotY":0
+        "rotY":0,
+        "posX":-59471.35546875
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":393.00869750977,
         "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -267,46 +415,46 @@
     "0-612":{
       "refId":"scrib",
       "location":{
-        "posX":-61402.11328125,
-        "posY":124159.203125,
-        "posZ":892.90759277344,
-        "rotX":-0.11015859991312,
-        "rotZ":-2.7424900531769,
-        "rotY":0
+        "posY":124821.609375,
+        "posZ":1165.6511230469,
+        "rotX":-0.11632270365953,
+        "rotZ":0.8791286945343,
+        "rotY":0,
+        "posX":-60591.78125
       },
       "stats":{
-        "magickaCurrent":12,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[]
     },
     "0-613":{
       "refId":"scrib",
       "location":{
-        "posX":-60715.0859375,
         "posY":130736.5,
-        "posZ":1225.8057861328,
+        "posZ":1225.8056640625,
         "rotX":-0.096558198332787,
         "rotZ":-0.64842510223389,
-        "rotY":0
+        "rotY":0,
+        "posX":-60715.0859375
       },
       "stats":{
-        "magickaCurrent":12,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -319,23 +467,23 @@
     "0-625":{
       "refId":"rat",
       "location":{
-        "posX":-60954.7578125,
         "posY":123723.140625,
         "posZ":935.94757080078,
         "rotX":-0.16245378553867,
         "rotZ":0.76883888244629,
-        "rotY":0
+        "rotY":0,
+        "posX":-60954.7578125
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":298.55026245117,
         "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaModified":10
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -352,23 +500,23 @@
     "261703-0":{
       "refId":"sason",
       "location":{
-        "posX":-57653.1328125,
         "posY":125381.4140625,
-        "posZ":1099.87109375,
+        "posZ":1099.8753662109,
         "rotX":0,
         "rotZ":0,
-        "rotY":0
+        "rotY":0,
+        "posX":-57653.1328125
       },
       "stats":{
-        "magickaCurrent":72,
+        "healthBase":80,
+        "healthCurrent":80,
+        "magickaBase":72,
+        "magickaModified":72,
         "fatigueBase":190,
         "fatigueCurrent":190,
         "fatigueModified":190,
-        "magickaBase":72,
-        "healthModified":80,
-        "healthBase":80,
-        "healthCurrent":80,
-        "magickaModified":72
+        "magickaCurrent":72,
+        "healthModified":80
       },
       "equipment":{
         "7":{
@@ -428,23 +576,23 @@
     "261718-0":{
       "refId":"malexa",
       "location":{
-        "posX":-57421.28125,
         "posY":125295.765625,
-        "posZ":1107.7922363281,
+        "posZ":1107.7919921875,
         "rotX":0,
-        "rotZ":-2.3999998569489,
-        "rotY":0
+        "rotZ":3.8831858634949,
+        "rotY":0,
+        "posX":-57421.296875
       },
       "stats":{
-        "magickaCurrent":68,
+        "healthBase":73,
+        "healthCurrent":73,
+        "magickaBase":68,
+        "magickaModified":68,
         "fatigueBase":186,
         "fatigueCurrent":186,
         "fatigueModified":186,
-        "magickaBase":68,
-        "healthModified":73,
-        "healthBase":73,
-        "healthCurrent":73,
-        "magickaModified":68
+        "magickaCurrent":68,
+        "healthModified":73
       },
       "cellChangeFrom":"Ashalmawia, Shrine",
       "equipment":{
@@ -522,9 +670,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":10.287809371948,
       "lastGoldRestockDay":18,
-      "goldPool":0
+      "goldPool":0,
+      "lastGoldRestockHour":10.287809371948
     },
     "49906-0":{
       "refId":"flora_chokeweed_02",
@@ -604,154 +752,6 @@
       "refId":"flora_chokeweed_02",
       "inventory":[{
           "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49915-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49916-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49917-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49918-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49919-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49920-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49921-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49922-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49923-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49924-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "49925-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474955-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474956-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474957-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "474958-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "474959-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

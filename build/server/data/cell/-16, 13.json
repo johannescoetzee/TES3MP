@@ -17,63 +17,63 @@
     "state":[],
     "statsDynamic":["0-1450","0-1451","0-1452","0-1453","0-1454"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-16, 13",
-    "creationTime":1720203280
+    "creationTime":1720203280,
+    "description":"-16, 13"
   },
   "lastVisit":{
-    "Benoit":1720203443,
-    "Fidgug":1720203445
+    "Benoit":1723745264,
+    "Fidgug":1723745263
   },
   "recordLinks":[],
   "objectData":{
     "0-1453":{
       "refId":"slaughterfish_small",
       "location":{
-        "rotZ":0.28540945053101,
-        "rotY":0,
-        "posX":-129558.0625,
-        "posY":111889.0546875,
+        "posY":113429.6484375,
         "posZ":-936.02478027344,
-        "rotX":0
+        "rotX":0,
+        "rotZ":0.9601309299469,
+        "rotY":0,
+        "posX":-129061.828125
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":15,
+        "magickaModified":10,
+        "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "fatigueBase":300,
-        "magickaModified":10
+        "magickaCurrent":10,
+        "healthModified":15
       },
       "inventory":[]
     },
     "0-1454":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-1.0558536052704,
-        "rotY":0,
-        "posX":-129772.3515625,
-        "posY":107476.890625,
+        "posY":106680.296875,
         "posZ":-948.61364746094,
-        "rotX":0
+        "rotX":0,
+        "rotZ":-3.1090605258942,
+        "rotY":0,
+        "posX":-129662.234375
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "magickaModified":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -86,23 +86,23 @@
     "0-1450":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-0.99722218513489,
+        "posY":111124.0390625,
+        "posZ":-1385.5098876953,
+        "rotX":8.4860250353813e-05,
+        "rotZ":-1.141108751297,
         "rotY":0,
-        "posX":-124718.9765625,
-        "posY":110125.6640625,
-        "posZ":-1386.5904541016,
-        "rotX":0.0034318724647164
+        "posX":-124543.5078125
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "magickaModified":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -115,46 +115,46 @@
     "0-1451":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-1.3303396701813,
+        "posY":112390.3984375,
+        "posZ":-1711.6635742188,
+        "rotX":8.4376893937588e-05,
+        "rotZ":1.4691550731659,
         "rotY":0,
-        "posX":-125971.359375,
-        "posY":111810.9609375,
-        "posZ":-1712.4265136719,
-        "rotX":0.0015397258102894
+        "posX":-125433.9296875
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "magickaModified":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[]
     },
     "0-1452":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-1.6067135334015,
-        "rotY":0,
-        "posX":-127903.28125,
-        "posY":112790.109375,
+        "posY":111470.5546875,
         "posZ":-1191.4475097656,
-        "rotX":0
+        "rotX":0,
+        "rotZ":-2.9910218715668,
+        "rotY":0,
+        "posX":-128315
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "magickaModified":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",

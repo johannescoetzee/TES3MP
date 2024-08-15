@@ -17,13 +17,13 @@
     "state":["469375-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Nchurdamz, Interior",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Nchurdamz, Interior"
   },
   "lastVisit":[],
   "recordLinks":[],

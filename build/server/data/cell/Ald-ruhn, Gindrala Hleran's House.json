@@ -17,13 +17,13 @@
     "state":["297846-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Ald-ruhn, Gindrala Hleran's House",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Ald-ruhn, Gindrala Hleran's House"
   },
   "lastVisit":[],
   "recordLinks":[],

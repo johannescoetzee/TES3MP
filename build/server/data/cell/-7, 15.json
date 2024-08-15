@@ -17,9 +17,9 @@
     "state":[],
     "statsDynamic":["0-597","0-599","0-598"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-7, 15",
@@ -27,86 +27,232 @@
   },
   "lastVisit":{
     "Benoit":1719600200,
-    "Fidgug":1719600198
+    "Fidgug":1723746139
   },
   "recordLinks":[],
   "objectData":{
-    "0-597":{
-      "refId":"scrib",
-      "location":{
-        "posX":-55139.21875,
-        "posY":123783.2734375,
-        "posZ":1747.6979980469,
-        "rotX":0.064605124294758,
-        "rotY":0,
-        "rotZ":1.0161368846893
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12
-      },
+    "474694-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "474695-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474696-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474710-0":{
+      "refId":"flora_kreshweed_01",
       "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
+          "refId":"ingred_kresh_fiber_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "0-599":{
-      "refId":"kwama forager",
-      "location":{
-        "posX":-55830.40625,
-        "posY":126597.3671875,
-        "posZ":1784.1585693359,
-        "rotX":-0.32976502180099,
-        "rotY":0,
-        "rotZ":3.0283763408661
-      },
-      "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":296.65295410156,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":15
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
+    "474711-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "474734-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474735-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474736-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474737-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474738-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474739-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474740-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474721-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "474720-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474728-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "474729-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474730-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474731-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474732-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474733-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "474727-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
+    },
+    "474726-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474725-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474723-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474693-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[]
+    },
+    "474704-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[]
+    },
+    "474703-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "474705-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "0-598":{
       "refId":"kwama forager",
       "location":{
-        "posX":-55578.97265625,
         "posY":123147.0390625,
         "posZ":1738.8802490234,
         "rotX":-0.26811653375626,
+        "rotZ":0.33015441894531,
         "rotY":0,
-        "rotZ":0.33015441894531
+        "posX":-55578.97265625
       },
       "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":296.27041625977,
-        "healthModified":23,
-        "magickaModified":15,
-        "fatigueModified":300,
         "healthBase":23,
         "healthCurrent":0,
-        "magickaBase":15
+        "magickaBase":15,
+        "magickaModified":15,
+        "fatigueBase":300,
+        "fatigueCurrent":296.27041625977,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -115,10 +261,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "deathState":38,
       "killer":{
         "playerName":"Fidgug"
-      },
-      "deathState":38
+      }
     },
     "474682-0":{
       "refId":"flora_stoneflower_01",
@@ -134,8 +280,8 @@
       "refId":"flora_stoneflower_02",
       "inventory":[]
     },
-    "474684-0":{
-      "refId":"flora_stoneflower_02",
+    "474686-0":{
+      "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
           "count":1,
@@ -154,17 +300,7 @@
           "soul":""
         }]
     },
-    "474686-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474687-0":{
+    "474684-0":{
       "refId":"flora_stoneflower_02",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
@@ -174,89 +310,61 @@
           "soul":""
         }]
     },
-    "474688-0":{
-      "refId":"flora_stoneflower_02",
+    "0-597":{
+      "refId":"scrib",
+      "location":{
+        "posY":123783.2734375,
+        "posZ":1747.6979980469,
+        "rotX":0.064605124294758,
+        "rotZ":1.0161368846893,
+        "rotY":0,
+        "posX":-55139.21875
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
+      },
       "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
+          "refId":"ingred_scrib_jelly_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "474689-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474690-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "474691-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474692-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474693-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "474694-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "474695-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474696-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474697-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "474703-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "474704-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[]
-    },
-    "474705-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474710-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474711-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
+    "0-599":{
+      "refId":"kwama forager",
+      "location":{
+        "posY":126597.3671875,
+        "posZ":1784.1585693359,
+        "rotX":-0.32976502180099,
+        "rotZ":3.0283763408661,
+        "rotY":0,
+        "posX":-55830.40625
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":0,
+        "magickaBase":15,
+        "magickaModified":15,
+        "fatigueBase":300,
+        "fatigueCurrent":296.65295410156,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "healthModified":23
+      },
+      "inventory":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
     },
     "474712-0":{
       "refId":"flora_chokeweed_02",
@@ -306,11 +414,27 @@
       "refId":"flora_kreshweed_02",
       "inventory":[]
     },
-    "474739-0":{
+    "474687-0":{
       "refId":"flora_stoneflower_02",
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
-    "474740-0":{
+    "474688-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "474689-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
@@ -320,144 +444,20 @@
           "soul":""
         }]
     },
-    "474723-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474725-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474726-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474727-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[]
-    },
-    "474734-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474733-0":{
+    "474690-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[]
     },
-    "474732-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474731-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474730-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474729-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474728-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "474738-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474737-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474736-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "474735-0":{
+    "474691-0":{
       "refId":"flora_stoneflower_02",
       "inventory":[]
     },
-    "474720-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+    "474692-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[]
     },
-    "474721-0":{
-      "refId":"flora_chokeweed_02",
+    "474697-0":{
+      "refId":"flora_stoneflower_01",
       "inventory":[]
     }
   },

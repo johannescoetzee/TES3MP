@@ -1,25 +1,25 @@
 {
   "packets":{
-    "actorList":["25479-0","25481-0","25477-0"],
+    "actorList":["25479-0","25481-0","25477-0","0-675"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["26571-0","50209-0","471983-0","471984-0","471985-0","471986-0","471987-0","471988-0","471989-0","471995-0","471996-0","471997-0","471998-0","471999-0","472000-0","472001-0","472002-0","472003-0","472004-0","472007-0","472008-0","472012-0","472013-0","472014-0","472015-0","472016-0","472017-0","472019-0","472020-0","472021-0","472022-0","472023-0","472024-0","25477-0","25479-0","25481-0"],
+    "container":["26571-0","50209-0","471983-0","471984-0","471985-0","471986-0","471987-0","471988-0","471989-0","471995-0","471996-0","471997-0","471998-0","471999-0","472000-0","472001-0","472002-0","472003-0","472004-0","472007-0","472008-0","472012-0","472013-0","472014-0","472015-0","472016-0","472017-0","472019-0","472020-0","472021-0","472022-0","472023-0","472024-0","25477-0","25479-0","25481-0","0-675"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["25477-0","25479-0","25481-0"],
+    "position":["25477-0","25479-0","25481-0","0-675"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-675"],
     "state":[],
-    "statsDynamic":["25477-0","25479-0","25481-0"],
+    "statsDynamic":["25477-0","25479-0","25481-0","0-675"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-9, 10",
@@ -27,53 +27,82 @@
   },
   "lastVisit":{
     "Benoit":1719602895,
-    "Fidgug":1719603964
+    "Fidgug":1723744477
   },
   "recordLinks":[],
   "objectData":{
+    "25479-0":{
+      "refId":"kagouti",
+      "location":{
+        "posY":85119.046875,
+        "posZ":807.64117431641,
+        "rotX":0,
+        "rotZ":0.40000000596046,
+        "rotY":0,
+        "posX":-66310.28125
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_kagouti_hide_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "25481-0":{
       "refId":"kagouti",
       "location":{
-        "posX":-66571.078125,
         "posY":85224.6796875,
         "posZ":840.15063476563,
         "rotX":0,
+        "rotZ":5.5831861495972,
         "rotY":0,
-        "rotZ":5.5831861495972
+        "posX":-66571.078125
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[]
     },
     "25477-0":{
       "refId":"kagouti",
       "location":{
-        "posX":-66388.625,
         "posY":84900.390625,
         "posZ":790.87249755859,
         "rotX":0,
+        "rotZ":0,
         "rotY":0,
-        "rotZ":0
+        "posX":-66388.625
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_kagouti_hide_01",
@@ -93,6 +122,35 @@
           "soul":""
         },{
           "refId":"steel dai-katana",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-675":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":84353.125,
+        "posZ":1452.494140625,
+        "rotX":0.22810952365398,
+        "rotZ":-2.1474268436432,
+        "rotY":0,
+        "posX":-73238.953125
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaBase":10,
+        "magickaCurrent":10,
+        "fatigueModified":400
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -383,35 +441,6 @@
       "refId":"flora_green_lichen_01",
       "inventory":[{
           "refId":"ingred_green_lichen_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "25479-0":{
-      "refId":"kagouti",
-      "location":{
-        "posX":-66310.28125,
-        "posY":85119.046875,
-        "posZ":807.64117431641,
-        "rotX":0,
-        "rotY":0,
-        "rotZ":0.40000000596046
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10
-      },
-      "inventory":[{
-          "refId":"ingred_kagouti_hide_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

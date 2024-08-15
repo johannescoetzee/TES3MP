@@ -17,13 +17,13 @@
     "state":["341055-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, Hlaalu Prison Cells",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, Hlaalu Prison Cells"
   },
   "lastVisit":[],
   "recordLinks":[],

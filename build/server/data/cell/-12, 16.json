@@ -1,36 +1,65 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-713"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["403463-0","403464-0","403487-0","403488-0"],
+    "container":["403463-0","403464-0","403487-0","403488-0","0-713"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-713"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-713"],
     "state":[],
-    "statsDynamic":[],
+    "statsDynamic":["0-713"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-12, 16",
     "creationTime":1717180216
   },
   "lastVisit":{
-    "Fidgug":1717180818,
-    "Benoit":1717180823
+    "Benoit":1723745875,
+    "Fidgug":1723745887
   },
   "recordLinks":[],
   "objectData":{
+    "0-713":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posY":131206.984375,
+        "posZ":-675.447265625,
+        "rotX":0,
+        "rotZ":-2.730316400528,
+        "rotY":0,
+        "posX":-90645.5859375
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.99166870117,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":15
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "403463-0":{
       "refId":"kollop_01_pearl",
       "inventory":[{

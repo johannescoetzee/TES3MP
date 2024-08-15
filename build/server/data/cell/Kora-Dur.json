@@ -17,13 +17,13 @@
     "state":["365408-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Kora-Dur",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Kora-Dur"
   },
   "lastVisit":[],
   "recordLinks":[],

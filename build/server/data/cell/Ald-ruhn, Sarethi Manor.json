@@ -17,21 +17,17 @@
     "state":["281645-0","281646-0","108969-0","108970-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Ald-ruhn, Sarethi Manor",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Ald-ruhn, Sarethi Manor"
   },
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "108969-0":{
-      "refId":"redoran guard sarethi1",
-      "state":false
-    },
     "108970-0":{
       "refId":"redoran guard sarethi2",
       "state":false
@@ -42,6 +38,10 @@
     },
     "281646-0":{
       "refId":"gragus lleran",
+      "state":false
+    },
+    "108969-0":{
+      "refId":"redoran guard sarethi1",
       "state":false
     }
   },

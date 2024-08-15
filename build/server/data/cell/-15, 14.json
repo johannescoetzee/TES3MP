@@ -1,239 +1,132 @@
 {
   "packets":{
-    "actorList":["0-1433","0-1432","225477-0","355403-0","225476-0","0-1408","0-1436"],
+    "actorList":["0-1470","0-1468","0-1469","355403-0","225476-0","225477-0","0-1474","0-1471","0-1449","355397-0"],
     "ai":[],
-    "cellChangeFrom":[],
+    "cellChangeFrom":["355397-0"],
     "cellChangeTo":[],
-    "container":["225500-0","257742-0","257743-0","257744-0","257745-0","257750-0","389619-0","225476-0","225477-0","355403-0","0-1433","0-1432","0-1436","0-1408"],
-    "death":["0-1433","0-1436"],
+    "container":["225500-0","257742-0","257743-0","257744-0","257745-0","257750-0","389619-0","225476-0","225477-0","355403-0","0-1470","0-1474","0-1468","0-1469","0-1471","0-1449","355397-0"],
+    "death":["0-1469","0-1470","0-1471","0-1474"],
     "delete":[],
     "doorState":[],
-    "equipment":[],
+    "equipment":["0-1471"],
     "lock":[],
     "place":[],
-    "position":["225476-0","225477-0","355403-0","0-1432","0-1433","0-1408","0-1436"],
+    "position":["225476-0","225477-0","355403-0","0-1468","0-1469","0-1470","0-1471","0-1474","0-1449","355397-0"],
     "scale":[],
-    "spawn":["0-1433","0-1432","0-1436","0-1408"],
+    "spawn":["0-1470","0-1468","0-1469","0-1471","0-1474","0-1449"],
     "state":[],
-    "statsDynamic":["225476-0","225477-0","355403-0","0-1432","0-1433","0-1408","0-1436"],
+    "statsDynamic":["225476-0","225477-0","355403-0","0-1468","0-1469","0-1470","0-1471","0-1474","0-1449","355397-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
-    "spellsActive":["0-1432"]
+    "clientScriptLocal":[],
+    "spellsActive":["0-1470"]
   },
   "entry":{
-    "description":"-15, 14",
-    "creationTime":1719603731
+    "creationTime":1719603731,
+    "description":"-15, 14"
   },
   "lastVisit":{
-    "Benoit":1720203443,
-    "Fidgug":1720203445
+    "Benoit":1723745385,
+    "Fidgug":1723745372
   },
   "recordLinks":[],
   "objectData":{
-    "0-1408":{
-      "refId":"scrib blighted",
+    "355397-0":{
+      "refId":"mudcrab",
       "location":{
-        "rotZ":0.82767820358276,
+        "posY":119697.2578125,
+        "posZ":-14.612324714661,
+        "rotX":0.0047417916357517,
+        "rotZ":0.8841335773468,
         "rotY":0,
-        "posX":-115229.0703125,
-        "posY":117938.15625,
-        "posZ":26.400806427002,
-        "rotX":-0.1295732408762
-      },
-      "stats":{
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "healthModified":30,
-        "fatigueCurrent":399.99111938477,
-        "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":12
-      },
-      "inventory":[]
-    },
-    "0-1436":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "rotZ":3.0097811222076,
-        "rotY":0,
-        "posX":-116785.109375,
-        "posY":115820.609375,
-        "posZ":-37.495002746582,
-        "rotX":-0.24079897999763
+        "posX":-115227.609375
       },
       "stats":{
         "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":15,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "fatigueBase":300,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-1433":{
-      "refId":"atronach_frost",
-      "location":{
-        "rotZ":1.4960811138153,
-        "rotY":0,
-        "posX":-117095.8671875,
-        "posY":115664.328125,
-        "posZ":-115.59907531738,
-        "rotX":-0.062798090279102
-      },
-      "stats":{
-        "healthBase":105,
-        "healthCurrent":0,
-        "magickaBase":135,
-        "magickaCurrent":135,
-        "healthModified":105,
-        "fatigueCurrent":598.64233398438,
-        "fatigueModified":600,
-        "fatigueBase":600,
-        "magickaModified":135
-      },
-      "inventory":[],
-      "deathState":38,
-      "spellsActive":[],
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-1432":{
-      "refId":"atronach_storm",
-      "location":{
-        "rotZ":1.3582437038422,
-        "rotY":0,
-        "posX":-117802.0703125,
-        "posY":115943.53125,
-        "posZ":308.39825439453,
-        "rotX":0.53887903690338
-      },
-      "stats":{
-        "healthBase":200,
-        "healthCurrent":200,
-        "magickaBase":195,
-        "magickaCurrent":1,
-        "healthModified":200,
-        "fatigueCurrent":489.38616943359,
-        "fatigueModified":600,
-        "fatigueBase":600,
-        "magickaModified":195
-      },
-      "inventory":[],
-      "spellsActive":{
-        "shock shield":[{
-            "effects":[{
-                "timeLeft":20,
-                "id":5,
-                "duration":20,
-                "magnitude":3,
-                "arg":-1
-              }],
-            "displayName":"Shock Shield",
-            "stackingState":false,
-            "caster":{
-              "refId":"atronach_storm",
-              "uniqueIndex":"0-0"
-            },
-            "startTime":1720203431
-          }]
-      }
-    },
-    "225477-0":{
-      "refId":"dreugh",
-      "location":{
-        "rotZ":-2.7351276874542,
-        "rotY":0,
-        "posX":-120198.4453125,
-        "posY":119299.96875,
-        "posZ":-1391.8970947266,
-        "rotX":7.9721212387085e-07
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":5,
+        "healthModified":15
       },
+      "cellChangeFrom":"-14, 14",
       "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
+          "refId":"ingred_crab_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
+    "225477-0":{
+      "refId":"dreugh",
+      "location":{
+        "posY":120050.25,
+        "posZ":-1392.0988769531,
+        "rotX":0.00078410748392344,
+        "rotZ":0.42582631111145,
+        "rotY":0,
+        "posX":-119749.296875
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":75,
+        "healthModified":60
+      },
+      "inventory":[]
+    },
     "355403-0":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":0.25323796272278,
+        "posY":117491.15625,
+        "posZ":-246.21542358398,
+        "rotX":0,
+        "rotZ":2.2275726795197,
         "rotY":0,
-        "posX":-117129.7265625,
-        "posY":117013.546875,
-        "posZ":-33.046840667725,
-        "rotX":0.26261079311371
+        "posX":-116283.640625
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":23,
-        "fatigueCurrent":280.71856689453,
-        "fatigueModified":400,
+        "magickaModified":10,
         "fatigueBase":400,
-        "magickaModified":10
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "225476-0":{
       "refId":"dreugh",
       "location":{
-        "rotZ":-2.707647562027,
+        "posY":121773.09375,
+        "posZ":-1399.0614013672,
+        "rotX":0,
+        "rotZ":-0.073212623596191,
         "rotY":0,
-        "posX":-119993.984375,
-        "posY":121057.4453125,
-        "posZ":-1398.8386230469,
-        "rotX":-3.7629157304764e-05
+        "posX":-119940.8046875
       },
       "stats":{
         "healthBase":60,
         "healthCurrent":60,
         "magickaBase":75,
-        "magickaCurrent":75,
-        "healthModified":60,
+        "magickaModified":75,
+        "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueBase":400,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -242,6 +135,29 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1449":{
+      "refId":"dreugh",
+      "location":{
+        "posY":121946.1953125,
+        "posZ":-78.448440551758,
+        "rotX":0,
+        "rotZ":2.2467501163483,
+        "rotY":0,
+        "posX":-122821.859375
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":75,
+        "healthModified":60
+      },
+      "inventory":[]
     },
     "257742-0":{
       "refId":"flora_bittergreen_06",
@@ -255,7 +171,7 @@
       "refId":"flora_bittergreen_04",
       "inventory":[{
           "refId":"ingred_bittergreen_petals_01",
-          "count":1,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -273,15 +189,179 @@
       "refId":"barrel_01_empty",
       "inventory":[]
     },
+    "0-1469":{
+      "refId":"atronach_flame",
+      "location":{
+        "posY":115783.8671875,
+        "posZ":318.38333129883,
+        "rotX":0.072712525725365,
+        "rotZ":1.9501030445099,
+        "rotY":0,
+        "posX":-118445.9296875
+      },
+      "stats":{
+        "healthBase":75,
+        "healthCurrent":0,
+        "magickaBase":105,
+        "magickaModified":105,
+        "fatigueBase":600,
+        "fatigueCurrent":600,
+        "fatigueModified":600,
+        "magickaCurrent":1,
+        "healthModified":75
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38,
+      "spellsActive":[]
+    },
+    "0-1470":{
+      "refId":"clannfear",
+      "location":{
+        "posY":116286.859375,
+        "posZ":52.603897094727,
+        "rotX":0.12638626992702,
+        "rotZ":-0.32923030853271,
+        "rotY":0,
+        "posX":-117344.3125
+      },
+      "stats":{
+        "healthBase":113,
+        "healthCurrent":0,
+        "magickaBase":100,
+        "magickaModified":100,
+        "fatigueBase":500,
+        "fatigueCurrent":498.50881958008,
+        "fatigueModified":500,
+        "magickaCurrent":100,
+        "healthModified":113
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38,
+      "spellsActive":{
+        "cloudcleaver_unique":[{
+            "caster":{
+              "playerName":"Fidgug"
+            },
+            "stackingState":false,
+            "displayName":"Cloudcleaver",
+            "effects":[{
+                "id":15,
+                "timeLeft":1,
+                "magnitude":24,
+                "arg":-1,
+                "duration":1
+              }],
+            "startTime":1723745205
+          }]
+      }
+    },
+    "0-1471":{
+      "refId":"dremora",
+      "location":{
+        "posY":115910.75,
+        "posZ":-32.68660736084,
+        "rotX":-0.013413356617093,
+        "rotZ":-1.2660195827484,
+        "rotY":0,
+        "posX":-117548.40625
+      },
+      "stats":{
+        "healthBase":160,
+        "healthCurrent":0,
+        "magickaBase":100,
+        "magickaModified":100,
+        "fatigueBase":400,
+        "fatigueCurrent":303.19921875,
+        "fatigueModified":400,
+        "magickaCurrent":40,
+        "healthModified":160
+      },
+      "equipment":{
+        "16":{
+          "refId":"dwarven claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"dwarven claymore",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":40,
+      "spellsActive":[]
+    },
     "225500-0":{
       "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "0-1468":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posY":114782.796875,
+        "posZ":-149.74655151367,
+        "rotX":0.0056261299178004,
+        "rotZ":-3.0944454669952,
+        "rotY":0,
+        "posX":-120496.78125
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":15
+      },
       "inventory":[{
-          "refId":"ingred_pearl_01",
+          "refId":"ingred_scales_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1474":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posY":115344.171875,
+        "posZ":69.33715057373,
+        "rotX":1.028179526329,
+        "rotZ":1.1216938495636,
+        "rotY":0,
+        "posX":-115046.1875
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":180,
+        "fatigueCurrent":180,
+        "fatigueModified":180,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":38
     }
   },
   "loadState":{

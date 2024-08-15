@@ -17,13 +17,13 @@
     "state":["369112-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"2, 4",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"2, 4"
   },
   "lastVisit":[],
   "recordLinks":[],

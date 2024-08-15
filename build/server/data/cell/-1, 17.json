@@ -17,63 +17,40 @@
     "state":[],
     "statsDynamic":["0-794","0-795","0-796","0-797","0-798"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-1, 17",
     "creationTime":1717182945
   },
   "lastVisit":{
-    "Benoit":1717182967,
-    "Fidgug":1717182964
+    "Benoit":1723751520,
+    "Fidgug":1723751516
   },
   "recordLinks":[],
   "objectData":{
-    "0-795":{
-      "refId":"rat_diseased",
-      "location":{
-        "posX":-3967.478515625,
-        "posY":140747.421875,
-        "posZ":396.36010742188,
-        "rotX":0,
-        "rotZ":-0.30000042915344,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":120,
-        "fatigueCurrent":120,
-        "fatigueModified":120,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
     "0-798":{
       "refId":"nix-hound",
       "location":{
-        "posX":-6381.05078125,
-        "posY":142823.515625,
-        "posZ":84.281394958496,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posY":143832.28125,
+        "posZ":237.22793579102,
+        "rotX":-0.1917586773634,
+        "rotZ":-0.34302401542664,
+        "rotY":0,
+        "posX":-6459.7368164063
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -86,23 +63,23 @@
     "0-794":{
       "refId":"rat_blighted",
       "location":{
-        "posX":-3666.7536621094,
-        "posY":141268.921875,
-        "posZ":507.08383178711,
-        "rotX":0,
-        "rotZ":1.8000004291534,
-        "rotY":0
+        "posY":141446.921875,
+        "posZ":348.5856628418,
+        "rotX":-0.19784000515938,
+        "rotZ":1.6858155727386,
+        "rotY":0,
+        "posX":-4306.90625
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":67,
-        "fatigueCurrent":67,
-        "fatigueModified":67,
-        "magickaBase":10,
-        "healthModified":45,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":80,
+        "fatigueCurrent":80,
+        "fatigueModified":80,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -111,6 +88,29 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-795":{
+      "refId":"rat_diseased",
+      "location":{
+        "posY":140581.34375,
+        "posZ":688.58935546875,
+        "rotX":-0.1715499907732,
+        "rotZ":1.0396387577057,
+        "rotY":0,
+        "posX":-3384.7478027344
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":106,
+        "fatigueCurrent":106,
+        "fatigueModified":106,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[]
     },
     "296789-0":{
       "refId":"flora_rm_scathecraw_02",
@@ -182,49 +182,26 @@
           "soul":""
         }]
     },
-    "0-797":{
-      "refId":"scrib",
-      "location":{
-        "posX":-6310.4833984375,
-        "posY":144854.84375,
-        "posZ":737.69482421875,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
-      },
-      "inventory":[]
-    },
     "0-796":{
       "refId":"rat_blighted",
       "location":{
-        "posX":-4440.40625,
-        "posY":140573.15625,
-        "posZ":471.61318969727,
-        "rotX":0,
-        "rotZ":1.7000000476837,
-        "rotY":0
+        "posY":140581.28125,
+        "posZ":474.79083251953,
+        "rotX":-0.28355428576469,
+        "rotZ":-3.1003754138947,
+        "rotY":0,
+        "posX":-4414.7954101563
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":76,
-        "fatigueCurrent":76,
-        "fatigueModified":76,
-        "magickaBase":10,
-        "healthModified":45,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":67,
+        "fatigueCurrent":67,
+        "fatigueModified":67,
+        "magickaCurrent":10,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -233,6 +210,29 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-797":{
+      "refId":"scrib",
+      "location":{
+        "posY":143798.515625,
+        "posZ":234.78450012207,
+        "rotX":-0.058118086308241,
+        "rotZ":-1.0520865917206,
+        "rotY":0,
+        "posX":-6143.0419921875
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
+      },
+      "inventory":[]
     }
   },
   "loadState":{

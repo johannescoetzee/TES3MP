@@ -17,21 +17,17 @@
     "state":["32715-0","32716-0","32717-0","32718-0","32719-0","32720-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Solstheim, Chamber of Song",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Solstheim, Chamber of Song"
   },
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "32720-0":{
-      "refId":"act_bm_steam_06",
-      "state":false
-    },
     "32716-0":{
       "refId":"act_bm_steam_02",
       "state":false
@@ -44,12 +40,16 @@
       "refId":"act_bm_steam_01",
       "state":false
     },
-    "32718-0":{
-      "refId":"act_bm_steam_04",
-      "state":false
-    },
     "32719-0":{
       "refId":"act_bm_steam_05",
+      "state":false
+    },
+    "32720-0":{
+      "refId":"act_bm_steam_06",
+      "state":false
+    },
+    "32718-0":{
+      "refId":"act_bm_steam_04",
       "state":false
     }
   },

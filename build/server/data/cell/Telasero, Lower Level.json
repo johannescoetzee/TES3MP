@@ -17,13 +17,13 @@
     "state":["127655-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Telasero, Lower Level",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Telasero, Lower Level"
   },
   "lastVisit":[],
   "recordLinks":[],

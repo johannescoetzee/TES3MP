@@ -17,13 +17,13 @@
     "state":["440484-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, Jeanne: Trader",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, Jeanne: Trader"
   },
   "lastVisit":[],
   "recordLinks":[],

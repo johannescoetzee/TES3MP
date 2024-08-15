@@ -17,13 +17,13 @@
     "state":["297836-0"],
     "statsDynamic":["341026-0","0-355"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"4, -9",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"4, -9"
   },
   "lastVisit":{
     "Benoit":1718730813,
@@ -79,6 +79,16 @@
           "soul":""
         }]
     },
+    "478092-0":{
+      "refId":"flora_heather_01",
+      "inventory":[{
+          "refId":"ingred_heather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "297836-0":{
       "refId":"dreamer_talker11",
       "inventory":[{
@@ -102,36 +112,26 @@
         }],
       "state":false
     },
-    "478092-0":{
-      "refId":"flora_heather_01",
-      "inventory":[{
-          "refId":"ingred_heather_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "341026-0":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":-1.8909819126129,
-        "rotY":0,
-        "posX":39709.6171875,
         "posY":-73287.9140625,
         "posZ":-110.91421508789,
-        "rotX":-0.16035097837448
+        "rotX":-0.16035097837448,
+        "rotZ":-1.8909819126129,
+        "rotY":0,
+        "posX":39709.6171875
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":0,
-        "magickaBase":10,
-        "magickaCurrent":10,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":400,
+        "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueBase":400
+        "magickaCurrent":10,
+        "magickaBase":10,
+        "fatigueModified":400
       },
       "inventory":[],
       "deathState":38,
@@ -142,23 +142,23 @@
     "0-355":{
       "refId":"kwama forager",
       "location":{
-        "rotZ":-1.8092424869537,
-        "rotY":0,
-        "posX":40028.18359375,
         "posY":-65598.375,
         "posZ":837.13067626953,
-        "rotX":-0.12733781337738
+        "rotX":-0.12733781337738,
+        "rotZ":-1.8092424869537,
+        "rotY":0,
+        "posX":40028.18359375
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
-        "magickaBase":15,
-        "magickaCurrent":15,
         "healthModified":23,
         "magickaModified":15,
-        "fatigueModified":300,
+        "fatigueBase":300,
         "fatigueCurrent":300,
-        "fatigueBase":300
+        "magickaCurrent":15,
+        "magickaBase":15,
+        "fatigueModified":300
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",

@@ -1,56 +1,56 @@
 {
   "packets":{
-    "actorList":["0-808","0-809","0-810","0-811","355266-0","0-812"],
+    "actorList":["0-808","0-809","0-810","0-811","355266-0","0-813"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["341844-0","341845-0","341850-0","431203-0","431204-0","355266-0","0-808","0-809","0-810","0-811","0-812"],
+    "container":["341844-0","341845-0","341850-0","431203-0","431204-0","355266-0","0-808","0-809","0-810","0-811","0-813"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["355266-0","0-808","0-809","0-810","0-811","0-812"],
+    "position":["355266-0","0-808","0-809","0-810","0-811","0-813"],
     "scale":[],
-    "spawn":["0-808","0-809","0-810","0-811","0-812"],
+    "spawn":["0-808","0-809","0-810","0-811","0-813"],
     "state":[],
-    "statsDynamic":["355266-0","0-808","0-809","0-810","0-811","0-812"],
+    "statsDynamic":["355266-0","0-808","0-809","0-810","0-811","0-813"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-3, 20",
     "creationTime":1717182964
   },
   "lastVisit":{
-    "Fidgug":1717184022,
-    "Benoit":1717184095
+    "Benoit":1723750497,
+    "Fidgug":1723750497
   },
   "recordLinks":[],
   "objectData":{
     "0-809":{
       "refId":"kwama forager blighted",
       "location":{
-        "posX":-17686.177734375,
-        "posY":168479.390625,
-        "posZ":540.19488525391,
-        "rotX":-0.24890284240246,
-        "rotZ":1.1631224155426,
-        "rotY":0
+        "posY":169118.015625,
+        "posZ":1106.5069580078,
+        "rotX":-0.26835152506828,
+        "rotZ":1.2387940883636,
+        "rotY":0,
+        "posX":-16973.279296875
       },
       "stats":{
-        "magickaCurrent":100,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaModified":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
+        "magickaCurrent":100,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -63,100 +63,71 @@
     "0-810":{
       "refId":"dreugh",
       "location":{
-        "posX":-23281.34375,
-        "posY":169119.328125,
-        "posZ":-209.97268676758,
-        "rotX":0.0010492298752069,
-        "rotZ":-0.20426368713379,
-        "rotY":0
+        "posY":169460.8125,
+        "posZ":-209.88226318359,
+        "rotX":0.0008015027269721,
+        "rotZ":0.04841947555542,
+        "rotY":0,
+        "posX":-23209.525390625
       },
       "stats":{
-        "magickaCurrent":75,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":75,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[]
     },
     "0-811":{
       "refId":"dreugh",
       "location":{
-        "posX":-21920.828125,
-        "posY":168084.84375,
-        "posZ":-608.61505126953,
-        "rotX":-0.012962597422302,
-        "rotZ":-3.073668718338,
-        "rotY":0
+        "posY":168516.265625,
+        "posZ":-608.45465087891,
+        "rotX":-0.00016669556498528,
+        "rotZ":-0.71660208702087,
+        "rotY":0,
+        "posX":-21931.267578125
       },
       "stats":{
-        "magickaCurrent":75,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":75,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[]
     },
     "355266-0":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-23018.248046875,
-        "posY":167010.53125,
-        "posZ":-431.35266113281,
-        "rotX":0.00012859050184488,
-        "rotZ":-2.1987822055817,
-        "rotY":0
+        "posY":166925.0625,
+        "posZ":-431.67767333984,
+        "rotX":3.8748607039452e-05,
+        "rotZ":1.3152959346771,
+        "rotY":0,
+        "posX":-22651.345703125
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[]
-    },
-    "0-812":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-18890.609375,
-        "posY":163905,
-        "posZ":-224.60134887695,
-        "rotX":1.037959009409e-05,
-        "rotZ":-2.964010477066,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     },
     "341844-0":{
       "refId":"flora_kreshweed_01",
@@ -188,6 +159,35 @@
           "soul":""
         }]
     },
+    "0-813":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posY":166597.765625,
+        "posZ":917.92626953125,
+        "rotX":0.00025204848498106,
+        "rotZ":2.5941751003265,
+        "rotY":0,
+        "posX":-16433.21875
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":170,
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "431203-0":{
       "refId":"kollop_01_pearl",
       "inventory":[{
@@ -211,23 +211,23 @@
     "0-808":{
       "refId":"kwama forager",
       "location":{
-        "posX":-17724.62890625,
-        "posY":168313.59375,
-        "posZ":456.80075073242,
-        "rotX":-0.41088935732841,
-        "rotZ":0.28492522239685,
-        "rotY":0
+        "posY":167832.25,
+        "posZ":368.99996948242,
+        "rotX":-0.26621758937836,
+        "rotZ":-0.23246359825134,
+        "rotY":0,
+        "posX":-17460.181640625
       },
       "stats":{
-        "magickaCurrent":15,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaModified":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaBase":15,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":15
+        "magickaCurrent":15,
+        "healthModified":23
       },
       "inventory":[]
     }

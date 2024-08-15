@@ -1,60 +1,89 @@
 {
   "packets":{
-    "actorList":["0-766","355346-0","0-765"],
+    "actorList":["0-766","0-765"],
     "ai":[],
-    "cellChangeFrom":["355346-0"],
+    "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["68183-0","68184-0","68185-0","68187-0","68194-0","68201-0","68209-0","68211-0","68214-0","68219-0","68225-0","68231-0","68233-0","309818-0","475297-0","0-766","0-765","355346-0"],
+    "container":["68183-0","68184-0","68185-0","68187-0","68194-0","68201-0","68209-0","68211-0","68214-0","68219-0","68225-0","68231-0","68233-0","309818-0","475297-0","0-766","0-765"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-766","0-765","355346-0"],
+    "position":["0-766","0-765"],
     "scale":[],
     "spawn":["0-766","0-765"],
     "state":[],
-    "statsDynamic":["0-766","0-765","355346-0"],
+    "statsDynamic":["0-766","0-765"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-10, 17",
     "creationTime":1717181063
   },
   "lastVisit":{
-    "Fidgug":1717181369,
-    "Benoit":1717181371
+    "Benoit":1723747150,
+    "Fidgug":1723747147
   },
   "recordLinks":[],
   "objectData":{
     "0-766":{
       "refId":"netch_bull",
       "location":{
-        "posX":-76810.0546875,
-        "posY":143225.859375,
-        "posZ":288.61804199219,
-        "rotX":0.00052024610340595,
-        "rotZ":0.5193612575531,
-        "rotY":0
+        "posY":143978.703125,
+        "posZ":289.86761474609,
+        "rotX":0.0031697116792202,
+        "rotZ":0.84251713752747,
+        "rotY":0,
+        "posX":-76800.65625
       },
       "stats":{
-        "magickaCurrent":100,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":100,
+        "magickaModified":100,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":100,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":100
+        "magickaCurrent":100,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
           "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-765":{
+      "refId":"dreugh",
+      "location":{
+        "posY":146646.828125,
+        "posZ":-615.37438964844,
+        "rotX":0,
+        "rotZ":-2.5076882839203,
+        "rotY":0,
+        "posX":-78510.921875
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":75,
+        "healthModified":60
+      },
+      "inventory":[{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -100,31 +129,11 @@
           "soul":""
         }]
     },
-    "355346-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-73949.53125,
-        "posY":142411.53125,
-        "posZ":-123.93653869629,
-        "rotX":0,
-        "rotZ":-0.16278910636902,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.99166870117,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "cellChangeFrom":"-9, 17",
+    "68194-0":{
+      "refId":"flora_roobrush_02",
       "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
+          "refId":"ingred_roobrush_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -291,45 +300,6 @@
         },{
           "refId":"steel staff",
           "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-765":{
-      "refId":"dreugh",
-      "location":{
-        "posX":-77805.4296875,
-        "posY":147257.5625,
-        "posZ":-615.37451171875,
-        "rotX":0,
-        "rotZ":1.4248497486115,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":75,
-        "fatigueBase":400,
-        "fatigueCurrent":399.99417114258,
-        "magickaModified":75,
-        "fatigueModified":400,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75
-      },
-      "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "68194-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

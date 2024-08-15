@@ -17,13 +17,13 @@
     "state":["468996-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Ghostgate, Tower of Dusk",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Ghostgate, Tower of Dusk"
   },
   "lastVisit":[],
   "recordLinks":[],

@@ -1,36 +1,64 @@
 {
   "packets":{
-    "actorList":["0-787","0-785","426709-0","426710-0","0-786","0-792"],
+    "actorList":["0-787","0-785","426709-0","426710-0","0-786","0-812"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["426730-0","426745-0","426746-0","426747-0","426788-0","426789-0","426790-0","426791-0","426792-0","426793-0","426806-0","426807-0","426808-0","426844-0","426845-0","426846-0","426847-0","426848-0","426857-0","426858-0","426859-0","426709-0","426710-0","0-786","0-787","0-785","0-792"],
+    "container":["426730-0","426745-0","426746-0","426747-0","426788-0","426789-0","426790-0","426791-0","426792-0","426793-0","426806-0","426807-0","426808-0","426844-0","426845-0","426846-0","426847-0","426848-0","426857-0","426858-0","426859-0","426709-0","426710-0","0-786","0-787","0-785","0-812"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["426709-0","426710-0","0-785","0-786","0-787","0-792"],
+    "position":["426709-0","426710-0","0-785","0-786","0-787","0-812"],
     "scale":[],
-    "spawn":["0-787","0-785","0-786","0-792"],
+    "spawn":["0-787","0-785","0-786","0-812"],
     "state":[],
-    "statsDynamic":["426709-0","426710-0","0-785","0-786","0-787","0-792"],
+    "statsDynamic":["426709-0","426710-0","0-785","0-786","0-787","0-812"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-3, 19",
     "creationTime":1717182575
   },
   "lastVisit":{
-    "Fidgug":1717183229,
-    "Benoit":1717183224
+    "Benoit":1723751277,
+    "Fidgug":1723751285
   },
   "recordLinks":[],
   "objectData":{
+    "426793-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "426806-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "426807-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "426808-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
     "426844-0":{
       "refId":"kollop_01_pearl",
       "inventory":[{
@@ -99,26 +127,49 @@
       "refId":"kollop_03_pearl",
       "inventory":[]
     },
-    "426709-0":{
+    "0-785":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-22545.0546875,
-        "posY":157280.34375,
-        "posZ":-775.07971191406,
-        "rotX":0.040600810199976,
-        "rotZ":-0.82913851737976,
-        "rotY":0
+        "posY":162529.609375,
+        "posZ":-541.95812988281,
+        "rotX":-0.0082693845033646,
+        "rotZ":1.5317947864532,
+        "rotY":0,
+        "posX":-19793.751953125
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[]
+    },
+    "426709-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":157279.65625,
+        "posZ":-775.1826171875,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0,
+        "posX":-22544.826171875
+      },
+      "stats":{
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -131,69 +182,75 @@
     "426710-0":{
       "refId":"slaughterfish",
       "location":{
-        "posX":-21575.947265625,
-        "posY":157781.65625,
+        "posY":157438.6875,
         "posZ":-650.85791015625,
-        "rotX":0.0051647378131747,
-        "rotZ":2.0986931324005,
-        "rotY":0
+        "rotX":0,
+        "rotZ":2.635792016983,
+        "rotY":0,
+        "posX":-20989.7578125
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
-    "0-785":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-20169.625,
-        "posY":162451.5,
-        "posZ":-541.44458007813,
-        "rotX":0.00087355170398951,
-        "rotZ":1.6839573383331,
-        "rotY":0
-      },
-      "stats":{
         "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
+        "healthModified":23
       },
       "inventory":[]
     },
     "0-786":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":-24522.7890625,
-        "posY":156939.359375,
+        "posY":156939.34375,
         "posZ":-279.01126098633,
         "rotX":0.001695622690022,
         "rotZ":-0.35139727592468,
-        "rotY":0
+        "rotY":0,
+        "posX":-24522.7890625
       },
       "stats":{
-        "magickaCurrent":10,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":299.99166870117,
         "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
+        "magickaCurrent":10,
+        "healthModified":15
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-812":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posY":163731.171875,
+        "posZ":-224.72073364258,
+        "rotX":1.037959009409e-05,
+        "rotZ":-0.99486756324768,
+        "rotY":0,
+        "posX":-18984.955078125
+      },
+      "stats":{
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":15
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -206,23 +263,23 @@
     "0-787":{
       "refId":"dreugh",
       "location":{
-        "posX":-18706.3203125,
-        "posY":159022.203125,
+        "posY":159825.453125,
         "posZ":-134.54431152344,
         "rotX":0,
-        "rotZ":-0.7375819683075,
-        "rotY":0
+        "rotZ":0.32942938804626,
+        "rotY":0,
+        "posX":-18256.7421875
       },
       "stats":{
-        "magickaCurrent":75,
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":75,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":75
+        "magickaCurrent":75,
+        "healthModified":60
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -232,30 +289,11 @@
           "soul":""
         }]
     },
-    "0-792":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-16604.234375,
-        "posY":161162.328125,
-        "posZ":-37.579170227051,
-        "rotX":-1.1975717544556,
-        "rotZ":-2.0053627490997,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
+    "426789-0":{
+      "refId":"kollop_03_pearl",
       "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
+          "refId":"ingred_pearl_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -293,16 +331,6 @@
       "refId":"kollop_01_pearl",
       "inventory":[]
     },
-    "426789-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "426790-0":{
       "refId":"kollop_01_pearl",
       "inventory":[{
@@ -332,34 +360,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "426793-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "426806-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "426807-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "426808-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
     }
   },
   "loadState":{

@@ -14,23 +14,28 @@
     "position":[],
     "scale":[],
     "spawn":[],
-    "state":[],
+    "state":["297845-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-12, 11",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"-12, 11"
   },
   "lastVisit":{
     "Benoit":1719603303,
     "Fidgug":1719603124
   },
   "recordLinks":[],
-  "objectData":[],
+  "objectData":{
+    "297845-0":{
+      "refId":"dreamer_talker09",
+      "state":false
+    }
+  },
   "loadState":{
     "hasFullActorList":false,
     "hasFullContainerData":false

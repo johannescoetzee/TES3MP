@@ -17,23 +17,23 @@
     "state":["440490-0","440489-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, Telvanni Enchanter",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, Telvanni Enchanter"
   },
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "440490-0":{
-      "refId":"bk_clientlist",
-      "state":false
-    },
     "440489-0":{
       "refId":"hunger_audenian",
+      "state":false
+    },
+    "440490-0":{
+      "refId":"bk_clientlist",
       "state":false
     }
   },

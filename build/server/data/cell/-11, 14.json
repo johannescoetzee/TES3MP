@@ -17,86 +17,144 @@
     "state":[],
     "statsDynamic":["268210-0","268211-0","0-655","0-657","0-656"],
     "trap":[],
+    "miscellaneous":["268211-0","268210-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["268211-0","268210-0"]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-11, 14",
     "creationTime":1716738706
   },
   "lastVisit":{
-    "Benoit":1719603439,
-    "Fidgug":1719603427
+    "Benoit":1723745931,
+    "Fidgug":1723745941
   },
   "recordLinks":[],
   "objectData":{
+    "472341-0":{
+      "refId":"flora_stoneflower_01",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472342-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472344-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "472345-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472346-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "472347-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "472348-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-655":{
       "refId":"scrib diseased",
       "location":{
-        "posX":-88225.4375,
-        "posY":120414.953125,
-        "posZ":1521.3394775391,
-        "rotX":-0.04670936986804,
+        "posY":120262.265625,
+        "posZ":1477.7203369141,
+        "rotX":-0.076981857419014,
+        "rotZ":-1.740850687027,
         "rotY":0,
-        "rotZ":0.26746940612793
+        "posX":-88520.9140625
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":66,
-        "fatigueCurrent":66,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":66,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":77,
+        "fatigueCurrent":77,
+        "fatigueModified":77,
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[]
     },
     "0-657":{
       "refId":"scrib",
       "location":{
-        "posX":-85258.984375,
-        "posY":120046.953125,
-        "posZ":959.82336425781,
-        "rotX":0.17898873984814,
+        "posY":119876.953125,
+        "posZ":997.64782714844,
+        "rotX":0.18098767101765,
+        "rotZ":-0.19490599632263,
         "rotY":0,
-        "rotZ":-0.19470763206482
+        "posX":-85225.515625
       },
       "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
         "healthBase":8,
         "healthCurrent":8,
-        "magickaBase":12
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[]
     },
     "268210-0":{
       "refId":"rawia ashirbibi",
       "location":{
-        "posX":-87595.734375,
-        "posY":119620.9375,
-        "posZ":1549.9677734375,
-        "rotX":-0.063866958022118,
+        "posY":119624.109375,
+        "posZ":1549.7729492188,
+        "rotX":0,
+        "rotZ":4.4831857681274,
         "rotY":0,
-        "rotZ":0.37202119827271
+        "posX":-87602.1328125
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":206,
-        "fatigueCurrent":206,
-        "healthModified":70,
-        "magickaModified":100,
-        "fatigueModified":206,
         "healthBase":70,
         "healthCurrent":70,
-        "magickaBase":100
+        "magickaBase":100,
+        "magickaModified":100,
+        "fatigueBase":206,
+        "fatigueCurrent":206,
+        "fatigueModified":206,
+        "magickaCurrent":100,
+        "healthModified":70
       },
       "equipment":{
         "7":{
@@ -161,30 +219,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
       "lastGoldRestockHour":14.505515098572,
+      "goldPool":0,
       "lastGoldRestockDay":19
     },
     "268211-0":{
       "refId":"kund assarnibani",
       "location":{
-        "posX":-88155.15625,
-        "posY":117950.1484375,
-        "posZ":1638.4180908203,
-        "rotX":-0.10487215220928,
+        "posY":117696.8125,
+        "posZ":1630.8020019531,
+        "rotX":0.35261273384094,
+        "rotZ":1.4519321918488,
         "rotY":0,
-        "rotZ":-2.8764016628265
+        "posX":-88390.515625
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":226,
-        "fatigueCurrent":226,
-        "healthModified":113,
-        "magickaModified":100,
-        "fatigueModified":226,
         "healthBase":113,
         "healthCurrent":113,
-        "magickaBase":100
+        "magickaBase":100,
+        "magickaModified":100,
+        "fatigueBase":226,
+        "fatigueCurrent":226,
+        "fatigueModified":226,
+        "magickaCurrent":100,
+        "healthModified":113
       },
       "equipment":{
         "1":{
@@ -279,30 +337,30 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":564,
       "lastGoldRestockHour":23.907545089722,
+      "goldPool":564,
       "lastGoldRestockDay":17
     },
     "0-656":{
       "refId":"netch_bull",
       "location":{
-        "posX":-89003.484375,
-        "posY":114931.28125,
-        "posZ":920.20690917969,
-        "rotX":0.014647968113422,
+        "posY":114690.1171875,
+        "posZ":919.80499267578,
+        "rotX":0.0018077157437801,
+        "rotZ":-1.038250207901,
         "rotY":0,
-        "rotZ":-2.4135649204254
+        "posX":-88580.9140625
       },
       "stats":{
-        "magickaCurrent":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":45,
-        "magickaModified":100,
-        "fatigueModified":400,
         "healthBase":45,
         "healthCurrent":45,
-        "magickaBase":100
+        "magickaBase":100,
+        "magickaModified":100,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":100,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_netch_leather_01",
@@ -356,13 +414,7 @@
     },
     "472333-0":{
       "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "472334-0":{
       "refId":"flora_kreshweed_01",
@@ -412,64 +464,6 @@
       "refId":"flora_stoneflower_02",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472341-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472342-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472344-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "472345-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472346-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "472347-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472348-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

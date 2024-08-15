@@ -1,116 +1,36 @@
 {
   "packets":{
-    "actorList":["0-793","0-814"],
+    "actorList":["0-793","0-814","0-792"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["296928-0","296935-0","296943-0","296956-0","431134-0","431135-0","431136-0","431146-0","431147-0","431148-0","431159-0","431165-0","431166-0","431167-0","431168-0","431169-0","0-793","0-814"],
+    "container":["296928-0","296935-0","296943-0","296956-0","431134-0","431135-0","431136-0","431146-0","431147-0","431148-0","431159-0","431165-0","431166-0","431167-0","431168-0","431169-0","0-793","0-814","0-792"],
     "death":["0-793"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-793","0-814"],
+    "position":["0-793","0-814","0-792"],
     "scale":[],
-    "spawn":["0-793","0-814"],
+    "spawn":["0-793","0-814","0-792"],
     "state":[],
-    "statsDynamic":["0-793","0-814"],
+    "statsDynamic":["0-793","0-814","0-792"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-2, 19",
     "creationTime":1717182650
   },
   "lastVisit":{
-    "Benoit":1717183224,
-    "Fidgug":1717183229
+    "Benoit":1723751277,
+    "Fidgug":1723751285
   },
   "recordLinks":[],
   "objectData":{
-    "0-814":{
-      "refId":"scrib blighted",
-      "location":{
-        "posX":-13938.099609375,
-        "posY":157749.875,
-        "posZ":195.05609130859,
-        "rotX":0.44394224882126,
-        "rotZ":-1.0717599391937,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":12,
-        "healthModified":30,
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaModified":12
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-793":{
-      "refId":"shalk",
-      "location":{
-        "posX":-13119.231445313,
-        "posY":157510.25,
-        "posZ":493.22924804688,
-        "rotX":-0.34506297111511,
-        "rotZ":-2.7339627742767,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":0,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":30,
-        "healthModified":38,
-        "healthBase":38,
-        "healthCurrent":0,
-        "magickaModified":30
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":46
-    },
-    "296928-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[]
-    },
-    "296935-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296943-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "296956-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[]
@@ -193,6 +113,115 @@
       "refId":"kollop_02_pearl",
       "inventory":[{
           "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-793":{
+      "refId":"shalk",
+      "location":{
+        "posY":157510.25,
+        "posZ":493.23181152344,
+        "rotX":-0.34506297111511,
+        "rotZ":-2.7339627742767,
+        "rotY":0,
+        "posX":-13119.232421875
+      },
+      "stats":{
+        "healthBase":38,
+        "healthCurrent":0,
+        "magickaBase":30,
+        "magickaModified":30,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":0,
+        "healthModified":38
+      },
+      "inventory":[],
+      "killer":{
+        "playerName":"Fidgug"
+      },
+      "deathState":46
+    },
+    "0-814":{
+      "refId":"scrib blighted",
+      "location":{
+        "posY":157543.671875,
+        "posZ":411.75857543945,
+        "rotX":-0.23565477132797,
+        "rotZ":2.6869299411774,
+        "rotY":0,
+        "posX":-13452.0625
+      },
+      "stats":{
+        "healthBase":30,
+        "healthCurrent":30,
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":12,
+        "healthModified":30
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-792":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":161549.21875,
+        "posZ":-37.411125183105,
+        "rotX":0.00013726390898228,
+        "rotZ":-1.1357262134552,
+        "rotY":0,
+        "posX":-16314.953125
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296928-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
+    "296935-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "296943-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

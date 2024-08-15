@@ -17,42 +17,129 @@
     "state":["474443-0"],
     "statsDynamic":["474443-0","0-15","0-16","0-17","0-18"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"-3, -8",
-    "creationTime":1713904313
+    "creationTime":1713904313,
+    "description":"-3, -8"
   },
   "lastVisit":{
-    "Benoit":1713905464,
-    "asdf":1713904733,
+    "qwer":1713904731,
     "Fidgug":1713905453,
-    "qwer":1713904731
+    "asdf":1713904733,
+    "Benoit":1713905464
   },
   "recordLinks":[],
   "objectData":{
-    "0-16":{
-      "refId":"mudcrab",
+    "0-17":{
+      "refId":"rat",
       "location":{
+        "posY":-59948.03125,
+        "posZ":1931.8392333984,
+        "rotX":0,
         "rotZ":0,
         "rotY":0,
-        "posX":-23268.470703125,
-        "posY":-61742.8828125,
-        "posZ":1070.0900878906,
-        "rotX":0
+        "posX":-23006.392578125
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "magickaCurrent":10,
+        "magickaBase":10,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-18":{
+      "refId":"scrib",
+      "location":{
+        "posY":-64456.71875,
+        "posZ":280.44564819336,
+        "rotX":0.26965662837029,
+        "rotZ":-1.4070160388947,
+        "rotY":0,
+        "posX":-17988.646484375
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "healthModified":8,
+        "magickaModified":12,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "magickaCurrent":12,
+        "magickaBase":12,
+        "fatigueModified":300
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-15":{
+      "refId":"mudcrab",
+      "location":{
+        "posY":-60904.9765625,
+        "posZ":553.03540039063,
+        "rotX":-0.0040592672303319,
+        "rotZ":-2.0101654529572,
+        "rotY":0,
+        "posX":-18024.697265625
       },
       "stats":{
         "healthBase":15,
         "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
         "healthModified":15,
         "magickaModified":5,
-        "fatigueModified":400,
+        "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueBase":400
+        "magickaCurrent":5,
+        "magickaBase":5,
+        "fatigueModified":400
+      },
+      "inventory":[{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-16":{
+      "refId":"mudcrab",
+      "location":{
+        "posY":-61742.8828125,
+        "posZ":1070.0900878906,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0,
+        "posX":-23268.470703125
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "healthModified":15,
+        "magickaModified":5,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaCurrent":5,
+        "magickaBase":5,
+        "fatigueModified":400
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -253,23 +340,23 @@
     "474443-0":{
       "refId":"agronian guy",
       "location":{
-        "rotZ":0,
-        "rotY":0,
-        "posX":-16747.36328125,
         "posY":-58568.03515625,
         "posZ":3114.662109375,
-        "rotX":0
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0,
+        "posX":-16747.36328125
       },
       "stats":{
         "healthBase":5,
         "healthCurrent":5,
-        "magickaBase":22,
-        "magickaCurrent":22,
         "healthModified":5,
         "magickaModified":22,
-        "fatigueModified":224,
+        "fatigueBase":224,
         "fatigueCurrent":224,
-        "fatigueBase":224
+        "magickaCurrent":22,
+        "magickaBase":22,
+        "fatigueModified":224
       },
       "equipment":{
         "0":{
@@ -335,93 +422,6 @@
           "soul":""
         }],
       "state":false
-    },
-    "0-17":{
-      "refId":"rat",
-      "location":{
-        "rotZ":0,
-        "rotY":0,
-        "posX":-23006.392578125,
-        "posY":-59948.03125,
-        "posZ":1931.8392333984,
-        "rotX":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300,
-        "fatigueCurrent":300,
-        "fatigueBase":300
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-18":{
-      "refId":"scrib",
-      "location":{
-        "rotZ":-1.4070160388947,
-        "rotY":0,
-        "posX":-17988.646484375,
-        "posY":-64456.71875,
-        "posZ":280.44564819336,
-        "rotX":0.26965662837029
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":300,
-        "fatigueCurrent":300,
-        "fatigueBase":300
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-15":{
-      "refId":"mudcrab",
-      "location":{
-        "rotZ":-2.0101654529572,
-        "rotY":0,
-        "posX":-18024.697265625,
-        "posY":-60904.9765625,
-        "posZ":553.03540039063,
-        "rotX":-0.0040592672303319
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaCurrent":5,
-        "healthModified":15,
-        "magickaModified":5,
-        "fatigueModified":400,
-        "fatigueCurrent":400,
-        "fatigueBase":400
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{

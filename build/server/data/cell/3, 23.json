@@ -17,17 +17,21 @@
     "state":["480883-0","480884-0","480887-0","480886-0","480885-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"3, 23",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"3, 23"
   },
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
+    "480883-0":{
+      "refId":"daedroth_az",
+      "state":false
+    },
     "480884-0":{
       "refId":"hunger_az_01",
       "state":false
@@ -42,10 +46,6 @@
     },
     "480885-0":{
       "refId":"hunger_az_02",
-      "state":false
-    },
-    "480883-0":{
-      "refId":"daedroth_az",
       "state":false
     }
   },

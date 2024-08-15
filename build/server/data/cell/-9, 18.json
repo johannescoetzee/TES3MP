@@ -17,20 +17,58 @@
     "state":[],
     "statsDynamic":["0-749"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1716741265,
     "description":"-9, 18"
   },
   "lastVisit":{
-    "Benoit":1717181363,
-    "Fidgug":1717181358
+    "Benoit":1723747150,
+    "Fidgug":1723747147
   },
   "recordLinks":[],
   "objectData":{
+    "402934-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402935-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "402936-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402801-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "402802-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
     "402803-0":{
       "refId":"kollop_03_pearl",
       "inventory":[{
@@ -83,26 +121,38 @@
           "soul":""
         }]
     },
+    "403114-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "403115-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "403116-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
     "0-749":{
       "refId":"slaughterfish_small",
       "location":{
-        "posX":-67065.53125,
-        "posY":153982.453125,
-        "posZ":-33.008354187012,
+        "posY":153734.375,
+        "posZ":-33.008666992188,
         "rotX":-0.0023016929626465,
-        "rotZ":1.1163747310638,
-        "rotY":0
+        "rotZ":-2.7168242931366,
+        "rotY":0,
+        "posX":-66830.3125
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
         "healthBase":15,
         "healthCurrent":15,
-        "magickaModified":10
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":299.984375,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":15
       },
       "inventory":[]
     },
@@ -125,18 +175,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "403114-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "403115-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "403116-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
     },
     "402929-0":{
       "refId":"kollop_03_pearl",
@@ -165,44 +203,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "402934-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402935-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "402936-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402801-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "402802-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
     }
   },
   "loadState":{

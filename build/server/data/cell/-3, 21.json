@@ -17,50 +17,40 @@
     "state":[],
     "statsDynamic":["0-822","0-823","0-824","0-825","0-826"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-3, 21",
     "creationTime":1717183081
   },
   "lastVisit":{
-    "Fidgug":1717184022,
-    "Benoit":1717184095
+    "Benoit":1723750446,
+    "Fidgug":1723750447
   },
   "recordLinks":[],
   "objectData":{
-    "323555-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-825":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posX":-20591.83203125,
         "posY":177379.8125,
         "posZ":315.14712524414,
         "rotX":0.19739751517773,
         "rotZ":0.82199931144714,
-        "rotY":0
+        "rotY":0,
+        "posX":-20591.83203125
       },
       "stats":{
-        "magickaCurrent":5,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
         "fatigueBase":29,
         "fatigueCurrent":29,
         "fatigueModified":29,
-        "magickaBase":5,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
+        "magickaCurrent":5,
+        "healthModified":15
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -73,23 +63,23 @@
     "0-826":{
       "refId":"cliff racer_diseased",
       "location":{
-        "posX":-20299.330078125,
-        "posY":176077.3125,
-        "posZ":2023.3221435547,
-        "rotX":0.0038487212732434,
-        "rotZ":2.8742864131927,
-        "rotY":0
+        "posY":176510.625,
+        "posZ":2018.8328857422,
+        "rotX":0.002800403162837,
+        "rotZ":-0.62737989425659,
+        "rotY":0,
+        "posX":-20213.76171875
       },
       "stats":{
-        "magickaCurrent":20,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "magickaModified":20,
         "fatigueBase":170,
         "fatigueCurrent":170,
         "fatigueModified":170,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
+        "magickaCurrent":20,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -102,23 +92,23 @@
     "0-822":{
       "refId":"scrib",
       "location":{
-        "posX":-19385.126953125,
         "posY":174412.1875,
-        "posZ":413.03030395508,
+        "posZ":413.02880859375,
         "rotX":-0.19137839972973,
         "rotZ":3.063056230545,
-        "rotY":0
+        "rotY":0,
+        "posX":-19385.126953125
       },
       "stats":{
-        "magickaCurrent":12,
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaBase":12,
-        "healthModified":8,
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaModified":12
+        "magickaCurrent":12,
+        "healthModified":8
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -131,46 +121,46 @@
     "0-823":{
       "refId":"mudcrab",
       "location":{
-        "posX":-20899.44140625,
         "posY":179948.65625,
         "posZ":242.44946289063,
         "rotX":0.33383098244667,
         "rotZ":1.5538403987885,
-        "rotY":0
+        "rotY":0,
+        "posX":-20899.44140625
       },
       "stats":{
-        "magickaCurrent":5,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
+        "magickaCurrent":5,
+        "healthModified":15
       },
       "inventory":[]
     },
     "0-824":{
       "refId":"mudcrab",
       "location":{
-        "posX":-18395.623046875,
         "posY":178626.40625,
         "posZ":146.99520874023,
         "rotX":0.23289254307747,
         "rotZ":2.5575511455536,
-        "rotY":0
+        "rotY":0,
+        "posX":-18395.623046875
       },
       "stats":{
-        "magickaCurrent":5,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
+        "magickaCurrent":5,
+        "healthModified":15
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -438,6 +428,16 @@
       "refId":"flora_marshmerrow_03",
       "inventory":[{
           "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323555-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,

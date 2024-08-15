@@ -5,32 +5,127 @@
     "cellChangeFrom":[],
     "cellChangeTo":[],
     "container":["178004-0","178005-0","178006-0","297009-0","297016-0","297020-0","297021-0","297022-0","297023-0","297026-0","297027-0","297029-0","297030-0","297031-0","297036-0","297037-0","297038-0","0-791","0-789","0-790"],
-    "death":[],
+    "death":["0-790","0-789"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-789","0-790","0-791"],
+    "position":["0-789","0-791","0-790"],
     "scale":[],
     "spawn":["0-791","0-789","0-790"],
     "state":[],
-    "statsDynamic":["0-789","0-790","0-791"],
+    "statsDynamic":["0-789","0-791","0-790"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-2, 17",
     "creationTime":1717182650
   },
   "lastVisit":{
-    "Benoit":1717182967,
-    "Fidgug":1717182964
+    "Benoit":1723751520,
+    "Fidgug":1723751516
   },
   "recordLinks":[],
   "objectData":{
+    "0-789":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":146018.015625,
+        "posZ":1117.1263427734,
+        "rotX":1.3799904584885,
+        "rotZ":-2.5523397922516,
+        "rotY":0,
+        "posX":-11888.225585938
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":20,
+        "magickaModified":20,
+        "fatigueBase":400,
+        "fatigueCurrent":399.90100097656,
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "0-790":{
+      "refId":"kagouti",
+      "location":{
+        "posY":146473.6875,
+        "posZ":1125.3239746094,
+        "rotX":-0.02590936422348,
+        "rotZ":0.13059091567993,
+        "rotY":0,
+        "posX":-11036.879882813
+      },
+      "stats":{
+        "healthBase":45,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":399.77593994141,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":45
+      },
+      "inventory":[],
+      "spellsActive":[],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
+    "178004-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178005-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178006-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297009-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[]
+    },
     "297016-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -155,55 +250,26 @@
           "soul":""
         }]
     },
-    "0-790":{
-      "refId":"kagouti",
-      "location":{
-        "posX":-13252.291992188,
-        "posY":146932.84375,
-        "posZ":1127.9129638672,
-        "rotX":-0.0084723979234695,
-        "rotZ":3.0134861469269,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_kagouti_hide_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-791":{
       "refId":"kwama forager",
       "location":{
-        "posX":-13108.30859375,
-        "posY":140262.875,
-        "posZ":2351.1916503906,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posY":140140.09375,
+        "posZ":2358.37109375,
+        "rotX":-0.12467323988676,
+        "rotZ":-1.6070301532745,
+        "rotY":0,
+        "posX":-13750.505859375
       },
       "stats":{
-        "magickaCurrent":15,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":15,
+        "magickaModified":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaBase":15,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":15
+        "magickaCurrent":15,
+        "healthModified":23
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -212,69 +278,6 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-789":{
-      "refId":"cliff racer",
-      "location":{
-        "posX":-11382.903320313,
-        "posY":144368.21875,
-        "posZ":802.64367675781,
-        "rotX":0.0024188850075006,
-        "rotZ":2.249706029892,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":20,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":20,
-        "healthModified":45,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaModified":20
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178004-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178005-0":{
-      "refId":"tramaroot_01",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178006-0":{
-      "refId":"tramaroot_05",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "297009-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[]
     }
   },
   "loadState":{

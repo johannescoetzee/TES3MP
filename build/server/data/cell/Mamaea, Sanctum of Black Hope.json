@@ -17,13 +17,13 @@
     "state":["382941-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Mamaea, Sanctum of Black Hope",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Mamaea, Sanctum of Black Hope"
   },
   "lastVisit":[],
   "recordLinks":[],

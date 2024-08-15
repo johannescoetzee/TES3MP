@@ -1,79 +1,79 @@
 {
   "packets":{
-    "actorList":["0-856","0-858","0-859","0-971","0-854"],
+    "actorList":["0-856","0-858","0-859","0-971"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":["84465-0"],
-    "container":["325299-0","325300-0","325301-0","325302-0","325307-0","325314-0","325319-0","429865-0","429866-0","429867-0","429868-0","429869-0","429874-0","429887-0","429895-0","429896-0","429913-0","429914-0","429915-0","0-856","0-858","0-859","0-971","0-854"],
+    "container":["325299-0","325300-0","325301-0","325302-0","325307-0","325314-0","325319-0","429865-0","429866-0","429867-0","429868-0","429869-0","429874-0","429887-0","429895-0","429896-0","429913-0","429914-0","429915-0","0-856","0-858","0-859","0-971"],
     "death":["0-971"],
     "delete":[],
     "doorState":[],
     "equipment":["0-971"],
     "lock":[],
     "place":["0-972","0-973"],
-    "position":["0-856","0-858","0-859","0-971","0-854"],
+    "position":["0-856","0-858","0-859","0-971"],
     "scale":[],
-    "spawn":["0-856","0-858","0-859","0-971","0-854"],
-    "state":["84465-0"],
-    "statsDynamic":["0-856","0-858","0-859","0-971","0-854"],
+    "spawn":["0-856","0-858","0-859","0-971"],
+    "state":[],
+    "statsDynamic":["0-856","0-858","0-859","0-971"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"0, 22",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"0, 22"
   },
   "lastVisit":{
-    "Benoit":1717187144,
-    "Fidgug":1717187435
+    "Benoit":1723750311,
+    "Fidgug":1723750315
   },
   "recordLinks":[],
   "objectData":{
     "0-856":{
       "refId":"slaughterfish",
       "location":{
-        "rotZ":0.6916766166687,
+        "posY":183927.328125,
+        "posZ":-328.0666809082,
+        "rotX":0.00107326451689,
+        "rotZ":1.5524699687958,
         "rotY":0,
-        "posX":3329.7163085938,
-        "posY":183932.5,
-        "posZ":-329.95941162109,
-        "rotX":0.0010557100176811
+        "posX":3236.728515625
       },
       "stats":{
         "healthBase":23,
         "healthCurrent":23,
         "magickaBase":10,
-        "magickaCurrent":10,
-        "healthModified":23,
         "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
         "fatigueModified":400,
-        "fatigueCurrent":399.9885559082,
-        "fatigueBase":400
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[]
     },
     "0-858":{
       "refId":"cliff racer",
       "location":{
-        "rotZ":1.4538552761078,
+        "posY":186443.578125,
+        "posZ":313.14364624023,
+        "rotX":0.0070565110072494,
+        "rotZ":-0.53225207328796,
         "rotY":0,
-        "posX":3796.6953125,
-        "posY":185370.46875,
-        "posZ":312.427734375,
-        "rotX":0.092345960438251
+        "posX":3150.0485839844
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":20,
-        "magickaCurrent":20,
-        "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":400,
+        "fatigueBase":400,
         "fatigueCurrent":400,
-        "fatigueBase":400
+        "fatigueModified":400,
+        "magickaCurrent":20,
+        "healthModified":45
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -86,46 +86,46 @@
     "0-859":{
       "refId":"cliff racer_diseased",
       "location":{
-        "rotZ":-1.8590838909149,
+        "posY":186156.578125,
+        "posZ":250.28118896484,
+        "rotX":0.00051780324429274,
+        "rotZ":-0.74909472465515,
         "rotY":0,
-        "posX":3470.5219726563,
-        "posY":186425.046875,
-        "posZ":250.5263671875,
-        "rotX":0.34386870265007
+        "posX":3041.7590332031
       },
       "stats":{
         "healthBase":45,
         "healthCurrent":45,
         "magickaBase":20,
-        "magickaCurrent":20,
-        "healthModified":45,
         "magickaModified":20,
-        "fatigueModified":170,
+        "fatigueBase":170,
         "fatigueCurrent":170,
-        "fatigueBase":170
+        "fatigueModified":170,
+        "magickaCurrent":20,
+        "healthModified":45
       },
       "inventory":[]
     },
     "0-971":{
       "refId":"db_assassin1",
       "location":{
-        "rotZ":2.8871762752533,
-        "rotY":0,
-        "posX":7797.244140625,
         "posY":185575.125,
         "posZ":826.38952636719,
-        "rotX":0.30897328257561
+        "rotX":0.30897328257561,
+        "rotZ":2.8871762752533,
+        "rotY":0,
+        "posX":7797.244140625
       },
       "stats":{
         "healthBase":50,
         "healthCurrent":0,
         "magickaBase":106,
-        "magickaCurrent":106,
-        "healthModified":50,
         "magickaModified":106,
-        "fatigueModified":164,
+        "fatigueBase":164,
         "fatigueCurrent":163.69525146484,
-        "fatigueBase":164
+        "fatigueModified":164,
+        "magickaCurrent":106,
+        "healthModified":50
       },
       "equipment":{
         "0":{
@@ -178,40 +178,11 @@
           "enchantmentCharge":36,
           "soul":""
         }],
-      "spellsActive":[],
       "deathState":42,
       "killer":{
         "playerName":"Fidgug"
-      }
-    },
-    "0-854":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "rotZ":-0.12241220474243,
-        "rotY":0,
-        "posX":7549.794921875,
-        "posY":180863.875,
-        "posZ":342.41250610352,
-        "rotX":0.0083457073196769
       },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaCurrent":20,
-        "healthModified":45,
-        "magickaModified":20,
-        "fatigueModified":170,
-        "fatigueCurrent":170,
-        "fatigueBase":170
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "spellsActive":[]
     },
     "325299-0":{
       "refId":"flora_black_anther_01",
@@ -358,29 +329,29 @@
     "0-972":{
       "refId":"bk_corpsepreperation1_c",
       "location":{
-        "rotZ":-1.8517825603485,
-        "rotY":0,
-        "posX":7771.8012695313,
         "posY":185563.03125,
         "posZ":804.14367675781,
-        "rotX":0
+        "rotX":0,
+        "rotZ":-1.8517825603485,
+        "rotY":0,
+        "posX":7771.8012695313
       }
-    },
-    "84465-0":{
-      "cellChangeTo":"Vas, Entry Level",
-      "state":false
     },
     "0-973":{
       "refId":"food_kwama_egg_02",
       "count":2,
       "location":{
-        "rotZ":-2.0959408283234,
-        "rotY":0,
-        "posX":7874.6635742188,
         "posY":185636.0625,
         "posZ":839.56683349609,
-        "rotX":0
+        "rotX":0,
+        "rotZ":-2.0959408283234,
+        "rotY":0,
+        "posX":7874.6635742188
       }
+    },
+    "84465-0":{
+      "cellChangeTo":"Vas, Entry Level",
+      "state":false
     }
   },
   "loadState":{

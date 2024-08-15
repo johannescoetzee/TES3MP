@@ -1,328 +1,56 @@
 {
   "packets":{
-    "actorList":["0-736","470782-0","480895-0","113114-0","303563-0","113115-0","8368-0","0-639","0-735","0-619"],
+    "actorList":["0-736","470782-0","480895-0","113114-0","303563-0","113115-0","8368-0","0-639","0-735","355346-0"],
     "ai":[],
     "cellChangeFrom":[],
-    "cellChangeTo":["355346-0"],
-    "container":["68056-0","68059-0","68080-0","313085-0","313086-0","415342-0","415343-0","415348-0","415349-0","415357-0","415358-0","113114-0","113115-0","470782-0","480895-0","8368-0","303563-0","0-639","0-736","0-619","0-735"],
+    "cellChangeTo":[],
+    "container":["68056-0","68059-0","68080-0","313085-0","313086-0","415342-0","415343-0","415348-0","415349-0","415357-0","415358-0","113114-0","113115-0","470782-0","480895-0","8368-0","303563-0","0-736","0-639","355346-0","0-735"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":["470782-0","480895-0","113114-0","113115-0","8368-0"],
     "lock":[],
     "place":[],
-    "position":["113114-0","113115-0","303563-0","470782-0","480895-0","8368-0","0-736","0-735","0-639","0-619"],
+    "position":["113114-0","113115-0","303563-0","470782-0","480895-0","8368-0","0-736","0-639","0-735","355346-0"],
     "scale":[],
-    "spawn":["0-736","0-735","0-639","0-619"],
+    "spawn":["0-736","0-735","0-639"],
     "state":[],
-    "statsDynamic":["113114-0","113115-0","303563-0","470782-0","480895-0","8368-0","0-736","0-735","0-639","0-619"],
+    "statsDynamic":["113114-0","113115-0","303563-0","470782-0","480895-0","8368-0","0-736","0-639","0-735","355346-0"],
     "trap":[],
+    "miscellaneous":["113115-0","8368-0","470782-0"],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":["113115-0"]
+    "spellsActive":[]
   },
   "entry":{
     "creationTime":1716741189,
     "description":"-9, 17"
   },
   "lastVisit":{
-    "Benoit":1717181456,
-    "Fidgug":1717181455
+    "Benoit":1723747150,
+    "Fidgug":1723747147
   },
   "recordLinks":[],
   "objectData":{
-    "8368-0":{
-      "refId":"s'virr",
-      "location":{
-        "posX":-68960.2578125,
-        "posY":142151.46875,
-        "posZ":82.717666625977,
-        "rotX":0,
-        "rotZ":-1.8999998569489,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":142,
-        "fatigueBase":243,
-        "fatigueCurrent":243,
-        "fatigueModified":243,
-        "magickaBase":142,
-        "healthModified":126,
-        "healthBase":126,
-        "healthCurrent":126,
-        "magickaModified":142
-      },
-      "equipment":{
-        "16":{
-          "refId":"iron dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"bm_wool01_shirt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"bm_wool01_pants",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"bm_wool01_shirt",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"bm_wool01_pants",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"gold_001",
-          "count":220,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron dagger",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-639":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posX":-69451.6640625,
-        "posY":139817,
-        "posZ":-172.92636108398,
-        "rotX":0.041269592940807,
-        "rotZ":2.9955885410309,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":10,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
-    "0-619":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-65843.609375,
-        "posY":141524.875,
-        "posZ":-240.13858032227,
-        "rotX":0.14535982906818,
-        "rotZ":-0.12351560592651,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-735":{
-      "refId":"slaughterfish",
-      "location":{
-        "posX":-71845.421875,
-        "posY":139715.15625,
-        "posZ":-150.44668579102,
-        "rotX":2.0560808479786e-05,
-        "rotZ":-1.9517967700958,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaModified":10
-      },
-      "inventory":[]
-    },
-    "355346-0":{
-      "cellChangeTo":"-10, 17"
-    },
-    "68056-0":{
-      "refId":"barrel_01_ingredients",
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_sload_soap_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_willow_anther_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bonemeal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "68059-0":{
-      "refId":"com_chest_02_gold_25",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "68080-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "313085-0":{
-      "refId":"com_sack_02",
-      "inventory":[]
-    },
-    "313086-0":{
-      "refId":"com_sack_03_pos",
-      "inventory":[]
-    },
-    "415342-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "415343-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "415348-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "415349-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "415357-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "415358-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-736":{
-      "refId":"dreugh",
-      "location":{
-        "posX":-69446.359375,
-        "posY":144057.3125,
-        "posZ":-219.68432617188,
-        "rotX":0,
-        "rotZ":-0.89689421653748,
-        "rotY":0
-      },
-      "stats":{
-        "magickaCurrent":75,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":75,
-        "healthModified":60,
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaModified":75
-      },
-      "inventory":[]
-    },
     "470782-0":{
       "refId":"talmeni drethan",
       "location":{
-        "posX":-69559.8125,
-        "posY":142129.328125,
+        "posY":142105.265625,
         "posZ":82.717666625977,
         "rotX":0,
-        "rotZ":2.3561947345734,
-        "rotY":0
+        "rotZ":1.6337611675262,
+        "rotY":0,
+        "posX":-69550.609375
       },
       "stats":{
-        "magickaCurrent":102,
+        "healthBase":40,
+        "healthCurrent":40,
+        "magickaBase":102,
+        "magickaModified":102,
         "fatigueBase":145,
         "fatigueCurrent":145,
         "fatigueModified":145,
-        "magickaBase":102,
-        "healthModified":40,
-        "healthBase":40,
-        "healthCurrent":40,
-        "magickaModified":102
+        "magickaCurrent":102,
+        "healthModified":40
       },
       "equipment":{
         "7":{
@@ -404,28 +132,31 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }]
+        }],
+      "lastGoldRestockHour":1.5554156303406,
+      "goldPool":235,
+      "lastGoldRestockDay":34
     },
     "480895-0":{
       "refId":"redoran guard male",
       "location":{
-        "posX":-69132.453125,
-        "posY":141097.640625,
-        "posZ":210.50007629395,
-        "rotX":0.031226443126798,
-        "rotZ":-1.5403168201447,
-        "rotY":0
+        "posY":140798,
+        "posZ":293.82019042969,
+        "rotX":0.0045037409290671,
+        "rotZ":1.7151477336884,
+        "rotY":0,
+        "posX":-67845.015625
       },
       "stats":{
-        "magickaCurrent":122,
+        "healthBase":210,
+        "healthCurrent":210,
+        "magickaBase":122,
+        "magickaModified":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
         "fatigueModified":307,
-        "magickaBase":122,
-        "healthModified":210,
-        "healthBase":210,
-        "healthCurrent":210,
-        "magickaModified":122
+        "magickaCurrent":122,
+        "healthModified":210
       },
       "equipment":{
         "0":{
@@ -496,12 +227,6 @@
         },
         "16":{
           "refId":"steel mace",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "17":{
-          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -608,23 +333,23 @@
     "113114-0":{
       "refId":"rivame samandas",
       "location":{
-        "posX":-67502.8984375,
-        "posY":140742.875,
-        "posZ":299.3479309082,
-        "rotX":0.30202627182007,
-        "rotZ":1.8484823703766,
-        "rotY":0
+        "posY":141085.875,
+        "posZ":210.5,
+        "rotX":-0.02839494869113,
+        "rotZ":1.7271587848663,
+        "rotY":0,
+        "posX":-68793.1640625
       },
       "stats":{
-        "magickaCurrent":82,
+        "healthBase":51,
+        "healthCurrent":51,
+        "magickaBase":82,
+        "magickaModified":82,
         "fatigueBase":164,
         "fatigueCurrent":164,
         "fatigueModified":164,
-        "magickaBase":82,
-        "healthModified":51,
-        "healthBase":51,
-        "healthCurrent":51,
-        "magickaModified":82
+        "magickaCurrent":82,
+        "healthModified":51
       },
       "equipment":{
         "7":{
@@ -687,23 +412,23 @@
     "303563-0":{
       "refId":"mudcrab",
       "location":{
-        "posX":-70973.484375,
-        "posY":142088.640625,
-        "posZ":315.5934753418,
-        "rotX":0.36403429508209,
-        "rotZ":0.87075400352478,
-        "rotY":0
+        "posY":141854.765625,
+        "posZ":604.98986816406,
+        "rotX":0.56891530752182,
+        "rotZ":0.170893907547,
+        "rotY":0,
+        "posX":-70356.1328125
       },
       "stats":{
-        "magickaCurrent":5,
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":5,
+        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaBase":5,
-        "healthModified":15,
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaModified":5
+        "magickaCurrent":5,
+        "healthModified":15
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -716,23 +441,23 @@
     "113115-0":{
       "refId":"svadstar",
       "location":{
-        "posX":-66927.125,
-        "posY":140042.953125,
-        "posZ":69.169891357422,
-        "rotX":-0.15667442977428,
-        "rotZ":-3.0203740596771,
-        "rotY":0
+        "posY":140477.390625,
+        "posZ":221.07279968262,
+        "rotX":0.0024801697582006,
+        "rotZ":1.5465924739838,
+        "rotY":0,
+        "posX":-67449
       },
       "stats":{
-        "magickaCurrent":82,
+        "healthBase":51,
+        "healthCurrent":51,
+        "magickaBase":82,
+        "magickaModified":82,
         "fatigueBase":164,
         "fatigueCurrent":164,
         "fatigueModified":164,
-        "magickaBase":82,
-        "healthModified":51,
-        "healthBase":51,
-        "healthCurrent":51,
-        "magickaModified":82
+        "magickaCurrent":82,
+        "healthModified":51
       },
       "equipment":{
         "7":{
@@ -785,9 +510,281 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "goldPool":0,
       "lastGoldRestockHour":19.631320953369,
+      "goldPool":0,
       "lastGoldRestockDay":19
+    },
+    "8368-0":{
+      "refId":"s'virr",
+      "location":{
+        "posY":142151.25,
+        "posZ":82.717666625977,
+        "rotX":0,
+        "rotZ":-1.8304622173309,
+        "rotY":0,
+        "posX":-68960.140625
+      },
+      "stats":{
+        "healthBase":126,
+        "healthCurrent":126,
+        "magickaBase":142,
+        "magickaModified":142,
+        "fatigueBase":243,
+        "fatigueCurrent":243,
+        "fatigueModified":243,
+        "magickaCurrent":142,
+        "healthModified":126
+      },
+      "equipment":{
+        "16":{
+          "refId":"iron dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"bm_wool01_shirt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"bm_wool01_pants",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"bm_wool01_shirt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"bm_wool01_pants",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gold_001",
+          "count":220,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"iron dagger",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "lastGoldRestockHour":1.5064877271652,
+      "goldPool":0,
+      "lastGoldRestockDay":34
+    },
+    "0-639":{
+      "refId":"slaughterfish_small",
+      "location":{
+        "posY":139507.484375,
+        "posZ":-139.37794494629,
+        "rotX":0.58110761642456,
+        "rotZ":-2.122894525528,
+        "rotY":0,
+        "posX":-69458.2265625
+      },
+      "stats":{
+        "healthBase":15,
+        "healthCurrent":15,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":15
+      },
+      "inventory":[]
+    },
+    "355346-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":142458.1875,
+        "posZ":-123.93655395508,
+        "rotX":0,
+        "rotZ":-2.7452337741852,
+        "rotY":0,
+        "posX":-73485.1796875
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_scales_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "68056-0":{
+      "refId":"barrel_01_ingredients",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_sload_soap_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_willow_anther_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_bonemeal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "68059-0":{
+      "refId":"com_chest_02_gold_25",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "68080-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "313085-0":{
+      "refId":"com_sack_02",
+      "inventory":[]
+    },
+    "313086-0":{
+      "refId":"com_sack_03_pos",
+      "inventory":[]
+    },
+    "415342-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[]
+    },
+    "415343-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "415348-0":{
+      "refId":"kollop_02_pearl",
+      "inventory":[]
+    },
+    "415349-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "415357-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "415358-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-735":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":140036.515625,
+        "posZ":-151.01513671875,
+        "rotX":0.000141984783113,
+        "rotZ":1.2016460895538,
+        "rotY":0,
+        "posX":-72131.171875
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[]
+    },
+    "0-736":{
+      "refId":"dreugh",
+      "location":{
+        "posY":143795.59375,
+        "posZ":-219.68432617188,
+        "rotX":0,
+        "rotZ":-3.0648710727692,
+        "rotY":0,
+        "posX":-70089.375
+      },
+      "stats":{
+        "healthBase":60,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "magickaModified":75,
+        "fatigueBase":400,
+        "fatigueCurrent":399.98629760742,
+        "fatigueModified":400,
+        "magickaCurrent":75,
+        "healthModified":60
+      },
+      "inventory":[]
     }
   },
   "loadState":{

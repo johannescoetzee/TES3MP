@@ -1,6 +1,6 @@
 {
   "packets":{
-    "actorList":["0-799","430691-0"],
+    "actorList":["430691-0","0-799"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
@@ -17,44 +17,44 @@
     "state":[],
     "statsDynamic":["430691-0","0-799"],
     "trap":[],
+    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[],
-    "miscellaneous":[]
+    "spellsActive":[]
   },
   "entry":{
     "description":"-1, 19",
     "creationTime":1717182945
   },
   "lastVisit":{
-    "Fidgug":1717183229,
-    "Benoit":1717183224
+    "Benoit":1723751277,
+    "Fidgug":1723751285
   },
   "recordLinks":[],
   "objectData":{
-    "0-799":{
-      "refId":"kwama forager",
+    "430691-0":{
+      "refId":"slaughterfish",
       "location":{
-        "posX":-7523.0302734375,
-        "posY":159050.03125,
-        "posZ":705,
-        "rotX":-0.10336159914732,
-        "rotZ":-0.28573536872864,
-        "rotY":0
+        "posY":162963.96875,
+        "posZ":-238.22393798828,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0,
+        "posX":-7408.69921875
       },
       "stats":{
-        "magickaCurrent":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaBase":15,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":15
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
       },
       "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
+          "refId":"ingred_scales_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -126,30 +126,30 @@
       "refId":"kollop_03_pearl",
       "inventory":[]
     },
-    "430691-0":{
-      "refId":"slaughterfish",
+    "0-799":{
+      "refId":"kwama forager",
       "location":{
-        "posX":-7408.7001953125,
-        "posY":162963.984375,
-        "posZ":-238.22393798828,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0
+        "posY":159771.734375,
+        "posZ":634.36553955078,
+        "rotX":0.25415006279945,
+        "rotZ":1.6764562129974,
+        "rotY":0,
+        "posX":-7858.5537109375
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaBase":10,
-        "healthModified":23,
         "healthBase":23,
         "healthCurrent":23,
-        "magickaModified":10
+        "magickaBase":15,
+        "magickaModified":15,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":15,
+        "healthModified":23
       },
       "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
+          "refId":"ingred_kwama_cuttle_01",
+          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

@@ -17,13 +17,13 @@
     "state":["232005-0","232006-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Ald-ruhn, The Rat In The Pot",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Ald-ruhn, The Rat In The Pot"
   },
   "lastVisit":[],
   "recordLinks":[],

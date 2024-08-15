@@ -17,13 +17,13 @@
     "state":["450963-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Indarys Manor, Berendas' House",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Indarys Manor, Berendas' House"
   },
   "lastVisit":[],
   "recordLinks":[],

@@ -17,13 +17,13 @@
     "state":["470765-0"],
     "statsDynamic":[],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":[],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Ilunibi, Soul's Rattle",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Ilunibi, Soul's Rattle"
   },
   "lastVisit":[],
   "recordLinks":[],

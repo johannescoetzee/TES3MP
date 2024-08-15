@@ -17,19 +17,39 @@
     "state":["408978-0"],
     "statsDynamic":["399059-0"],
     "trap":[],
-    "clientScriptLocal":[],
     "miscellaneous":["399059-0"],
+    "clientScriptLocal":[],
     "spellsActive":[]
   },
   "entry":{
-    "description":"Vivec, Ralen Tilvur: Smith",
-    "creationTime":1713904668
+    "creationTime":1713904668,
+    "description":"Vivec, Ralen Tilvur: Smith"
   },
   "lastVisit":{
     "Fidgug":1717190520
   },
   "recordLinks":[],
   "objectData":{
+    "399129-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"sc_paper plain",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "399130-0":{
+      "refId":"com_basket_01_pos",
+      "inventory":[{
+          "refId":"misc_com_bottle_10",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "408978-0":{
       "refId":"drarel andus",
       "inventory":[{
@@ -126,23 +146,23 @@
     "399059-0":{
       "refId":"ralen tilvur",
       "location":{
-        "rotZ":0.93683934211731,
-        "rotY":0,
-        "posX":-48.774429321289,
         "posY":-120.15629577637,
         "posZ":-127,
-        "rotX":0.015641594305634
+        "rotX":0.015641594305634,
+        "rotZ":0.93683934211731,
+        "rotY":0,
+        "posX":-48.774429321289
       },
       "stats":{
         "healthBase":107,
         "healthCurrent":107,
-        "magickaBase":92,
-        "magickaCurrent":92,
         "healthModified":107,
         "magickaModified":92,
-        "fatigueModified":219,
+        "fatigueBase":219,
         "fatigueCurrent":219,
-        "fatigueBase":219
+        "magickaCurrent":92,
+        "magickaBase":92,
+        "fatigueModified":219
       },
       "equipment":{
         "0":{
@@ -255,9 +275,9 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockDay":23,
       "lastGoldRestockHour":7.9077949523926,
-      "goldPool":16
+      "goldPool":16,
+      "lastGoldRestockDay":23
     },
     "399064-0":{
       "refId":"de_drawers_02_mclothes4",
@@ -422,26 +442,6 @@
       "inventory":[{
           "refId":"ingred_scuttle_01",
           "count":5,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "399129-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"sc_paper plain",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "399130-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_bottle_10",
-          "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""

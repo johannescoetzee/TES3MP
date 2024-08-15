@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-403","0-406","0-405"],
+    "actorList":["0-403","0-406","0-405","0-404"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["43259-0","43260-0","43261-0","43262-0","43263-0","475341-0","476178-0","476179-0","476180-0","476181-0","476182-0","476189-0","476190-0","476191-0","476192-0","476193-0","476194-0","476195-0","476196-0","476197-0","476198-0","476199-0","476200-0","476201-0","476202-0","476203-0","476204-0","476205-0","476206-0","476207-0","476208-0","476209-0","476210-0","476211-0","476212-0","476213-0","476214-0","476215-0","476216-0","476217-0","476218-0","476219-0","476220-0","0-403","0-405","0-406"],
+    "container":["43259-0","43260-0","43261-0","43262-0","43263-0","475341-0","476178-0","476179-0","476180-0","476181-0","476182-0","476189-0","476190-0","476191-0","476192-0","476193-0","476194-0","476195-0","476196-0","476197-0","476198-0","476199-0","476200-0","476201-0","476202-0","476203-0","476204-0","476205-0","476206-0","476207-0","476208-0","476209-0","476210-0","476211-0","476212-0","476213-0","476214-0","476215-0","476216-0","476217-0","476218-0","476219-0","476220-0","0-403","0-405","0-406","0-404"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-403","0-406","0-405"],
+    "position":["0-403","0-406","0-405","0-404"],
     "scale":[],
-    "spawn":["0-403","0-406","0-405"],
+    "spawn":["0-403","0-406","0-405","0-404"],
     "state":[],
-    "statsDynamic":["0-403","0-406","0-405"],
+    "statsDynamic":["0-403","0-406","0-405","0-404"],
     "trap":[],
     "miscellaneous":[],
     "clientScriptLocal":[],
@@ -26,22 +26,12 @@
     "creationTime":1715976494
   },
   "lastVisit":{
-    "Benoit":1715977364,
-    "Fidgug":1715977368
+    "Benoit":1723748361,
+    "Fidgug":1723747079
   },
   "recordLinks":[],
   "objectData":{
     "476218-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476220-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
@@ -61,88 +51,11 @@
           "soul":""
         }]
     },
-    "0-403":{
-      "refId":"rat",
-      "location":{
-        "posX":-17215.041015625,
-        "posY":39498.359375,
-        "posZ":3258.0061035156,
-        "rotX":0.03202210739255,
-        "rotZ":-0.83969235420227,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":300
-      },
+    "476220-0":{
+      "refId":"flora_stoneflower_01",
       "inventory":[{
-          "refId":"ingred_rat_meat_01",
+          "refId":"ingred_stoneflower_petals_01",
           "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-406":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-21928.60546875,
-        "posY":34355.7734375,
-        "posZ":1344.1339111328,
-        "rotX":0.11244825273752,
-        "rotZ":1.4048373699188,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-405":{
-      "refId":"scrib diseased",
-      "location":{
-        "posX":-23915.474609375,
-        "posY":37101.9609375,
-        "posZ":1713,
-        "rotX":-0.15341272950172,
-        "rotZ":1.783684015274,
-        "rotY":0
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaCurrent":12,
-        "fatigueBase":79,
-        "fatigueCurrent":79,
-        "healthModified":8,
-        "magickaModified":12,
-        "fatigueModified":79
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -400,6 +313,122 @@
       "refId":"flora_stoneflower_01",
       "inventory":[]
     },
+    "0-404":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":40213.65234375,
+        "posZ":2898.7680664063,
+        "rotX":0.91291850805283,
+        "rotZ":-1.2619440555573,
+        "rotY":0,
+        "posX":-18036.138671875
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-405":{
+      "refId":"scrib diseased",
+      "location":{
+        "posY":37101.9609375,
+        "posZ":1713,
+        "rotX":-0.15341272950172,
+        "rotZ":1.783684015274,
+        "rotY":0,
+        "posX":-23915.474609375
+      },
+      "stats":{
+        "healthBase":8,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "magickaModified":12,
+        "fatigueBase":71,
+        "fatigueCurrent":71,
+        "fatigueModified":71,
+        "magickaCurrent":12,
+        "healthModified":8
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-406":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":34355.7734375,
+        "posZ":1344.1339111328,
+        "rotX":0.11244825273752,
+        "rotZ":1.4048373699188,
+        "rotY":0,
+        "posX":-21928.60546875
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-403":{
+      "refId":"rat",
+      "location":{
+        "posY":38799.95703125,
+        "posZ":3079.8251953125,
+        "rotX":-0.025295773521066,
+        "rotZ":1.5017197132111,
+        "rotY":0,
+        "posX":-17501.609375
+      },
+      "stats":{
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "magickaModified":10,
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "magickaCurrent":10,
+        "healthModified":23
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "476208-0":{
       "refId":"flora_stoneflower_02",
       "inventory":[{
@@ -468,7 +497,7 @@
           "soul":""
         }]
     },
-    "476217-0":{
+    "476216-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
@@ -478,7 +507,7 @@
           "soul":""
         }]
     },
-    "476216-0":{
+    "476217-0":{
       "refId":"flora_stoneflower_01",
       "inventory":[{
           "refId":"ingred_stoneflower_petals_01",
@@ -490,7 +519,7 @@
     }
   },
   "loadState":{
-    "hasFullContainerData":true,
-    "hasFullActorList":true
+    "hasFullActorList":true,
+    "hasFullContainerData":true
   }
 }
