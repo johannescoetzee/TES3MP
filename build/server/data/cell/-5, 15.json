@@ -18,21 +18,21 @@
     "statsDynamic":[],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-5, 15",
-    "creationTime":1716737918
+    "creationTime":1716737918,
+    "description":"-5, 15"
   },
   "lastVisit":{
-    "Benoit":1719600200,
-    "Fidgug":1719600198
+    "Benoit":1724438366,
+    "Fidgug":1724438383
   },
   "recordLinks":[],
   "objectData":[],
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

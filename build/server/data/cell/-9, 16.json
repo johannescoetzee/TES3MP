@@ -1,221 +1,38 @@
 {
   "packets":{
-    "actorList":["0-638","0-636","470783-0"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["68135-0","68136-0","471832-0","471833-0","470783-0","0-638","0-636"],
-    "death":["0-638","0-636"],
+    "container":[],
+    "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["470783-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["470783-0","0-636","0-638"],
+    "position":[],
     "scale":[],
-    "spawn":["0-638","0-636"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["470783-0","0-636","0-638"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":["470783-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-9, 16",
-    "creationTime":1716738328
+    "creationTime":1716738328,
+    "description":"-9, 16"
   },
   "lastVisit":{
     "Benoit":1723747150,
     "Fidgug":1723747147
   },
   "recordLinks":[],
-  "objectData":{
-    "68135-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[{
-          "refId":"ingred_chokeweed_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "68136-0":{
-      "refId":"flora_roobrush_02",
-      "inventory":[{
-          "refId":"ingred_roobrush_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "471832-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "471833-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "0-638":{
-      "refId":"nix-hound",
-      "location":{
-        "posY":136363.640625,
-        "posZ":781.00750732422,
-        "rotX":-0.32623732089996,
-        "rotZ":-2.115739107132,
-        "rotY":0,
-        "posX":-71027.3203125
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":398.00149536133,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "0-636":{
-      "refId":"nix-hound",
-      "location":{
-        "posY":134982.625,
-        "posZ":724.29119873047,
-        "rotX":-0.1857372969389,
-        "rotZ":0.82083439826965,
-        "rotY":0,
-        "posX":-69935.2578125
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":396.11190795898,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "470783-0":{
-      "refId":"seldus nerendus",
-      "location":{
-        "posY":135590.046875,
-        "posZ":961,
-        "rotX":0,
-        "rotZ":0.52557158470154,
-        "rotY":0,
-        "posX":-65903.5859375
-      },
-      "stats":{
-        "healthBase":59,
-        "healthCurrent":59,
-        "magickaBase":106,
-        "magickaModified":106,
-        "fatigueBase":171,
-        "fatigueCurrent":171,
-        "fatigueModified":171,
-        "magickaCurrent":106,
-        "healthModified":59
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "8":{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "9":{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "15":{
-          "refId":"common_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "16":{
-          "refId":"iron club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_belt_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":0.70783746242523,
-      "goldPool":0,
-      "lastGoldRestockDay":34
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

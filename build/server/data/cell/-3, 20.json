@@ -1,187 +1,40 @@
 {
   "packets":{
-    "actorList":["0-808","0-809","0-810","0-811","355266-0","0-813"],
+    "actorList":["0-808","0-810","0-811","355266-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["341844-0","341845-0","341850-0","431203-0","431204-0","355266-0","0-808","0-809","0-810","0-811","0-813"],
-    "death":[],
+    "container":["341844-0","341845-0","341850-0","431203-0","431204-0","355266-0","0-808","0-810","0-811"],
+    "death":["0-808"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["355266-0","0-808","0-809","0-810","0-811","0-813"],
+    "position":["355266-0","0-808","0-810","0-811"],
     "scale":[],
-    "spawn":["0-808","0-809","0-810","0-811","0-813"],
+    "spawn":["0-808","0-810","0-811"],
     "state":[],
-    "statsDynamic":["355266-0","0-808","0-809","0-810","0-811","0-813"],
+    "statsDynamic":["355266-0","0-808","0-810","0-811"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-3, 20",
     "creationTime":1717182964
   },
   "lastVisit":{
-    "Benoit":1723750497,
-    "Fidgug":1723750497
+    "Benoit":1724438789,
+    "Fidgug":1724438787
   },
   "recordLinks":[],
   "objectData":{
-    "0-809":{
-      "refId":"kwama forager blighted",
-      "location":{
-        "posY":169118.015625,
-        "posZ":1106.5069580078,
-        "rotX":-0.26835152506828,
-        "rotZ":1.2387940883636,
-        "rotY":0,
-        "posX":-16973.279296875
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaModified":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":100,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-810":{
-      "refId":"dreugh",
-      "location":{
-        "posY":169460.8125,
-        "posZ":-209.88226318359,
-        "rotX":0.0008015027269721,
-        "rotZ":0.04841947555542,
-        "rotY":0,
-        "posX":-23209.525390625
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaModified":75,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "healthModified":60
-      },
-      "inventory":[]
-    },
-    "0-811":{
-      "refId":"dreugh",
-      "location":{
-        "posY":168516.265625,
-        "posZ":-608.45465087891,
-        "rotX":-0.00016669556498528,
-        "rotZ":-0.71660208702087,
-        "rotY":0,
-        "posX":-21931.267578125
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaModified":75,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "healthModified":60
-      },
-      "inventory":[]
-    },
-    "355266-0":{
-      "refId":"slaughterfish",
-      "location":{
-        "posY":166925.0625,
-        "posZ":-431.67767333984,
-        "rotX":3.8748607039452e-05,
-        "rotZ":1.3152959346771,
-        "rotY":0,
-        "posX":-22651.345703125
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[]
-    },
-    "341844-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "341845-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "341850-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[{
           "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-813":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posY":166597.765625,
-        "posZ":917.92626953125,
-        "rotX":0.00025204848498106,
-        "rotZ":2.5941751003265,
-        "rotY":0,
-        "posX":-16433.21875
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaModified":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "fatigueModified":170,
-        "magickaCurrent":20,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -208,32 +61,126 @@
           "soul":""
         }]
     },
+    "0-810":{
+      "refId":"dreugh",
+      "location":{
+        "posY":169314.5,
+        "posZ":-209.45497131348,
+        "rotX":0.0069208526983857,
+        "rotZ":-2.8096611499786,
+        "rotY":0,
+        "posX":-23097.474609375
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "healthBase":60,
+        "healthModified":60,
+        "magickaModified":75,
+        "magickaCurrent":75
+      },
+      "inventory":[]
+    },
+    "0-811":{
+      "refId":"dreugh",
+      "location":{
+        "posY":168548.90625,
+        "posZ":-608.72583007813,
+        "rotX":0.00078833848237991,
+        "rotZ":-0.90119194984436,
+        "rotY":0,
+        "posX":-22425.955078125
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "healthBase":60,
+        "healthModified":60,
+        "magickaModified":75,
+        "magickaCurrent":75
+      },
+      "inventory":[]
+    },
+    "355266-0":{
+      "refId":"slaughterfish",
+      "location":{
+        "posY":167373.734375,
+        "posZ":-432.09487915039,
+        "rotX":1.7127022147179e-06,
+        "rotZ":0.23999810218811,
+        "rotY":0,
+        "posX":-22904.890625
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[]
+    },
+    "341845-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-808":{
       "refId":"kwama forager",
       "location":{
-        "posY":167832.25,
-        "posZ":368.99996948242,
-        "rotX":-0.26621758937836,
-        "rotZ":-0.23246359825134,
+        "posY":167699.875,
+        "posZ":484.02410888672,
+        "rotX":0.026309281587601,
+        "rotZ":-0.29279279708862,
         "rotY":0,
-        "posX":-17460.181640625
+        "posX":-17880.98828125
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaModified":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":15,
-        "healthModified":23
+        "healthCurrent":0,
+        "magickaBase":15,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":15,
+        "magickaCurrent":15
       },
-      "inventory":[]
+      "inventory":[],
+      "deathState":38,
+      "spellsActive":[],
+      "killer":{
+        "playerName":"Benoit"
+      }
+    },
+    "341844-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -11,26 +11,87 @@
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1342","0-1343"],
+    "position":["0-1343","0-1342"],
     "scale":[],
     "spawn":["0-1343","0-1342"],
     "state":[],
-    "statsDynamic":["0-1342","0-1343"],
+    "statsDynamic":["0-1343","0-1342"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-3, 16",
     "creationTime":1719599284
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724438435,
+    "Fidgug":1724438432
   },
   "recordLinks":[],
   "objectData":{
+    "0-1343":{
+      "refId":"guar_feral",
+      "location":{
+        "posY":135099.609375,
+        "posZ":1519.5657958984,
+        "rotX":0.18220698833466,
+        "rotZ":2.4712178707123,
+        "rotY":0,
+        "posX":-20057.169921875
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":38,
+        "magickaBase":5,
+        "healthBase":38,
+        "healthModified":38,
+        "magickaModified":5,
+        "magickaCurrent":5
+      },
+      "inventory":[{
+          "refId":"ingred_guar_hide_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178272-0":{
+      "refId":"flora_fire_fern_03",
+      "inventory":[{
+          "refId":"ingred_fire_petal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178273-0":{
+      "refId":"flora_fire_fern_02",
+      "inventory":[{
+          "refId":"ingred_fire_petal_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178278-0":{
+      "refId":"tramaroot_03",
+      "inventory":[]
+    },
+    "178279-0":{
+      "refId":"tramaroot_04",
+      "inventory":[]
+    },
+    "178280-0":{
+      "refId":"tramaroot_03",
+      "inventory":[]
+    },
     "178281-0":{
       "refId":"tramaroot_02",
       "inventory":[{
@@ -111,55 +172,26 @@
           "soul":""
         }]
     },
-    "0-1343":{
-      "refId":"guar_feral",
-      "location":{
-        "posY":135096.625,
-        "posZ":1509.2874755859,
-        "rotX":0.25875556468964,
-        "rotZ":1.498672246933,
-        "rotY":0,
-        "posX":-19916.84765625
-      },
-      "stats":{
-        "healthBase":38,
-        "healthCurrent":38,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":38
-      },
-      "inventory":[{
-          "refId":"ingred_guar_hide_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
     "0-1342":{
       "refId":"guar_feral",
       "location":{
-        "posY":138629.78125,
-        "posZ":667.341796875,
-        "rotX":0.10231616348028,
-        "rotZ":1.9601719379425,
+        "posY":138700.015625,
+        "posZ":686.75958251953,
+        "rotX":0.013711024075747,
+        "rotZ":1.9097034931183,
         "rotY":0,
-        "posX":-22341.1796875
+        "posX":-21017.0078125
       },
       "stats":{
-        "healthBase":38,
-        "healthCurrent":38,
-        "magickaBase":5,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":38
+        "healthCurrent":38,
+        "magickaBase":5,
+        "healthBase":38,
+        "healthModified":38,
+        "magickaModified":5,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_guar_hide_01",
@@ -168,42 +200,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "178272-0":{
-      "refId":"flora_fire_fern_03",
-      "inventory":[{
-          "refId":"ingred_fire_petal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178273-0":{
-      "refId":"flora_fire_fern_02",
-      "inventory":[{
-          "refId":"ingred_fire_petal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178278-0":{
-      "refId":"tramaroot_03",
-      "inventory":[]
-    },
-    "178279-0":{
-      "refId":"tramaroot_04",
-      "inventory":[]
-    },
-    "178280-0":{
-      "refId":"tramaroot_03",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

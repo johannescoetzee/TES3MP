@@ -1,192 +1,38 @@
 {
   "packets":{
-    "actorList":["0-1568","0-1570","0-1569"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["283196-0","283197-0","283204-0","358020-0","435713-0","435753-0","435764-0","435770-0","435773-0","0-1568","0-1570","0-1569"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1568","0-1570","0-1569"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1568","0-1570","0-1569"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-1568","0-1570","0-1569"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"8, 21",
-    "creationTime":1723746215
+    "creationTime":1723746215,
+    "description":"8, 21"
   },
   "lastVisit":{
     "Benoit":1723748185,
     "Fidgug":1723748181
   },
   "recordLinks":[],
-  "objectData":{
-    "283204-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "358020-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "435713-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "435753-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "0-1568":{
-      "refId":"scrib diseased",
-      "location":{
-        "posY":174494.140625,
-        "posZ":564.66674804688,
-        "rotX":-0.07404213398695,
-        "rotZ":-0.11985421180725,
-        "rotY":0,
-        "posX":66555.3046875
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaModified":12,
-        "fatigueBase":75,
-        "fatigueCurrent":75,
-        "fatigueModified":75,
-        "magickaCurrent":12,
-        "healthModified":8
-      },
-      "inventory":[{
-          "refId":"ingred_scrib_jelly_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "435770-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "435773-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1569":{
-      "refId":"slaughterfish",
-      "location":{
-        "posY":172065.5625,
-        "posZ":-281.26788330078,
-        "rotX":0,
-        "rotZ":-0.050078153610229,
-        "rotY":0,
-        "posX":70867.5703125
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1570":{
-      "refId":"slaughterfish",
-      "location":{
-        "posY":174892.640625,
-        "posZ":-319.2678527832,
-        "rotX":0.00028373394161463,
-        "rotZ":2.648544549942,
-        "rotY":0,
-        "posX":73528.8359375
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_scales_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "435764-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "283196-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283197-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

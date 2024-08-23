@@ -1,36 +1,97 @@
 {
   "packets":{
-    "actorList":["0-782","0-781","0-780"],
+    "actorList":["0-782"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["178062-0","297100-0","297101-0","297106-0","297107-0","297119-0","297142-0","297154-0","0-782","0-781","0-780"],
+    "container":["178062-0","297100-0","297101-0","297106-0","297107-0","297119-0","297142-0","297154-0","0-782"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-782","0-781","0-780"],
+    "position":["0-782"],
     "scale":[],
-    "spawn":["0-782","0-781","0-780"],
+    "spawn":["0-782"],
     "state":[],
-    "statsDynamic":["0-782","0-781","0-780"],
+    "statsDynamic":["0-782"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-3, 18",
-    "creationTime":1717182575
+    "creationTime":1717182575,
+    "description":"-3, 18"
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724438572,
+    "Fidgug":1724438615
   },
-  "recordLinks":[],
+  "recordLinks":{
+    "potion":[]
+  },
   "objectData":{
+    "0-782":{
+      "refId":"guar_feral",
+      "location":{
+        "posY":148658.875,
+        "posZ":937.62054443359,
+        "rotX":0.10218591988087,
+        "rotZ":0.19808983802795,
+        "rotY":0,
+        "posX":-23552.09765625
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "magickaCurrent":5,
+        "healthCurrent":38,
+        "magickaBase":5,
+        "healthBase":38,
+        "healthModified":38,
+        "magickaModified":5,
+        "fatigueModified":400
+      },
+      "inventory":[{
+          "refId":"ingred_guar_hide_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178062-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297100-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297101-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "297106-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -74,121 +135,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-782":{
-      "refId":"guar_feral",
-      "location":{
-        "posY":148287.8125,
-        "posZ":884.93988037109,
-        "rotX":0.30178201198578,
-        "rotZ":-0.44636750221252,
-        "rotY":0,
-        "posX":-22068.369140625
-      },
-      "stats":{
-        "healthBase":38,
-        "healthCurrent":38,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":38
-      },
-      "inventory":[{
-          "refId":"ingred_guar_hide_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-781":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posY":148215.296875,
-        "posZ":1042.9498291016,
-        "rotX":0.0031831245869398,
-        "rotZ":-1.5014822483063,
-        "rotY":0,
-        "posX":-24390.36328125
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaModified":20,
-        "fatigueBase":170,
-        "fatigueCurrent":170,
-        "fatigueModified":170,
-        "magickaCurrent":20,
-        "healthModified":45
-      },
-      "inventory":[]
-    },
-    "0-780":{
-      "refId":"dreugh",
-      "location":{
-        "posY":155639.875,
-        "posZ":-226.06814575195,
-        "rotX":0.0043453220278025,
-        "rotZ":-2.0126707553864,
-        "rotY":0,
-        "posX":-20541.0703125
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaModified":75,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "healthModified":60
-      },
-      "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "178062-0":{
-      "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "297100-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "297101-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

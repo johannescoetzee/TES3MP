@@ -1,56 +1,114 @@
 {
   "packets":{
-    "actorList":["0-791","0-789","0-790"],
+    "actorList":["0-1772","0-1773","0-1733"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["178004-0","178005-0","178006-0","297009-0","297016-0","297020-0","297021-0","297022-0","297023-0","297026-0","297027-0","297029-0","297030-0","297031-0","297036-0","297037-0","297038-0","0-791","0-789","0-790"],
-    "death":["0-790","0-789"],
+    "container":["178004-0","178005-0","178006-0","297009-0","297016-0","297020-0","297021-0","297022-0","297023-0","297026-0","297027-0","297029-0","297030-0","297031-0","297036-0","297037-0","297038-0","0-1772","0-1773","0-1733"],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-789","0-791","0-790"],
+    "position":["0-1772","0-1773","0-1733"],
     "scale":[],
-    "spawn":["0-791","0-789","0-790"],
+    "spawn":["0-1772","0-1773","0-1733"],
     "state":[],
-    "statsDynamic":["0-789","0-791","0-790"],
+    "statsDynamic":["0-1772","0-1773","0-1733"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-2, 17",
     "creationTime":1717182650
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724438531,
+    "Fidgug":1724438533
   },
   "recordLinks":[],
   "objectData":{
-    "0-789":{
-      "refId":"cliff racer",
+    "0-1772":{
+      "refId":"netch_bull",
       "location":{
-        "posY":146018.015625,
-        "posZ":1117.1263427734,
-        "rotX":1.3799904584885,
-        "rotZ":-2.5523397922516,
+        "posY":144963.03125,
+        "posZ":812.04614257813,
+        "rotX":0.00063189491629601,
+        "rotZ":-0.40273547172546,
         "rotY":0,
-        "posX":-11888.225585938
+        "posX":-11134.767578125
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
-        "magickaModified":20,
         "fatigueBase":400,
-        "fatigueCurrent":399.90100097656,
+        "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":20,
-        "healthModified":45
+        "healthCurrent":45,
+        "magickaBase":100,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":100,
+        "magickaCurrent":100
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1773":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":146131.546875,
+        "posZ":416.95391845703,
+        "rotX":-0.0062893042340875,
+        "rotZ":-1.0429832935333,
+        "rotY":0,
+        "posX":-14633.952148438
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1733":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":139443.96875,
+        "posZ":2472.6147460938,
+        "rotX":-0.006608878262341,
+        "rotZ":-2.9508655071259,
+        "rotY":0,
+        "posX":-8921.8994140625
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":20,
+        "magickaCurrent":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -58,55 +116,17 @@
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-790":{
-      "refId":"kagouti",
-      "location":{
-        "posY":146473.6875,
-        "posZ":1125.3239746094,
-        "rotX":-0.02590936422348,
-        "rotZ":0.13059091567993,
-        "rotY":0,
-        "posX":-11036.879882813
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":399.77593994141,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[],
-      "spellsActive":[],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
+        }]
     },
     "178004-0":{
       "refId":"tramaroot_03",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "178005-0":{
       "refId":"tramaroot_01",
       "inventory":[{
           "refId":"ingred_trama_root_01",
-          "count":3,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -124,7 +144,13 @@
     },
     "297009-0":{
       "refId":"flora_rm_scathecraw_01",
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     },
     "297016-0":{
       "refId":"flora_rm_scathecraw_01",
@@ -138,13 +164,7 @@
     },
     "297020-0":{
       "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "297021-0":{
       "refId":"tramaroot_05",
@@ -220,7 +240,7 @@
       "refId":"tramaroot_01",
       "inventory":[{
           "refId":"ingred_trama_root_01",
-          "count":3,
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -249,39 +269,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "0-791":{
-      "refId":"kwama forager",
-      "location":{
-        "posY":140140.09375,
-        "posZ":2358.37109375,
-        "rotX":-0.12467323988676,
-        "rotZ":-1.6070301532745,
-        "rotY":0,
-        "posX":-13750.505859375
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":15,
-        "magickaModified":15,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":15,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_kwama_cuttle_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

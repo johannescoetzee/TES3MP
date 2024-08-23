@@ -1,38 +1,97 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-1771","0-1770"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["0-1771","0-1770"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-1770","0-1771"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-1771","0-1770"],
     "state":[],
-    "statsDynamic":[],
+    "statsDynamic":["0-1770","0-1771"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-4, 14",
-    "creationTime":1716737823
+    "creationTime":1716737823,
+    "description":"-4, 14"
   },
   "lastVisit":{
-    "Benoit":1719599748,
-    "Fidgug":1719599742
+    "Benoit":1724437901,
+    "Fidgug":1724437891
   },
   "recordLinks":[],
-  "objectData":[],
+  "objectData":{
+    "0-1771":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posY":122364.5,
+        "posZ":3649.5063476563,
+        "rotX":0,
+        "rotZ":0.49645733833313,
+        "rotY":0,
+        "posX":-30149.744140625
+      },
+      "stats":{
+        "fatigueBase":170,
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":20,
+        "magickaCurrent":20
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1770":{
+      "refId":"cliff racer_diseased",
+      "location":{
+        "posY":114866.859375,
+        "posZ":4495.1875,
+        "rotX":0,
+        "rotZ":0,
+        "rotY":0,
+        "posX":-26509.33203125
+      },
+      "stats":{
+        "fatigueBase":170,
+        "fatigueCurrent":170,
+        "fatigueModified":170,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":20,
+        "magickaCurrent":20
+      },
+      "inventory":[{
+          "refId":"ingred_racer_plumes_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

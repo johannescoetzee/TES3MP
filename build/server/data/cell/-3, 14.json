@@ -22,35 +22,35 @@
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-3, 14",
-    "creationTime":1719598980
+    "creationTime":1719598980,
+    "description":"-3, 14"
   },
   "lastVisit":{
-    "Benoit":1719599695,
-    "Fidgug":1719599695
+    "Benoit":1724437901,
+    "Fidgug":1724437891
   },
   "recordLinks":[],
   "objectData":{
     "0-1335":{
       "refId":"rat_diseased",
       "location":{
-        "posX":-17715.833984375,
-        "posY":116362.84375,
-        "posZ":1264.3908691406,
-        "rotX":0.063674964010715,
+        "posY":116014.5,
+        "posZ":1070.4262695313,
+        "rotX":0.94204837083817,
+        "rotZ":-2.9283983707428,
         "rotY":0,
-        "rotZ":2.479074716568
+        "posX":-17793.123046875
       },
       "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":110,
-        "fatigueCurrent":110,
+        "fatigueBase":98,
+        "fatigueCurrent":98,
+        "fatigueModified":98,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
         "healthModified":23,
         "magickaModified":10,
-        "fatigueModified":110,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_rat_meat_01",
@@ -62,7 +62,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

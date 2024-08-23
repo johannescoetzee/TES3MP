@@ -1,242 +1,38 @@
 {
   "packets":{
-    "actorList":["0-961","0-962","0-963"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["166637-0","325208-0","325238-0","283776-0","283787-0","283788-0","283789-0","283790-0","283791-0","283799-0","283800-0","429323-0","429329-0","429342-0","0-961","0-962","0-963"],
-    "death":["0-961","0-962","0-963"],
+    "container":[],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-961","0-962","0-963"],
+    "position":[],
     "scale":[],
-    "spawn":["0-961","0-962","0-963"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-961","0-962","0-963"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"1, 21",
-    "creationTime":1717186838
+    "creationTime":1717186838,
+    "description":"1, 21"
   },
   "lastVisit":{
     "Benoit":1723750311,
     "Fidgug":1723750315
   },
   "recordLinks":[],
-  "objectData":{
-    "283799-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "283800-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "429323-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "429329-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[]
-    },
-    "429342-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "0-961":{
-      "refId":"shalk",
-      "location":{
-        "posY":176201.765625,
-        "posZ":825.94421386719,
-        "rotX":-0.21546225249767,
-        "rotZ":-0.82789301872253,
-        "rotY":0,
-        "posX":12535.569335938
-      },
-      "stats":{
-        "healthBase":38,
-        "healthCurrent":0,
-        "magickaBase":30,
-        "magickaModified":30,
-        "fatigueBase":400,
-        "fatigueCurrent":392.83435058594,
-        "fatigueModified":400,
-        "magickaCurrent":25,
-        "healthModified":38
-      },
-      "inventory":[{
-          "refId":"ingred_shalk_resin_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":39,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-962":{
-      "refId":"mudcrab-diseased",
-      "location":{
-        "posY":177994.40625,
-        "posZ":309.99920654297,
-        "rotX":-0.27236157655716,
-        "rotZ":3.0485756397247,
-        "rotY":0,
-        "posX":9764.0341796875
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":55,
-        "fatigueCurrent":55,
-        "fatigueModified":55,
-        "magickaCurrent":5,
-        "healthModified":15
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":39
-    },
-    "0-963":{
-      "refId":"mudcrab",
-      "location":{
-        "posY":178178.453125,
-        "posZ":84.590522766113,
-        "rotX":-0.26038765907288,
-        "rotZ":1.8400318622589,
-        "rotY":0,
-        "posX":8750.5361328125
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":15
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":38
-    },
-    "166637-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "325208-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "325238-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283776-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283787-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[{
-          "refId":"ingred_gold_kanet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283788-0":{
-      "refId":"flora_stoneflower_01",
-      "inventory":[]
-    },
-    "283789-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283790-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[]
-    },
-    "283791-0":{
-      "refId":"flora_gold_kanet_01",
-      "inventory":[{
-          "refId":"ingred_gold_kanet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

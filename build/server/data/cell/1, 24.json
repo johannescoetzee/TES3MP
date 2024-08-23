@@ -17,13 +17,13 @@
     "state":["288976-0"],
     "statsDynamic":["0-911","0-912","0-913","0-914","0-915","0-916","0-917","0-918","0-919","0-910","0-895","0-925"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"1, 24"
+    "description":"1, 24",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1717186874,
@@ -31,17 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "288976-0":{
-      "refId":"netch_giant_unique",
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":6,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
-    },
     "0-911":{
       "refId":"mudcrab-diseased",
       "location":{
@@ -53,15 +42,15 @@
         "posX":11695.541015625
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":55,
         "fatigueCurrent":55,
-        "magickaCurrent":5,
+        "fatigueModified":55,
+        "healthCurrent":0,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":55
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -86,15 +75,15 @@
         "posX":9102.2548828125
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":398.93017578125,
-        "magickaCurrent":5,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":400
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -104,10 +93,10 @@
           "soul":""
         }],
       "deathState":39,
+      "spellsActive":[],
       "killer":{
         "playerName":"Benoit"
-      },
-      "spellsActive":[]
+      }
     },
     "0-913":{
       "refId":"mudcrab",
@@ -120,15 +109,15 @@
         "posX":9884.9169921875
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":395.84814453125,
-        "magickaCurrent":5,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":400
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -153,15 +142,15 @@
         "posX":12948.669921875
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":55,
         "fatigueCurrent":48.522254943848,
-        "magickaCurrent":5,
+        "fatigueModified":55,
+        "healthCurrent":0,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":55
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -186,15 +175,15 @@
         "posX":14409.051757813
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":399.18865966797,
-        "magickaCurrent":5,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":400
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -219,15 +208,15 @@
         "posX":12288.220703125
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "healthModified":23,
-        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "magickaCurrent":10,
+        "fatigueModified":400,
+        "healthCurrent":23,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthModified":23,
         "magickaBase":10,
-        "fatigueModified":400
+        "magickaCurrent":10
       },
       "inventory":[]
     },
@@ -242,15 +231,15 @@
         "posX":10366.350585938
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "healthModified":23,
-        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "magickaCurrent":10,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthModified":23,
         "magickaBase":10,
-        "fatigueModified":400
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -275,15 +264,15 @@
         "posX":12005.478515625
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":44.368286132813,
-        "healthModified":60,
-        "magickaModified":75,
         "fatigueBase":400,
         "fatigueCurrent":365.85516357422,
-        "magickaCurrent":75,
+        "fatigueModified":400,
+        "healthCurrent":44.368286132813,
+        "magickaModified":75,
+        "healthBase":60,
+        "healthModified":60,
         "magickaBase":75,
-        "fatigueModified":400
+        "magickaCurrent":75
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -304,15 +293,15 @@
         "posX":9936.2763671875
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "healthModified":15,
-        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "magickaCurrent":10,
+        "fatigueModified":300,
+        "healthCurrent":15,
+        "magickaModified":10,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":10,
-        "fatigueModified":300
+        "magickaCurrent":10
       },
       "inventory":[]
     },
@@ -327,15 +316,15 @@
         "posX":9518.3359375
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "healthModified":45,
-        "magickaModified":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "magickaCurrent":20,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":20,
+        "healthBase":45,
+        "healthModified":45,
         "magickaBase":20,
-        "fatigueModified":400
+        "magickaCurrent":20
       },
       "inventory":[],
       "deathState":38,
@@ -354,15 +343,15 @@
         "posX":10270.01953125
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":0,
-        "healthModified":15,
-        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "magickaCurrent":10,
+        "fatigueModified":300,
+        "healthCurrent":0,
+        "magickaModified":10,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":10,
-        "fatigueModified":300
+        "magickaCurrent":10
       },
       "inventory":[],
       "deathState":38,
@@ -381,15 +370,15 @@
         "posX":10462.190429688
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "healthModified":23,
-        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "magickaCurrent":10,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthModified":23,
         "magickaBase":10,
-        "fatigueModified":400
+        "magickaCurrent":10
       },
       "inventory":[],
       "deathState":38,
@@ -496,10 +485,21 @@
         "rotY":0,
         "posX":10217.78125
       }
+    },
+    "288976-0":{
+      "refId":"netch_giant_unique",
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":6,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

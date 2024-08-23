@@ -1,33 +1,33 @@
 {
   "packets":{
-    "actorList":["0-1336"],
+    "actorList":["0-1336","0-1768"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["297209-0","297212-0","297213-0","297214-0","297218-0","0-1336"],
+    "container":["297209-0","297212-0","297213-0","297214-0","297218-0","0-1336","0-1768"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1336"],
+    "position":["0-1336","0-1768"],
     "scale":[],
-    "spawn":["0-1336"],
+    "spawn":["0-1336","0-1768"],
     "state":[],
-    "statsDynamic":["0-1336"],
+    "statsDynamic":["0-1336","0-1768"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
     "miscellaneous":[]
   },
   "entry":{
-    "description":"-3, 15",
-    "creationTime":1719599102
+    "creationTime":1719599102,
+    "description":"-3, 15"
   },
   "lastVisit":{
-    "Benoit":1719599695,
-    "Fidgug":1719599695
+    "Benoit":1724438366,
+    "Fidgug":1724438383
   },
   "recordLinks":[],
   "objectData":{
@@ -41,10 +41,29 @@
           "soul":""
         }]
     },
-    "297213-0":{
-      "refId":"flora_rm_scathecraw_01",
+    "0-1336":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":124850.1953125,
+        "posZ":1770.6884765625,
+        "rotX":0.3389250934124,
+        "rotZ":-0.90208458900452,
+        "rotY":0,
+        "posX":-18764.24609375
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
       "inventory":[{
-          "refId":"ingred_scathecraw_01",
+          "refId":"ingred_hound_meat_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -71,34 +90,38 @@
           "soul":""
         }]
     },
-    "0-1336":{
-      "refId":"nix-hound",
-      "location":{
-        "posX":-17931.03515625,
-        "posY":123754.109375,
-        "posZ":2191.0693359375,
-        "rotX":0.10518115013838,
-        "rotY":0,
-        "rotZ":-3.0234758853912
-      },
-      "stats":{
-        "magickaCurrent":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10
-      },
+    "297213-0":{
+      "refId":"flora_rm_scathecraw_01",
       "inventory":[{
-          "refId":"ingred_hound_meat_01",
+          "refId":"ingred_scathecraw_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
+    },
+    "0-1768":{
+      "refId":"cliff racer",
+      "location":{
+        "posY":128371.3515625,
+        "posZ":3935.986328125,
+        "rotX":0.00079758930951357,
+        "rotZ":2.6597235202789,
+        "rotY":0,
+        "posX":-24260.5
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":20,
+        "magickaCurrent":20
+      },
+      "inventory":[]
     },
     "297209-0":{
       "refId":"flora_rm_scathecraw_01",
@@ -106,7 +129,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

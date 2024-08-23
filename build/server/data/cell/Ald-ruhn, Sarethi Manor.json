@@ -17,9 +17,9 @@
     "state":["281645-0","281646-0","108969-0","108970-0"],
     "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713904668,
@@ -28,14 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "108970-0":{
-      "refId":"redoran guard sarethi2",
-      "state":false
-    },
-    "281645-0":{
-      "refId":"arsyn salas",
-      "state":false
-    },
     "281646-0":{
       "refId":"gragus lleran",
       "state":false
@@ -43,10 +35,18 @@
     "108969-0":{
       "refId":"redoran guard sarethi1",
       "state":false
+    },
+    "108970-0":{
+      "refId":"redoran guard sarethi2",
+      "state":false
+    },
+    "281645-0":{
+      "refId":"arsyn salas",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

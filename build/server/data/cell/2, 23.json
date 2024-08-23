@@ -17,13 +17,13 @@
     "state":["480888-0"],
     "statsDynamic":["0-942","0-943","0-944","0-945"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"2, 23"
+    "description":"2, 23",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1717187105,
@@ -31,6 +31,25 @@
   },
   "recordLinks":[],
   "objectData":{
+    "433901-0":{
+      "refId":"kollop_03_pearl",
+      "inventory":[]
+    },
+    "433903-0":{
+      "refId":"kollop_01_pearl",
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "480888-0":{
+      "refId":"ogrim_az",
+      "inventory":[],
+      "state":false
+    },
     "0-945":{
       "refId":"slaughterfish_small",
       "location":{
@@ -42,15 +61,15 @@
         "posX":20317.7734375
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "healthModified":15,
-        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "magickaCurrent":10,
+        "fatigueModified":300,
+        "healthCurrent":15,
+        "magickaModified":10,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":10,
-        "fatigueModified":300
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -71,15 +90,15 @@
         "posX":21153.609375
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "healthModified":15,
-        "magickaModified":5,
         "fatigueBase":26,
         "fatigueCurrent":26,
-        "magickaCurrent":5,
+        "fatigueModified":26,
+        "healthCurrent":15,
+        "magickaModified":5,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":5,
-        "fatigueModified":26
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -100,15 +119,15 @@
         "posX":18499.681640625
       },
       "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "healthModified":60,
-        "magickaModified":75,
         "fatigueBase":400,
         "fatigueCurrent":400,
-        "magickaCurrent":75,
+        "fatigueModified":400,
+        "healthCurrent":60,
+        "magickaModified":75,
+        "healthBase":60,
+        "healthModified":60,
         "magickaBase":75,
-        "fatigueModified":400
+        "magickaCurrent":75
       },
       "inventory":[{
           "refId":"ingred_dreugh_wax_01",
@@ -129,15 +148,15 @@
         "posX":20318.08984375
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "healthModified":15,
-        "magickaModified":10,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "magickaCurrent":10,
+        "fatigueModified":300,
+        "healthCurrent":15,
+        "magickaModified":10,
+        "healthBase":15,
+        "healthModified":15,
         "magickaBase":10,
-        "fatigueModified":300
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_scales_01",
@@ -258,29 +277,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "433901-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "433903-0":{
-      "refId":"kollop_01_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "480888-0":{
-      "refId":"ogrim_az",
-      "inventory":[],
-      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

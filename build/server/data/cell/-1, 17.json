@@ -1,242 +1,38 @@
 {
   "packets":{
-    "actorList":["0-796","0-797","0-798","0-794","0-795"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["296789-0","296790-0","296791-0","296792-0","296795-0","296796-0","296803-0","0-796","0-797","0-798","0-794","0-795"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-794","0-795","0-796","0-797","0-798"],
+    "position":[],
     "scale":[],
-    "spawn":["0-796","0-797","0-798","0-794","0-795"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-794","0-795","0-796","0-797","0-798"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-1, 17",
     "creationTime":1717182945
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724436094,
+    "Fidgug":1724436092
   },
   "recordLinks":[],
-  "objectData":{
-    "0-798":{
-      "refId":"nix-hound",
-      "location":{
-        "posY":143832.28125,
-        "posZ":237.22793579102,
-        "rotX":-0.1917586773634,
-        "rotZ":-0.34302401542664,
-        "rotY":0,
-        "posX":-6459.7368164063
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-794":{
-      "refId":"rat_blighted",
-      "location":{
-        "posY":141446.921875,
-        "posZ":348.5856628418,
-        "rotX":-0.19784000515938,
-        "rotZ":1.6858155727386,
-        "rotY":0,
-        "posX":-4306.90625
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":80,
-        "fatigueCurrent":80,
-        "fatigueModified":80,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-795":{
-      "refId":"rat_diseased",
-      "location":{
-        "posY":140581.34375,
-        "posZ":688.58935546875,
-        "rotX":-0.1715499907732,
-        "rotZ":1.0396387577057,
-        "rotY":0,
-        "posX":-3384.7478027344
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":106,
-        "fatigueCurrent":106,
-        "fatigueModified":106,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[]
-    },
-    "296789-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296790-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296791-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296792-0":{
-      "refId":"flora_rm_scathecraw_02",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296795-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296796-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "296803-0":{
-      "refId":"flora_rm_scathecraw_01",
-      "inventory":[{
-          "refId":"ingred_scathecraw_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-796":{
-      "refId":"rat_blighted",
-      "location":{
-        "posY":140581.28125,
-        "posZ":474.79083251953,
-        "rotX":-0.28355428576469,
-        "rotZ":-3.1003754138947,
-        "rotY":0,
-        "posX":-4414.7954101563
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":67,
-        "fatigueCurrent":67,
-        "fatigueModified":67,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-797":{
-      "refId":"scrib",
-      "location":{
-        "posY":143798.515625,
-        "posZ":234.78450012207,
-        "rotX":-0.058118086308241,
-        "rotZ":-1.0520865917206,
-        "rotY":0,
-        "posX":-6143.0419921875
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaModified":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":12,
-        "healthModified":8
-      },
-      "inventory":[]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

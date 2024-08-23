@@ -17,9 +17,9 @@
     "state":["32715-0","32716-0","32717-0","32718-0","32719-0","32720-0"],
     "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713904668,
@@ -28,14 +28,6 @@
   "lastVisit":[],
   "recordLinks":[],
   "objectData":{
-    "32716-0":{
-      "refId":"act_bm_steam_02",
-      "state":false
-    },
-    "32717-0":{
-      "refId":"act_bm_steam_03",
-      "state":false
-    },
     "32715-0":{
       "refId":"act_bm_steam_01",
       "state":false
@@ -51,10 +43,18 @@
     "32718-0":{
       "refId":"act_bm_steam_04",
       "state":false
+    },
+    "32716-0":{
+      "refId":"act_bm_steam_02",
+      "state":false
+    },
+    "32717-0":{
+      "refId":"act_bm_steam_03",
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

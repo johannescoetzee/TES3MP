@@ -1,43 +1,342 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-1819","0-1816","0-1817","0-1818","297845-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["1409-0","1410-0","1411-0","1412-0","1413-0","1415-0","1416-0","1417-0","1418-0","18791-0","18792-0","18793-0","18794-0","18795-0","18796-0","19639-0","26681-0","297845-0","0-1819","0-1816","0-1817","0-1818"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-1816","0-1817","0-1818","0-1819"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-1819","0-1816","0-1817","0-1818"],
     "state":["297845-0"],
-    "statsDynamic":[],
+    "statsDynamic":["0-1816","0-1817","0-1818","0-1819"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "creationTime":1713904668,
     "description":"-12, 11"
   },
   "lastVisit":{
-    "Benoit":1719603303,
-    "Fidgug":1719603124
+    "Benoit":1724440204,
+    "Fidgug":1724440213
   },
   "recordLinks":[],
   "objectData":{
+    "26681-0":{
+      "refId":"com_chest_11_k01",
+      "inventory":[]
+    },
+    "0-1819":{
+      "refId":"scrib diseased",
+      "location":{
+        "posY":95656.28125,
+        "posZ":1928.8609619141,
+        "rotX":0.02970283664763,
+        "rotZ":1.9144613742828,
+        "rotY":0,
+        "posX":-97293.1796875
+      },
+      "stats":{
+        "fatigueBase":75,
+        "fatigueCurrent":75,
+        "fatigueModified":75,
+        "healthCurrent":8,
+        "magickaBase":12,
+        "healthBase":8,
+        "healthModified":8,
+        "magickaModified":12,
+        "magickaCurrent":12
+      },
+      "inventory":[{
+          "refId":"ingred_scrib_jelly_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "297845-0":{
       "refId":"dreamer_talker09",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
       "state":false
+    },
+    "0-1818":{
+      "refId":"netch_betty",
+      "location":{
+        "posY":94859.2421875,
+        "posZ":1386.8679199219,
+        "rotX":-1.0927207767963e-05,
+        "rotZ":0.48568558692932,
+        "rotY":0,
+        "posX":-94327.2109375
+      },
+      "stats":{
+        "fatigueBase":500,
+        "fatigueCurrent":500,
+        "fatigueModified":500,
+        "healthCurrent":113,
+        "magickaBase":75,
+        "healthBase":113,
+        "healthModified":113,
+        "magickaModified":75,
+        "magickaCurrent":75
+      },
+      "inventory":[{
+          "refId":"ingred_netch_leather_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1817":{
+      "refId":"nix-hound blighted",
+      "location":{
+        "posY":93789.125,
+        "posZ":1503.6087646484,
+        "rotX":0.018279667943716,
+        "rotZ":-0.645667552948,
+        "rotY":0,
+        "posX":-97246.609375
+      },
+      "stats":{
+        "fatigueBase":129,
+        "fatigueCurrent":129,
+        "fatigueModified":129,
+        "healthCurrent":68,
+        "magickaBase":10,
+        "healthBase":68,
+        "healthModified":68,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-1816":{
+      "refId":"nix-hound blighted",
+      "location":{
+        "posY":94834.2109375,
+        "posZ":2052.1547851563,
+        "rotX":0.66994136571884,
+        "rotZ":2.9124691486359,
+        "rotY":0,
+        "posX":-97017.5
+      },
+      "stats":{
+        "fatigueBase":130,
+        "fatigueCurrent":130,
+        "fatigueModified":130,
+        "healthCurrent":68,
+        "magickaBase":10,
+        "healthBase":68,
+        "healthModified":68,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1409-0":{
+      "refId":"flora_muckspunge_01",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1410-0":{
+      "refId":"flora_muckspunge_02",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1411-0":{
+      "refId":"flora_muckspunge_03",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1412-0":{
+      "refId":"flora_muckspunge_04",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1413-0":{
+      "refId":"flora_muckspunge_06",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1415-0":{
+      "refId":"flora_muckspunge_05",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1416-0":{
+      "refId":"flora_muckspunge_03",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1417-0":{
+      "refId":"flora_muckspunge_05",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "1418-0":{
+      "refId":"flora_muckspunge_02",
+      "inventory":[{
+          "refId":"ingred_muck_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18791-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18792-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18793-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18794-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18795-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "18796-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[{
+          "refId":"ingred_chokeweed_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "19639-0":{
+      "refId":"flora_roobrush_02",
+      "inventory":[{
+          "refId":"ingred_roobrush_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

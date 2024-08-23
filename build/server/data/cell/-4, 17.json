@@ -1,21 +1,21 @@
 {
   "packets":{
-    "actorList":["0-775"],
+    "actorList":["0-775","0-783","0-1338"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["178401-0","178402-0","178406-0","0-775"],
-    "death":[],
+    "container":["178401-0","178402-0","178406-0","0-775","0-783","0-1338"],
+    "death":["0-775","0-783"],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-775"],
+    "position":["0-775","0-783","0-1338"],
     "scale":[],
-    "spawn":["0-775"],
+    "spawn":["0-775","0-783","0-1338"],
     "state":[],
-    "statsDynamic":["0-775"],
+    "statsDynamic":["0-775","0-783","0-1338"],
     "trap":[],
     "clientScriptLocal":[],
     "spellsActive":[],
@@ -26,8 +26,8 @@
     "creationTime":1717182378
   },
   "lastVisit":{
-    "Benoit":1719599764,
-    "Fidgug":1719599760
+    "Benoit":1724438531,
+    "Fidgug":1724438533
   },
   "recordLinks":[],
   "objectData":{
@@ -39,28 +39,96 @@
       "refId":"tramaroot_06",
       "inventory":[]
     },
+    "0-1338":{
+      "refId":"corprus_lame",
+      "location":{
+        "posY":147126.671875,
+        "posZ":742.24566650391,
+        "rotX":0.079749993979931,
+        "rotZ":1.1586601734161,
+        "rotY":0,
+        "posX":-28879.162109375
+      },
+      "stats":{
+        "fatigueBase":300,
+        "fatigueCurrent":293.78759765625,
+        "fatigueModified":300,
+        "healthCurrent":90,
+        "magickaBase":160,
+        "healthBase":90,
+        "healthModified":90,
+        "magickaModified":160,
+        "magickaCurrent":160
+      },
+      "inventory":[{
+          "refId":"ingred_corprus_weepings_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-783":{
+      "refId":"shalk_diseased",
+      "location":{
+        "posY":140833.046875,
+        "posZ":508.08459472656,
+        "rotX":-0.34624281525612,
+        "rotZ":-0.51943564414978,
+        "rotY":0,
+        "posX":-29850.515625
+      },
+      "stats":{
+        "fatigueBase":120,
+        "fatigueCurrent":82.074615478516,
+        "fatigueModified":120,
+        "healthCurrent":0,
+        "magickaBase":400,
+        "healthBase":38,
+        "healthModified":38,
+        "magickaModified":400,
+        "magickaCurrent":395
+      },
+      "inventory":[{
+          "refId":"ingred_shalk_resin_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":40,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
     "0-775":{
       "refId":"kagouti",
       "location":{
-        "posX":-28844.263671875,
-        "posY":143863.125,
-        "posZ":713,
-        "rotX":-0.092874713242054,
+        "posY":144100.90625,
+        "posZ":1225.5849609375,
+        "rotX":0.045570652931929,
+        "rotZ":-2.1497600078583,
         "rotY":0,
-        "rotZ":2.0580933094025
+        "posX":-31058.6796875
       },
       "stats":{
-        "magickaCurrent":10,
         "fatigueBase":400,
-        "fatigueCurrent":400,
+        "fatigueCurrent":398.06393432617,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaBase":10,
+        "healthBase":45,
         "healthModified":45,
         "magickaModified":10,
-        "fatigueModified":400,
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10
+        "magickaCurrent":10
       },
-      "inventory":[]
+      "inventory":[],
+      "deathState":38,
+      "spellsActive":{
+      },
+      "killer":{
+        "playerName":"Fidgug"
+      }
     },
     "178401-0":{
       "refId":"tramaroot_02",
@@ -68,7 +136,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -17,13 +17,13 @@
     "state":["30533-0"],
     "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"-26, 20"
+    "description":"-26, 20",
+    "creationTime":1713904668
   },
   "lastVisit":[],
   "recordLinks":[],
@@ -34,7 +34,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

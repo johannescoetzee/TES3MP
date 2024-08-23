@@ -17,22 +17,210 @@
     "state":["297840-0"],
     "statsDynamic":["297840-0"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904313,
-    "description":"-2, -8"
+    "description":"-2, -8",
+    "creationTime":1713904313
   },
   "lastVisit":{
-    "qwer":1713904730,
-    "Fidgug":1718735761,
     "asdf":1713904733,
-    "Benoit":1718735764
+    "qwer":1713904730,
+    "Benoit":1718735764,
+    "Fidgug":1718735761
   },
   "recordLinks":[],
   "objectData":{
+    "266400-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[]
+    },
+    "266401-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266402-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266404-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[]
+    },
+    "266412-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266413-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266414-0":{
+      "refId":"flora_bc_mushroom_07",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266415-0":{
+      "refId":"flora_bc_mushroom_07",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266431-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266432-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266433-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266435-0":{
+      "refId":"flora_bc_mushroom_06",
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266436-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266437-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266460-0":{
+      "refId":"flora_bc_podplant_03",
+      "inventory":[{
+          "refId":"ingred_bc_coda_flower",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266461-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266462-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266491-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266492-0":{
+      "refId":"flora_bc_podplant_01",
+      "inventory":[{
+          "refId":"ingred_bc_ampoule_pod",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266589-0":{
+      "refId":"flora_bc_shelffungus_01",
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "266590-0":{
       "refId":"flora_bc_shelffungus_02",
       "inventory":[{
@@ -163,44 +351,50 @@
           "soul":""
         }]
     },
-    "266404-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[]
-    },
-    "266412-0":{
-      "refId":"flora_bc_podplant_01",
+    "266647-0":{
+      "refId":"flora_bc_mushroom_01",
       "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
+          "refId":"ingred_russula_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "266413-0":{
-      "refId":"flora_bc_podplant_03",
+    "266648-0":{
+      "refId":"flora_bc_mushroom_04",
       "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
+          "refId":"ingred_russula_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "266414-0":{
-      "refId":"flora_bc_mushroom_07",
+    "266649-0":{
+      "refId":"flora_bc_mushroom_02",
       "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
+          "refId":"ingred_russula_01",
+          "count":2,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
         }]
     },
-    "266415-0":{
-      "refId":"flora_bc_mushroom_07",
+    "266692-0":{
+      "refId":"flora_bc_mushroom_02",
       "inventory":[{
-          "refId":"ingred_coprinus_01",
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "266694-0":{
+      "refId":"flora_bc_mushroom_01",
+      "inventory":[{
+          "refId":"ingred_russula_01",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1,
@@ -247,30 +441,6 @@
           "soul":""
         }]
     },
-    "266402-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266401-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266400-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[]
-    },
     "297840-0":{
       "refId":"dreamer_talker05",
       "location":{
@@ -282,15 +452,15 @@
         "posX":-13882.584960938
       },
       "stats":{
-        "healthBase":40,
-        "healthCurrent":40,
-        "healthModified":40,
-        "magickaModified":80,
         "fatigueBase":160,
         "fatigueCurrent":160,
-        "magickaCurrent":80,
+        "fatigueModified":160,
+        "healthCurrent":40,
+        "magickaModified":80,
+        "healthBase":40,
+        "healthModified":40,
         "magickaBase":80,
-        "fatigueModified":160
+        "magickaCurrent":80
       },
       "equipment":{
         "16":{
@@ -326,180 +496,10 @@
           "soul":""
         }],
       "state":false
-    },
-    "266694-0":{
-      "refId":"flora_bc_mushroom_01",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266692-0":{
-      "refId":"flora_bc_mushroom_02",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266649-0":{
-      "refId":"flora_bc_mushroom_02",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266648-0":{
-      "refId":"flora_bc_mushroom_04",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266647-0":{
-      "refId":"flora_bc_mushroom_01",
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266431-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266432-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266433-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266435-0":{
-      "refId":"flora_bc_mushroom_06",
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266436-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266437-0":{
-      "refId":"flora_bc_podplant_03",
-      "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266460-0":{
-      "refId":"flora_bc_podplant_03",
-      "inventory":[{
-          "refId":"ingred_bc_coda_flower",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266461-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266462-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266491-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266492-0":{
-      "refId":"flora_bc_podplant_01",
-      "inventory":[{
-          "refId":"ingred_bc_ampoule_pod",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "266589-0":{
-      "refId":"flora_bc_shelffungus_01",
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

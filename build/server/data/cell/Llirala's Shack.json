@@ -1,205 +1,38 @@
 {
   "packets":{
-    "actorList":["150564-0"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["150559-0","359818-0","359820-0","359821-0","359822-0","359823-0","359826-0","359827-0","359828-0","359836-0","359837-0","359838-0","150564-0"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["150564-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["150564-0"],
+    "position":[],
     "scale":[],
     "spawn":[],
     "state":[],
-    "statsDynamic":["150564-0"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":["150564-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"Llirala's Shack",
-    "creationTime":1723750071
+    "creationTime":1723750071,
+    "description":"Llirala's Shack"
   },
   "lastVisit":{
     "Benoit":1723750089,
     "Fidgug":1723750088
   },
   "recordLinks":[],
-  "objectData":{
-    "150559-0":{
-      "refId":"de_r_chest_01_sanctus",
-      "inventory":[{
-          "refId":"bk_saryonisermonsmanuscript",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "150564-0":{
-      "refId":"llirala sendas",
-      "location":{
-        "posY":60.877784729004,
-        "posZ":-91.837875366211,
-        "rotX":0,
-        "rotZ":2.7000000476837,
-        "rotY":0,
-        "posX":-12.408987045288
-      },
-      "stats":{
-        "healthBase":104,
-        "healthCurrent":104,
-        "magickaBase":100,
-        "magickaModified":100,
-        "fatigueBase":241,
-        "fatigueCurrent":241,
-        "fatigueModified":241,
-        "magickaCurrent":100,
-        "healthModified":104
-      },
-      "equipment":{
-        "7":{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },
-        "11":{
-          "refId":"common_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"common_robe_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shoes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"key_archcanon_private",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "lastGoldRestockHour":13.583079338074,
-      "goldPool":0,
-      "lastGoldRestockDay":35
-    },
-    "359818-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359820-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"sc_paper plain",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359821-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_metal_goblet_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359822-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_scuttle_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359823-0":{
-      "refId":"com_sack_02_chpfood3",
-      "inventory":[{
-          "refId":"ingred_hackle-lo_leaf_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359826-0":{
-      "refId":"barrel_01_cheapfood20",
-      "inventory":[{
-          "refId":"food_kwama_egg_02",
-          "count":20,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359827-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "359828-0":{
-      "refId":"com_sack_02_pos",
-      "inventory":[]
-    },
-    "359836-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_basket_02",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359837-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"gold_001",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "359838-0":{
-      "refId":"com_basket_01_pos",
-      "inventory":[{
-          "refId":"misc_com_wood_bowl_04",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

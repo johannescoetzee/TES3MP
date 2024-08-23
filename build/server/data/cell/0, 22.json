@@ -14,16 +14,16 @@
     "position":["0-856","0-858","0-859","0-971"],
     "scale":[],
     "spawn":["0-856","0-858","0-859","0-971"],
-    "state":[],
+    "state":["84465-0"],
     "statsDynamic":["0-856","0-858","0-859","0-971"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"0, 22"
+    "description":"0, 22",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1723750311,
@@ -42,15 +42,15 @@
         "posX":3236.728515625
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "healthModified":23,
         "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
+        "magickaBase":10,
+        "healthBase":23,
+        "healthCurrent":23,
+        "magickaModified":10,
+        "magickaCurrent":10
       },
       "inventory":[]
     },
@@ -65,15 +65,15 @@
         "posX":3150.0485839844
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaModified":20,
         "fatigueBase":400,
         "fatigueCurrent":400,
+        "healthModified":45,
         "fatigueModified":400,
-        "magickaCurrent":20,
-        "healthModified":45
+        "magickaBase":20,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":20,
+        "magickaCurrent":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -94,15 +94,15 @@
         "posX":3041.7590332031
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaModified":20,
         "fatigueBase":170,
         "fatigueCurrent":170,
+        "healthModified":45,
         "fatigueModified":170,
-        "magickaCurrent":20,
-        "healthModified":45
+        "magickaBase":20,
+        "healthBase":45,
+        "healthCurrent":45,
+        "magickaModified":20,
+        "magickaCurrent":20
       },
       "inventory":[]
     },
@@ -117,15 +117,15 @@
         "posX":7797.244140625
       },
       "stats":{
-        "healthBase":50,
-        "healthCurrent":0,
-        "magickaBase":106,
-        "magickaModified":106,
         "fatigueBase":164,
         "fatigueCurrent":163.69525146484,
+        "healthModified":50,
         "fatigueModified":164,
-        "magickaCurrent":106,
-        "healthModified":50
+        "magickaBase":106,
+        "healthBase":50,
+        "healthCurrent":0,
+        "magickaModified":106,
+        "magickaCurrent":106
       },
       "equipment":{
         "0":{
@@ -179,10 +179,10 @@
           "soul":""
         }],
       "deathState":42,
+      "spellsActive":[],
       "killer":{
         "playerName":"Fidgug"
-      },
-      "spellsActive":[]
+      }
     },
     "325299-0":{
       "refId":"flora_black_anther_01",
@@ -355,7 +355,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -1,36 +1,46 @@
 {
   "packets":{
-    "actorList":["0-1465","0-1466","37833-0","11920-0","0-671"],
+    "actorList":["0-1815","11920-0","37833-0"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["367653-0","472284-0","472285-0","472286-0","472289-0","472293-0","11920-0","37833-0","0-1465","0-1466","0-671"],
+    "container":["367653-0","472284-0","472285-0","472286-0","472289-0","472293-0","11920-0","37833-0","0-1815"],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["37833-0","11920-0"],
+    "equipment":["11920-0","37833-0"],
     "lock":[],
     "place":[],
-    "position":["0-671","11920-0","37833-0","0-1465","0-1466"],
+    "position":["11920-0","37833-0","0-1815"],
     "scale":[],
-    "spawn":["0-1465","0-1466","0-671"],
+    "spawn":["0-1815"],
     "state":[],
-    "statsDynamic":["0-671","11920-0","37833-0","0-1465","0-1466"],
+    "statsDynamic":["11920-0","37833-0","0-1815"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-10, 11",
     "creationTime":1716739229
   },
   "lastVisit":{
-    "Benoit":1719603303,
-    "Fidgug":1723744477
+    "Benoit":1724440204,
+    "Fidgug":1724440213
   },
   "recordLinks":[],
   "objectData":{
+    "472284-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "472285-0":{
       "refId":"flora_roobrush_02",
       "inventory":[{
@@ -74,23 +84,23 @@
     "11920-0":{
       "refId":"vatollia apo",
       "location":{
-        "posY":93173.5,
-        "posZ":2211.4338378906,
-        "rotX":-0.013547265902162,
-        "rotZ":-1.6041300296783,
+        "posY":93173.046875,
+        "posZ":2211.4619140625,
+        "rotX":-0.0089607518166304,
+        "rotZ":1.6246926784515,
         "rotY":0,
-        "posX":-80977.3046875
+        "posX":-81010.90625
       },
       "stats":{
-        "healthBase":76,
-        "healthCurrent":76,
-        "magickaBase":86,
-        "magickaModified":86,
         "fatigueBase":193,
         "fatigueCurrent":193,
         "fatigueModified":193,
-        "magickaCurrent":86,
-        "healthModified":76
+        "healthCurrent":76,
+        "magickaBase":86,
+        "healthBase":76,
+        "healthModified":76,
+        "magickaModified":86,
+        "magickaCurrent":86
       },
       "equipment":{
         "0":{
@@ -174,30 +184,30 @@
           "soul":""
         }]
     },
-    "0-1465":{
-      "refId":"netch_bull",
+    "0-1815":{
+      "refId":"nix-hound blighted",
       "location":{
-        "posY":91715.921875,
-        "posZ":1726.7036132813,
-        "rotX":0.0032940078526735,
-        "rotZ":-1.2265055179596,
+        "posY":93363.5234375,
+        "posZ":2320.2790527344,
+        "rotX":0.6879757642746,
+        "rotZ":-1.199590921402,
         "rotY":0,
-        "posX":-78096.2265625
+        "posX":-79127.6875
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaModified":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":100,
-        "healthModified":45
+        "fatigueBase":128,
+        "fatigueCurrent":128,
+        "fatigueModified":128,
+        "healthCurrent":68,
+        "magickaBase":10,
+        "healthBase":68,
+        "healthModified":68,
+        "magickaModified":10,
+        "magickaCurrent":10
       },
       "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":2,
+          "refId":"ingred_hound_meat_01",
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -206,23 +216,23 @@
     "37833-0":{
       "refId":"dul gro-dush",
       "location":{
-        "posY":90175.234375,
-        "posZ":1010.2969360352,
-        "rotX":0,
-        "rotZ":1.5000002384186,
+        "posY":90534.640625,
+        "posZ":1061.6839599609,
+        "rotX":0.26025280356407,
+        "rotZ":1.1676590442657,
         "rotY":0,
-        "posX":-80539.8359375
+        "posX":-80509.921875
       },
       "stats":{
-        "healthBase":71,
-        "healthCurrent":71,
-        "magickaBase":16,
-        "magickaModified":16,
         "fatigueBase":199,
         "fatigueCurrent":199,
         "fatigueModified":199,
-        "magickaCurrent":16,
-        "healthModified":71
+        "healthCurrent":71,
+        "magickaBase":16,
+        "healthBase":71,
+        "healthModified":71,
+        "magickaModified":16,
+        "magickaCurrent":16
       },
       "equipment":{
         "1":{
@@ -288,69 +298,13 @@
           "soul":""
         }]
     },
-    "0-671":{
-      "refId":"slaughterfish_small",
-      "location":{
-        "posY":97980.5078125,
-        "posZ":-265.45785522461,
-        "rotX":0.0022560404613614,
-        "rotZ":-2.5547916889191,
-        "rotY":0,
-        "posX":-74194.8046875
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":300,
-        "fatigueCurrent":299.99258422852,
-        "fatigueModified":300,
-        "magickaCurrent":10,
-        "healthModified":15
-      },
-      "inventory":[]
-    },
-    "0-1466":{
-      "refId":"scrib blighted",
-      "location":{
-        "posY":96279.671875,
-        "posZ":1444.2160644531,
-        "rotX":-0.15363749861717,
-        "rotZ":-3.1068470478058,
-        "rotY":0,
-        "posX":-78048.15625
-      },
-      "stats":{
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12,
-        "magickaModified":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":12,
-        "healthModified":30
-      },
-      "inventory":[]
-    },
     "367653-0":{
       "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "472284-0":{
-      "refId":"flora_kreshweed_03",
       "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

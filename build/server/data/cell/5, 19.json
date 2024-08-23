@@ -1,232 +1,38 @@
 {
   "packets":{
-    "actorList":["0-1644","0-1643","476749-0","355163-0","0-1628"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["283583-0","358529-0","358530-0","432100-0","432101-0","432114-0","432118-0","355163-0","476749-0","0-1644","0-1643","0-1628"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["476749-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["355163-0","476749-0","0-1643","0-1644","0-1628"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1644","0-1643","0-1628"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["355163-0","476749-0","0-1643","0-1644","0-1628"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"5, 19",
-    "creationTime":1723748873
+    "creationTime":1723748873,
+    "description":"5, 19"
   },
   "lastVisit":{
     "Benoit":1723749107,
     "Fidgug":1723749108
   },
   "recordLinks":[],
-  "objectData":{
-    "432118-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    },
-    "355163-0":{
-      "refId":"mudcrab-diseased",
-      "location":{
-        "posY":160329.46875,
-        "posZ":180.5486907959,
-        "rotX":0.16142661869526,
-        "rotZ":1.0087740421295,
-        "rotY":0,
-        "posX":45910.79296875
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":29,
-        "fatigueCurrent":29,
-        "fatigueModified":29,
-        "magickaCurrent":5,
-        "healthModified":15
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "476749-0":{
-      "refId":"skeleton entrance",
-      "location":{
-        "posY":161088.859375,
-        "posZ":390.05828857422,
-        "rotX":0,
-        "rotZ":0,
-        "rotY":0,
-        "posX":47134.8359375
-      },
-      "stats":{
-        "healthBase":38,
-        "healthCurrent":38,
-        "magickaBase":30,
-        "magickaModified":30,
-        "fatigueBase":1000,
-        "fatigueCurrent":1000,
-        "fatigueModified":1000,
-        "magickaCurrent":30,
-        "healthModified":38
-      },
-      "equipment":{
-        "16":{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }
-      },
-      "inventory":[{
-          "refId":"iron_shield",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_bonemeal_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron battle axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1628":{
-      "refId":"scrib blighted",
-      "location":{
-        "posY":163353.265625,
-        "posZ":500.84671020508,
-        "rotX":-0.1531270891428,
-        "rotZ":-1.1016280651093,
-        "rotY":0,
-        "posX":42972.8828125
-      },
-      "stats":{
-        "healthBase":30,
-        "healthCurrent":30,
-        "magickaBase":12,
-        "magickaModified":12,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":12,
-        "healthModified":30
-      },
-      "inventory":[]
-    },
-    "0-1643":{
-      "refId":"mudcrab-diseased",
-      "location":{
-        "posY":160500.125,
-        "posZ":203.88726806641,
-        "rotX":0.061246421188116,
-        "rotZ":-0.12408065795898,
-        "rotY":0,
-        "posX":41620.0078125
-      },
-      "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaModified":5,
-        "fatigueBase":35,
-        "fatigueCurrent":35,
-        "fatigueModified":35,
-        "magickaCurrent":5,
-        "healthModified":15
-      },
-      "inventory":[{
-          "refId":"ingred_crab_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1644":{
-      "refId":"slaughterfish",
-      "location":{
-        "posY":157953.171875,
-        "posZ":-86.395286560059,
-        "rotX":0.0068641547113657,
-        "rotZ":-2.3885061740875,
-        "rotY":0,
-        "posX":43034.33984375
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[]
-    },
-    "283583-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[]
-    },
-    "358529-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "358530-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "432100-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "432101-0":{
-      "refId":"kollop_02_pearl",
-      "inventory":[]
-    },
-    "432114-0":{
-      "refId":"kollop_03_pearl",
-      "inventory":[]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

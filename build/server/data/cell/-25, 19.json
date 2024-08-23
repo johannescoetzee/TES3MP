@@ -17,13 +17,13 @@
     "state":["25965-0","29541-0","25964-0"],
     "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"-25, 19"
+    "description":"-25, 19",
+    "creationTime":1713904668
   },
   "lastVisit":[],
   "recordLinks":[],
@@ -32,17 +32,17 @@
       "refId":"gratian caerellius_guar",
       "state":false
     },
-    "25964-0":{
-      "refId":"garnas uvalen_guard",
-      "state":false
-    },
     "29541-0":{
       "refId":"afer flaccus_guard",
+      "state":false
+    },
+    "25964-0":{
+      "refId":"garnas uvalen_guard",
       "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

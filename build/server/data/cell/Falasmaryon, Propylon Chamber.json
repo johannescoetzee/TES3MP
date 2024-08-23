@@ -1,0 +1,38 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "clientScriptLocal":[],
+    "spellsActive":[],
+    "miscellaneous":[]
+  },
+  "entry":{
+    "creationTime":1724436132,
+    "description":"Falasmaryon, Propylon Chamber"
+  },
+  "lastVisit":{
+    "Benoit":1724436155,
+    "Fidgug":1724436147
+  },
+  "recordLinks":[],
+  "objectData":[],
+  "loadState":{
+    "hasFullContainerData":true,
+    "hasFullActorList":true
+  }
+}

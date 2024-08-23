@@ -17,13 +17,13 @@
     "state":["297839-0","377937-0"],
     "statsDynamic":["377937-0","0-321","0-72"],
     "trap":[],
-    "miscellaneous":["377937-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["377937-0"]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"-2, -3"
+    "description":"-2, -3",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1719598883,
@@ -31,6 +31,14 @@
   },
   "recordLinks":[],
   "objectData":{
+    "476168-0":{
+      "refId":"flora_chokeweed_02",
+      "inventory":[]
+    },
+    "476169-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
     "476170-0":{
       "refId":"flora_chokeweed_02",
       "inventory":[]
@@ -47,6 +55,47 @@
       "refId":"flora_roobrush_02",
       "inventory":[]
     },
+    "476175-0":{
+      "refId":"flora_kreshweed_02",
+      "inventory":[]
+    },
+    "476167-0":{
+      "refId":"flora_kreshweed_01",
+      "inventory":[]
+    },
+    "0-321":{
+      "refId":"nix-hound",
+      "location":{
+        "posY":-18641.525390625,
+        "posZ":611.49633789063,
+        "rotX":-0.19631138443947,
+        "rotZ":2.7574770450592,
+        "rotY":0,
+        "posX":-10935.690429688
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":0,
+        "magickaModified":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaBase":10,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_hound_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "deathState":38,
+      "killer":{
+        "playerName":"Fidgug"
+      }
+    },
     "377937-0":{
       "refId":"itermerel",
       "location":{
@@ -58,15 +107,15 @@
         "posX":-10746.5859375
       },
       "stats":{
-        "healthBase":84,
-        "healthCurrent":0,
-        "healthModified":84,
-        "magickaModified":164,
         "fatigueBase":241,
         "fatigueCurrent":209.58851623535,
-        "magickaCurrent":132.5714263916,
+        "fatigueModified":241,
+        "healthCurrent":0,
+        "magickaModified":164,
+        "healthBase":84,
+        "healthModified":84,
         "magickaBase":164,
-        "fatigueModified":241
+        "magickaCurrent":132.5714263916
       },
       "cellChangeFrom":"Balmora, Eight Plates",
       "equipment":{
@@ -102,16 +151,16 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
+      "spellsActive":{
+      },
       "lastGoldRestockHour":6.3862047195435,
       "lastGoldRestockDay":11,
-      "deathState":39,
-      "state":false,
-      "goldPool":0,
       "killer":{
         "playerName":"Benoit"
       },
-      "spellsActive":{
-      }
+      "goldPool":0,
+      "state":false,
+      "deathState":39
     },
     "0-72":{
       "refId":"kwama forager",
@@ -124,15 +173,15 @@
         "posX":-13005.224609375
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "healthModified":23,
-        "magickaModified":15,
         "fatigueBase":300,
         "fatigueCurrent":300,
-        "magickaCurrent":15,
+        "fatigueModified":300,
+        "healthCurrent":23,
+        "magickaModified":15,
+        "healthBase":23,
+        "healthModified":23,
         "magickaBase":15,
-        "fatigueModified":300
+        "magickaCurrent":15
       },
       "inventory":[{
           "refId":"ingred_kwama_cuttle_01",
@@ -180,59 +229,10 @@
           "soul":""
         }],
       "state":false
-    },
-    "0-321":{
-      "refId":"nix-hound",
-      "location":{
-        "posY":-18641.525390625,
-        "posZ":611.49633789063,
-        "rotX":-0.19631138443947,
-        "rotZ":2.7574770450592,
-        "rotY":0,
-        "posX":-10935.690429688
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":0,
-        "healthModified":23,
-        "magickaModified":10,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "magickaCurrent":10,
-        "magickaBase":10,
-        "fatigueModified":400
-      },
-      "inventory":[{
-          "refId":"ingred_hound_meat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "476175-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "476167-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[]
-    },
-    "476168-0":{
-      "refId":"flora_chokeweed_02",
-      "inventory":[]
-    },
-    "476169-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

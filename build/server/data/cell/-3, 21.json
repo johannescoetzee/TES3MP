@@ -17,40 +17,70 @@
     "state":[],
     "statsDynamic":["0-822","0-823","0-824","0-825","0-826"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-3, 21",
-    "creationTime":1717183081
+    "creationTime":1717183081,
+    "description":"-3, 21"
   },
   "lastVisit":{
-    "Benoit":1723750446,
-    "Fidgug":1723750447
+    "Benoit":1724438789,
+    "Fidgug":1724438787
   },
   "recordLinks":[],
   "objectData":{
+    "323551-0":{
+      "refId":"flora_marshmerrow_03",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323552-0":{
+      "refId":"flora_marshmerrow_03",
+      "inventory":[{
+          "refId":"ingred_marshmerrow_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "323555-0":{
+      "refId":"flora_stoneflower_02",
+      "inventory":[{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "0-825":{
       "refId":"mudcrab-diseased",
       "location":{
-        "posY":177379.8125,
-        "posZ":315.14712524414,
-        "rotX":0.19739751517773,
-        "rotZ":0.82199931144714,
+        "posY":176763.5,
+        "posZ":586.0380859375,
+        "rotX":0.15802064538002,
+        "rotZ":2.439870595932,
         "rotY":0,
-        "posX":-20591.83203125
+        "posX":-20513.587890625
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaModified":5,
         "fatigueBase":29,
         "fatigueCurrent":29,
         "fatigueModified":29,
-        "magickaCurrent":5,
-        "healthModified":15
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthBase":15,
+        "healthModified":15,
+        "magickaModified":5,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -63,23 +93,23 @@
     "0-826":{
       "refId":"cliff racer_diseased",
       "location":{
-        "posY":176510.625,
-        "posZ":2018.8328857422,
-        "rotX":0.002800403162837,
-        "rotZ":-0.62737989425659,
+        "posY":176623.25,
+        "posZ":2018.3394775391,
+        "rotX":0.0001916354522109,
+        "rotZ":2.1130220890045,
         "rotY":0,
-        "posX":-20213.76171875
+        "posX":-19195.72265625
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":20,
-        "magickaModified":20,
         "fatigueBase":170,
         "fatigueCurrent":170,
         "fatigueModified":170,
-        "magickaCurrent":20,
-        "healthModified":45
+        "healthCurrent":45,
+        "magickaBase":20,
+        "healthBase":45,
+        "healthModified":45,
+        "magickaModified":20,
+        "magickaCurrent":20
       },
       "inventory":[{
           "refId":"ingred_racer_plumes_01",
@@ -93,22 +123,22 @@
       "refId":"scrib",
       "location":{
         "posY":174412.1875,
-        "posZ":413.02880859375,
+        "posZ":413.0283203125,
         "rotX":-0.19137839972973,
         "rotZ":3.063056230545,
         "rotY":0,
         "posX":-19385.126953125
       },
       "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaModified":12,
         "fatigueBase":300,
         "fatigueCurrent":300,
         "fatigueModified":300,
-        "magickaCurrent":12,
-        "healthModified":8
+        "healthCurrent":8,
+        "magickaBase":12,
+        "healthBase":8,
+        "healthModified":8,
+        "magickaModified":12,
+        "magickaCurrent":12
       },
       "inventory":[{
           "refId":"ingred_scrib_jelly_01",
@@ -129,38 +159,38 @@
         "posX":-20899.44140625
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":15
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthBase":15,
+        "healthModified":15,
+        "magickaModified":5,
+        "magickaCurrent":5
       },
       "inventory":[]
     },
     "0-824":{
       "refId":"mudcrab",
       "location":{
-        "posY":178626.40625,
-        "posZ":146.99520874023,
-        "rotX":0.23289254307747,
-        "rotZ":2.5575511455536,
+        "posY":178089.046875,
+        "posZ":274.29788208008,
+        "rotX":-0.097231514751911,
+        "rotZ":2.813131570816,
         "rotY":0,
-        "posX":-18395.623046875
+        "posX":-18273.650390625
       },
       "stats":{
-        "healthBase":15,
-        "healthCurrent":15,
-        "magickaBase":5,
-        "magickaModified":5,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":5,
-        "healthModified":15
+        "healthCurrent":15,
+        "magickaBase":5,
+        "healthBase":15,
+        "healthModified":15,
+        "magickaModified":5,
+        "magickaCurrent":5
       },
       "inventory":[{
           "refId":"ingred_crab_meat_01",
@@ -413,40 +443,10 @@
           "enchantmentCharge":-1,
           "soul":""
         }]
-    },
-    "323551-0":{
-      "refId":"flora_marshmerrow_03",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323552-0":{
-      "refId":"flora_marshmerrow_03",
-      "inventory":[{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "323555-0":{
-      "refId":"flora_stoneflower_02",
-      "inventory":[{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

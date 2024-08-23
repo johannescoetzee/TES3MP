@@ -1,114 +1,38 @@
 {
   "packets":{
-    "actorList":["0-1548","0-1549","0-1550"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["0-1548","0-1549","0-1550"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1548","0-1549","0-1550"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1548","0-1549","0-1550"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-1548","0-1549","0-1550"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"7, 21",
-    "creationTime":1723746215
+    "creationTime":1723746215,
+    "description":"7, 21"
   },
   "lastVisit":{
     "Benoit":1723748972,
     "Fidgug":1723748970
   },
   "recordLinks":[],
-  "objectData":{
-    "0-1549":{
-      "refId":"rat_blighted",
-      "location":{
-        "posY":176977.828125,
-        "posZ":1151.6181640625,
-        "rotX":0.0022729830816388,
-        "rotZ":2.6216070652008,
-        "rotY":0,
-        "posX":64379.5078125
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":83,
-        "fatigueCurrent":83,
-        "fatigueModified":83,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[]
-    },
-    "0-1550":{
-      "refId":"scrib",
-      "location":{
-        "posY":173186.484375,
-        "posZ":506.56817626953,
-        "rotX":0.15393224358559,
-        "rotZ":-1.4920737743378,
-        "rotY":0,
-        "posX":57717.7734375
-      },
-      "stats":{
-        "healthBase":8,
-        "healthCurrent":8,
-        "magickaBase":12,
-        "magickaModified":12,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":12,
-        "healthModified":8
-      },
-      "inventory":[]
-    },
-    "0-1548":{
-      "refId":"rat_blighted",
-      "location":{
-        "posY":177285.875,
-        "posZ":1097.6497802734,
-        "rotX":-0.18811559677124,
-        "rotZ":-1.2266824245453,
-        "rotY":0,
-        "posX":64507.41796875
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":72,
-        "fatigueCurrent":72,
-        "fatigueModified":72,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_rat_meat_01",
-          "count":2,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

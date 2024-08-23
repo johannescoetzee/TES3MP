@@ -1,38 +1,255 @@
 {
   "packets":{
-    "actorList":[],
+    "actorList":["0-1774","0-1775"],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":[],
+    "container":["178803-0","178804-0","178805-0","178806-0","178807-0","178808-0","178810-0","178811-0","194541-0","194545-0","194546-0","194547-0","194548-0","194551-0","194552-0","297330-0","297333-0","297334-0","297335-0","297336-0","0-1774","0-1775"],
     "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":[],
+    "position":["0-1774","0-1775"],
     "scale":[],
-    "spawn":[],
+    "spawn":["0-1774","0-1775"],
     "state":[],
-    "statsDynamic":[],
+    "statsDynamic":["0-1774","0-1775"],
     "trap":[],
     "clientScriptLocal":[],
-    "miscellaneous":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-6, 17",
     "creationTime":1716738214
   },
   "lastVisit":{
-    "Benoit":1719601117,
-    "Fidgug":1719601119
+    "Benoit":1724438355,
+    "Fidgug":1724438349
   },
   "recordLinks":[],
-  "objectData":[],
+  "objectData":{
+    "0-1774":{
+      "refId":"cliff racer_blighted",
+      "location":{
+        "posY":147299.875,
+        "posZ":3299.3500976563,
+        "rotX":0.0016075875610113,
+        "rotZ":-0.5930597782135,
+        "rotY":0,
+        "posX":-46480.4609375
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":90,
+        "magickaBase":20,
+        "healthBase":90,
+        "healthModified":90,
+        "magickaModified":20,
+        "magickaCurrent":20
+      },
+      "inventory":[]
+    },
+    "0-1775":{
+      "refId":"rat",
+      "location":{
+        "posY":143601.921875,
+        "posZ":904.58447265625,
+        "rotX":0.0058769946917892,
+        "rotZ":1.512510061264,
+        "rotY":0,
+        "posX":-41527.8984375
+      },
+      "stats":{
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[{
+          "refId":"ingred_rat_meat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178803-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "178804-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":3,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178805-0":{
+      "refId":"tramaroot_03",
+      "inventory":[]
+    },
+    "178806-0":{
+      "refId":"tramaroot_04",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178807-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178808-0":{
+      "refId":"flora_fire_fern_01",
+      "inventory":[]
+    },
+    "178810-0":{
+      "refId":"tramaroot_05",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "178811-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "194541-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "194545-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "194546-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "194547-0":{
+      "refId":"tramaroot_03",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "194548-0":{
+      "refId":"tramaroot_04",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "194551-0":{
+      "refId":"tramaroot_06",
+      "inventory":[]
+    },
+    "194552-0":{
+      "refId":"tramaroot_01",
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":2,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297330-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297333-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297334-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297335-0":{
+      "refId":"flora_rm_scathecraw_01",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "297336-0":{
+      "refId":"flora_rm_scathecraw_02",
+      "inventory":[{
+          "refId":"ingred_scathecraw_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  },
   "loadState":{
-    "hasFullActorList":false,
-    "hasFullContainerData":false
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

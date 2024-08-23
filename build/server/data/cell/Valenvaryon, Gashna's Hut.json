@@ -1,150 +1,37 @@
 {
   "packets":{
-    "actorList":["118653-0"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["118653-0"],
+    "container":[],
     "death":[],
     "delete":[],
     "doorState":[],
-    "equipment":["118653-0"],
+    "equipment":[],
     "lock":[],
     "place":[],
-    "position":["118653-0"],
+    "position":[],
     "scale":[],
     "spawn":[],
     "state":[],
-    "statsDynamic":["118653-0"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"Valenvaryon, Gashna's Hut",
-    "creationTime":1723751014
+    "creationTime":1723751014,
+    "description":"Valenvaryon, Gashna's Hut"
   },
   "lastVisit":{
     "Fidgug":1723751015
   },
   "recordLinks":[],
-  "objectData":{
-    "118653-0":{
-      "refId":"gashna gro-mogduk",
-      "location":{
-        "posY":476.56616210938,
-        "posZ":-282.39614868164,
-        "rotX":-0.18930335342884,
-        "rotZ":-2.8465402126312,
-        "rotY":0,
-        "posX":121.37788391113
-      },
-      "stats":{
-        "healthBase":67,
-        "healthCurrent":67,
-        "magickaBase":64,
-        "magickaModified":64,
-        "fatigueBase":205,
-        "fatigueCurrent":205,
-        "fatigueModified":205,
-        "magickaCurrent":64,
-        "healthModified":67
-      },
-      "equipment":[{
-          "refId":"fur_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"fur_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,{
-          "refId":"iron_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"iron_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"fur_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_shirt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        },null,null,null,null,null,null,{
-          "refId":"iron war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1
-        }],
-      "inventory":[{
-          "refId":"iron_bracer_right",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron_bracer_left",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_boots",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_greaves",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"fur_cuirass",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_shirt_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"iron war axe",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

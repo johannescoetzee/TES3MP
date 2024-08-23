@@ -1,178 +1,38 @@
 {
   "packets":{
-    "actorList":["0-1653","0-1659","0-1651"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["283655-0","283660-0","283662-0","283666-0","283667-0","0-1653","0-1659","0-1651"],
-    "death":["0-1653","0-1659"],
+    "container":[],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-1653","0-1659","0-1651"],
+    "position":[],
     "scale":[],
-    "spawn":["0-1653","0-1659","0-1651"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-1653","0-1659","0-1651"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"4, 20",
-    "creationTime":1723748970
+    "creationTime":1723748970,
+    "description":"4, 20"
   },
   "lastVisit":{
     "Benoit":1723749687,
     "Fidgug":1723749685
   },
   "recordLinks":[],
-  "objectData":{
-    "283666-0":{
-      "refId":"flora_kreshweed_02",
-      "inventory":[]
-    },
-    "283667-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-1653":{
-      "refId":"cliff racer",
-      "location":{
-        "posY":164415.9375,
-        "posZ":1439.7047119141,
-        "rotX":1.1214312314987,
-        "rotZ":-0.87704586982727,
-        "rotY":0,
-        "posX":35307.10546875
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
-        "magickaModified":20,
-        "fatigueBase":400,
-        "fatigueCurrent":398.58358764648,
-        "fatigueModified":400,
-        "magickaCurrent":20,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-1659":{
-      "refId":"cliff racer_diseased",
-      "location":{
-        "posY":163973.671875,
-        "posZ":1631.5045166016,
-        "rotX":1.3075680732727,
-        "rotZ":0.38550710678101,
-        "rotY":0,
-        "posX":34467.8515625
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":20,
-        "magickaModified":20,
-        "fatigueBase":180,
-        "fatigueCurrent":180,
-        "fatigueModified":180,
-        "magickaCurrent":20,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_racer_plumes_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "deathState":38,
-      "killer":{
-        "playerName":"Fidgug"
-      }
-    },
-    "0-1651":{
-      "refId":"netch_bull",
-      "location":{
-        "posY":164109.8125,
-        "posZ":1311.8922119141,
-        "rotX":0.0089114271104336,
-        "rotZ":2.5157339572906,
-        "rotY":0,
-        "posX":36959.28515625
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "magickaBase":100,
-        "magickaModified":100,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":100,
-        "healthModified":45
-      },
-      "inventory":[{
-          "refId":"ingred_netch_leather_01",
-          "count":3,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283655-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283660-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "283662-0":{
-      "refId":"flora_kreshweed_01",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    }
-  },
+  "objectData":[],
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":false,
+    "hasFullActorList":false
   }
 }

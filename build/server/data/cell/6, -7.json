@@ -17,13 +17,13 @@
     "state":["297835-0"],
     "statsDynamic":["262181-0","262182-0","262183-0","428715-0","428716-0"],
     "trap":[],
-    "miscellaneous":["262181-0"],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":["262181-0"]
   },
   "entry":{
-    "creationTime":1713904668,
-    "description":"6, -7"
+    "description":"6, -7",
+    "creationTime":1713904668
   },
   "lastVisit":{
     "Benoit":1715365561,
@@ -31,29 +31,6 @@
   },
   "recordLinks":[],
   "objectData":{
-    "297835-0":{
-      "refId":"dreamer_talker12",
-      "inventory":[{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"ingred_6th_corprusmeat_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        },{
-          "refId":"chitin club",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }],
-      "state":false
-    },
     "262182-0":{
       "refId":"bula gra-muk",
       "location":{
@@ -65,15 +42,15 @@
         "posX":55963.03125
       },
       "stats":{
-        "healthBase":202,
-        "healthCurrent":202,
-        "healthModified":202,
-        "magickaModified":108,
         "fatigueBase":326,
         "fatigueCurrent":326,
-        "magickaCurrent":108,
+        "fatigueModified":326,
+        "healthCurrent":202,
+        "magickaModified":108,
+        "healthBase":202,
+        "healthModified":202,
         "magickaBase":108,
-        "fatigueModified":326
+        "magickaCurrent":108
       },
       "equipment":[{
           "refId":"orcish_cuirass",
@@ -194,15 +171,15 @@
         "posX":56412.3828125
       },
       "stats":{
-        "healthBase":95,
-        "healthCurrent":95,
-        "healthModified":95,
-        "magickaModified":164,
         "fatigueBase":230,
         "fatigueCurrent":230,
-        "magickaCurrent":164,
+        "fatigueModified":230,
+        "healthCurrent":95,
+        "magickaModified":164,
+        "healthBase":95,
+        "healthModified":95,
         "magickaBase":164,
-        "fatigueModified":230
+        "magickaCurrent":164
       },
       "equipment":[{
           "refId":"netch_leather_cuirass",
@@ -339,15 +316,15 @@
         "posX":54650.13671875
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "healthModified":210,
-        "magickaModified":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
-        "magickaCurrent":122,
+        "fatigueModified":307,
+        "healthCurrent":210,
+        "magickaModified":122,
+        "healthBase":210,
+        "healthModified":210,
         "magickaBase":122,
-        "fatigueModified":307
+        "magickaCurrent":122
       },
       "equipment":{
         "0":{
@@ -374,14 +351,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"expensive_pants_01_e",
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
+        "9":{
+          "refId":"expensive_pants_01_e",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -502,15 +479,15 @@
         "posX":54274.25390625
       },
       "stats":{
-        "healthBase":210,
-        "healthCurrent":210,
-        "healthModified":210,
-        "magickaModified":122,
         "fatigueBase":307,
         "fatigueCurrent":307,
-        "magickaCurrent":122,
+        "fatigueModified":307,
+        "healthCurrent":210,
+        "magickaModified":122,
+        "healthBase":210,
+        "healthModified":210,
         "magickaBase":122,
-        "fatigueModified":307
+        "magickaCurrent":122
       },
       "equipment":{
         "0":{
@@ -537,14 +514,14 @@
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "9":{
-          "refId":"expensive_pants_01_e",
+        "17":{
+          "refId":"bonemold_tshield_hlaaluguard",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
         },
-        "17":{
-          "refId":"bonemold_tshield_hlaaluguard",
+        "9":{
+          "refId":"expensive_pants_01_e",
           "count":1,
           "charge":-1,
           "enchantmentCharge":-1
@@ -665,15 +642,15 @@
         "posX":53845.125
       },
       "stats":{
-        "healthBase":45,
-        "healthCurrent":45,
-        "healthModified":45,
-        "magickaModified":80,
         "fatigueBase":160,
         "fatigueCurrent":160,
-        "magickaCurrent":80,
+        "fatigueModified":160,
+        "healthCurrent":45,
+        "magickaModified":80,
+        "healthBase":45,
+        "healthModified":45,
         "magickaBase":80,
-        "fatigueModified":160
+        "magickaCurrent":80
       },
       "equipment":{
         "14":{
@@ -744,8 +721,8 @@
           "enchantmentCharge":-1,
           "soul":""
         }],
-      "lastGoldRestockHour":2.9606232643127,
       "goldPool":0,
+      "lastGoldRestockHour":2.9606232643127,
       "lastGoldRestockDay":12
     },
     "262115-0":{
@@ -781,10 +758,33 @@
     "262119-0":{
       "refId":"flora_kreshweed_02",
       "inventory":[]
+    },
+    "297835-0":{
+      "refId":"dreamer_talker12",
+      "inventory":[{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ingred_6th_corprusmeat_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"chitin club",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "state":false
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

@@ -17,40 +17,40 @@
     "state":[],
     "statsDynamic":["0-1734"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-1, 16",
-    "creationTime":1723751277
+    "creationTime":1723751277,
+    "description":"-1, 16"
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724437875,
+    "Fidgug":1724437873
   },
   "recordLinks":[],
   "objectData":{
     "0-1734":{
       "refId":"nix-hound",
       "location":{
-        "posY":131874.875,
-        "posZ":883.88452148438,
+        "posY":131874.9375,
+        "posZ":883.83233642578,
         "rotX":0,
         "rotZ":0,
         "rotY":0,
-        "posX":-290.41488647461
+        "posX":-290.56085205078
       },
       "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
         "fatigueBase":400,
         "fatigueCurrent":400,
         "fatigueModified":400,
-        "magickaCurrent":10,
-        "healthModified":23
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
       },
       "inventory":[{
           "refId":"ingred_hound_meat_01",
@@ -222,7 +222,7 @@
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

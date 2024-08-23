@@ -17,20 +17,82 @@
     "state":[],
     "statsDynamic":["0-668","0-669"],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
-    "description":"-10, 10",
-    "creationTime":1716739229
+    "creationTime":1716739229,
+    "description":"-10, 10"
   },
   "lastVisit":{
-    "Benoit":1719603303,
-    "Fidgug":1723744477
+    "Benoit":1724440204,
+    "Fidgug":1724440213
   },
   "recordLinks":[],
   "objectData":{
+    "472303-0":{
+      "refId":"flora_kreshweed_03",
+      "inventory":[{
+          "refId":"ingred_kresh_fiber_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "0-668":{
+      "refId":"rat",
+      "location":{
+        "posY":82500.3125,
+        "posZ":1265,
+        "rotX":-0.06091720238328,
+        "rotZ":2.2927887439728,
+        "rotY":0,
+        "posX":-74614.890625
+      },
+      "stats":{
+        "fatigueBase":300,
+        "fatigueCurrent":300,
+        "fatigueModified":300,
+        "healthCurrent":23,
+        "magickaBase":10,
+        "healthBase":23,
+        "healthModified":23,
+        "magickaModified":10,
+        "magickaCurrent":10
+      },
+      "inventory":[]
+    },
+    "0-669":{
+      "refId":"dreugh",
+      "location":{
+        "posY":88279.109375,
+        "posZ":-78.402755737305,
+        "rotX":-9.7013078629971e-05,
+        "rotZ":-2.2197368144989,
+        "rotY":0,
+        "posX":-74719.953125
+      },
+      "stats":{
+        "fatigueBase":400,
+        "fatigueCurrent":400,
+        "fatigueModified":400,
+        "healthCurrent":60,
+        "magickaBase":75,
+        "healthBase":60,
+        "healthModified":60,
+        "magickaModified":75,
+        "magickaCurrent":75
+      },
+      "inventory":[{
+          "refId":"ingred_dreugh_wax_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
     "472294-0":{
       "refId":"flora_muckspunge_01",
       "inventory":[{
@@ -108,72 +170,10 @@
     "472302-0":{
       "refId":"flora_kreshweed_01",
       "inventory":[]
-    },
-    "472303-0":{
-      "refId":"flora_kreshweed_03",
-      "inventory":[{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
-    },
-    "0-668":{
-      "refId":"rat",
-      "location":{
-        "posY":82500.3125,
-        "posZ":1265,
-        "rotX":-0.06091720238328,
-        "rotZ":2.2927887439728,
-        "rotY":0,
-        "posX":-74614.8828125
-      },
-      "stats":{
-        "healthBase":23,
-        "healthCurrent":23,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":300,
-        "fatigueCurrent":300,
-        "fatigueModified":300,
-        "magickaCurrent":10,
-        "healthModified":23
-      },
-      "inventory":[]
-    },
-    "0-669":{
-      "refId":"dreugh",
-      "location":{
-        "posY":87947.2578125,
-        "posZ":-78.402755737305,
-        "rotX":-9.7013078629971e-05,
-        "rotZ":1.1570637226105,
-        "rotY":0,
-        "posX":-74942.765625
-      },
-      "stats":{
-        "healthBase":60,
-        "healthCurrent":60,
-        "magickaBase":75,
-        "magickaModified":75,
-        "fatigueBase":400,
-        "fatigueCurrent":400,
-        "fatigueModified":400,
-        "magickaCurrent":75,
-        "healthModified":60
-      },
-      "inventory":[{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }

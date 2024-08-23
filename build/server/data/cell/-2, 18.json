@@ -1,63 +1,36 @@
 {
   "packets":{
-    "actorList":["0-788"],
+    "actorList":[],
     "ai":[],
     "cellChangeFrom":[],
     "cellChangeTo":[],
-    "container":["296967-0","296968-0","296969-0","296970-0","296983-0","296996-0","296997-0","296998-0","296999-0","0-788"],
-    "death":["0-788"],
+    "container":["296967-0","296968-0","296969-0","296970-0","296983-0","296996-0","296997-0","296998-0","296999-0"],
+    "death":[],
     "delete":[],
     "doorState":[],
     "equipment":[],
     "lock":[],
     "place":[],
-    "position":["0-788"],
+    "position":[],
     "scale":[],
-    "spawn":["0-788"],
+    "spawn":[],
     "state":[],
-    "statsDynamic":["0-788"],
+    "statsDynamic":[],
     "trap":[],
-    "miscellaneous":[],
     "clientScriptLocal":[],
-    "spellsActive":[]
+    "spellsActive":[],
+    "miscellaneous":[]
   },
   "entry":{
     "description":"-2, 18",
     "creationTime":1717182650
   },
   "lastVisit":{
-    "Benoit":1723751520,
-    "Fidgug":1723751516
+    "Benoit":1724438572,
+    "Fidgug":1724438615
   },
   "recordLinks":[],
   "objectData":{
-    "0-788":{
-      "refId":"kagouti_diseased",
-      "location":{
-        "posY":152464.515625,
-        "posZ":722.71490478516,
-        "rotX":0.076873183250427,
-        "rotZ":-0.84721374511719,
-        "rotY":0,
-        "posX":-13458.172851563
-      },
-      "stats":{
-        "healthBase":45,
-        "healthCurrent":0,
-        "magickaBase":10,
-        "magickaModified":10,
-        "fatigueBase":282,
-        "fatigueCurrent":279.73931884766,
-        "fatigueModified":282,
-        "magickaCurrent":10,
-        "healthModified":45
-      },
-      "inventory":[],
-      "killer":{
-        "playerName":"Fidgug"
-      },
-      "deathState":39
-    },
     "296967-0":{
       "refId":"flora_rm_scathecraw_01",
       "inventory":[{
@@ -110,13 +83,7 @@
     },
     "296996-0":{
       "refId":"tramaroot_02",
-      "inventory":[{
-          "refId":"ingred_trama_root_01",
-          "count":1,
-          "charge":-1,
-          "enchantmentCharge":-1,
-          "soul":""
-        }]
+      "inventory":[]
     },
     "296997-0":{
       "refId":"tramaroot_05",
@@ -132,7 +99,7 @@
       "refId":"tramaroot_01",
       "inventory":[{
           "refId":"ingred_trama_root_01",
-          "count":2,
+          "count":3,
           "charge":-1,
           "enchantmentCharge":-1,
           "soul":""
@@ -140,11 +107,17 @@
     },
     "296999-0":{
       "refId":"tramaroot_02",
-      "inventory":[]
+      "inventory":[{
+          "refId":"ingred_trama_root_01",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
     }
   },
   "loadState":{
-    "hasFullActorList":true,
-    "hasFullContainerData":true
+    "hasFullContainerData":true,
+    "hasFullActorList":true
   }
 }
